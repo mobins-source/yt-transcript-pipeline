@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+pipeline/.env
+
+# Sensitive / local-only data
+data/cookies.txt
+data/cron.log
+
+# Backups (local only, don't bloat the repo)
+data/backups/
+
+# Node / frontend
+node_modules/
+dist/
+.DS_Store
+
+# Editor
+.vscode/
+.idea/

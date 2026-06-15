@@ -1,0 +1,55 @@
+{
+  "video_id": "_rJuNpnz73c",
+  "language": "ar",
+  "is_generated": true,
+  "clean_text": "بسم الله الله الله الله الله الله.",
+  "word_count": 7,
+  "read_time_minutes": 0.0,
+  "paragraphs": [
+    "بسم الله الله الله الله الله الله."
+  ],
+  "segments": [
+    {
+      "text": "بسم الله",
+      "start": 0.0,
+      "duration": 4.25
+    },
+    {
+      "text": "الله الله",
+      "start": 1.04,
+      "duration": 3.21
+    },
+    {
+      "text": "الله",
+      "start": 38.62,
+      "duration": 3.0
+    },
+    {
+      "text": "الله الله",
+      "start": 48.43,
+      "duration": 3.24
+    }
+  ],
+  "transcript_status": "available",
+  "actual_at": "2014-02-05T07:46:52Z",
+  "post_time": "2014-02-05T00:46:52",
+  "post_date": "2014-02-05",
+  "month": "February",
+  "month_num": 2,
+  "year": 2014,
+  "month_year": "February 2014",
+  "time_of_day": "Isha",
+  "day_of_week": "Wednesday",
+  "time_slot": "Wednesday-Isha",
+  "summary": "This is a very brief video with minimal content. The transcript consists only of the Islamic invocation 'Bismillah' (In the name of Allah) repeated several times. There is insufficient substantive content to provide a meaningful analysis of the video's primary topic or message.",
+  "suggested_title": "Bismillah - Islamic Invocation",
+  "content_type": "General",
+  "hadith_book": null,
+  "hadith_chapter": null,
+  "topic_tags": [
+    "islamic invocation",
+    "bismillah",
+    "dua"
+  ],
+  "srt_status": "pending"
+}

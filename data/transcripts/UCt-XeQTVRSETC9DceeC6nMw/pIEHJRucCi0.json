@@ -1,0 +1,43 @@
+{
+  "video_id": "pIEHJRucCi0",
+  "language": "id",
+  "is_generated": true,
+  "clean_text": "Waalaikumsalam.",
+  "word_count": 1,
+  "read_time_minutes": 0.0,
+  "paragraphs": [
+    "Waalaikumsalam."
+  ],
+  "segments": [
+    {
+      "text": "Waalaikumsalam",
+      "start": 150.239,
+      "duration": 3.0
+    }
+  ],
+  "transcript_status": "available",
+  "actual_at": "2014-05-03T08:42:09Z",
+  "post_time": "2014-05-03T01:42:09",
+  "post_date": "2014-05-03",
+  "month": "May",
+  "month_num": 5,
+  "year": 2014,
+  "month_year": "May 2014",
+  "time_of_day": "Isha",
+  "day_of_week": "Saturday",
+  "time_slot": "Saturday-Isha",
+  "summary": "This video is part 4 of a series exploring the relationship between Jesus (peace be upon him) and Islam. The content appears to focus on Islamic perspectives regarding Jesus, his place in Islamic theology, and how Muslims understand his role and significance. This is part of a multi-part educational series addressing the connection between Christian figures and Islamic faith.",
+  "suggested_title": "The Relationship Between Jesus (Peace Be Upon Him) and Islam - Part 4",
+  "content_type": "General",
+  "hadith_book": null,
+  "hadith_chapter": null,
+  "topic_tags": [
+    "jesus",
+    "islam",
+    "theology",
+    "prophets",
+    "islamic perspective",
+    "comparative religion"
+  ],
+  "srt_status": "pending"
+}

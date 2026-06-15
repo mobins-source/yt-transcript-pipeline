@@ -1,0 +1,98 @@
+{
+  "video_id": "ugYdD5IabGQ",
+  "language": "ar",
+  "is_generated": true,
+  "clean_text": "الا ان لله ما في السماوات والارض الا ان حق ولكن اكثرهم لا يعلمون هو يحيي ويميت واليه ترجعون يا الناس قد جاءتكم موعظه من ربكم وشفاء لما في الصدور وهدى ورحمه المؤمنين قل بفضل الله وبرحمته فبذلك فليفرحوا هو خير مما يجمعون من مثقال ذره في الارض ولا في السماء ولا اصغر من ذلك ولا اكبر الا في كتاب مبين.",
+  "word_count": 61,
+  "read_time_minutes": 0.3,
+  "paragraphs": [
+    "الا ان لله ما في السماوات والارض الا ان حق ولكن اكثرهم لا يعلمون هو يحيي ويميت واليه ترجعون يا الناس قد جاءتكم موعظه من ربكم وشفاء لما في الصدور وهدى ورحمه المؤمنين قل بفضل الله وبرحمته فبذلك فليفرحوا هو خير مما يجمعون من مثقال ذره في الارض ولا في السماء ولا اصغر من ذلك ولا اكبر الا في كتاب مبين."
+  ],
+  "segments": [
+    {
+      "text": "الا ان لله ما في السماوات والارض الا",
+      "start": 0.16,
+      "duration": 11.479
+    },
+    {
+      "text": "ان حق ولكن اكثرهم لا",
+      "start": 6.68,
+      "duration": 10.4
+    },
+    {
+      "text": "يعلمون هو يحيي ويميت واليه",
+      "start": 11.639,
+      "duration": 7.161
+    },
+    {
+      "text": "ترجعون",
+      "start": 17.08,
+      "duration": 4.76
+    },
+    {
+      "text": "يا الناس قد",
+      "start": 18.8,
+      "duration": 6.96
+    },
+    {
+      "text": "جاءتكم موعظه من ربكم",
+      "start": 21.84,
+      "duration": 9.52
+    },
+    {
+      "text": "وشفاء لما في الصدور وهدى ورحمه",
+      "start": 25.76,
+      "duration": 11.36
+    },
+    {
+      "text": "المؤمنين قل بفضل الله وبرحمته فبذلك",
+      "start": 31.36,
+      "duration": 10.879
+    },
+    {
+      "text": "فليفرحوا هو خير مما",
+      "start": 37.12,
+      "duration": 10.599
+    },
+    {
+      "text": "يجمعون من مثقال ذره في الارض ولا في",
+      "start": 42.239,
+      "duration": 10.96
+    },
+    {
+      "text": "السماء ولا اصغر من ذلك ولا اكبر الا في",
+      "start": 47.719,
+      "duration": 9.48
+    },
+    {
+      "text": "كتاب مبين",
+      "start": 53.199,
+      "duration": 4.0
+    }
+  ],
+  "transcript_status": "available",
+  "actual_at": "2025-03-11T04:09:25Z",
+  "post_time": "2025-03-10T21:09:25",
+  "post_date": "2025-03-10",
+  "month": "March",
+  "month_num": 3,
+  "year": 2025,
+  "month_year": "March 2025",
+  "time_of_day": "Isha",
+  "day_of_week": "Monday",
+  "time_slot": "Monday-Isha",
+  "summary": "This content features Quranic recitation from Taraweeh prayers in 2025. The transcript includes verses emphasizing Allah's ownership of all creation in the heavens and earth, His power over life and death, and the Quran as a source of healing, guidance, and mercy for believers. The recitation also includes verses about divine knowledge and the importance of rejoicing in Allah's grace and mercy rather than worldly possessions.",
+  "suggested_title": "Taraweeh Recitation 2025 - Quranic Verses on Divine Ownership and Guidance",
+  "content_type": "Quran",
+  "hadith_book": null,
+  "hadith_chapter": null,
+  "topic_tags": [
+    "taraweeh",
+    "quran recitation",
+    "divine ownership",
+    "guidance",
+    "mercy",
+    "ramadan"
+  ],
+  "srt_status": "pending"
+}

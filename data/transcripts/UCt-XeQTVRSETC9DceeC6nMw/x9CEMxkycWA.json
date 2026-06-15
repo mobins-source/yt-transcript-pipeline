@@ -1,0 +1,120 @@
+{
+  "video_id": "x9CEMxkycWA",
+  "language": "ar",
+  "is_generated": true,
+  "clean_text": "اعوذ بالله من الشيطان الرجيم بسم الله الرحمن الرحيم والضحى والليل اذا سجى ما ودعك ربك وما قلى ولا الاخره خير لك من الاولى ولسوف يعطيك ربك الله يجدك يتيما فاوى ووجدك فهدى ووجدت عائلا فايتين فلا تقهر واما السائل فلا بس حبيبي ما بنعمه ربك.",
+  "word_count": 46,
+  "read_time_minutes": 0.2,
+  "paragraphs": [
+    "اعوذ بالله من الشيطان الرجيم بسم الله الرحمن الرحيم والضحى والليل اذا سجى ما ودعك ربك وما قلى ولا الاخره خير لك من الاولى ولسوف يعطيك ربك الله يجدك يتيما فاوى ووجدك فهدى ووجدت عائلا فايتين فلا تقهر واما السائل فلا بس حبيبي ما بنعمه ربك."
+  ],
+  "segments": [
+    {
+      "text": "اعوذ بالله من الشيطان الرجيم",
+      "start": 0.12,
+      "duration": 9.86
+    },
+    {
+      "text": "بسم الله الرحمن الرحيم",
+      "start": 6.16,
+      "duration": 5.0
+    },
+    {
+      "text": "والضحى",
+      "start": 11.16,
+      "duration": 5.6
+    },
+    {
+      "text": "والليل اذا سجى",
+      "start": 13.2,
+      "duration": 7.999
+    },
+    {
+      "text": "ما ودعك ربك وما قلى",
+      "start": 16.76,
+      "duration": 9.8
+    },
+    {
+      "text": "ولا الاخره خير لك من الاولى",
+      "start": 21.199,
+      "duration": 10.961
+    },
+    {
+      "text": "ولسوف يعطيك ربك الله",
+      "start": 26.56,
+      "duration": 8.12
+    },
+    {
+      "text": "يجدك يتيما",
+      "start": 32.16,
+      "duration": 5.52
+    },
+    {
+      "text": "فاوى",
+      "start": 34.68,
+      "duration": 6.0
+    },
+    {
+      "text": "ووجدك",
+      "start": 37.68,
+      "duration": 3.0
+    },
+    {
+      "text": "فهدى",
+      "start": 42.039,
+      "duration": 5.601
+    },
+    {
+      "text": "ووجدت عائلا",
+      "start": 43.559,
+      "duration": 4.081
+    },
+    {
+      "text": "فايتين",
+      "start": 49.16,
+      "duration": 7.6
+    },
+    {
+      "text": "فلا تقهر واما السائل",
+      "start": 51.719,
+      "duration": 9.351
+    },
+    {
+      "text": "فلا بس حبيبي",
+      "start": 56.76,
+      "duration": 7.45
+    },
+    {
+      "text": "ما بنعمه ربك",
+      "start": 65.36,
+      "duration": 4.2
+    }
+  ],
+  "transcript_status": "available",
+  "actual_at": "2014-02-05T08:18:20Z",
+  "post_time": "2014-02-05T01:18:20",
+  "post_date": "2014-02-05",
+  "month": "February",
+  "month_num": 2,
+  "year": 2014,
+  "month_year": "February 2014",
+  "time_of_day": "Isha",
+  "day_of_week": "Wednesday",
+  "time_slot": "Wednesday-Isha",
+  "summary": "This content presents a recitation and analysis of Surah Ad-Duha (Chapter 93) from the Quran. The speaker recites the beginning verses of this Meccan surah, which discusses Allah's care and blessings toward the Prophet Muhammad, specifically mentioning how Allah found him as an orphan and provided him shelter, guided him when he was lost, and sustained him when he was in need. The surah emphasizes divine mercy and reassurance during times of difficulty.",
+  "suggested_title": "Tafsir of Surah Ad-Duha (Chapter 93) - Allah's Care and Blessings",
+  "content_type": "Quran",
+  "hadith_book": null,
+  "hadith_chapter": null,
+  "topic_tags": [
+    "surah ad-duha",
+    "quran recitation",
+    "prophet muhammad",
+    "divine mercy",
+    "orphan",
+    "guidance",
+    "quranic tafsir",
+    "blessings"
+  ],
+  "srt_status": "pending"
+}

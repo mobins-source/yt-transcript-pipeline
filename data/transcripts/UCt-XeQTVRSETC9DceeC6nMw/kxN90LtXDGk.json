@@ -1,0 +1,93 @@
+{
+  "video_id": "kxN90LtXDGk",
+  "language": "ar",
+  "is_generated": true,
+  "clean_text": "‏i have good شهاده تكبير الله اكبر اشهد اشهد ان الا اله اله الا الا الله الله واشهد واشهد ان ان محمدا محمد رسول الله رسول الله امن امن بالله بالله رب رب رب رب وبالاسلام وبالاسلام وسلامي دنا نا وبمحمد وبمحمد نبي نبي ورسولا ورسولا ما شاء الله تكبير الله اكبر ما شاء الله.",
+  "word_count": 55,
+  "read_time_minutes": 0.3,
+  "paragraphs": [
+    "‏i have good شهاده تكبير الله اكبر اشهد اشهد ان الا اله اله الا الا الله الله واشهد واشهد ان ان محمدا محمد رسول الله رسول الله امن امن بالله بالله رب رب رب رب وبالاسلام وبالاسلام وسلامي دنا نا وبمحمد وبمحمد نبي نبي ورسولا ورسولا ما شاء الله تكبير الله اكبر ما شاء الله."
+  ],
+  "segments": [
+    {
+      "text": "‏i have",
+      "start": 0.04,
+      "duration": 3.0
+    },
+    {
+      "text": "good",
+      "start": 8.679,
+      "duration": 3.0
+    },
+    {
+      "text": "شهاده تكبير الله",
+      "start": 15.76,
+      "duration": 4.359
+    },
+    {
+      "text": "اكبر اشهد اشهد ان الا اله اله الا الا",
+      "start": 24.88,
+      "duration": 14.28
+    },
+    {
+      "text": "الله الله واشهد واشهد ان ان محمدا محمد",
+      "start": 32.36,
+      "duration": 12.879
+    },
+    {
+      "text": "رسول الله رسول الله امن امن بالله بالله",
+      "start": 39.16,
+      "duration": 11.36
+    },
+    {
+      "text": "رب رب رب رب",
+      "start": 45.239,
+      "duration": 5.281
+    },
+    {
+      "text": "وبالاسلام وبالاسلام وسلامي دنا نا وبمحمد",
+      "start": 51.12,
+      "duration": 11.36
+    },
+    {
+      "text": "وبمحمد نبي نبي ورسولا ورسولا ما شاء الله",
+      "start": 57.44,
+      "duration": 8.16
+    },
+    {
+      "text": "تكبير الله",
+      "start": 62.48,
+      "duration": 3.12
+    },
+    {
+      "text": "اكبر ما شاء الله",
+      "start": 65.76,
+      "duration": 3.8
+    }
+  ],
+  "transcript_status": "available",
+  "actual_at": "2013-10-26T09:38:52Z",
+  "post_time": "2013-10-26T02:38:52",
+  "post_date": "2013-10-26",
+  "month": "October",
+  "month_num": 10,
+  "year": 2013,
+  "month_year": "October 2013",
+  "time_of_day": "Isha",
+  "day_of_week": "Saturday",
+  "time_slot": "Saturday-Isha",
+  "summary": "The video documents Steven taking Shahada (the Islamic declaration of faith). The transcript contains the recitation of the Shahada, which is the fundamental proclamation of Islam: the testimony that there is no god but Allah and that Muhammad is His messenger. This is accompanied by Islamic expressions of praise and affirmation of belief in Allah as the Lord, Islam as the religion, and Muhammad as the prophet and messenger.",
+  "suggested_title": "Steven Takes Shahada - Declaration of Faith",
+  "content_type": "Announcement",
+  "hadith_book": null,
+  "hadith_chapter": null,
+  "topic_tags": [
+    "shahada",
+    "conversion",
+    "declaration of faith",
+    "islamic testimony",
+    "new muslim",
+    "community event"
+  ],
+  "srt_status": "pending"
+}
