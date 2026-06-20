@@ -1167,13 +1167,21 @@ narration
 in reading it and explaining it tomorrow
 
 293
-00:14:11,279 --> 00:14:50,154
-[Arabic recitation]
+00:14:11,279 --> 00:14:14,279
+inshallah.
 
 294
+00:14:14,279 --> 00:14:46,759
+[Silence]
+
+295
+00:14:46,759 --> 00:14:50,154
+Tomorrow
+
+296
 00:14:47,559 --> 00:14:51,479
 Fajr will be at 4:15.
 
-295
+297
 00:14:50,154 --> 00:14:55,519
 [Arabic recitation]

@@ -1,14 +1,14 @@
 1
 00:00:10,160 --> 00:00:12,240
-[Silence]
+No
 
 2
 00:00:20,559 --> 00:00:23,559
-[Silence]
+Happy
 
 3
 00:00:32,238 --> 00:00:35,238
-[Silence]
+birthday.
 
 4
 00:00:35,238 --> 00:00:56,079
@@ -1644,7 +1644,7 @@ right? And we will detail these tomorrow
 
 412
 00:23:21,919 --> 00:23:27,280
-[Arabic recitation]
+inshallah. Yes.
 
 413
 00:23:25,119 --> 00:23:30,558
