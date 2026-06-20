@@ -497,5 +497,6 @@
     "data error",
     "transcript corrupted"
   ],
-  "srt_status": "pending"
+  "srt_status": "pending",
+  "catchy_title": "Transcript Error - Unable to Process Content"
 }
