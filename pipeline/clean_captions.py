@@ -37,10 +37,12 @@ STRONG_MARKERS = {
     "allahumma", "rabbanaa", "rabbana",
 }
 
+# NOTE: "inshallah" / "insha" intentionally NOT included here.
+# Kept in English per channel owner request (June 2026) — same treatment
+# as alhamdulillah, bismillah, mashallah, etc. See ENGLISH_CONTEXT note below.
 WEAK_MARKERS = {
     "muhammad", "rasulullah",
     "wa", "la",
-    "inshallah", "insha",
     "ameen", "aameen",
 }
 
@@ -58,6 +60,14 @@ ENGLISH_CONTEXT = {
     "prayer", "worship", "faith", "angel", "allah", "subhanahu",
     "one", "two", "three", "first", "second", "when", "then",
     "after", "before", "so", "if", "because",
+}
+
+# Phrases that are common Islamic expressions kept in the English transcript
+# (not flagged as Arabic) regardless of surrounding context.
+# inshallah/insha added June 2026 per channel owner request.
+ENGLISH_KEPT_PHRASES = {
+    "inshallah", "insha", "alhamdulillah", "bismillah",
+    "mashallah", "subhanallah", "alhamdulilah",
 }
 
 _NOISE_WORDS = {
