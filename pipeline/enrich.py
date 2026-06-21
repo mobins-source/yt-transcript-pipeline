@@ -61,12 +61,16 @@ def compute_time_fields(actual_at: str, published_at: str = "") -> dict:
         return {}
 
 
+# NOTE: catchy_title added June 2026. For videos enriched BEFORE this change,
+# catchy_title will be missing — use generate_catchy_titles.py to backfill it
+# without re-running full enrichment (which would re-cost summary/tags/etc.)
 _SYSTEM_PROMPT = """You are an Islamic content analyst. You will be given a YouTube video title and transcript from an Islamic center (Muslim Community Center of Tucson).
 
 Analyze the content and return ONLY a valid JSON object with these exact fields:
 {
   "summary": "2-3 paragraph summary of the content",
   "suggested_title": "A clear descriptive title based on the actual content",
+  "catchy_title": "A short, punchy hook-style title under 8 words — a question, a surprising image from the content, or direct address. No clickbait that misrepresents the lecture. Keep a respectful tone appropriate for Islamic content.",
   "content_type": "one of: Quran, Hadith, General, Announcement, Mixed",
   "hadith_book": "name of the specific hadith book discussed, or null if not applicable. Must be one of: Sahih Bukhari, Sahih Muslim, Sunan Abu Dawud, Jami al-Tirmidhi, Sunan al-Nasai, Sunan Ibn Majah, Riyadul Saliheen, Al-Wajeez, Other, or null",
   "hadith_chapter": "the specific chapter, section or book number discussed within the hadith collection, or null if not applicable",
@@ -77,7 +81,8 @@ Rules:
 - Return ONLY the JSON object, no preamble, no markdown, no backticks
 - topic_tags should be lowercase, concise, and relevant
 - If the transcript is empty or too short to analyze, use "General" for content_type
-- hadith_book must be null if no specific book is discussed"""
+- hadith_book must be null if no specific book is discussed
+- catchy_title must NOT contain quotation marks"""
 
 
 def enrich_with_ai(video_id: str, title: str, transcript_text: str, api_key: str) -> dict:
@@ -185,7 +190,7 @@ def _rebuild_index() -> None:
                     "actual_at", "time_of_day", "day_of_week", "time_slot",
                     "post_time", "post_date", "month", "month_num", "year", "month_year",
                     "content_type", "hadith_book", "hadith_chapter",
-                    "topic_tags", "suggested_title", "summary", "srt_status",
+                    "topic_tags", "suggested_title", "catchy_title", "summary", "srt_status",
                 ):
                     if f in tx:
                         meta[f] = tx[f]

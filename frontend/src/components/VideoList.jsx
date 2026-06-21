@@ -45,7 +45,9 @@ export default function VideoList({ videos, selectedId, onSelect, hasPendingOver
           className={`video-item ${v.video_id === selectedId ? "active" : ""}`}
           onClick={() => onSelect(v)}
         >
-          <div className="video-title">{v.suggested_title || v.title || v.video_id}</div>
+          <div className="video-title">
+            {v.catchy_title || v.suggested_title || v.title || v.video_id}
+          </div>
 
           <div className="video-badges">
             {v.time_slot && <span className="badge badge-slot">{v.time_slot}</span>}

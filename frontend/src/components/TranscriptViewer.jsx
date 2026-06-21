@@ -220,13 +220,25 @@ export default function TranscriptViewer({
   const streamTime = formatStreamTime(video.post_time);
   const duration   = formatDuration(video.duration_seconds);
 
+  // Title hierarchy: catchy_title (public headline) → suggested_title (AI descriptive) → raw YouTube title
+  const catchyTitle    = tx?.catchy_title;
+  const suggestedTitle = tx?.suggested_title;
+  const primaryTitle   = catchyTitle || suggestedTitle || video.title;
+
+  // Secondary context lines — only show each if it differs from the primary headline
+  const showSuggestedAsSecondary = catchyTitle && suggestedTitle && suggestedTitle !== primaryTitle;
+  const showOriginalAsSecondary  = video.title && video.title !== primaryTitle && video.title !== suggestedTitle;
+
   return (
     <div className="transcript-viewer">
       {/* ── Header ── */}
       <div className="viewer-header">
         <div className="viewer-header-left">
-          <h2 className="viewer-title">{tx?.suggested_title || video.title}</h2>
-          {tx?.suggested_title && video.title !== tx.suggested_title && (
+          <h2 className="viewer-title">{primaryTitle}</h2>
+          {showSuggestedAsSecondary && (
+            <div className="original-title">AI title: {suggestedTitle}</div>
+          )}
+          {showOriginalAsSecondary && (
             <div className="original-title">Original: {video.title}</div>
           )}
 

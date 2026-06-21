@@ -34,13 +34,13 @@ OVERRIDES_PATH = config.DATA_DIR / "overrides.csv"
 
 EXPORT_FIELDS = [
     "video_id", "channel_id", "title",
-    "suggested_title", "content_type", "hadith_book", "hadith_chapter",
+    "suggested_title", "catchy_title", "content_type", "hadith_book", "hadith_chapter",
     "topic_tags", "time_of_day", "day_of_week", "time_slot",
     "post_date", "reviewed", "notes",
 ]
 
 EDITABLE_FIELDS = {
-    "suggested_title", "content_type", "hadith_book", "hadith_chapter",
+    "suggested_title", "catchy_title", "content_type", "hadith_book", "hadith_chapter",
     "topic_tags", "time_of_day", "day_of_week", "time_slot", "reviewed",
 }
 
@@ -66,6 +66,7 @@ def _tx_to_row(channel_id: str, meta: dict, tx: dict | None) -> dict:
         "channel_id":      channel_id,
         "title":           meta.get("title", ""),
         "suggested_title": tx.get("suggested_title", "") if tx else "",
+        "catchy_title":    tx.get("catchy_title",    "") if tx else "",
         "content_type":    tx.get("content_type",    "") if tx else "",
         "hadith_book":     tx.get("hadith_book",     "") or "" if tx else "",
         "hadith_chapter":  tx.get("hadith_chapter",  "") or "" if tx else "",

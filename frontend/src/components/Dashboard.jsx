@@ -45,6 +45,10 @@ export default function Dashboard({ videos, onSelectVideo, onClose }) {
     byTime[v.time_of_day] = (byTime[v.time_of_day] || 0) + 1;
   });
 
+  // Catchy title coverage (June 2026)
+  const withCatchyTitle    = videos.filter(v => v.catchy_title).length;
+  const enrichedNoCatchy   = videos.filter(v => v.time_of_day && !v.catchy_title).length;
+
   // Videos needing attention
   const needsAttention = videos.filter(v =>
     v.has_transcript && v.duration_seconds > 5 && !v.has_clean_srt
@@ -57,6 +61,10 @@ export default function Dashboard({ videos, onSelectVideo, onClose }) {
 
   function pct(n, d) {
     return d === 0 ? 0 : Math.round((n / d) * 100);
+  }
+
+  function titleFor(v) {
+    return v.catchy_title || v.suggested_title || v.title;
   }
 
   const TYPE_COLORS = {
@@ -112,6 +120,25 @@ export default function Dashboard({ videos, onSelectVideo, onClose }) {
             </div>
           </Section>
 
+          {/* ── Catchy title coverage ── */}
+          {enriched > 0 && (
+            <Section title="Catchy Title Coverage">
+              <div className="dash-progress-labels">
+                <span style={{ color: "var(--green)" }}>✓ Have one {withCatchyTitle}</span>
+                <span style={{ color: "var(--orange)" }}>◌ Missing {enrichedNoCatchy}</span>
+              </div>
+              <div className="dash-progress-bar">
+                <div className="dash-progress-seg" style={{ width: `${pct(withCatchyTitle, enriched)}%`, background: "var(--green)" }} title={`Have catchy_title: ${withCatchyTitle}`} />
+                <div className="dash-progress-seg" style={{ width: `${pct(enrichedNoCatchy, enriched)}%`, background: "var(--border)" }} title={`Missing: ${enrichedNoCatchy}`} />
+              </div>
+              {enrichedNoCatchy > 0 && (
+                <div className="dash-run-hint">
+                  Run <code>python3 generate_catchy_titles.py</code> to backfill the remaining {enrichedNoCatchy}
+                </div>
+              )}
+            </Section>
+          )}
+
           <div className="dash-two-col">
 
             {/* ── Content type breakdown ── */}
@@ -151,7 +178,7 @@ export default function Dashboard({ videos, onSelectVideo, onClose }) {
                   <div key={v.video_id} className="dash-attention-row"
                     onClick={() => { onSelectVideo(v); onClose(); }}>
                     <span className="dash-attention-date">{v.post_date || v.upload_date?.slice(0,4)+'-'+v.upload_date?.slice(4,6)+'-'+v.upload_date?.slice(6,8) || "—"}</span>
-                    <span className="dash-attention-title">{v.suggested_title || v.title}</span>
+                    <span className="dash-attention-title">{titleFor(v)}</span>
                     <span className="dash-attention-badge needs-srt">no SRT</span>
                   </div>
                 ))}
@@ -188,7 +215,7 @@ export default function Dashboard({ videos, onSelectVideo, onClose }) {
                 <div key={v.video_id} className="dash-attention-row"
                   onClick={() => { onSelectVideo(v); onClose(); }}>
                   <span className="dash-attention-date">{v.post_date || "—"}</span>
-                  <span className="dash-attention-title">{v.suggested_title || v.title}</span>
+                  <span className="dash-attention-title">{titleFor(v)}</span>
                   <span className="dash-attention-badge srt-pending">pending</span>
                 </div>
               ))}

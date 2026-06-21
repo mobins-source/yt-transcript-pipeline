@@ -17,6 +17,7 @@ function recomputeSlot(day, tod) {
 export default function EditPanel({ video, transcript, onSave, onClose, saving, saveResult }) {
   const [form, setForm] = useState({
     suggested_title: "",
+    catchy_title:    "",
     content_type:    "",
     hadith_book:     "",
     hadith_chapter:  "",
@@ -36,6 +37,7 @@ export default function EditPanel({ video, transcript, onSave, onClose, saving, 
       : (src.topic_tags || "");
     setForm({
       suggested_title: src.suggested_title || video?.suggested_title || "",
+      catchy_title:    src.catchy_title    || video?.catchy_title    || "",
       content_type:    src.content_type    || video?.content_type    || "",
       hadith_book:     src.hadith_book     || video?.hadith_book     || "",
       hadith_chapter:  src.hadith_chapter  || video?.hadith_chapter  || "",
@@ -87,15 +89,25 @@ export default function EditPanel({ video, transcript, onSave, onClose, saving, 
       </div>
 
       <div className="edit-fields">
-        {/* Suggested title */}
-        <Field label="Suggested title">
-          <input
-            className="edit-input"
-            value={form.suggested_title}
-            onChange={e => set("suggested_title", e.target.value)}
-            placeholder="Leave blank to keep current value"
-          />
-        </Field>
+        {/* Catchy title + Suggested title */}
+        <div className="edit-row-2">
+          <Field label="Catchy title" hint="public headline">
+            <input
+              className="edit-input"
+              value={form.catchy_title}
+              onChange={e => set("catchy_title", e.target.value)}
+              placeholder="e.g. When the Earth Swallowed a Billionaire"
+            />
+          </Field>
+          <Field label="Suggested title" hint="descriptive / AI">
+            <input
+              className="edit-input"
+              value={form.suggested_title}
+              onChange={e => set("suggested_title", e.target.value)}
+              placeholder="Leave blank to keep current value"
+            />
+          </Field>
+        </div>
 
         {/* Content type + Hadith book on same row */}
         <div className="edit-row-2">
