@@ -28469,14 +28469,40 @@
       "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
       "channel_name": "Muslim Comminity Center of Tucson",
       "upload_date": "20260627",
-      "published_at": "2026-06-27T04:49:12Z",
+      "published_at": "2026-06-27T16:54:36Z",
       "actual_at": "2026-06-27T04:28:22Z",
-      "duration_seconds": 1249,
+      "duration_seconds": 1255,
       "view_count": null,
       "url": "https://www.youtube.com/watch?v=xbJg7B6mhpc",
       "has_transcript": true,
-      "has_clean_srt": false,
-      "has_clean_txt": false
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Isha",
+      "day_of_week": "Friday",
+      "time_slot": "Friday-Isha",
+      "post_time": "2026-06-26T21:28:22",
+      "post_date": "2026-06-26",
+      "month": "June",
+      "month_num": 6,
+      "year": 2026,
+      "month_year": "June 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Other",
+      "hadith_chapter": null,
+      "topic_tags": [
+        "scholars",
+        "knowledge",
+        "virtue",
+        "abu-al-darda",
+        "ignorance",
+        "islamic-education",
+        "hadith",
+        "companions"
+      ],
+      "suggested_title": "The Virtue of Scholars and the Importance of Seeking Islamic Knowledge",
+      "catchy_title": "Why scholars matter more than you think",
+      "summary": "This lecture discusses a hadith narrated by Abu al-Darda about the virtue of scholars over the devout worshippers (al-'abidin). The speaker explains that a scholar's superiority is compared to the Prophet Muhammad's superiority over the least of his companions, and in another narration, to the moon's superiority over the stars. The lecture emphasizes that scholars, teachers of good knowledge, receive prayers (salah) from Allah, His angels, and all creation. The second part focuses on the importance of seeking Islamic knowledge, arguing that ignorance is a fatal disease in the modern age of information, and that Muslims have a responsibility to learn Islam properly from qualified scholars rather than relying on good intentions alone.",
+      "srt_status": "pending"
     },
     {
       "video_id": "dP-9QQvFGDE",
@@ -28601,5 +28627,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-06-27T15:00:46.171386+00:00"
+  "updated_at": "2026-06-27T21:00:23.936466+00:00"
 }
