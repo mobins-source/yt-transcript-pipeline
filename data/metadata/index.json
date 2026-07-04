@@ -28876,15 +28876,41 @@
       "title": "Muslim Community Center Of Tucson",
       "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
       "channel_name": "Muslim Comminity Center of Tucson",
-      "upload_date": "20260703",
-      "published_at": "2026-07-03T20:42:17Z",
+      "upload_date": "20260704",
+      "published_at": "2026-07-04T08:49:47Z",
       "actual_at": "2026-07-03T20:01:27Z",
-      "duration_seconds": 2449,
+      "duration_seconds": 2455,
       "view_count": null,
       "url": "https://www.youtube.com/watch?v=g0dgQI_cVPs",
       "has_transcript": true,
-      "has_clean_srt": false,
-      "has_clean_txt": false
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Zuhr",
+      "day_of_week": "Friday",
+      "time_slot": "Jumaa Khutba",
+      "post_time": "2026-07-03T13:01:27",
+      "post_date": "2026-07-03",
+      "month": "July",
+      "month_num": 7,
+      "year": 2026,
+      "month_year": "July 2026",
+      "content_type": "Quran",
+      "hadith_book": null,
+      "hadith_chapter": null,
+      "topic_tags": [
+        "character",
+        "forgiveness",
+        "patience",
+        "slander",
+        "integrity",
+        "moral courage",
+        "quran",
+        "friday sermon"
+      ],
+      "suggested_title": "Maintaining Integrity and Goodness in Times of Corruption: A Friday Sermon on Character",
+      "catchy_title": "Being Good When the World Isn't",
+      "summary": "This is a Friday sermon (khutbah) delivered at the Muslim Community Center of Tucson that addresses the importance of maintaining good character and moral integrity in difficult times. The imam uses the story of Abdullah ibn Ubayy and his slander against Aisha (the wife of the Prophet) as a foundation to discuss how believers should handle false accusations, maintain forgiveness, and uphold truth and dignity. The sermon emphasizes that being virtuous in an era of corruption is challenging but spiritually rewarding, comparing it to grasping hot coals. The imam encourages the congregation to be good not for worldly benefit but because Allah commands it, referencing Quranic verses about patience and the qualities of those whom Allah loves.",
+      "srt_status": "pending"
     },
     {
       "video_id": "L8vHuhpOGlw",
@@ -28926,7 +28952,22 @@
       "catchy_title": "When Allah's Mercy Exceeds His Anger",
       "summary": "This lecture discusses the purposes of the Quran as revealed by Allah, focusing on two main objectives: warning humanity of severe punishment for those who reject the Quran, and providing glad tidings and hope to believers who perform righteous deeds with the promise of paradise. The speaker emphasizes the eternal nature of paradise and contrasts it with the temporal pleasures of this world, which are inevitably ended by death. The lecture highlights a recurring theme throughout the Quran where Allah's mercy is portrayed as superseding His anger, a concept supported by a hadith in which the Prophet Muhammad stated that Allah wrote, 'My mercy has exceeded my anger.' The speaker points out that this merciful theme appears subtly throughout Quranic verses whenever punishment is mentioned alongside reward.",
       "srt_status": "pending"
+    },
+    {
+      "video_id": "XLIG8ZU0jks",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260704",
+      "published_at": "2026-07-04T12:03:35Z",
+      "actual_at": "2026-07-04T11:41:43Z",
+      "duration_seconds": 1312,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=XLIG8ZU0jks",
+      "has_transcript": true,
+      "has_clean_srt": false,
+      "has_clean_txt": false
     }
   ],
-  "updated_at": "2026-07-04T08:00:15.991797+00:00"
+  "updated_at": "2026-07-04T15:00:32.498625+00:00"
 }
