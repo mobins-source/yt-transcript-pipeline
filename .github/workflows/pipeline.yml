@@ -7,14 +7,15 @@ name: YouTube Transcript Pipeline
 # Already-fetched transcripts are always skipped automatically.
 #
 # IMPORTANT — RUNNER CHOICE:
-#   This workflow defaults to `ubuntu-latest` (GitHub-hosted cloud runner).
-#   YouTube is known to block transcript fetching from cloud datacenter IPs
-#   even with cookies. If transcript fetches start failing with 429/403 errors,
-#   switch to a self-hosted runner on your Mac (home IP = much better reputation):
-#     1. Repo → Settings → Actions → Runners → New self-hosted runner
-#     2. Follow the macOS instructions (5 min setup, runs as a background service)
-#     3. Change `runs-on: ubuntu-latest` below to `runs-on: self-hosted`
-#   The rest of the workflow is identical either way.
+#   This workflow uses a self-hosted runner on your Mac (home IP = better YouTube
+#   reputation than GitHub's cloud datacenter IPs, which get blocked even with cookies).
+#   The runner is installed as a background service — see GitHub repo →
+#   Settings → Actions → Runners for status.
+#
+#   To temporarily fall back to GitHub-hosted cloud runner (e.g. Mac is offline):
+#   change `runs-on: self-hosted` to `runs-on: ubuntu-latest` below.
+#   Transcript fetching will likely get IP-blocked on new videos but existing
+#   enrichment and index rebuilds will still work.
 #
 # COOKIE REFRESH (manual, every ~2 months):
 #   When transcript fetching starts failing silently, your cookies have expired.
@@ -55,7 +56,7 @@ on:
 
 jobs:
   run-pipeline:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     timeout-minutes: 90   # 2 batches × (10 videos × 5s + 3min pause) ≈ 7min + enrichment
 
     steps:
