@@ -1,0 +1,130 @@
+name: YouTube Transcript Pipeline
+
+# Runs twice daily — fetches 20 videos per run in 2 batches of 10
+# with a 3-minute pause between batches to avoid YouTube IP blocks.
+#
+# Over 24 hours this covers ~40 new/pending videos without triggering blocks.
+# Already-fetched transcripts are always skipped automatically.
+#
+# IMPORTANT — RUNNER CHOICE:
+#   This workflow defaults to `ubuntu-latest` (GitHub-hosted cloud runner).
+#   YouTube is known to block transcript fetching from cloud datacenter IPs
+#   even with cookies. If transcript fetches start failing with 429/403 errors,
+#   switch to a self-hosted runner on your Mac (home IP = much better reputation):
+#     1. Repo → Settings → Actions → Runners → New self-hosted runner
+#     2. Follow the macOS instructions (5 min setup, runs as a background service)
+#     3. Change `runs-on: ubuntu-latest` below to `runs-on: self-hosted`
+#   The rest of the workflow is identical either way.
+#
+# COOKIE REFRESH (manual, every ~2 months):
+#   When transcript fetching starts failing silently, your cookies have expired.
+#   1. Export fresh cookies from a logged-in browser (EditThisCookie / cookie.txt exporter)
+#   2. Repo → Settings → Secrets and variables → Actions → YOUTUBE_COOKIES → Update
+#   3. Re-run the workflow manually to confirm it works again.
+
+on:
+  schedule:
+    - cron: "0 7 * * *"   # 07:00 UTC = 00:00 MST (midnight run)
+    - cron: "0 19 * * *"  # 19:00 UTC = 12:00 MST (noon run)
+
+  workflow_dispatch:
+    inputs:
+      channel:
+        description: "Channel handle (leave empty to use YOUTUBE_CHANNELS secret)"
+        required: false
+        default: ""
+      max_videos:
+        description: "Max videos per channel (0 = use MAX_VIDEOS_PER_CHANNEL)"
+        required: false
+        default: "20"
+      batch_size:
+        description: "Videos per batch"
+        required: false
+        default: "10"
+      batch_pause:
+        description: "Seconds to pause between batches"
+        required: false
+        default: "180"
+      force:
+        description: "Force re-enrich and re-generate SRTs"
+        required: false
+        default: "false"
+        type: boolean
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90   # 2 batches × (10 videos × 5s + 3min pause) ≈ 7min + enrichment
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+          cache-dependency-path: pipeline/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r pipeline/requirements.txt
+
+      - name: Write YouTube cookies
+        run: |
+          mkdir -p data
+          echo "${{ secrets.YOUTUBE_COOKIES }}" > data/cookies.txt
+
+      - name: Create .env from secrets
+        working-directory: pipeline
+        run: |
+          cat > .env <<EOF
+          YOUTUBE_CHANNELS=${{ secrets.YOUTUBE_CHANNELS }}
+          YOUTUBE_API_KEY=${{ secrets.YOUTUBE_API_KEY }}
+          ANTHROPIC_API_KEY=${{ secrets.ANTHROPIC_API_KEY }}
+          TRANSCRIPT_LANG=${{ vars.TRANSCRIPT_LANG || 'en' }}
+          MAX_VIDEOS_PER_CHANNEL=${{ github.event.inputs.max_videos || '20' }}
+          BATCH_SIZE=${{ github.event.inputs.batch_size || '10' }}
+          BATCH_PAUSE=${{ github.event.inputs.batch_pause || '180' }}
+          DATA_DIR=../data
+          COOKIES_FILE=../data/cookies.txt
+          EOF
+
+      - name: Run pipeline
+        working-directory: pipeline
+        run: |
+          CHANNEL_FLAG=""
+          if [ -n "${{ github.event.inputs.channel }}" ]; then
+            CHANNEL_FLAG="--channel ${{ github.event.inputs.channel }}"
+          fi
+
+          FORCE_FLAG=""
+          if [ "${{ github.event.inputs.force }}" = "true" ]; then
+            FORCE_FLAG="--force"
+          fi
+
+          python3 run.py \
+            $CHANNEL_FLAG \
+            --max ${{ github.event.inputs.max_videos || '20' }} \
+            --batch-size ${{ github.event.inputs.batch_size || '10' }} \
+            --batch-pause ${{ github.event.inputs.batch_pause || '180' }} \
+            $FORCE_FLAG
+
+      - name: Commit updated data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/transcripts data/metadata
+          git diff --staged --quiet && echo "No changes to commit" || \
+            git commit -m "chore: pipeline run $(date -u '+%Y-%m-%d %H:%M UTC') [skip ci]"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload data artifact on failure
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: pipeline-data-${{ github.run_number }}
+          path: data/
+          retention-days: 7
