@@ -29006,9 +29006,35 @@
       "view_count": null,
       "url": "https://www.youtube.com/watch?v=yp-4YkAKhYA",
       "has_transcript": true,
-      "has_clean_srt": false,
-      "has_clean_txt": false
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Sunday",
+      "time_slot": "Sunday-Fajr",
+      "post_time": "2026-07-05T04:41:25",
+      "post_date": "2026-07-05",
+      "month": "July",
+      "month_num": 7,
+      "year": 2026,
+      "month_year": "July 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
+      "hadith_chapter": "Chapter on the Recommended Practices of Ablution (Mmustahabbat al-Wudu)",
+      "topic_tags": [
+        "ablution",
+        "wudu",
+        "dua",
+        "supplication",
+        "hadith authentication",
+        "purification",
+        "fiqh",
+        "islamic jurisprudence"
+      ],
+      "suggested_title": "The Recommended Supplications During Ablution: Authentic Hadith and Rejected Fabrications",
+      "catchy_title": "What to Really Say During Ablution",
+      "summary": "This lecture discusses the recommended supplications (dua) and practices related to ablution (wudu) according to Islamic jurisprudence, specifically from Al-Wajeez in the chapter on the recommended aspects of wudu. The speaker covers authentic hadiths from Sahih Muslim and Jami al-Tirmidhi regarding the dua to be recited after completing wudu, including the testimony of faith and prayers for repentance and purification. The lecturer also addresses and refutes fabricated and weak narrations commonly attributed to the Prophet Muhammad regarding specific supplications for different parts of wudu, clarifying which narrations are authentic according to hadith scholars and warning against relying on weak or fabricated traditions.",
+      "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-07-05T16:04:58.100865+00:00"
+  "updated_at": "2026-07-05T20:51:55.852908+00:00"
 }
