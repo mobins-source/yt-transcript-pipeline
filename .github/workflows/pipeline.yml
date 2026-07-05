@@ -73,7 +73,9 @@ jobs:
       - name: Write YouTube cookies
         run: |
           mkdir -p data
-          echo "${{ secrets.YOUTUBE_COOKIES }}" > data/cookies.txt
+          printf '%s' "$YOUTUBE_COOKIES" > data/cookies.txt
+        env:
+          YOUTUBE_COOKIES: ${{ secrets.YOUTUBE_COOKIES }}
 
       - name: Create .env from secrets
         working-directory: pipeline
