@@ -24,8 +24,10 @@ name: YouTube Transcript Pipeline
 
 on:
   schedule:
-    - cron: "0 7 * * *"   # 07:00 UTC = 00:00 MST (midnight run)
-    - cron: "0 19 * * *"  # 19:00 UTC = 12:00 MST (noon run)
+    - cron: "0 15 * * *"   # 15:00 UTC = 08:00 MST daily
+    - cron: "0 5 * * *"    # 05:00 UTC = 22:00 MST daily
+    - cron: "0 21 * * 5"   # 21:00 UTC = 14:00 MST Friday (initial run after Jumaa khutba)
+    - cron: "0 1 * * 6"    # 01:00 UTC Saturday = 18:00 MST Friday (retry — gives YouTube ~2hrs to generate captions)
 
   workflow_dispatch:
     inputs:
