@@ -28958,16 +28958,42 @@
       "title": "Muslim Community Center Of Tucson",
       "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
       "channel_name": "Muslim Comminity Center of Tucson",
-      "upload_date": "20260704",
-      "published_at": "2026-07-04T12:03:35Z",
+      "upload_date": "20260705",
+      "published_at": "2026-07-05T00:06:27Z",
       "actual_at": "2026-07-04T11:41:43Z",
-      "duration_seconds": 1312,
+      "duration_seconds": 1316,
       "view_count": null,
       "url": "https://www.youtube.com/watch?v=XLIG8ZU0jks",
       "has_transcript": true,
-      "has_clean_srt": false,
-      "has_clean_txt": false
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Saturday",
+      "time_slot": "Saturday-Fajr",
+      "post_time": "2026-07-04T04:41:43",
+      "post_date": "2026-07-04",
+      "month": "July",
+      "month_num": 7,
+      "year": 2026,
+      "month_year": "July 2026",
+      "content_type": "General",
+      "hadith_book": null,
+      "hadith_chapter": null,
+      "topic_tags": [
+        "sunnah",
+        "hadith methodology",
+        "islamic jurisprudence",
+        "traditional learning",
+        "madhabs",
+        "knowledge transmission",
+        "half-baked knowledge",
+        "scholarly authority"
+      ],
+      "suggested_title": "Understanding Sunnah Collections and the Importance of Traditional Islamic Learning",
+      "catchy_title": "Why You Cannot Google Your Way to Islamic Knowledge",
+      "summary": "This lecture discusses the nature and purpose of studying Sunnah through hadith collections, specifically contrasting books of Sunnah with books of Islamic jurisprudence (fiqh). The speaker explains that while scholars of different legal schools (madhabs) may differ on categorization and details, the vast majority of Islamic practices are agreed upon. The lecture emphasizes that proper Islamic knowledge requires learning through qualified scholars rather than attempting to understand complex theological topics through surface-level research, comparing this to how one cannot learn engineering without foundational mathematics.",
+      "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-07-04T21:00:17.429196+00:00"
+  "updated_at": "2026-07-05T05:00:26.404083+00:00"
 }
