@@ -1,3 +1,6 @@
+# GitHub Actions self-hosted runner (installed locally, never commit)
+actions-runner/
+
 # Python
 __pycache__/
 *.pyc
