@@ -13,7 +13,7 @@ from rich.table import Table
 
 import config
 import store
-from fetch_channel import fetch_channel_videos
+from fetch_channel import fetch_channel_videos, fetch_playlist_videos
 from fetch_transcript import fetch_transcript, _is_ip_blocked
 from process import process_transcript
 from enrich import enrich_transcript, enrich_all_channels, _rebuild_index
@@ -135,16 +135,24 @@ def _fetch_transcripts_batched(
     return transcripts_status, saved, skip_count, failed
 
 
-def run_pipeline(channels, max_videos, skip_available, lang,
+def run_pipeline(channels, playlists, max_videos, skip_available, lang,
                  enrich=True, force_enrich=False,
                  clean_captions=True, force_captions=False,
                  batch_size=10, batch_pause=180.0):
     total_saved = total_skipped = total_failed = total_enriched = total_srt = 0
 
+    # Build a unified list of (label, videos_fetcher) to process identically
+    sources = []
     for channel in channels:
+        sources.append((channel, lambda ch=channel: fetch_channel_videos(ch, max_videos=max_videos)))
+    for playlist_id in playlists:
+        sources.append((playlist_id, lambda pl=playlist_id: fetch_playlist_videos(pl, max_videos=max_videos)))
+
+    for source_label, fetch_fn in sources:
+        channel = source_label  # kept for logging compatibility below
         console.rule(f"[bold blue]Channel: {channel}[/bold blue]")
         try:
-            videos = fetch_channel_videos(channel, max_videos=max_videos)
+            videos = fetch_fn()
         except Exception as exc:
             console.print(f"[red]✗ {channel}: {exc}[/red]"); continue
 
@@ -200,6 +208,7 @@ def run_pipeline(channels, max_videos, skip_available, lang,
 
 @click.command()
 @click.option("--channel", "-c", multiple=True)
+@click.option("--playlist", "-p", multiple=True, help="Fetch a specific playlist ID (can be used multiple times)")
 @click.option("--max", "max_videos", default=None, type=int)
 @click.option("--no-skip", is_flag=True, default=False)
 @click.option("--lang", default=None)
@@ -211,7 +220,7 @@ def run_pipeline(channels, max_videos, skip_available, lang,
 @click.option("--export-index", is_flag=True)
 @click.option("--batch-size", default=0)
 @click.option("--batch-pause", default=0.0)
-def main(channel, max_videos, no_skip, lang,
+def main(channel, playlist, max_videos, no_skip, lang,
          enrich_only, captions_only, force, no_enrich, no_captions, export_index,
          batch_size, batch_pause):
     """YouTube transcript pipeline."""
@@ -223,9 +232,11 @@ def main(channel, max_videos, no_skip, lang,
     if captions_only:
         clean_captions_all_channels(force=force); _rebuild_index(); sys.exit(0)
 
-    channels = list(channel) or config.CHANNELS
-    if not channels:
-        console.print("[red]No channels specified.[/red]"); sys.exit(1)
+    channels  = list(channel)  or config.CHANNELS
+    playlists = list(playlist) or config.PLAYLISTS
+
+    if not channels and not playlists:
+        console.print("[red]No channels or playlists specified.[/red]"); sys.exit(1)
 
     effective_max   = config.MAX_VIDEOS_PER_CHANNEL if max_videos is None else max_videos
     effective_lang  = lang        or config.TRANSCRIPT_LANG
@@ -237,9 +248,13 @@ def main(channel, max_videos, no_skip, lang,
         f"batch={effective_batch} | pause={effective_pause:.0f}s | "
         f"request_delay={_REQUEST_DELAY:.0f}s"
     )
+    if channels:
+        console.print(f"[dim]Channels:  {', '.join(channels)}[/dim]")
+    if playlists:
+        console.print(f"[dim]Playlists: {len(playlists)} playlist(s)[/dim]")
 
     run_pipeline(
-        channels=channels, max_videos=effective_max,
+        channels=channels, playlists=playlists, max_videos=effective_max,
         skip_available=not no_skip, lang=effective_lang,
         enrich=not no_enrich, force_enrich=force,
         clean_captions=not no_captions, force_captions=force,

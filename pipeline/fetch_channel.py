@@ -45,6 +45,8 @@ class VideoMeta:
     duration_seconds: int
     view_count: Optional[int]
     url: str
+    playlist_id: str   = ""  # set when fetched via playlist mode
+    playlist_title: str = "" # human-readable playlist name
 
     def to_dict(self) -> dict:
         return asdict(self)
@@ -355,6 +357,120 @@ def _fetch_ytdlp(base_url: str, channel_id: str,
                 view_count=e.get("view_count"),
                 url=f"https://www.youtube.com/watch?v={vid_id}",
             ))
+    return videos
+
+
+# ── Playlist fetch (fetch specific playlist, not full channel uploads) ──────
+
+def fetch_playlist_videos(playlist_id: str, max_videos: int = 0) -> list[VideoMeta]:
+    """
+    Fetch all video metadata from a specific YouTube playlist ID.
+    Returns VideoMeta list with playlist_id and playlist_title populated.
+    """
+    if not config.YOUTUBE_API_KEY:
+        console.print(f"[red]✗ YOUTUBE_API_KEY required for playlist fetch[/red]")
+        return []
+
+    # Resolve playlist title and owning channel
+    playlist_title = playlist_id
+    playlist_channel_id = ""
+    playlist_channel_name = ""
+    try:
+        params = {"part": "snippet", "id": playlist_id, "key": config.YOUTUBE_API_KEY}
+        url = f"{_YT_API_BASE}/playlists?{urllib.parse.urlencode(params)}"
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            data = json.loads(resp.read())
+        items = data.get("items", [])
+        if items:
+            snippet = items[0].get("snippet", {})
+            playlist_title        = snippet.get("title", playlist_id)
+            playlist_channel_id   = snippet.get("channelId", "")
+            playlist_channel_name = snippet.get("channelTitle", "")
+    except Exception as exc:
+        console.print(f"[yellow]⚠ Could not fetch playlist metadata: {exc}[/yellow]")
+
+    console.print(
+        f"[cyan]Fetching playlist:[/cyan] {playlist_title} "
+        f"[dim]({playlist_id})[/dim]"
+    )
+
+    videos: list[VideoMeta] = []
+    page_token = ""
+    page = 1
+
+    while True:
+        params = {
+            "part":       "snippet",
+            "playlistId": playlist_id,
+            "maxResults": "50",
+            "key":        config.YOUTUBE_API_KEY,
+        }
+        if page_token:
+            params["pageToken"] = page_token
+
+        url = f"{_YT_API_BASE}/playlistItems?{urllib.parse.urlencode(params)}"
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+            with urllib.request.urlopen(req, timeout=15) as resp:
+                data = json.loads(resp.read())
+        except Exception as exc:
+            console.print(f"[red]✗ Playlist API error on page {page}: {exc}[/red]")
+            break
+
+        items = data.get("items", [])
+        console.print(f"  [dim]→ page {page}: {len(items)} videos[/dim]")
+
+        for item in items:
+            snippet = item.get("snippet", {})
+            res_id  = snippet.get("resourceId", {})
+            vid_id  = res_id.get("videoId", "")
+            if not vid_id:
+                continue
+
+            # Skip private/deleted placeholder entries
+            title = snippet.get("title", "")
+            if title in ("Private video", "Deleted video"):
+                continue
+
+            published_at = snippet.get("publishedAt", "")
+            upload_date  = published_at[:10].replace("-", "") if published_at else ""
+
+            videos.append(VideoMeta(
+                video_id=vid_id,
+                title=title,
+                channel_id=snippet.get("channelId", playlist_channel_id),
+                channel_name=snippet.get("channelTitle", playlist_channel_name),
+                upload_date=upload_date,
+                published_at=published_at,
+                actual_at="",
+                duration_seconds=0,
+                view_count=None,
+                url=f"https://www.youtube.com/watch?v={vid_id}",
+                playlist_id=playlist_id,
+                playlist_title=playlist_title,
+            ))
+
+            if max_videos and len(videos) >= max_videos:
+                break
+
+        if max_videos and len(videos) >= max_videos:
+            break
+
+        page_token = data.get("nextPageToken", "")
+        if not page_token:
+            break
+        page += 1
+
+    console.print(f"  [dim]→ {len(videos)} total via playlist API[/dim]")
+
+    if videos:
+        _fetch_video_details(videos)
+
+    console.print(
+        f"[green]✓[/green] Found [bold]{len(videos)}[/bold] videos "
+        f"in playlist [bold]{playlist_title}[/bold]"
+    )
     return videos
 
 

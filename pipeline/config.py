@@ -11,6 +11,12 @@ load_dotenv(Path(__file__).parent / ".env")
 RAW_CHANNELS = os.getenv("YOUTUBE_CHANNELS", "")
 CHANNELS: list[str] = [c.strip() for c in RAW_CHANNELS.split(",") if c.strip()]
 
+# ── Playlists (fetch specific playlist IDs instead of full channel uploads) ───
+# Comma-separated list of YouTube playlist IDs (e.g. PLxxx,PLyyy)
+# Each playlist is fetched independently and stored under its channel's folder.
+RAW_PLAYLISTS = os.getenv("YOUTUBE_PLAYLISTS", "")
+PLAYLISTS: list[str] = [p.strip() for p in RAW_PLAYLISTS.split(",") if p.strip()]
+
 # ── Transcript preferences ────────────────────────────────────────────────────
 TRANSCRIPT_LANG: str = os.getenv("TRANSCRIPT_LANG", "en")
 
