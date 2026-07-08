@@ -29171,8 +29171,34 @@
       "playlist_id": "",
       "playlist_title": "",
       "has_transcript": true,
-      "has_clean_srt": false,
-      "has_clean_txt": false
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Tuesday",
+      "time_slot": "Tuesday-Fajr",
+      "post_time": "2026-07-07T04:41:33",
+      "post_date": "2026-07-07",
+      "month": "July",
+      "month_num": 7,
+      "year": 2026,
+      "month_year": "July 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
+      "hadith_chapter": "Chapter on Obligations and Conditions of Ablution",
+      "topic_tags": [
+        "ablution",
+        "wudu",
+        "water conservation",
+        "moderation",
+        "israf",
+        "tabdhir",
+        "hadith",
+        "islamic jurisprudence"
+      ],
+      "suggested_title": "Moderation in Ablution Water: Israf vs Tabdhir in Islamic Practice",
+      "catchy_title": "Why waste water during wudu?",
+      "summary": "This lecture discusses the Islamic principle of moderation and frugality in water usage during ablution (wudu), based on Al-Wajeez's teachings. The speaker explains the difference between israf (extravagance in permissible matters) and tabdhir (waste in impermissible matters), using Quranic evidence that Allah dislikes those who waste. A hadith from Anas is cited showing that the Prophet Muhammad performed ablution using minimal water (approximately one handful or 'mudd'), demonstrating the proper economical approach to this religious practice. The lecture emphasizes that each person's measure of water should be proportional to their own body.",
+      "srt_status": "pending"
     },
     {
       "video_id": "-JCfAqCl2iw",
@@ -29304,5 +29330,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-07-07T17:09:39.954362+00:00"
+  "updated_at": "2026-07-08T07:22:04.637193+00:00"
 }
