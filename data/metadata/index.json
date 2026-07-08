@@ -29201,6 +29201,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "tHGr3IGKvdo",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260708",
+      "published_at": "2026-07-08T11:54:48Z",
+      "actual_at": "2026-07-08T11:42:23Z",
+      "duration_seconds": 574,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=tHGr3IGKvdo",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Wednesday",
+      "time_slot": "Wednesday-Fajr",
+      "post_time": "2026-07-08T04:42:23",
+      "post_date": "2026-07-08",
+      "month": "July",
+      "month_num": 7,
+      "year": 2026,
+      "month_year": "July 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Sunan Abu Dawud",
+      "hadith_chapter": "Chapter on Economizing Water in Purification",
+      "topic_tags": [
+        "wudu",
+        "water conservation",
+        "hadith",
+        "purification",
+        "islamic jurisprudence",
+        "prophetic example",
+        "excess prohibition",
+        "daily practices"
+      ],
+      "suggested_title": "Economizing Water in Wudu: Islamic Teachings on Preventing Waste",
+      "catchy_title": "Why did the Prophet use just one liter for wudu?",
+      "summary": "This lecture is a continuation of studies in Al-Wajeez, specifically covering the chapter on the obligation of using water economically during ablution (wudu) and the prohibition of wasting water. The speaker discusses how the Prophet Muhammad (peace be upon him) performed wudu with minimal water, using approximately one liter. The lecture explains that while modern plumbing systems may cause individuals to use more water than the Prophet did, this excess is due to custom and the medium of water delivery rather than intentional waste in worship. The speaker references the Quranic verse \"do not be wasteful, indeed He does not love the wasteful\" and cites a hadith from Abu Naamah about Abdullah ibn Mughaffal warning against excess in purification, supplication, and speech.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -29330,5 +29373,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-07-08T07:22:04.637193+00:00"
+  "updated_at": "2026-07-08T16:25:05.623315+00:00"
 }
