@@ -30752,6 +30752,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "PjDV0hXnWns",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260709",
+      "published_at": "2026-07-09T12:00:46Z",
+      "actual_at": "2026-07-09T11:43:32Z",
+      "duration_seconds": 809,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=PjDV0hXnWns",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Thursday",
+      "time_slot": "Thursday-Fajr",
+      "post_time": "2026-07-09T04:43:32",
+      "post_date": "2026-07-09",
+      "month": "July",
+      "month_num": 7,
+      "year": 2026,
+      "month_year": "July 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Sahih Bukhari",
+      "hadith_chapter": "Chapter on Wudu and Its Invalidators",
+      "topic_tags": [
+        "wudu",
+        "ablution",
+        "invalidators",
+        "hadith",
+        "fiqh",
+        "ritual purity",
+        "scholarly consensus",
+        "islamic jurisprudence"
+      ],
+      "suggested_title": "Invalidators of Wudu: Scholarly Consensus and Evidence",
+      "catchy_title": "What Actually Breaks Your Wudu?",
+      "summary": "This lecture begins with an announcement of the death of Sister Hasniya al-Shuli (Um Issam), followed by condolences and prayers for her. The main content focuses on the invalidators of wudu (ritual ablution), specifically discussing what nullifies ablution according to Islamic jurisprudence. The speaker explains that anything exiting from the front or back passages (urine, feces, or gas) invalidates wudu, citing Quranic verses and authenticated hadith. The lecture also addresses scholarly disagreement on certain matters, emphasizing that consensus (ijma) is not a condition for accepting evidence and that not all scholarly opinions carry equal weight.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -35356,5 +35399,5 @@
       "has_clean_txt": false
     }
   ],
-  "updated_at": "2026-07-09T08:17:01.195763+00:00"
+  "updated_at": "2026-07-09T17:12:06.898831+00:00"
 }
