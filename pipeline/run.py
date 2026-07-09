@@ -28,15 +28,68 @@ _REQUEST_DELAY                  = 10.0   # seconds between individual requests (
 _IP_BLOCK_PAUSE                 = 120.0  # pause before retrying a blocked video
 _MAX_IP_BLOCK_RETRIES_PER_VIDEO = 1      # give up after 1 retry — don't waste time
 
+# ── Backfill mode constants ─────────────────────────────────────────
+# Lesson learned (July 2026): a full backfill (~70 transcript requests in one
+# session) tripped YouTube's volume-based rate limiter on a residential IP,
+# and every request after ~request 65 was blocked. Backfill mode is designed
+# to drain a large backlog across many scheduled runs without ever hitting
+# that wall:
+#   • hard request budget per run (stay well under the ~65 block threshold)
+#   • slower pacing between requests and batches
+#   • circuit breaker — consecutive blocks abort the run instead of burning
+#     through the backlog marking everything unavailable
+#   • blocked videos are NOT marked unavailable (they stay pending for the
+#     next run — a block is not evidence the transcript doesn't exist)
+_BACKFILL_REQUEST_DELAY   = 15.0   # gentler than regular mode
+_BACKFILL_BATCH_SIZE      = 5
+_BACKFILL_BATCH_PAUSE     = 300.0  # 5 min between batches
+_BACKFILL_REQUEST_BUDGET  = 40     # max transcript fetch attempts per run, ALL sources combined
+_BACKFILL_BLOCK_THRESHOLD = 3      # consecutive IP blocks → abort the run
+
 
 def _fetch_transcripts_batched(
-    videos, channel_id, lang, skip_available, batch_size, batch_pause
+    videos, channel_id, lang, skip_available, batch_size, batch_pause,
+    backfill=False, budget=None,
 ):
+    """
+    budget: shared dict across all sources in one run (backfill mode only):
+      {"remaining": int, "consecutive_blocks": int, "aborted": bool}
+    """
+    request_delay = _BACKFILL_REQUEST_DELAY if backfill else _REQUEST_DELAY
+
     need_fetch = [
         v for v in videos
         if not skip_available or store.should_retry_transcript(channel_id, v.video_id)
     ]
+
+    # Backfill drains the NEVER-TRIED backlog only. Retrying previously-failed
+    # videos is left to regular runs — otherwise a source with many failed
+    # videos (e.g. old videos with captions disabled) starves the budget
+    # before fresh videos are ever attempted.
+    if backfill:
+        need_fetch = [
+            v for v in need_fetch
+            if store.get_transcript_status(channel_id, v.video_id) == store.STATUS_NEVER_TRIED
+        ]
+
     skip_count = len(videos) - len(need_fetch)
+
+    # Backfill: respect the remaining global request budget up front
+    if backfill and budget is not None:
+        if budget["remaining"] <= 0 or budget["aborted"]:
+            console.print("[yellow]⚠ Backfill budget exhausted — leaving remaining videos pending[/yellow]")
+            transcripts_status = {
+                v.video_id: store.STATUS_AVAILABLE
+                for v in videos
+                if not store.should_retry_transcript(channel_id, v.video_id)
+            }
+            return transcripts_status, 0, skip_count, 0
+        if len(need_fetch) > budget["remaining"]:
+            console.print(
+                f"[dim]Backfill budget: fetching {budget['remaining']} of "
+                f"{len(need_fetch)} pending (rest stay pending for next run)[/dim]"
+            )
+            need_fetch = need_fetch[:budget["remaining"]]
 
     transcripts_status = {
         v.video_id: store.STATUS_AVAILABLE
@@ -52,7 +105,9 @@ def _fetch_transcripts_batched(
         f"{skip_count} already available | "
         f"{total_batches} batch(es) of {batch_size} | "
         f"{batch_pause:.0f}s pause between batches | "
-        f"{_REQUEST_DELAY:.0f}s per request[/dim]"
+        f"{request_delay:.0f}s per request"
+        + (" | [bold]BACKFILL MODE[/bold]" if backfill else "")
+        + "[/dim]"
     )
 
     if getattr(config, "COOKIES_FILE", "") and __import__("pathlib").Path(config.COOKIES_FILE).exists():
@@ -83,16 +138,40 @@ def _fetch_transcripts_batched(
                 vid_id = video.video_id
                 ip_retries.setdefault(vid_id, 0)
                 progress.update(task, description=f"[cyan]{video.title[:50]}[/cyan]")
-                time.sleep(_REQUEST_DELAY)
+                time.sleep(request_delay)
+
+                if backfill and budget is not None:
+                    budget["remaining"] -= 1
 
                 try:
                     raw = fetch_transcript(vid_id, preferred_lang=lang)
 
                 except Exception as exc:
                     if _is_ip_blocked(exc):
-                        if ip_retries[vid_id] >= _MAX_IP_BLOCK_RETRIES_PER_VIDEO:
+                        if backfill:
+                            # Backfill: a block is NOT evidence the transcript
+                            # doesn't exist — leave the video pending and count
+                            # toward the circuit breaker.
+                            budget["consecutive_blocks"] += 1
+                            console.print(
+                                f"\n[red]⚠ IP blocked on {vid_id} — leaving pending "
+                                f"({budget['consecutive_blocks']}/{_BACKFILL_BLOCK_THRESHOLD} "
+                                f"consecutive)[/red]"
+                            )
+                            progress.advance(task)
+                            j += 1
+                            if budget["consecutive_blocks"] >= _BACKFILL_BLOCK_THRESHOLD:
+                                budget["aborted"] = True
+                                console.print(
+                                    "[bold red]✗ Circuit breaker: "
+                                    f"{_BACKFILL_BLOCK_THRESHOLD} consecutive blocks — "
+                                    "aborting backfill fetch for this run. "
+                                    "Remaining videos stay pending.[/bold red]"
+                                )
+                                return transcripts_status, saved, skip_count, failed
+                        elif ip_retries[vid_id] >= _MAX_IP_BLOCK_RETRIES_PER_VIDEO:
                             console.print(f"\n[red]✗ {vid_id} — giving up after {ip_retries[vid_id]+1} block(s)[/red]")
-                            store.mark_transcript_unavailable(channel_id, vid_id)
+                            store.mark_transcript_unavailable(channel_id, vid_id, reason="IPBlocked")
                             transcripts_status[vid_id] = store.STATUS_UNAVAILABLE
                             failed += 1
                             progress.advance(task)
@@ -106,7 +185,7 @@ def _fetch_transcripts_batched(
                             time.sleep(_IP_BLOCK_PAUSE)
                     else:
                         console.print(f"[red]✗ {vid_id}: {exc}[/red]")
-                        store.mark_transcript_unavailable(channel_id, vid_id)
+                        store.mark_transcript_unavailable(channel_id, vid_id, reason=type(exc).__name__)
                         transcripts_status[vid_id] = store.STATUS_UNAVAILABLE
                         failed += 1
                         progress.advance(task)
@@ -114,11 +193,13 @@ def _fetch_transcripts_batched(
                     continue
 
                 ip_retries[vid_id] = 0
+                if backfill and budget is not None:
+                    budget["consecutive_blocks"] = 0
                 progress.advance(task)
                 j += 1
 
                 if raw is None:
-                    store.mark_transcript_unavailable(channel_id, vid_id)
+                    store.mark_transcript_unavailable(channel_id, vid_id, reason="NoTranscript")
                     transcripts_status[vid_id] = store.STATUS_UNAVAILABLE
                     failed += 1
                     continue
@@ -138,8 +219,22 @@ def _fetch_transcripts_batched(
 def run_pipeline(channels, playlists, max_videos, skip_available, lang,
                  enrich=True, force_enrich=False,
                  clean_captions=True, force_captions=False,
-                 batch_size=10, batch_pause=180.0):
+                 batch_size=10, batch_pause=180.0, backfill=False):
     total_saved = total_skipped = total_failed = total_enriched = total_srt = 0
+
+    # Backfill: one shared budget across ALL sources in this run
+    budget = None
+    if backfill:
+        budget = {
+            "remaining":          _BACKFILL_REQUEST_BUDGET,
+            "consecutive_blocks": 0,
+            "aborted":            False,
+        }
+        console.print(
+            f"[bold yellow]BACKFILL MODE[/bold yellow] — "
+            f"budget {_BACKFILL_REQUEST_BUDGET} fetches this run, "
+            f"circuit breaker at {_BACKFILL_BLOCK_THRESHOLD} consecutive blocks"
+        )
 
     # Build a unified list of (label, videos_fetcher) to process identically
     sources = []
@@ -163,7 +258,8 @@ def run_pipeline(channels, playlists, max_videos, skip_available, lang,
         store.save_channel_metadata(channel_id, [v.to_dict() for v in videos])
 
         transcripts_status, saved, skipped, failed = _fetch_transcripts_batched(
-            videos, channel_id, lang, skip_available, batch_size, batch_pause
+            videos, channel_id, lang, skip_available, batch_size, batch_pause,
+            backfill=backfill, budget=budget,
         )
         total_saved += saved; total_skipped += skipped; total_failed += failed
 
@@ -220,9 +316,15 @@ def run_pipeline(channels, playlists, max_videos, skip_available, lang,
 @click.option("--export-index", is_flag=True)
 @click.option("--batch-size", default=0)
 @click.option("--batch-pause", default=0.0)
+@click.option("--backfill", is_flag=True, default=False,
+              help="Backfill mode for large backlogs: gentler pacing, "
+                   "global request budget per run, circuit breaker on repeated "
+                   "IP blocks, and blocked videos stay pending (not marked "
+                   "unavailable). Run repeatedly (or on schedule) until the "
+                   "backlog drains. Regular daily runs are unaffected.")
 def main(channel, playlist, max_videos, no_skip, lang,
          enrich_only, captions_only, force, no_enrich, no_captions, export_index,
-         batch_size, batch_pause):
+         batch_size, batch_pause, backfill):
     """YouTube transcript pipeline."""
 
     if export_index:
@@ -240,8 +342,14 @@ def main(channel, playlist, max_videos, no_skip, lang,
 
     effective_max   = config.MAX_VIDEOS_PER_CHANNEL if max_videos is None else max_videos
     effective_lang  = lang        or config.TRANSCRIPT_LANG
-    effective_batch = batch_size  or config.BATCH_SIZE
-    effective_pause = batch_pause or config.BATCH_PAUSE
+
+    if backfill:
+        # Backfill pacing defaults — explicit CLI values still win
+        effective_batch = batch_size  or _BACKFILL_BATCH_SIZE
+        effective_pause = batch_pause or _BACKFILL_BATCH_PAUSE
+    else:
+        effective_batch = batch_size  or config.BATCH_SIZE
+        effective_pause = batch_pause or config.BATCH_PAUSE
 
     console.print(
         f"[bold]Pipeline[/bold] | max={effective_max or 'all'} | "
@@ -259,6 +367,7 @@ def main(channel, playlist, max_videos, no_skip, lang,
         enrich=not no_enrich, force_enrich=force,
         clean_captions=not no_captions, force_captions=force,
         batch_size=effective_batch, batch_pause=effective_pause,
+        backfill=backfill,
     )
 
 

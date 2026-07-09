@@ -22,6 +22,21 @@ import config
 STATUS_AVAILABLE   = "available"
 STATUS_UNAVAILABLE = "unavailable"
 STATUS_NEVER_TRIED = "never_tried"
+STATUS_PERMANENT   = "permanently_unavailable"
+
+# Exception class names that mean a transcript will NEVER exist for this video
+# (uploader disabled captions, video is private/deleted/etc). Retrying these
+# wastes the request budget — they're marked permanent on first occurrence.
+PERMANENT_FAILURE_REASONS = {
+    "TranscriptsDisabled",
+    "VideoUnplayable",
+    "VideoUnavailable",
+    "AgeRestricted",
+}
+
+# Transient failures (e.g. captions not generated yet on a fresh video) are
+# retried, but not forever — after this many attempts they're marked permanent.
+MAX_TRANSIENT_RETRIES = 5
 
 # ── srt_status values ─────────────────────────────────────────────────────────
 SRT_PENDING   = "pending"
@@ -65,15 +80,22 @@ def get_transcript_status(channel_id: str, video_id: str) -> str:
     return tx.get("transcript_status", STATUS_AVAILABLE if tx.get("clean_text") else STATUS_NEVER_TRIED)
 
 
-def mark_transcript_unavailable(channel_id: str, video_id: str) -> None:
+def mark_transcript_unavailable(channel_id: str, video_id: str, reason: str = "") -> None:
     path = config.TRANSCRIPTS_DIR / channel_id / f"{video_id}.json"
     existing = _read_json(path) if path.exists() else {"video_id": video_id}
     existing["transcript_status"]      = STATUS_UNAVAILABLE
     existing["transcript_retry_count"] = existing.get("transcript_retry_count", 0) + 1
+    if reason:
+        existing["unavailable_reason"] = reason
+    # Permanent: known-permanent failure reason, or transient retry cap reached
+    if reason in PERMANENT_FAILURE_REASONS or \
+       existing["transcript_retry_count"] >= MAX_TRANSIENT_RETRIES:
+        existing["transcript_status"] = STATUS_PERMANENT
     _write_json(path, existing)
 
 
 def should_retry_transcript(channel_id: str, video_id: str) -> bool:
+    # STATUS_PERMANENT is deliberately excluded — never retried
     status = get_transcript_status(channel_id, video_id)
     return status in (STATUS_NEVER_TRIED, STATUS_UNAVAILABLE)
 
