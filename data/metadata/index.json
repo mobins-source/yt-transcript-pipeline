@@ -30795,6 +30795,48 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "GS7Iprjic9A",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260710",
+      "published_at": "2026-07-10T12:01:19Z",
+      "actual_at": "2026-07-10T11:43:16Z",
+      "duration_seconds": 881,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=GS7Iprjic9A",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Friday",
+      "time_slot": "Friday-Fajr",
+      "post_time": "2026-07-10T04:43:16",
+      "post_date": "2026-07-10",
+      "month": "July",
+      "month_num": 7,
+      "year": 2026,
+      "month_year": "July 2026",
+      "content_type": "General",
+      "hadith_book": null,
+      "hadith_chapter": null,
+      "topic_tags": [
+        "wudoo",
+        "ritual purity",
+        "invalidators",
+        "deep sleep",
+        "islamic jurisprudence",
+        "certainty",
+        "salah preparation"
+      ],
+      "suggested_title": "Understanding Deep Sleep as an Invalidator of Wudoo: Certainty and Doubt in Ritual Purity",
+      "catchy_title": "Does sleep really break your wudoo?",
+      "summary": "This lecture discusses the invalidators of wudoo (ritual ablution) in Islam, specifically focusing on deep sleep as an invalidator. The speaker explains that sleep itself does not break wudoo, but rather deep sleep creates uncertainty about whether wudoo has been broken, since a person cannot be certain of what their body did while they were unconscious. The speaker clarifies the distinction between light sleep and deep sleep, noting that only deep sleep invalidates wudoo. The lecture also addresses the special case of the Prophet Muhammad (peace be upon him), whose heart remained awake even during physical sleep to receive revelation, allowing him to know with certainty whether his wudoo was broken.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -35399,5 +35441,5 @@
       "has_clean_txt": false
     }
   ],
-  "updated_at": "2026-07-10T08:14:37.000389+00:00"
+  "updated_at": "2026-07-10T16:50:15.673874+00:00"
 }
