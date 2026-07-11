@@ -37,7 +37,7 @@ on:
         required: false
         default: ""
       max_videos:
-        description: "Max videos per channel (0 = use MAX_VIDEOS_PER_CHANNEL)"
+        description: "Max videos per channel (0 = use MAX_VIDEOS_PER_CHANNEL). Scheduled default temporarily 10 while Sh. Ali playlist backfill drains — restore to 20 after."
         required: false
         default: "20"
       batch_size:
@@ -84,7 +84,7 @@ jobs:
           YOUTUBE_API_KEY=${{ secrets.YOUTUBE_API_KEY }}
           ANTHROPIC_API_KEY=${{ secrets.ANTHROPIC_API_KEY }}
           TRANSCRIPT_LANG=${{ vars.TRANSCRIPT_LANG || 'en' }}
-          MAX_VIDEOS_PER_CHANNEL=${{ github.event.inputs.max_videos || '20' }}
+          MAX_VIDEOS_PER_CHANNEL=${{ github.event.inputs.max_videos || '10' }}
           BATCH_SIZE=${{ github.event.inputs.batch_size || '10' }}
           BATCH_PAUSE=${{ github.event.inputs.batch_pause || '180' }}
           DATA_DIR=../data
@@ -107,7 +107,7 @@ jobs:
 
           python3 run.py \
             $CHANNEL_FLAG \
-            --max ${{ github.event.inputs.max_videos || '20' }} \
+            --max ${{ github.event.inputs.max_videos || '10' }} \
             --batch-size ${{ github.event.inputs.batch_size || '10' }} \
             --batch-pause ${{ github.event.inputs.batch_pause || '180' }} \
             $FORCE_FLAG
