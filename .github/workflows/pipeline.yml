@@ -1,9 +1,12 @@
 name: YouTube Transcript Pipeline
 
-# Runs twice daily — fetches 20 videos per run in 2 batches of 10
-# with a 3-minute pause between batches to avoid YouTube IP blocks.
+# Runs on schedule — MCC Tucson channel ONLY.
+# Sh. Ali Mashhour playlists (YOUTUBE_PLAYLISTS in local pipeline/.env) are
+# deliberately NOT included here — backfill them manually on the Mac as time
+# permits:  cd pipeline && python3 run.py --backfill --max 0
+# (Backfill mode: 40-request budget, circuit breaker, gentle pacing.)
 #
-# Over 24 hours this covers ~40 new/pending videos without triggering blocks.
+# Over 24 hours the schedule covers new MCC videos without triggering blocks.
 # Already-fetched transcripts are always skipped automatically.
 #
 # IMPORTANT — RUNNER CHOICE:
@@ -37,7 +40,7 @@ on:
         required: false
         default: ""
       max_videos:
-        description: "Max videos per channel (0 = use MAX_VIDEOS_PER_CHANNEL). Scheduled default temporarily 10 while Sh. Ali playlist backfill drains — restore to 20 after."
+        description: "Max videos per channel (0 = use MAX_VIDEOS_PER_CHANNEL)"
         required: false
         default: "20"
       batch_size:
@@ -84,12 +87,11 @@ jobs:
           YOUTUBE_API_KEY=${{ secrets.YOUTUBE_API_KEY }}
           ANTHROPIC_API_KEY=${{ secrets.ANTHROPIC_API_KEY }}
           TRANSCRIPT_LANG=${{ vars.TRANSCRIPT_LANG || 'en' }}
-          MAX_VIDEOS_PER_CHANNEL=${{ github.event.inputs.max_videos || '10' }}
+          MAX_VIDEOS_PER_CHANNEL=${{ github.event.inputs.max_videos || '20' }}
           BATCH_SIZE=${{ github.event.inputs.batch_size || '10' }}
           BATCH_PAUSE=${{ github.event.inputs.batch_pause || '180' }}
           DATA_DIR=../data
           COOKIES_FILE=../data/cookies.txt
-          YOUTUBE_PLAYLISTS=${{ secrets.YOUTUBE_PLAYLISTS }}
           EOF
 
       - name: Run pipeline
@@ -107,7 +109,7 @@ jobs:
 
           python3 run.py \
             $CHANNEL_FLAG \
-            --max ${{ github.event.inputs.max_videos || '10' }} \
+            --max ${{ github.event.inputs.max_videos || '20' }} \
             --batch-size ${{ github.event.inputs.batch_size || '10' }} \
             --batch-pause ${{ github.event.inputs.batch_pause || '180' }} \
             $FORCE_FLAG
