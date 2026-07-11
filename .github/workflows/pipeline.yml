@@ -25,10 +25,10 @@ name: YouTube Transcript Pipeline
 
 on:
   schedule:
-    - cron: "0 15 * * *"   # 15:00 UTC = 08:00 MST daily
-    - cron: "0 5 * * *"    # 05:00 UTC = 22:00 MST daily
-    - cron: "0 21 * * 5"   # 21:00 UTC = 14:00 MST Friday (initial run after Jumaa khutba)
-    - cron: "0 1 * * 6"    # 01:00 UTC Saturday = 18:00 MST Friday (retry — gives YouTube ~2hrs to generate captions)
+    - cron: "17 15 * * *"   # 15:17 UTC = 08:17 MST daily (off the hour — top-of-hour cron slots get delayed/dropped under GitHub load)
+    - cron: "17 5 * * *"    # 05:17 UTC = 22:17 MST daily
+    - cron: "17 21 * * 5"   # 21:17 UTC = 14:17 MST Friday (initial run after Jumaa khutba)
+    - cron: "17 1 * * 6"    # 01:17 UTC Saturday = 18:17 MST Friday (retry — gives YouTube ~2hrs to generate captions)
 
   workflow_dispatch:
     inputs:
@@ -89,6 +89,7 @@ jobs:
           BATCH_PAUSE=${{ github.event.inputs.batch_pause || '180' }}
           DATA_DIR=../data
           COOKIES_FILE=../data/cookies.txt
+          YOUTUBE_PLAYLISTS=${{ secrets.YOUTUBE_PLAYLISTS }}
           EOF
 
       - name: Run pipeline
