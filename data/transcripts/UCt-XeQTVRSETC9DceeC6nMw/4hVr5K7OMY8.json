@@ -1008,7 +1008,7 @@
   "summary": "This lecture analyzes a hadith from Sahih Bukhari about controlling anger, specifically the narration where a man repeatedly asks the Prophet Muhammad (peace be upon him) for advice and is told \"do not become angry.\" The speaker explains that while natural emotions like anger are largely beyond human control, the Prophet's command means believers should avoid situations that lead to anger and must control their responses when anger occurs. The lecture clarifies that this prohibition does not mean prophets and messengers never became angry, but rather that their anger was directed toward worthy causes—violations of Allah's boundaries and prohibitions—not trivial personal matters.",
   "suggested_title": "Controlling Anger: Understanding the Prophetic Command Against Anger - Sahih Bukhari Chapter on Patience",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Patience (Sabr)",
   "topic_tags": [
     "anger management",
@@ -1021,5 +1021,6 @@
     "allah's boundaries"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why the Prophet Commanded: Do Not Become Angry"
+  "catchy_title": "Why the Prophet Commanded: Do Not Become Angry",
+  "manually_reviewed": true
 }

@@ -1193,8 +1193,8 @@
   "time_slot": "Saturday-Fajr",
   "summary": "This lecture discusses the Islamic concept of truthfulness (Sidq) and falsehood (Kib) as explained in the Quran and Hadith. The speaker clarifies that truthfulness is not merely about factual accuracy or good intentions, but requires two essential components: the statement must match reality AND it must reflect what is genuinely believed in the speaker's heart. Using examples from the Quran, particularly the verse about hypocrites testifying to the Prophet's message, the speaker demonstrates how Allah judges statements based on alignment between inner belief and outward speech. The lecture emphasizes the importance of understanding Quranic terminology within its historical context rather than imposing modern definitions.",
   "suggested_title": "Understanding Sidq (Truthfulness) and Kib (Falsehood) in the Quran and Sunnah",
-  "content_type": "Mixed",
-  "hadith_book": "Other",
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Truthfulness (Suduk) and Truth",
   "topic_tags": [
     "truthfulness",
@@ -1207,5 +1207,6 @@
     "hadith studies"
   ],
   "srt_status": "pending",
-  "catchy_title": "When Your Words Don't Match Your Heart"
+  "catchy_title": "When Your Words Don't Match Your Heart",
+  "manually_reviewed": true
 }

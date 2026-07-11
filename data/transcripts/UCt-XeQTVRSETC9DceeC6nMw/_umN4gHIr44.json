@@ -570,7 +570,7 @@
   "summary": "This lecture discusses a hadith from Riyadul Saliheen by Imam An-Nawawi, specifically presenting the famous hadith of Umar ibn al-Khattab about actions being judged by intentions (Innamal a'malu bin niyyat). The speaker explains that this hadith, narrated by both Sahih Bukhari and Sahih Muslim, emphasizes that the reward for deeds depends on the sincerity and intention behind them. The lecture clarifies that migration (hijrah) is only counted as being to Allah and His Messenger when done with sincere intention, otherwise it is considered as migration to worldly gains.",
   "suggested_title": "Hadith on Actions and Intentions - Riyadul Saliheen Lecture",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Introduction chapter discussing the hadith of Umar ibn al-Khattab on intentions",
   "topic_tags": [
     "hadith",
@@ -583,5 +583,6 @@
     "sincerity"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Your Intention Matters More Than Action"
+  "catchy_title": "Why Your Intention Matters More Than Action",
+  "manually_reviewed": true
 }

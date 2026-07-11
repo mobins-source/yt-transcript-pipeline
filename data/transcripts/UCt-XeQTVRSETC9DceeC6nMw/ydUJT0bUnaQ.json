@@ -626,7 +626,7 @@
   "summary": "This lecture discusses the famous hadith from Riyadul Saliheen about a man who killed 99 souls and sought repentance. The scholar emphasizes the critical difference between simple ignorance and compounded ignorance (جهل مركب), using the story to illustrate how a righteous-appearing monk's lack of knowledge led to tragic consequences. The monk, suffering from compounded ignorance, confidently gave wrong advice, while a true scholar later provided correct guidance on repentance and directed the man to a righteous community for proper reformation.",
   "suggested_title": "Compounded Ignorance and the Story of Repentance: Insights from Riyadul Saliheen",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Repentance (باب التوبة)",
   "topic_tags": [
     "repentance",
@@ -639,5 +639,6 @@
     "scholarly knowledge"
   ],
   "srt_status": "pending",
-  "catchy_title": "When Worship Isn't Enough: The Danger of Ignorance"
+  "catchy_title": "When Worship Isn't Enough: The Danger of Ignorance",
+  "manually_reviewed": true
 }

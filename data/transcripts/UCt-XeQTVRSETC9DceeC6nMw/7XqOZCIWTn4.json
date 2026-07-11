@@ -1363,8 +1363,8 @@
   "time_slot": "Friday-Isha",
   "summary": "This lecture discusses the first revelation of the Quran to Prophet Muhammad (peace be upon him) in the cave of Hira on Mount Light, focusing on the first five verses of Surah Al-Alaq. The speaker emphasizes the importance of beginning all endeavors with \"Bismillah\" (in the name of Allah) and explains the distinction between using \"Bismillah\" generally versus the specific phrase \"in the name of your Lord\" that appears in the revelation. The lecture details the historical compilation of the Quran under Caliph Uthman, explaining how multiple standardized copies (Mushaf Uthmani) were created and distributed throughout the Muslim empire to serve as reference texts for all future Quran manuscripts.",
   "suggested_title": "The First Revelation: Surah Al-Alaq and the Compilation of the Quran",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "quran",
@@ -1377,5 +1377,6 @@
     "tafsir"
   ],
   "srt_status": "pending",
-  "catchy_title": "What Were Prophet Muhammad's First Words?"
+  "catchy_title": "What Were Prophet Muhammad's First Words?",
+  "manually_reviewed": true
 }

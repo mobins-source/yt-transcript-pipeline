@@ -1454,8 +1454,8 @@
   "time_slot": "Sunday-Fajr",
   "summary": "This is a lecture on Islamic scholarship and Quranic interpretation, specifically introducing the methodology of Imam Ali's hadith collection work. The speaker explains how classical hadith scholars organized their works by presenting chapter titles, relevant Quranic verses, and hadith narrations with occasional linguistic commentary. The discussion covers the importance of preserving classical Arabic language, as the Quran's meanings are directly dependent on accurate understanding of ancient Arabic vocabulary and usage. The lecturer emphasizes that modern Arabic speakers cannot automatically understand the Quran without actively studying classical Arabic, similar to how scholars like Imam Ali had to provide definitions for words that were common in the Prophet's time but became obscure 600+ years later.\n\nThe speaker then introduces the first chapter of the work, which focuses on sincerity (ikhlas) and coherent intention (niyyah) as prerequisites for any deed to be accepted by Allah. The chapter will discuss how sincerity must permeate all actions, speech, and internal states. The first Quranic verse presented is from Surah Al-Bayyinah, which commands believers to worship Allah with sincere devotion while adhering to the teachings of the prophets, establishing prayer, and giving zakah.\n\nThe lecturer concludes by clarifying that this knowledge-based class will focus on detailed scholarship and understanding rather than purely motivational content, distinguishing between inspirational speech and substantive Islamic knowledge.",
   "suggested_title": "Introduction to Sincerity and Intention in Islamic Scholarship - Imam Ali's Methodology and Quranic Understanding",
-  "content_type": "Mixed",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "sincerity",
@@ -1468,5 +1468,6 @@
     "niyyah"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Classical Arabic Holds the Quranic Keys"
+  "catchy_title": "Why Classical Arabic Holds the Quranic Keys",
+  "manually_reviewed": true
 }

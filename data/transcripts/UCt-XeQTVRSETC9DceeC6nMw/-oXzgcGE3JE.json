@@ -843,7 +843,7 @@
   "summary": "This content discusses the importance of deep reflection and contemplation when studying Islamic knowledge, particularly hadith narrations. The speaker contrasts the modern tendency to consume information passively through social media with the Islamic approach of carefully considering each teaching. The main hadith discussed concerns a prophecy about an army attacking the Kaaba near the end of times, where Allah will cause the earth to swallow them. The narration emphasizes the critical role of intention (niyyah) in Islamic practice and accountability, explaining that while all members of the army will be destroyed physically, they will be judged individually on the Day of Judgment based on their intentions. The speaker also extracts a practical lesson about carefully choosing one's company and surroundings, as innocent people can face worldly punishment alongside the guilty based on their associations.",
   "suggested_title": "The Importance of Intention and Reflection: Understanding the Kaaba Hadith",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Sincerity and Intention",
   "topic_tags": [
     "intention",
@@ -856,5 +856,6 @@
     "signs of the hour"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Deep Reflection Changes Everything"
+  "catchy_title": "Why Deep Reflection Changes Everything",
+  "manually_reviewed": true
 }

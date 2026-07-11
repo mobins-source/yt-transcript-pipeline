@@ -957,7 +957,7 @@
   "summary": "This lecture covers the chapter on patience (sabr) from a hadith collection, specifically discussing its merits and rulings. The speaker defines patience in both Arabic linguistic terms and Islamic legislative terms, explaining that Islamic patience encompasses three main aspects: controlling oneself in obedience to Allah, restraining oneself from disobedience, and remaining steadfast when facing Allah's decree whether in difficulty or ease. The lecture emphasizes that patience during ease may be more challenging than during hardship, as hardship reminds people of their dependence on Allah while ease creates an illusion of independence. The speaker concludes by discussing patience in the context of battling enemies, both physical and spiritual, explaining that victory comes to those who can exercise patience even one moment longer than their adversaries.",
   "suggested_title": "The Chapter of Patience: Definition, Types, and Merits in Islam",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter regarding the merits of patience",
   "topic_tags": [
     "patience",
@@ -970,5 +970,6 @@
     "character development"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Patience During Ease Is Harder"
+  "catchy_title": "Why Patience During Ease Is Harder",
+  "manually_reviewed": true
 }

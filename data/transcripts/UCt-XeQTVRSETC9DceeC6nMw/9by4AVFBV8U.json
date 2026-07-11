@@ -888,7 +888,7 @@
   "summary": "This lecture discusses a hadith from Ibn Abbas regarding intentions and divine reward, found in both Sahih Bukhari and Sahih Muslim. The speaker explains the Islamic principle that Allah records and rewards good and bad intentions differently: good intentions not acted upon receive full reward, those acted upon receive 10 to 700 times the reward, bad intentions not acted upon receive full reward, and bad intentions acted upon receive only one sin. The lecture also provides biographical information about Ibn Abbas, explaining the Islamic naming convention of kunyas (honorific names), his lineage as the Prophet's cousin, and his significance as a leading Islamic scholar among the companions.",
   "suggested_title": "Hadith on Intentions and Divine Reward: Ibn Abbas on Good and Bad Deeds",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Sincerity and Intentions",
   "topic_tags": [
     "intentions",
@@ -901,5 +901,6 @@
     "companions"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Your Intention Matters More Than You Think"
+  "catchy_title": "Why Your Intention Matters More Than You Think",
+  "manually_reviewed": true
 }

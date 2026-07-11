@@ -25,8 +25,8 @@
       "month_num": 6,
       "year": 2026,
       "month_year": "June 2026",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "qarun",
@@ -197,8 +197,8 @@
       "month_num": 6,
       "year": 2026,
       "month_year": "June 2026",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "quran interpretation",
@@ -283,8 +283,8 @@
       "month_num": 6,
       "year": 2026,
       "month_year": "June 2026",
-      "content_type": "Mixed",
-      "hadith_book": "Other",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "free will",
@@ -540,7 +540,7 @@
       "month_num": 5,
       "year": 2026,
       "month_year": "May 2026",
-      "content_type": "General",
+      "content_type": "Hadith",
       "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
@@ -584,7 +584,7 @@
       "year": 2026,
       "month_year": "May 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Muslim",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Chapter on the Creation of Angels, Jinn, and Humans",
       "topic_tags": [
         "hadith",
@@ -627,7 +627,7 @@
       "year": 2026,
       "month_year": "May 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Muslim",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Chapter on Desiring Allah's Meeting (Man ahabb liqa Allah ahabb Allah liqa'ahu)",
       "topic_tags": [
         "death and dying",
@@ -798,7 +798,7 @@
       "month_num": 5,
       "year": 2026,
       "month_year": "May 2026",
-      "content_type": "General",
+      "content_type": "Hadith",
       "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
@@ -842,7 +842,7 @@
       "year": 2026,
       "month_year": "May 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Book of Miscellaneous Narrations and Signs of the Day of Judgment",
       "topic_tags": [
         "sulaiman",
@@ -1047,7 +1047,7 @@
       "month_num": 5,
       "year": 2026,
       "month_year": "May 2026",
-      "content_type": "General",
+      "content_type": "Hadith",
       "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
@@ -1091,7 +1091,7 @@
       "year": 2026,
       "month_year": "May 2026",
       "content_type": "Hadith",
-      "hadith_book": "Other",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "18th or 19th book",
       "topic_tags": [
         "hadith",
@@ -1263,7 +1263,7 @@
       "year": 2026,
       "month_year": "May 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Virtues and merits of the first 10 days of Dhul Hijjah",
       "topic_tags": [
         "dhul hijjah",
@@ -1349,7 +1349,7 @@
       "year": 2026,
       "month_year": "May 2026",
       "content_type": "Hadith",
-      "hadith_book": "Other",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "end times",
@@ -1391,8 +1391,8 @@
       "month_num": 5,
       "year": 2026,
       "month_year": "May 2026",
-      "content_type": "General",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "fajr prayer",
@@ -1521,7 +1521,7 @@
       "year": 2026,
       "month_year": "May 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Book of signs before the Day of Judgment",
       "topic_tags": [
         "hadith interpretation",
@@ -1796,7 +1796,7 @@
       "year": 2026,
       "month_year": "May 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Muslim",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Book of Al-Fitan (Trials and Tribulations), Chapter on Ad-Dajjal",
       "topic_tags": [
         "ad-dajjal",
@@ -2011,7 +2011,7 @@
       "year": 2026,
       "month_year": "May 2026",
       "content_type": "Hadith",
-      "hadith_book": "Other",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "al-dajjal",
@@ -2267,8 +2267,8 @@
       "month_num": 5,
       "year": 2026,
       "month_year": "May 2026",
-      "content_type": "Announcement",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "quran competition",
@@ -2308,8 +2308,8 @@
       "month_num": 5,
       "year": 2026,
       "month_year": "May 2026",
-      "content_type": "General",
-      "hadith_book": "Sahih Bukhari",
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Hadith of Ali ibn Abi Talib regarding slaughtering for other than Allah",
       "topic_tags": [
         "najasa",
@@ -2438,7 +2438,7 @@
       "year": 2026,
       "month_year": "May 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Kitab al-Fitan (Book of Trials and Tribulations)",
       "topic_tags": [
         "dajjal",
@@ -2481,7 +2481,7 @@
       "year": 2026,
       "month_year": "May 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Muslim",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Purification and Najasa",
       "topic_tags": [
         "najasa",
@@ -2524,7 +2524,7 @@
       "year": 2026,
       "month_year": "May 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Purity and Menstrual Blood",
       "topic_tags": [
         "najasah",
@@ -2533,7 +2533,7 @@
         "women's fiqh",
         "salah",
         "hadith",
-        "Islamic jurisprudence",
+        "islamic jurisprudence",
         "purity rulings"
       ],
       "suggested_title": "Islamic Jurisprudence: Ritual Impurities (Najasah) and Menstrual Blood - Hadith Evidence and Practical Application",
@@ -2696,7 +2696,7 @@
       "year": 2026,
       "month_year": "April 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Muslim",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "The narration of Ibn Sayyad regarding the Dajjal",
       "topic_tags": [
         "dajjal",
@@ -2824,8 +2824,8 @@
       "month_num": 4,
       "year": 2026,
       "month_year": "April 2026",
-      "content_type": "Mixed",
-      "hadith_book": "Sahih Muslim",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Regarding Laylat al-Qadr and the consequences of discord among companions",
       "topic_tags": [
         "brotherhood",
@@ -2868,7 +2868,7 @@
       "year": 2026,
       "month_year": "April 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sunan Abu Dawud",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Book of Purification (Taharah)",
       "topic_tags": [
         "najasa",
@@ -2910,8 +2910,8 @@
       "month_num": 4,
       "year": 2026,
       "month_year": "April 2026",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "quran interpretation",
@@ -3081,8 +3081,8 @@
       "month_num": 4,
       "year": 2026,
       "month_year": "April 2026",
-      "content_type": "Quran",
-      "hadith_book": "Sahih Bukhari",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Descriptions of Ad-Dajjal and Signs of the Hour",
       "topic_tags": [
         "day of judgment",
@@ -3167,8 +3167,8 @@
       "month_num": 4,
       "year": 2026,
       "month_year": "April 2026",
-      "content_type": "Quran",
-      "hadith_book": "Other",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "quran interpretation",
@@ -3211,7 +3211,7 @@
       "year": 2026,
       "month_year": "April 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Chapter on the Hour (Resurrection) and Signs of the Day of Judgment",
       "topic_tags": [
         "dajjal",
@@ -3253,7 +3253,7 @@
       "month_num": 4,
       "year": 2026,
       "month_year": "April 2026",
-      "content_type": "Mixed",
+      "content_type": "Hadith",
       "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Book of Purification (Kitab at-Taharah)",
       "topic_tags": [
@@ -3339,8 +3339,8 @@
       "month_num": 4,
       "year": 2026,
       "month_year": "April 2026",
-      "content_type": "Mixed",
-      "hadith_book": "Sahih Bukhari",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Book of Knowledge",
       "topic_tags": [
         "islamic knowledge",
@@ -3425,8 +3425,8 @@
       "month_num": 4,
       "year": 2026,
       "month_year": "April 2026",
-      "content_type": "Quran",
-      "hadith_book": "Sahih Bukhari",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "The Three Men in the Cave",
       "topic_tags": [
         "prophet yunus",
@@ -3555,7 +3555,7 @@
       "year": 2026,
       "month_year": "April 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Book of Fasting (Kitab al-Sawm)",
       "topic_tags": [
         "fasting",
@@ -3597,8 +3597,8 @@
       "month_num": 4,
       "year": 2026,
       "month_year": "April 2026",
-      "content_type": "Mixed",
-      "hadith_book": "Sahih Bukhari",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Hadith of Abu Hurairah regarding the erasure of sins through wudu, steps to the masjid, and waiting between prayers",
       "topic_tags": [
         "ribat",
@@ -3684,7 +3684,7 @@
       "year": 2026,
       "month_year": "April 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Accounts of companions and military expeditions",
       "topic_tags": [
         "thumamah ibn uthal",
@@ -3812,7 +3812,7 @@
       "year": 2026,
       "month_year": "April 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "General teachings on worship and striving",
       "topic_tags": [
         "hadith",
@@ -3898,7 +3898,7 @@
       "year": 2026,
       "month_year": "April 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "The prohibition of fasting on Eid days",
       "topic_tags": [
         "islamic jurisprudence",
@@ -3941,14 +3941,14 @@
       "year": 2026,
       "month_year": "March 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Fasting (Kitab al-Sawm)",
       "topic_tags": [
         "fasting",
         "sunnah",
         "hadith",
-        "Abdullah ibn Amr",
-        "prophet Muhammad",
+        "abdullah ibn amr",
+        "prophet muhammad",
         "spiritual practice",
         "moderation in worship",
         "islamic jurisprudence"
@@ -3984,7 +3984,7 @@
       "year": 2026,
       "month_year": "March 2026",
       "content_type": "Hadith",
-      "hadith_book": "Jami al-Tirmidhi",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Fasting (Kitab al-Sawm)",
       "topic_tags": [
         "voluntary fasting",
@@ -4026,8 +4026,8 @@
       "month_num": 3,
       "year": 2026,
       "month_year": "March 2026",
-      "content_type": "General",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "akhirah",
@@ -4113,7 +4113,7 @@
       "year": 2026,
       "month_year": "March 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sunan Ibn Majah",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Narration of Iyad ibn Himar",
       "topic_tags": [
         "wealth",
@@ -4155,8 +4155,8 @@
       "month_num": 3,
       "year": 2026,
       "month_year": "March 2026",
-      "content_type": "Quran",
-      "hadith_book": "Sunan Ibn Majah",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Chapters on Commanding Good and Forbidding Evil",
       "topic_tags": [
         "collective responsibility",
@@ -4285,7 +4285,7 @@
       "year": 2026,
       "month_year": "March 2026",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Friday Prayer (Salat al-Jumu'ah)",
       "topic_tags": [
         "friday prayer",
@@ -4328,7 +4328,7 @@
       "year": 2026,
       "month_year": "March 2026",
       "content_type": "Hadith",
-      "hadith_book": "Other",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "ash-sham",
@@ -4371,7 +4371,7 @@
       "year": 2026,
       "month_year": "March 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Muslim",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Book of Fasting",
       "topic_tags": [
         "ashura",
@@ -4414,7 +4414,7 @@
       "year": 2026,
       "month_year": "March 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Muslim",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Book of Fasting - Chapter on Voluntary Fasting",
       "topic_tags": [
         "voluntary fasting",
@@ -4457,7 +4457,7 @@
       "year": 2026,
       "month_year": "March 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Muslim",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Book of Fasting",
       "topic_tags": [
         "optional fasting",
@@ -4499,8 +4499,8 @@
       "month_num": 3,
       "year": 2026,
       "month_year": "March 2026",
-      "content_type": "General",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "fasting",
@@ -4629,7 +4629,7 @@
       "year": 2026,
       "month_year": "March 2026",
       "content_type": "Hadith",
-      "hadith_book": "Other",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Book of Fasting - Chapter on Recommended and Permissible Acts",
       "topic_tags": [
         "fasting",
@@ -4672,7 +4672,7 @@
       "year": 2026,
       "month_year": "March 2026",
       "content_type": "Mixed",
-      "hadith_book": null,
+      "hadith_book": "Other",
       "hadith_chapter": null,
       "topic_tags": [
         "eid prayer",
@@ -4715,7 +4715,7 @@
       "year": 2026,
       "month_year": "March 2026",
       "content_type": "Mixed",
-      "hadith_book": null,
+      "hadith_book": "Other",
       "hadith_chapter": null,
       "topic_tags": [
         "eid al-fitr",
@@ -4843,8 +4843,8 @@
       "month_num": 3,
       "year": 2026,
       "month_year": "March 2026",
-      "content_type": "Hadith",
-      "hadith_book": "Sunan Abu Dawud",
+      "content_type": "Mixed",
+      "hadith_book": "Other",
       "hadith_chapter": "Eid Prayer Regulations",
       "topic_tags": [
         "eid prayer",
@@ -4887,7 +4887,7 @@
       "year": 2026,
       "month_year": "March 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Book of Fasting - Chapter on Things Permissible for One Who is Fasting",
       "topic_tags": [
         "fasting",
@@ -5015,7 +5015,7 @@
       "year": 2026,
       "month_year": "March 2026",
       "content_type": "Hadith",
-      "hadith_book": "Other",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Book of Fasting - Chapters on Preferred and Obligatory Acts",
       "topic_tags": [
         "fasting",
@@ -5057,8 +5057,8 @@
       "month_num": 3,
       "year": 2026,
       "month_year": "March 2026",
-      "content_type": "Mixed",
-      "hadith_book": "Sahih Bukhari",
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Hadith of Ibn Abbas regarding the Prophet's practice with Gabriel in Ramadan",
       "topic_tags": [
         "ramadan",
@@ -5144,7 +5144,7 @@
       "year": 2026,
       "month_year": "March 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Book of Fasting (Kitab al-Sawm)",
       "topic_tags": [
         "fasting",
@@ -5230,7 +5230,7 @@
       "year": 2026,
       "month_year": "March 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari, Sahih Muslim",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Book of Fasting (Kitab al-Sawm)",
       "topic_tags": [
         "suhur",
@@ -5445,7 +5445,7 @@
       "year": 2026,
       "month_year": "March 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Book of Fasting",
       "topic_tags": [
         "fasting",
@@ -5455,7 +5455,7 @@
         "postpartum bleeding",
         "intercourse",
         "expiation",
-        "Islamic law"
+        "islamic law"
       ],
       "suggested_title": "Nullifiers of Fasting and the Expiation for Intercourse During Ramadan",
       "catchy_title": "Six Things That Break Your Fast",
@@ -5505,7 +5505,7 @@
       "year": 2026,
       "month_year": "March 2026",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Book of Fasting - Pillars and Invalidators of Fasting",
       "topic_tags": [
         "fasting",
@@ -5591,7 +5591,7 @@
       "year": 2026,
       "month_year": "March 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Book of Fasting",
       "topic_tags": [
         "fasting",
@@ -5677,7 +5677,7 @@
       "year": 2026,
       "month_year": "March 2026",
       "content_type": "Hadith",
-      "hadith_book": "Other",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on the Pillars of Fasting",
       "topic_tags": [
         "fasting",
@@ -5934,8 +5934,8 @@
       "month_num": 3,
       "year": 2026,
       "month_year": "March 2026",
-      "content_type": "General",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "knowledge",
@@ -6020,8 +6020,8 @@
       "month_num": 3,
       "year": 2026,
       "month_year": "March 2026",
-      "content_type": "Mixed",
-      "hadith_book": "Sahih Bukhari",
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Book of Fasting (Kitab al-Sawm)",
       "topic_tags": [
         "fasting",
@@ -6063,8 +6063,8 @@
       "month_num": 3,
       "year": 2026,
       "month_year": "March 2026",
-      "content_type": "General",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "fasting",
@@ -6235,8 +6235,8 @@
       "month_num": 3,
       "year": 2026,
       "month_year": "March 2026",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "fasting",
@@ -6321,8 +6321,8 @@
       "month_num": 3,
       "year": 2026,
       "month_year": "March 2026",
-      "content_type": "General",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "fasting",
@@ -7354,7 +7354,7 @@
       "year": 2026,
       "month_year": "February 2026",
       "content_type": "Hadith",
-      "hadith_book": "Al-Wajeez",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Chapter on Fasting (Kitab al-Sawm)",
       "topic_tags": [
         "fasting",
@@ -7439,8 +7439,8 @@
       "month_num": 2,
       "year": 2026,
       "month_year": "February 2026",
-      "content_type": "Mixed",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "ramadan",
@@ -7525,8 +7525,8 @@
       "month_num": 2,
       "year": 2026,
       "month_year": "February 2026",
-      "content_type": "Mixed",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "islamic leadership",
@@ -7567,8 +7567,8 @@
       "month_num": 2,
       "year": 2026,
       "month_year": "February 2026",
-      "content_type": "General",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "mudahana",
@@ -7610,8 +7610,8 @@
       "month_num": 2,
       "year": 2026,
       "month_year": "February 2026",
-      "content_type": "General",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "paradise",
@@ -7696,8 +7696,8 @@
       "month_num": 2,
       "year": 2026,
       "month_year": "February 2026",
-      "content_type": "General",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "sin expiation",
@@ -7739,8 +7739,8 @@
       "month_num": 2,
       "year": 2026,
       "month_year": "February 2026",
-      "content_type": "General",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "monotheism",
@@ -7782,8 +7782,8 @@
       "month_num": 2,
       "year": 2026,
       "month_year": "February 2026",
-      "content_type": "General",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "quran",
@@ -7824,8 +7824,8 @@
       "month_num": 2,
       "year": 2026,
       "month_year": "February 2026",
-      "content_type": "General",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "ramadan preparation",
@@ -7902,7 +7902,7 @@
       "year": 2026,
       "month_year": "February 2026",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter 7 (Chapter on Certainty/Al-Yaqeen)",
       "topic_tags": [
         "tawakkul",
@@ -7987,8 +7987,8 @@
       "month_num": 2,
       "year": 2026,
       "month_year": "February 2026",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "quran",
@@ -8031,7 +8031,7 @@
       "year": 2026,
       "month_year": "February 2026",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "The Virtue of Friday and Its Obligation; Increased Remembrance of Allah After Friday",
       "topic_tags": [
         "friday prayer",
@@ -8074,7 +8074,7 @@
       "year": 2026,
       "month_year": "February 2026",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Certainty and Trust in Allah (Bab al-Yaqeen wa al-Tawakkul)",
       "topic_tags": [
         "certainty",
@@ -8117,7 +8117,7 @@
       "year": 2026,
       "month_year": "February 2026",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter of Righteousness (Taqwa)",
       "topic_tags": [
         "obedience to authority",
@@ -8160,7 +8160,7 @@
       "year": 2026,
       "month_year": "February 2026",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter of Reverence of Allah",
       "topic_tags": [
         "oaths",
@@ -8202,8 +8202,8 @@
       "month_num": 2,
       "year": 2026,
       "month_year": "February 2026",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "surah al-qalam",
@@ -8246,7 +8246,7 @@
       "year": 2026,
       "month_year": "February 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Muslim",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter of Tawa, Hadith 71",
       "topic_tags": [
         "supplication",
@@ -8289,7 +8289,7 @@
       "year": 2026,
       "month_year": "February 2026",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter 6",
       "topic_tags": [
         "knowledge",
@@ -8331,7 +8331,7 @@
       "month_num": 1,
       "year": 2026,
       "month_year": "January 2026",
-      "content_type": "Mixed",
+      "content_type": "Hadith",
       "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "The virtues of gathering for Quranic recitation and study",
       "topic_tags": [
@@ -8374,8 +8374,8 @@
       "month_num": 1,
       "year": 2026,
       "month_year": "January 2026",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "surah al-qalam",
@@ -8418,7 +8418,7 @@
       "year": 2026,
       "month_year": "January 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "virtue",
@@ -8504,7 +8504,7 @@
       "year": 2026,
       "month_year": "January 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Muslim",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter 210: The Virtues and Merits of the Day of Jumu'ah",
       "topic_tags": [
         "jumu'ah",
@@ -8546,8 +8546,8 @@
       "month_num": 1,
       "year": 2026,
       "month_year": "January 2026",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "surah al-qalam",
@@ -8589,8 +8589,8 @@
       "month_num": 1,
       "year": 2026,
       "month_year": "January 2026",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "quran",
@@ -8633,7 +8633,7 @@
       "year": 2026,
       "month_year": "January 2026",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter 6 - The Chapter of Taqwa (Consciousness of Allah's Observation)",
       "topic_tags": [
         "taqwa",
@@ -8676,7 +8676,7 @@
       "year": 2026,
       "month_year": "January 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sunan Abu Dawud",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter of Vigilance of Allah's Observation",
       "topic_tags": [
         "privacy rights",
@@ -8719,7 +8719,7 @@
       "year": 2026,
       "month_year": "January 2026",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter of Vigilance of Allah's Observation (Fifth Chapter)",
       "topic_tags": [
         "hadith authenticity",
@@ -8762,7 +8762,7 @@
       "year": 2026,
       "month_year": "January 2026",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter 5 - On Vigilance of Allah's Observation",
       "topic_tags": [
         "hadith authentication",
@@ -8805,7 +8805,7 @@
       "year": 2026,
       "month_year": "January 2026",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter of Vigilance/Taqwa (Narration 66)",
       "topic_tags": [
         "hadith authentication",
@@ -8847,8 +8847,8 @@
       "month_num": 1,
       "year": 2026,
       "month_year": "January 2026",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "surah al-noon",
@@ -8934,7 +8934,7 @@
       "year": 2026,
       "month_year": "January 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Muslim",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter 210 - The Virtues of the Day of Friday (Yawm al-Jumu'ah)",
       "topic_tags": [
         "creation of adam",
@@ -8976,8 +8976,8 @@
       "month_num": 1,
       "year": 2026,
       "month_year": "January 2026",
-      "content_type": "Quran",
-      "hadith_book": "Sahih Bukhari",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Various chapters including those on purification and virtues",
       "topic_tags": [
         "quran tafsir",
@@ -9020,8 +9020,8 @@
       "month_num": 1,
       "year": 2026,
       "month_year": "January 2026",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "zakat",
@@ -9064,7 +9064,7 @@
       "year": 2026,
       "month_year": "January 2026",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter of Vigilance of Allah's Observation (Muraqaba)",
       "topic_tags": [
         "gratitude",
@@ -9107,7 +9107,7 @@
       "year": 2026,
       "month_year": "January 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter of Vigilance of Allah's Observation",
       "topic_tags": [
         "hadith",
@@ -9150,7 +9150,7 @@
       "year": 2026,
       "month_year": "January 2026",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter of Vigilance of Allah's Observation (Taqwa)",
       "topic_tags": [
         "gratitude",
@@ -9192,8 +9192,8 @@
       "month_num": 1,
       "year": 2026,
       "month_year": "January 2026",
-      "content_type": "Mixed",
-      "hadith_book": "Other",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "The hadith of the companion who prayed without proper form and was instructed by the Prophet to repeat his prayer",
       "topic_tags": [
         "surah al-muzzammil",
@@ -9236,7 +9236,7 @@
       "year": 2026,
       "month_year": "January 2026",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter of Vigilance of Allah's Observation",
       "topic_tags": [
         "hadith analysis",
@@ -9279,7 +9279,7 @@
       "year": 2026,
       "month_year": "January 2026",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter of Vigilance of Allah's Observation (Taqwa)",
       "topic_tags": [
         "taqwa",
@@ -9321,8 +9321,8 @@
       "month_num": 1,
       "year": 2026,
       "month_year": "January 2026",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "surah al-muzzammil",
@@ -9365,7 +9365,7 @@
       "year": 2026,
       "month_year": "January 2026",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter of Vigilance of Allah's Observation",
       "topic_tags": [
         "companions",
@@ -9451,7 +9451,7 @@
       "year": 2026,
       "month_year": "January 2026",
       "content_type": "Hadith",
-      "hadith_book": "Other",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Abdullah ibn Abbas teaching on decree and free will",
       "topic_tags": [
         "qadr",
@@ -9494,7 +9494,7 @@
       "year": 2026,
       "month_year": "January 2026",
       "content_type": "Hadith",
-      "hadith_book": "Other",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter of Vigilance of Allah's Observation, 62nd narration",
       "topic_tags": [
         "hadith",
@@ -9536,8 +9536,8 @@
       "month_num": 1,
       "year": 2026,
       "month_year": "January 2026",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "naskh",
@@ -9580,7 +9580,7 @@
       "year": 2026,
       "month_year": "January 2026",
       "content_type": "Hadith",
-      "hadith_book": "Other",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter of Vigilance of Allah (Taqwa)",
       "topic_tags": [
         "hadith",
@@ -9623,7 +9623,7 @@
       "year": 2026,
       "month_year": "January 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Muslim",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter of Vigilance of Allah's Observation, Narration of Ibn Abbas",
       "topic_tags": [
         "divine decree",
@@ -9665,8 +9665,8 @@
       "month_num": 1,
       "year": 2026,
       "month_year": "January 2026",
-      "content_type": "Mixed",
-      "hadith_book": "Sahih Bukhari",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Chapters on Prayer and Night Prayer (Qiyam)",
       "topic_tags": [
         "night prayer",
@@ -9709,7 +9709,7 @@
       "year": 2026,
       "month_year": "January 2026",
       "content_type": "Hadith",
-      "hadith_book": "Other",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "hadith of ibn abbas",
@@ -9752,7 +9752,7 @@
       "year": 2026,
       "month_year": "January 2026",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter of Vigilance (Taqwa)",
       "topic_tags": [
         "tawheed",
@@ -9794,8 +9794,8 @@
       "month_num": 1,
       "year": 2026,
       "month_year": "January 2026",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "quran",
@@ -9838,7 +9838,7 @@
       "year": 2026,
       "month_year": "January 2026",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter 5 - The Chapter of Vigilance of Allah's Observation (Narration 62)",
       "topic_tags": [
         "abdullah ibn abbas",
@@ -9880,8 +9880,8 @@
       "month_num": 1,
       "year": 2026,
       "month_year": "January 2026",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "straight path",
@@ -9923,8 +9923,8 @@
       "month_num": 1,
       "year": 2026,
       "month_year": "January 2026",
-      "content_type": "Mixed",
-      "hadith_book": "Sahih Muslim",
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on the Virtues of Friday",
       "topic_tags": [
         "friday prayer",
@@ -9966,8 +9966,8 @@
       "month_num": 1,
       "year": 2026,
       "month_year": "January 2026",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "quran guidance",
@@ -10026,8 +10026,8 @@
       "month_num": 1,
       "year": 2026,
       "month_year": "January 2026",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "quran exegesis",
@@ -10070,7 +10070,7 @@
       "year": 2026,
       "month_year": "January 2026",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter 5 - On Vigilance of Allah's Observation",
       "topic_tags": [
         "abdullah ibn abbas",
@@ -10155,8 +10155,8 @@
       "month_num": 1,
       "year": 2026,
       "month_year": "January 2026",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "quran",
@@ -10199,7 +10199,7 @@
       "year": 2026,
       "month_year": "January 2026",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter of Vigilance of Allah's Observation",
       "topic_tags": [
         "hadith authentication",
@@ -10241,8 +10241,8 @@
       "month_num": 1,
       "year": 2026,
       "month_year": "January 2026",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "surah al-muzammil",
@@ -10284,8 +10284,8 @@
       "month_num": 1,
       "year": 2026,
       "month_year": "January 2026",
-      "content_type": "Mixed",
-      "hadith_book": "Riyadul Saliheen",
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "companions",
@@ -10327,8 +10327,8 @@
       "month_num": 1,
       "year": 2026,
       "month_year": "January 2026",
-      "content_type": "Mixed",
-      "hadith_book": "Riyadul Saliheen",
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter of Vigilance (Taqwa)",
       "topic_tags": [
         "muad ibn jabal",
@@ -10413,8 +10413,8 @@
       "month_num": 1,
       "year": 2026,
       "month_year": "January 2026",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "pharaoh",
@@ -10473,8 +10473,8 @@
       "month_num": 1,
       "year": 2026,
       "month_year": "January 2026",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "quran exegesis",
@@ -10517,7 +10517,7 @@
       "year": 2026,
       "month_year": "January 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Muslim",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Book of Virtues, Chapter on the Virtues and Merits of Jumu'ah (Chapter 210)",
       "topic_tags": [
         "hadith methodology",
@@ -10576,8 +10576,8 @@
       "month_num": 1,
       "year": 2026,
       "month_year": "January 2026",
-      "content_type": "General",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "hadith methodology",
@@ -10619,8 +10619,8 @@
       "month_num": 12,
       "year": 2025,
       "month_year": "December 2025",
-      "content_type": "Quran",
-      "hadith_book": "Sahih Bukhari",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Various chapters related to the Day of Judgment and the Hour",
       "topic_tags": [
         "day of judgment",
@@ -10663,7 +10663,7 @@
       "year": 2025,
       "month_year": "December 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on the three sentences of the Prophet",
       "topic_tags": [
         "hadith",
@@ -10705,8 +10705,8 @@
       "month_num": 12,
       "year": 2025,
       "month_year": "December 2025",
-      "content_type": "General",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "good deeds",
@@ -10749,7 +10749,7 @@
       "year": 2025,
       "month_year": "December 2025",
       "content_type": "Hadith",
-      "hadith_book": "Other",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Vigilance (Taqwa) and the Narrations of Abu Dharr and Muadh ibn Jabal",
       "topic_tags": [
         "hadith",
@@ -10791,8 +10791,8 @@
       "month_num": 12,
       "year": 2025,
       "month_year": "December 2025",
-      "content_type": "Quran",
-      "hadith_book": "Other",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "quranic exegesis",
@@ -10834,8 +10834,8 @@
       "month_num": 12,
       "year": 2025,
       "month_year": "December 2025",
-      "content_type": "Quran",
-      "hadith_book": "Sahih Muslim",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "quran exegesis",
@@ -10878,7 +10878,7 @@
       "year": 2025,
       "month_year": "December 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Taqwa (God-consciousness) and Monitoring of Allah",
       "topic_tags": [
         "iman",
@@ -10920,8 +10920,8 @@
       "month_num": 12,
       "year": 2025,
       "month_year": "December 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "quran chapter 73",
@@ -10964,7 +10964,7 @@
       "year": 2025,
       "month_year": "December 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Muslim",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "The Hadith of Gabriel (Jibreel) - Book of Faith (Iman)",
       "topic_tags": [
         "hadith of gabriel",
@@ -11006,8 +11006,8 @@
       "month_num": 12,
       "year": 2025,
       "month_year": "December 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "patience",
@@ -11049,8 +11049,8 @@
       "month_num": 12,
       "year": 2025,
       "month_year": "December 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "tafsir",
@@ -11093,7 +11093,7 @@
       "year": 2025,
       "month_year": "December 2025",
       "content_type": "Hadith",
-      "hadith_book": "Other",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Signs of the Hour (Yawm al-Qiyamah)",
       "topic_tags": [
         "signs of the hour",
@@ -11135,7 +11135,7 @@
       "year": 2025,
       "month_year": "December 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Vigilance/Taqwa of Allah",
       "topic_tags": [
         "hadith",
@@ -11221,7 +11221,7 @@
       "year": 2025,
       "month_year": "December 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Ihsan/Excellence in Worship",
       "topic_tags": [
         "ihsan",
@@ -11263,8 +11263,8 @@
       "month_num": 12,
       "year": 2025,
       "month_year": "December 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "tawheed",
@@ -11307,7 +11307,7 @@
       "year": 2025,
       "month_year": "December 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Muslim",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on the explanation of Islam, Iman, and Ihsan",
       "topic_tags": [
         "islam",
@@ -11349,8 +11349,8 @@
       "month_num": 12,
       "year": 2025,
       "month_year": "December 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "quranic exegesis",
@@ -11409,7 +11409,7 @@
       "year": 2025,
       "month_year": "December 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Muslim",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Book of Faith (Kitab al-Iman), Chapter on Vigilance",
       "topic_tags": [
         "hadith",
@@ -11495,7 +11495,7 @@
       "year": 2025,
       "month_year": "December 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter 5: On Vigilance of Allah (Taqwa)",
       "topic_tags": [
         "adab",
@@ -11537,8 +11537,8 @@
       "month_num": 12,
       "year": 2025,
       "month_year": "December 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "quran",
@@ -11580,8 +11580,8 @@
       "month_num": 12,
       "year": 2025,
       "month_year": "December 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "surah al-muzzammil",
@@ -11624,7 +11624,7 @@
       "year": 2025,
       "month_year": "December 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Muslim",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "The Chapter on Vigilance and Awareness (Taqwa)",
       "topic_tags": [
         "hadith of jibril",
@@ -11667,7 +11667,7 @@
       "year": 2025,
       "month_year": "December 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Muslim",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter of Taqwa (Vigilance and Consciousness of Allah)",
       "topic_tags": [
         "hadith methodology",
@@ -11709,8 +11709,8 @@
       "month_num": 12,
       "year": 2025,
       "month_year": "December 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "god's attributes",
@@ -11753,7 +11753,7 @@
       "year": 2025,
       "month_year": "December 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter of Truth and Truthfulness",
       "topic_tags": [
         "sales transactions",
@@ -11795,7 +11795,7 @@
       "month_num": 12,
       "year": 2025,
       "month_year": "December 2025",
-      "content_type": "Quran",
+      "content_type": "Hadith",
       "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Hasten to do good deeds before six signs of the hour",
       "topic_tags": [
@@ -11839,7 +11839,7 @@
       "year": 2025,
       "month_year": "December 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "spoils of war",
@@ -11881,8 +11881,8 @@
       "month_num": 12,
       "year": 2025,
       "month_year": "December 2025",
-      "content_type": "Quran",
-      "hadith_book": "Sahih Bukhari",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Chapter on Salah (Prayer) and Fasting; Narrations of Anas and Aisha",
       "topic_tags": [
         "night prayer",
@@ -11925,7 +11925,7 @@
       "year": 2025,
       "month_year": "December 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Truthfulness and Truth",
       "topic_tags": [
         "hadith",
@@ -11968,7 +11968,7 @@
       "year": 2025,
       "month_year": "December 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Truthfulness and Sincerity",
       "topic_tags": [
         "hadith",
@@ -12010,8 +12010,8 @@
       "month_num": 12,
       "year": 2025,
       "month_year": "December 2025",
-      "content_type": "Quran",
-      "hadith_book": "Sahih Bukhari",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Chapter on Knowledge Before Speech and Action (Kitab al-Ilm - Bab al-Ilm Qabl al-Qawl wa-al-Amal)",
       "topic_tags": [
         "surah al-muzzammil",
@@ -12053,8 +12053,8 @@
       "month_num": 12,
       "year": 2025,
       "month_year": "December 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "surah muzammil",
@@ -12096,8 +12096,8 @@
       "month_num": 12,
       "year": 2025,
       "month_year": "December 2025",
-      "content_type": "General",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "truthfulness",
@@ -12140,7 +12140,7 @@
       "year": 2025,
       "month_year": "December 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Muslim",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "First narration (introduction/opening chapter with the hadith of Jibril)",
       "topic_tags": [
         "bid'ah",
@@ -12182,8 +12182,8 @@
       "month_num": 12,
       "year": 2025,
       "month_year": "December 2025",
-      "content_type": "Mixed",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "quranic references",
@@ -12221,8 +12221,8 @@
       "month_num": 12,
       "year": 2025,
       "month_year": "December 2025",
-      "content_type": "Mixed",
-      "hadith_book": "Sahih Bukhari",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Book of Destiny/Divine Decree",
       "topic_tags": [
         "divine decree",
@@ -12264,8 +12264,8 @@
       "month_num": 12,
       "year": 2025,
       "month_year": "December 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "free will",
@@ -12307,8 +12307,8 @@
       "month_num": 12,
       "year": 2025,
       "month_year": "December 2025",
-      "content_type": "Mixed",
-      "hadith_book": "Other",
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Truthfulness (Suduk) and Truth",
       "topic_tags": [
         "truthfulness",
@@ -12350,8 +12350,8 @@
       "month_num": 12,
       "year": 2025,
       "month_year": "December 2025",
-      "content_type": "Mixed",
-      "hadith_book": "Sahih Bukhari",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "The hadith regarding children being born upon Fitrah",
       "topic_tags": [
         "fitrah",
@@ -12394,7 +12394,7 @@
       "year": 2025,
       "month_year": "December 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on the virtue of Friday",
       "topic_tags": [
         "friday",
@@ -12436,8 +12436,8 @@
       "month_num": 12,
       "year": 2025,
       "month_year": "December 2025",
-      "content_type": "Mixed",
-      "hadith_book": "Sahih Bukhari",
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "quranic grammar",
@@ -12479,8 +12479,8 @@
       "month_num": 12,
       "year": 2025,
       "month_year": "December 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "quran",
@@ -12522,8 +12522,8 @@
       "month_num": 12,
       "year": 2025,
       "month_year": "December 2025",
-      "content_type": "General",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "truthfulness",
@@ -12566,7 +12566,7 @@
       "year": 2025,
       "month_year": "December 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter of Patience",
       "topic_tags": [
         "battle strategy",
@@ -12608,8 +12608,8 @@
       "month_num": 11,
       "year": 2025,
       "month_year": "November 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "quran",
@@ -12652,7 +12652,7 @@
       "year": 2025,
       "month_year": "November 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Muslim",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Spoils of War (al-Fai) and Distribution of Booty",
       "topic_tags": [
         "battle of hunain",
@@ -12694,8 +12694,8 @@
       "month_num": 11,
       "year": 2025,
       "month_year": "November 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "day of judgment",
@@ -12738,7 +12738,7 @@
       "year": 2025,
       "month_year": "November 2025",
       "content_type": "Hadith",
-      "hadith_book": "Other",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Battle of Hunayn - Distribution of Spoils",
       "topic_tags": [
         "battle of hunayn",
@@ -12823,8 +12823,8 @@
       "month_num": 11,
       "year": 2025,
       "month_year": "November 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "tafsir",
@@ -12883,8 +12883,8 @@
       "month_num": 11,
       "year": 2025,
       "month_year": "November 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "quran interpretation",
@@ -12927,7 +12927,7 @@
       "year": 2025,
       "month_year": "November 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on the Virtues of Friday (Yawm al-Jumu'ah)",
       "topic_tags": [
         "friday prayer",
@@ -12970,7 +12970,7 @@
       "year": 2025,
       "month_year": "November 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Patience",
       "topic_tags": [
         "oppressive leadership",
@@ -13012,8 +13012,8 @@
       "month_num": 11,
       "year": 2025,
       "month_year": "November 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "surah al-muddaththir",
@@ -13056,7 +13056,7 @@
       "year": 2025,
       "month_year": "November 2025",
       "content_type": "Hadith",
-      "hadith_book": "Other",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter of Patience",
       "topic_tags": [
         "patience",
@@ -13116,7 +13116,7 @@
       "year": 2025,
       "month_year": "November 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Patience (Sabr)",
       "topic_tags": [
         "anger management",
@@ -13158,8 +13158,8 @@
       "month_num": 11,
       "year": 2025,
       "month_year": "November 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "surah al-muddaththir",
@@ -13202,7 +13202,7 @@
       "year": 2025,
       "month_year": "November 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter of Patience, 48th narration",
       "topic_tags": [
         "anger management",
@@ -13244,8 +13244,8 @@
       "month_num": 11,
       "year": 2025,
       "month_year": "November 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "quran interpretation",
@@ -13288,7 +13288,7 @@
       "year": 2025,
       "month_year": "November 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Anger and Forbearance",
       "topic_tags": [
         "anger",
@@ -13373,8 +13373,8 @@
       "month_num": 11,
       "year": 2025,
       "month_year": "November 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "surah al-muddaththir",
@@ -13417,7 +13417,7 @@
       "year": 2025,
       "month_year": "November 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on the Virtues of Friday (Jumu'ah)",
       "topic_tags": [
         "friday prayer",
@@ -13460,7 +13460,7 @@
       "year": 2025,
       "month_year": "November 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Muslim",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Forty Hadith of Nawawi (42 narrations)",
       "topic_tags": [
         "hadith",
@@ -13503,7 +13503,7 @@
       "year": 2025,
       "month_year": "November 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Patience (Bab al-Sabr)",
       "topic_tags": [
         "patience",
@@ -13546,7 +13546,7 @@
       "year": 2025,
       "month_year": "November 2025",
       "content_type": "Hadith",
-      "hadith_book": "Other",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "priorities",
@@ -13589,7 +13589,7 @@
       "year": 2025,
       "month_year": "November 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "hadith",
@@ -13632,7 +13632,7 @@
       "year": 2025,
       "month_year": "November 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Patience",
       "topic_tags": [
         "patience",
@@ -13675,7 +13675,7 @@
       "year": 2025,
       "month_year": "November 2025",
       "content_type": "Hadith",
-      "hadith_book": "Other",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "straight path",
@@ -13718,7 +13718,7 @@
       "year": 2025,
       "month_year": "November 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Patience (Sabr)",
       "topic_tags": [
         "hadith",
@@ -13761,7 +13761,7 @@
       "year": 2025,
       "month_year": "November 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "The Book of Tawheed (Islamic Monotheism)",
       "topic_tags": [
         "99 names of allah",
@@ -13802,8 +13802,8 @@
       "month_num": 11,
       "year": 2025,
       "month_year": "November 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "surah al-hadid",
@@ -13845,7 +13845,7 @@
       "year": 2025,
       "month_year": "November 2025",
       "content_type": "Hadith",
-      "hadith_book": "Other",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter 41, authored by Noi",
       "topic_tags": [
         "patience",
@@ -13931,7 +13931,7 @@
       "year": 2025,
       "month_year": "November 2025",
       "content_type": "Hadith",
-      "hadith_book": "Other",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter 210 - The Virtues of the Day of Jumu'ah",
       "topic_tags": [
         "jumu'ah prayer",
@@ -13973,8 +13973,8 @@
       "month_num": 11,
       "year": 2025,
       "month_year": "November 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "quranic analogies",
@@ -14017,7 +14017,7 @@
       "year": 2025,
       "month_year": "November 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter of Patience, Narration 41",
       "topic_tags": [
         "patience",
@@ -14059,8 +14059,8 @@
       "month_num": 11,
       "year": 2025,
       "month_year": "November 2025",
-      "content_type": "Quran",
-      "hadith_book": "Sahih Bukhari",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Book of Interpretation of Dreams",
       "topic_tags": [
         "quranic exegesis",
@@ -14103,8 +14103,8 @@
       "month_num": 11,
       "year": 2025,
       "month_year": "November 2025",
-      "content_type": "General",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "companions of the prophet",
@@ -14147,7 +14147,7 @@
       "year": 2025,
       "month_year": "November 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Patience and Expiation of Sins",
       "topic_tags": [
         "hadith",
@@ -14190,7 +14190,7 @@
       "year": 2025,
       "month_year": "November 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Patience and Acceptance of Divine Decree",
       "topic_tags": [
         "hadith qudsi",
@@ -14233,7 +14233,7 @@
       "year": 2025,
       "month_year": "November 2025",
       "content_type": "Hadith",
-      "hadith_book": "Other",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "amulets",
@@ -14275,8 +14275,8 @@
       "month_num": 11,
       "year": 2025,
       "month_year": "November 2025",
-      "content_type": "General",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "fundamentals of islam",
@@ -14319,7 +14319,7 @@
       "year": 2025,
       "month_year": "November 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Patience and Acceptance of Divine Decree",
       "topic_tags": [
         "patience",
@@ -14361,8 +14361,8 @@
       "month_num": 11,
       "year": 2025,
       "month_year": "November 2025",
-      "content_type": "Quran",
-      "hadith_book": "Sahih Muslim",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "hellfire",
@@ -14405,7 +14405,7 @@
       "year": 2025,
       "month_year": "November 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter of Patience, 29th narration",
       "topic_tags": [
         "zayd ibn muhammad",
@@ -14490,8 +14490,8 @@
       "month_num": 11,
       "year": 2025,
       "month_year": "November 2025",
-      "content_type": "General",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "quranic revelation",
@@ -14534,7 +14534,7 @@
       "year": 2025,
       "month_year": "November 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Friday Prayer (Salat al-Jumu'ah)",
       "topic_tags": [
         "friday prayer",
@@ -14576,7 +14576,7 @@
       "year": 2025,
       "month_year": "November 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Muslim",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "hypocrisy",
@@ -14619,7 +14619,7 @@
       "year": 2025,
       "month_year": "November 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Patience, Narration 30-31",
       "topic_tags": [
         "women and cemeteries",
@@ -14679,7 +14679,7 @@
       "year": 2025,
       "month_year": "November 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter of Patience",
       "topic_tags": [
         "patience",
@@ -14721,8 +14721,8 @@
       "month_num": 11,
       "year": 2025,
       "month_year": "November 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "quran commentary",
@@ -14765,7 +14765,7 @@
       "year": 2025,
       "month_year": "November 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Patience",
       "topic_tags": [
         "patience",
@@ -14808,7 +14808,7 @@
       "year": 2025,
       "month_year": "November 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter of Patience",
       "topic_tags": [
         "patience",
@@ -14851,7 +14851,7 @@
       "year": 2025,
       "month_year": "November 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "The Book of Adhan (Call to Prayer)",
       "topic_tags": [
         "adhan",
@@ -14893,8 +14893,8 @@
       "month_num": 10,
       "year": 2025,
       "month_year": "October 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "surah al-muddaththir",
@@ -14937,7 +14937,7 @@
       "year": 2025,
       "month_year": "November 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter of Patience",
       "topic_tags": [
         "trials and tribulation",
@@ -15023,7 +15023,7 @@
       "year": 2025,
       "month_year": "October 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter 210 - Merits, Virtues, Rulings and Etiquettes of the Day of Friday",
       "topic_tags": [
         "friday prayer",
@@ -15065,8 +15065,8 @@
       "month_num": 10,
       "year": 2025,
       "month_year": "October 2025",
-      "content_type": "Quran",
-      "hadith_book": "Other",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "abu lahab",
@@ -15108,8 +15108,8 @@
       "month_num": 10,
       "year": 2025,
       "month_year": "October 2025",
-      "content_type": "Mixed",
-      "hadith_book": "Sahih Muslim",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Battle of the Trench (Ghazwat al-Khandaq)",
       "topic_tags": [
         "independent thinking",
@@ -15152,7 +15152,7 @@
       "year": 2025,
       "month_year": "October 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Muslim",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "gratitude",
@@ -15195,7 +15195,7 @@
       "year": 2025,
       "month_year": "October 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter of Patience",
       "topic_tags": [
         "patience",
@@ -15237,8 +15237,8 @@
       "month_num": 10,
       "year": 2025,
       "month_year": "October 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "quran tafsir",
@@ -15281,7 +15281,7 @@
       "year": 2025,
       "month_year": "October 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "The seven people who will be shaded by Allah's throne",
       "topic_tags": [
         "day of judgment",
@@ -15325,7 +15325,7 @@
       "year": 2025,
       "month_year": "October 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Muslim",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter of Patience",
       "topic_tags": [
         "hadith",
@@ -15368,7 +15368,7 @@
       "year": 2025,
       "month_year": "October 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter of Patience (25th chapter), First narration of chapter 25",
       "topic_tags": [
         "quran",
@@ -15453,8 +15453,8 @@
       "month_num": 10,
       "year": 2025,
       "month_year": "October 2025",
-      "content_type": "Quran",
-      "hadith_book": "Sahih Muslim",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Kitab Al-Fitan (Book of Trials/Tribulations) and related eschatological chapters",
       "topic_tags": [
         "day of judgment",
@@ -15497,7 +15497,7 @@
       "year": 2025,
       "month_year": "October 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Patience, Narration 25",
       "topic_tags": [
         "prayer",
@@ -15540,7 +15540,7 @@
       "year": 2025,
       "month_year": "October 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Patience, Narration 25",
       "topic_tags": [
         "subhan allah",
@@ -15582,8 +15582,8 @@
       "month_num": 10,
       "year": 2025,
       "month_year": "October 2025",
-      "content_type": "Mixed",
-      "hadith_book": "Sahih Bukhari",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Descriptions of the Day of Judgment and the Hereafter",
       "topic_tags": [
         "day of judgment",
@@ -15626,7 +15626,7 @@
       "year": 2025,
       "month_year": "October 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter of Patience; The 40 Narrations (Arbaeen)",
       "topic_tags": [
         "alhamdulillah",
@@ -15669,7 +15669,7 @@
       "year": 2025,
       "month_year": "October 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Patience (Bab Al-Sabr)",
       "topic_tags": [
         "purification",
@@ -15711,8 +15711,8 @@
       "month_num": 10,
       "year": 2025,
       "month_year": "October 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "islamic definition",
@@ -15754,8 +15754,8 @@
       "month_num": 10,
       "year": 2025,
       "month_year": "October 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "patience",
@@ -15798,7 +15798,7 @@
       "year": 2025,
       "month_year": "October 2025",
       "content_type": "Hadith",
-      "hadith_book": "Other",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Prophecies about Muslim weakness and the foam analogy",
       "topic_tags": [
         "islamic state",
@@ -15840,8 +15840,8 @@
       "month_num": 10,
       "year": 2025,
       "month_year": "October 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "patience",
@@ -15883,8 +15883,8 @@
       "month_num": 10,
       "year": 2025,
       "month_year": "October 2025",
-      "content_type": "General",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "definition of islam",
@@ -15969,8 +15969,8 @@
       "month_num": 10,
       "year": 2025,
       "month_year": "October 2025",
-      "content_type": "Quran",
-      "hadith_book": "Sahih Bukhari",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Various hadith discussions including the instruction to Mu'adh ibn Jabal and accounts of companions",
       "topic_tags": [
         "da'wah",
@@ -16013,7 +16013,7 @@
       "year": 2025,
       "month_year": "October 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "210",
       "topic_tags": [
         "jumu'ah",
@@ -16054,8 +16054,8 @@
       "month_num": 10,
       "year": 2025,
       "month_year": "October 2025",
-      "content_type": "Mixed",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "patience",
@@ -16097,8 +16097,8 @@
       "month_num": 10,
       "year": 2025,
       "month_year": "October 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "quran exegesis",
@@ -16140,8 +16140,8 @@
       "month_num": 10,
       "year": 2025,
       "month_year": "October 2025",
-      "content_type": "Quran",
-      "hadith_book": "Riyadul Saliheen",
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "patience",
@@ -16183,8 +16183,8 @@
       "month_num": 10,
       "year": 2025,
       "month_year": "October 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "patience",
@@ -16226,8 +16226,8 @@
       "month_num": 10,
       "year": 2025,
       "month_year": "October 2025",
-      "content_type": "Mixed",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "patience",
@@ -16269,8 +16269,8 @@
       "month_num": 10,
       "year": 2025,
       "month_year": "October 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "quran interpretation",
@@ -16312,8 +16312,8 @@
       "month_num": 10,
       "year": 2025,
       "month_year": "October 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "patience",
@@ -16356,7 +16356,7 @@
       "year": 2025,
       "month_year": "October 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Muslim",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Prayer and Sutra (barrier during prayer)",
       "topic_tags": [
         "sutra",
@@ -16398,8 +16398,8 @@
       "month_num": 10,
       "year": 2025,
       "month_year": "October 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "patience",
@@ -16441,8 +16441,8 @@
       "month_num": 10,
       "year": 2025,
       "month_year": "October 2025",
-      "content_type": "General",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "prophets",
@@ -16528,7 +16528,7 @@
       "year": 2025,
       "month_year": "October 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Muslim",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter 210 - The Merits of the Day of Jumu'ah",
       "topic_tags": [
         "hadith",
@@ -16571,7 +16571,7 @@
       "year": 2025,
       "month_year": "October 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Book of Revelation, Narrations about the First Revelation",
       "topic_tags": [
         "revelation",
@@ -16614,7 +16614,7 @@
       "year": 2025,
       "month_year": "October 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter regarding the merits of patience",
       "topic_tags": [
         "patience",
@@ -16656,8 +16656,8 @@
       "month_num": 10,
       "year": 2025,
       "month_year": "October 2025",
-      "content_type": "Quran",
-      "hadith_book": "Sahih Muslim",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Related hadith about Abu Jahl and the Prophet's prayer",
       "topic_tags": [
         "quran tafsir",
@@ -16700,7 +16700,7 @@
       "year": 2025,
       "month_year": "October 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Repentance - Narration 24",
       "topic_tags": [
         "repentance",
@@ -16759,8 +16759,8 @@
       "month_num": 10,
       "year": 2025,
       "month_year": "October 2025",
-      "content_type": "Mixed",
-      "hadith_book": "Riyadul Saliheen",
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter of Repentance (final narration)",
       "topic_tags": [
         "hadith methodology",
@@ -16803,7 +16803,7 @@
       "year": 2025,
       "month_year": "October 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter of Repentance",
       "topic_tags": [
         "repentance",
@@ -16846,7 +16846,7 @@
       "year": 2025,
       "month_year": "October 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Muslim",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Related to Surah At-Takathur (Chapter 102)",
       "topic_tags": [
         "hadith",
@@ -16889,7 +16889,7 @@
       "year": 2025,
       "month_year": "October 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter of Repentance, 22nd narration",
       "topic_tags": [
         "repentance",
@@ -16931,8 +16931,8 @@
       "month_num": 10,
       "year": 2025,
       "month_year": "October 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "quran interpretation",
@@ -16975,7 +16975,7 @@
       "year": 2025,
       "month_year": "October 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Repentance (Tawbah)",
       "topic_tags": [
         "hadith",
@@ -17061,7 +17061,7 @@
       "year": 2025,
       "month_year": "October 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter 136 - On the Virtues of Friday and Its Requirements",
       "topic_tags": [
         "friday prayer",
@@ -17103,8 +17103,8 @@
       "month_num": 10,
       "year": 2025,
       "month_year": "October 2025",
-      "content_type": "General",
-      "hadith_book": "Other",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "abu jahl",
@@ -17147,7 +17147,7 @@
       "year": 2025,
       "month_year": "October 2025",
       "content_type": "Hadith",
-      "hadith_book": "Jami al-Tirmidhi",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Repentance (Bab al-Tawbah)",
       "topic_tags": [
         "repentance",
@@ -17189,8 +17189,8 @@
       "month_num": 10,
       "year": 2025,
       "month_year": "October 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "quran",
@@ -17233,7 +17233,7 @@
       "year": 2025,
       "month_year": "October 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Narration 19 - Chapter on Wudoo and Ritual Purity",
       "topic_tags": [
         "wudoo",
@@ -17276,7 +17276,7 @@
       "year": 2025,
       "month_year": "September 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter of Repentance",
       "topic_tags": [
         "wudu",
@@ -17319,7 +17319,7 @@
       "year": 2025,
       "month_year": "September 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Ablution and Purification",
       "topic_tags": [
         "hadith",
@@ -17361,8 +17361,8 @@
       "month_num": 9,
       "year": 2025,
       "month_year": "September 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "surah al-alaq",
@@ -17405,7 +17405,7 @@
       "year": 2025,
       "month_year": "September 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Repentance",
       "topic_tags": [
         "knowledge",
@@ -17448,7 +17448,7 @@
       "year": 2025,
       "month_year": "September 2025",
       "content_type": "Hadith",
-      "hadith_book": "Other",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "salah",
@@ -17491,7 +17491,7 @@
       "year": 2025,
       "month_year": "September 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Muslim",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter of Repentance",
       "topic_tags": [
         "repentance",
@@ -17576,8 +17576,8 @@
       "month_num": 9,
       "year": 2025,
       "month_year": "September 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "quran",
@@ -17620,7 +17620,7 @@
       "year": 2025,
       "month_year": "September 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Repentance (Bab al-Taubah)",
       "topic_tags": [
         "repentance",
@@ -17662,8 +17662,8 @@
       "month_num": 9,
       "year": 2025,
       "month_year": "September 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "surah al-alaq",
@@ -17706,7 +17706,7 @@
       "year": 2025,
       "month_year": "September 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Repentance, Narration 20",
       "topic_tags": [
         "repentance",
@@ -17748,8 +17748,8 @@
       "month_num": 9,
       "year": 2025,
       "month_year": "September 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "quran",
@@ -17792,7 +17792,7 @@
       "year": 2025,
       "month_year": "September 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Repentance (باب التوبة)",
       "topic_tags": [
         "repentance",
@@ -17835,7 +17835,7 @@
       "year": 2025,
       "month_year": "September 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Repentance (Babu al-Tawbah)",
       "topic_tags": [
         "repentance",
@@ -17878,7 +17878,7 @@
       "year": 2025,
       "month_year": "September 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Muslim",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Repentance (Tawbah)",
       "topic_tags": [
         "repentance",
@@ -17920,8 +17920,8 @@
       "month_num": 9,
       "year": 2025,
       "month_year": "September 2025",
-      "content_type": "Quran",
-      "hadith_book": "Sahih Muslim",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "The narration of Umar's statement about loving the Prophet",
       "topic_tags": [
         "surah al-alaq",
@@ -17963,8 +17963,8 @@
       "month_num": 9,
       "year": 2025,
       "month_year": "September 2025",
-      "content_type": "Mixed",
-      "hadith_book": "Sahih Bukhari",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Virtues of the Quran",
       "topic_tags": [
         "quran recitation",
@@ -18006,8 +18006,8 @@
       "month_num": 9,
       "year": 2025,
       "month_year": "September 2025",
-      "content_type": "General",
-      "hadith_book": "Sahih Muslim",
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Narrations on repentance and acceptance before sunrise from the west",
       "topic_tags": [
         "repentance",
@@ -18049,8 +18049,8 @@
       "month_num": 9,
       "year": 2025,
       "month_year": "September 2025",
-      "content_type": "Mixed",
-      "hadith_book": "Other",
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "repentance",
@@ -18092,8 +18092,8 @@
       "month_num": 9,
       "year": 2025,
       "month_year": "September 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "quran",
@@ -18178,8 +18178,8 @@
       "month_num": 9,
       "year": 2025,
       "month_year": "September 2025",
-      "content_type": "Mixed",
-      "hadith_book": "Sahih Bukhari",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Knowledge and Understanding of Religion",
       "topic_tags": [
         "scholars",
@@ -18222,7 +18222,7 @@
       "year": 2025,
       "month_year": "September 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Muslim",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Book of Repentance",
       "topic_tags": [
         "repentance",
@@ -18264,8 +18264,8 @@
       "month_num": 9,
       "year": 2025,
       "month_year": "September 2025",
-      "content_type": "Quran",
-      "hadith_book": "Other",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "unity",
@@ -18308,7 +18308,7 @@
       "year": 2025,
       "month_year": "September 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Repentance and Seeking Forgiveness",
       "topic_tags": [
         "repentance",
@@ -18351,7 +18351,7 @@
       "year": 2025,
       "month_year": "September 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Repentance",
       "topic_tags": [
         "repentance",
@@ -18393,8 +18393,8 @@
       "month_num": 9,
       "year": 2025,
       "month_year": "September 2025",
-      "content_type": "Quran",
-      "hadith_book": "Other",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "surah al-maida",
@@ -18437,7 +18437,7 @@
       "year": 2025,
       "month_year": "September 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Sincerity and Intentions",
       "topic_tags": [
         "intentions",
@@ -18479,8 +18479,8 @@
       "month_num": 9,
       "year": 2025,
       "month_year": "September 2025",
-      "content_type": "Mixed",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "prophethood",
@@ -18523,7 +18523,7 @@
       "year": 2025,
       "month_year": "September 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Muslim",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "imam",
@@ -18566,7 +18566,7 @@
       "year": 2025,
       "month_year": "September 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Sincerity and Intentions",
       "topic_tags": [
         "intentions",
@@ -18608,8 +18608,8 @@
       "month_num": 9,
       "year": 2025,
       "month_year": "September 2025",
-      "content_type": "Mixed",
-      "hadith_book": "Sahih Bukhari",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Adab (Etiquette) and Manners in the Masjid",
       "topic_tags": [
         "masjid etiquette",
@@ -18651,8 +18651,8 @@
       "month_num": 9,
       "year": 2025,
       "month_year": "September 2025",
-      "content_type": "General",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "prayer",
@@ -18695,7 +18695,7 @@
       "year": 2025,
       "month_year": "September 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Sincerity and Intention in All Actions and Statements",
       "topic_tags": [
         "congregational prayer",
@@ -18781,7 +18781,7 @@
       "year": 2025,
       "month_year": "September 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Chapters on the beginning of revelation (Kitab Bada al-Wahy)",
       "topic_tags": [
         "revelation",
@@ -18824,7 +18824,7 @@
       "year": 2025,
       "month_year": "September 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter 1: Book of Sincerity and Intention, Hadith 10",
       "topic_tags": [
         "hadith",
@@ -18866,8 +18866,8 @@
       "month_num": 9,
       "year": 2025,
       "month_year": "September 2025",
-      "content_type": "General",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "first revelation",
@@ -18910,7 +18910,7 @@
       "year": 2025,
       "month_year": "September 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Sincerity and Correct Intention (Ikhlas wa Ihdar al-Niyyah)",
       "topic_tags": [
         "congregational prayer",
@@ -18953,7 +18953,7 @@
       "year": 2025,
       "month_year": "September 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Sincerity and Intention (Ikhlas) in All Actions and Statements",
       "topic_tags": [
         "congregational prayer",
@@ -18996,7 +18996,7 @@
       "year": 2025,
       "month_year": "September 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "The Beginning of Revelation",
       "topic_tags": [
         "first revelation",
@@ -19039,7 +19039,7 @@
       "year": 2025,
       "month_year": "September 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Muslim",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "sahih muslim",
@@ -19081,7 +19081,7 @@
       "year": 2025,
       "month_year": "September 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Muslim",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Chapters on Prayer (Salah), Congregational Prayer, and Proper Conduct",
       "topic_tags": [
         "salah etiquette",
@@ -19124,7 +19124,7 @@
       "year": 2025,
       "month_year": "September 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Presenting the Intention and Sincerity",
       "topic_tags": [
         "intention",
@@ -19166,8 +19166,8 @@
       "month_num": 9,
       "year": 2025,
       "month_year": "September 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "revelation",
@@ -19252,8 +19252,8 @@
       "month_num": 9,
       "year": 2025,
       "month_year": "September 2025",
-      "content_type": "Mixed",
-      "hadith_book": "Sahih Bukhari",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Revelation and Surah Al-Alaq",
       "topic_tags": [
         "laylat al-qadr",
@@ -19296,7 +19296,7 @@
       "year": 2025,
       "month_year": "September 2025",
       "content_type": "Hadith",
-      "hadith_book": "Other",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "hadith analysis",
@@ -19339,7 +19339,7 @@
       "year": 2025,
       "month_year": "September 2025",
       "content_type": "Hadith",
-      "hadith_book": "Other",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter 1 - Ninth Narration",
       "topic_tags": [
         "homicide",
@@ -19381,8 +19381,8 @@
       "month_num": 9,
       "year": 2025,
       "month_year": "September 2025",
-      "content_type": "Quran",
-      "hadith_book": "Other",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "revelation",
@@ -19425,7 +19425,7 @@
       "year": 2025,
       "month_year": "September 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Muslim",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "abu musa al-ash'ari",
@@ -19468,7 +19468,7 @@
       "year": 2025,
       "month_year": "September 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Muslim",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "On righteous premonitions and the interpretation of dreams",
       "topic_tags": [
         "prophet muhammad",
@@ -19511,7 +19511,7 @@
       "year": 2025,
       "month_year": "September 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter 1: Sincerity and Presenting Intention",
       "topic_tags": [
         "intention",
@@ -19553,8 +19553,8 @@
       "month_num": 8,
       "year": 2025,
       "month_year": "August 2025",
-      "content_type": "Mixed",
-      "hadith_book": "Sahih Bukhari",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Beginning of Revelation (Kitab Bad al-Wahy)",
       "topic_tags": [
         "surah al-alaq",
@@ -19597,7 +19597,7 @@
       "year": 2025,
       "month_year": "September 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Muslim",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Sincerity and Intention (Ikhlas wa Hadhr al-Niyyah)",
       "topic_tags": [
         "intention",
@@ -19640,7 +19640,7 @@
       "year": 2025,
       "month_year": "August 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Chapters on Prayer and Prostration",
       "topic_tags": [
         "sujud",
@@ -19682,8 +19682,8 @@
       "month_num": 8,
       "year": 2025,
       "month_year": "August 2025",
-      "content_type": "General",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "abu hurairah",
@@ -19725,8 +19725,8 @@
       "month_num": 8,
       "year": 2025,
       "month_year": "August 2025",
-      "content_type": "General",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "names of allah",
@@ -19811,8 +19811,8 @@
       "month_num": 8,
       "year": 2025,
       "month_year": "August 2025",
-      "content_type": "Mixed",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "abu hurairah",
@@ -19854,8 +19854,8 @@
       "month_num": 8,
       "year": 2025,
       "month_year": "August 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "islamic unity",
@@ -19896,8 +19896,8 @@
       "month_num": 8,
       "year": 2025,
       "month_year": "August 2025",
-      "content_type": "General",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "hadith preservation",
@@ -19939,8 +19939,8 @@
       "month_num": 8,
       "year": 2025,
       "month_year": "August 2025",
-      "content_type": "General",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "perspective",
@@ -19982,8 +19982,8 @@
       "month_num": 8,
       "year": 2025,
       "month_year": "August 2025",
-      "content_type": "General",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "abu hurairah",
@@ -20126,8 +20126,8 @@
       "month_num": 8,
       "year": 2025,
       "month_year": "August 2025",
-      "content_type": "General",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "qna session",
@@ -20167,7 +20167,7 @@
       "year": 2025,
       "month_year": "August 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter of Intentions and Sincerity",
       "topic_tags": [
         "inheritance laws",
@@ -20209,8 +20209,8 @@
       "month_num": 8,
       "year": 2025,
       "month_year": "August 2025",
-      "content_type": "General",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "islamic character",
@@ -20296,7 +20296,7 @@
       "year": 2025,
       "month_year": "August 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "hadith analysis",
@@ -20338,8 +20338,8 @@
       "month_num": 8,
       "year": 2025,
       "month_year": "August 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "surah al-mutaffifin",
@@ -20382,7 +20382,7 @@
       "year": 2025,
       "month_year": "August 2025",
       "content_type": "Hadith",
-      "hadith_book": "Other",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "charity",
@@ -20423,8 +20423,8 @@
       "month_num": 8,
       "year": 2025,
       "month_year": "August 2025",
-      "content_type": "General",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "dunya",
@@ -20467,7 +20467,7 @@
       "year": 2025,
       "month_year": "August 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter 1: On Sincerity and Intention (Baab al-Ikhlas wa Ihdar al-Niyyah)",
       "topic_tags": [
         "sincerity",
@@ -20510,7 +20510,7 @@
       "year": 2025,
       "month_year": "August 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Sincerity and Intention (Ikhlas wa Ihdar al-Niyyah) - First Chapter, Fifth Hadith",
       "topic_tags": [
         "intention",
@@ -20570,7 +20570,7 @@
       "year": 2025,
       "month_year": "August 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter 1: On Sincerity and Correct Intention in All Actions, Statements, and States (both visible and hidden)",
       "topic_tags": [
         "niyyah",
@@ -20613,7 +20613,7 @@
       "year": 2025,
       "month_year": "August 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter 1: On Sincerity and Presenting Intention, Hadith 4",
       "topic_tags": [
         "sincerity",
@@ -20699,7 +20699,7 @@
       "year": 2025,
       "month_year": "August 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter 1 - Sincerity and Intentions (Niyyah)",
       "topic_tags": [
         "hadith",
@@ -20742,7 +20742,7 @@
       "year": 2025,
       "month_year": "August 2025",
       "content_type": "Hadith",
-      "hadith_book": "Other",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Jumu'ah (Friday Prayer) - Virtues and Practices",
       "topic_tags": [
         "jumu'ah prayer",
@@ -20785,7 +20785,7 @@
       "year": 2025,
       "month_year": "August 2025",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Sincerity and Intention",
       "topic_tags": [
         "intention",
@@ -20827,8 +20827,8 @@
       "month_num": 8,
       "year": 2025,
       "month_year": "August 2025",
-      "content_type": "Mixed",
-      "hadith_book": "Sahih Bukhari",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Hadith of Anas regarding the Day of Judgment",
       "topic_tags": [
         "tawheed",
@@ -20871,7 +20871,7 @@
       "year": 2025,
       "month_year": "August 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Introduction chapter discussing the hadith of Umar ibn al-Khattab on intentions",
       "topic_tags": [
         "hadith",
@@ -20913,8 +20913,8 @@
       "month_num": 8,
       "year": 2025,
       "month_year": "August 2025",
-      "content_type": "Mixed",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "intention",
@@ -20956,8 +20956,8 @@
       "month_num": 8,
       "year": 2025,
       "month_year": "August 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "worship in islam",
@@ -20999,8 +20999,8 @@
       "month_num": 8,
       "year": 2025,
       "month_year": "August 2025",
-      "content_type": "Mixed",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "sincerity",
@@ -21042,8 +21042,8 @@
       "month_num": 8,
       "year": 2025,
       "month_year": "August 2025",
-      "content_type": "Announcement",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "community welcome",
@@ -21082,7 +21082,7 @@
       "year": 2025,
       "month_year": "August 2025",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Introduction to the book",
       "topic_tags": [
         "riyadul saliheen",
@@ -21158,8 +21158,8 @@
       "month_num": 8,
       "year": 2025,
       "month_year": "August 2025",
-      "content_type": "Quran",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "quranic teachings",
@@ -29276,7 +29276,7 @@
       "year": 2026,
       "month_year": "June 2026",
       "content_type": "Hadith",
-      "hadith_book": "Other",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter of Purification / Etiquettes of Relieving Oneself",
       "topic_tags": [
         "purification",
@@ -29319,7 +29319,7 @@
       "year": 2026,
       "month_year": "June 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Muslim",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Etiquette of Relieving Oneself (Adab al-Istinja)",
       "topic_tags": [
         "istinja",
@@ -29491,7 +29491,7 @@
       "year": 2026,
       "month_year": "June 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Muslim",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "purification",
@@ -29534,7 +29534,7 @@
       "year": 2026,
       "month_year": "June 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Book of Purification (Kitab al-Taharah)",
       "topic_tags": [
         "wudoo",
@@ -29620,7 +29620,7 @@
       "year": 2026,
       "month_year": "June 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sunan Abu Dawud",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Book of Purification (Kitab al-Taharah)",
       "topic_tags": [
         "wudu",
@@ -29705,8 +29705,8 @@
       "month_num": 6,
       "year": 2026,
       "month_year": "June 2026",
-      "content_type": "General",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "wudoo",
@@ -29747,8 +29747,8 @@
       "month_num": 6,
       "year": 2026,
       "month_year": "June 2026",
-      "content_type": "General",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "confirmation bias",
@@ -29790,8 +29790,8 @@
       "month_num": 6,
       "year": 2026,
       "month_year": "June 2026",
-      "content_type": "General",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "wudu",
@@ -29833,8 +29833,8 @@
       "month_num": 6,
       "year": 2026,
       "month_year": "June 2026",
-      "content_type": "General",
-      "hadith_book": "Sahih Bukhari",
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "wudu",
@@ -29876,7 +29876,7 @@
       "year": 2026,
       "month_year": "June 2026",
       "content_type": "Hadith",
-      "hadith_book": null,
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "wudoo",
@@ -29919,7 +29919,7 @@
       "year": 2026,
       "month_year": "June 2026",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Wudoo and its Obligations",
       "topic_tags": [
         "wudoo",
@@ -30005,7 +30005,7 @@
       "year": 2026,
       "month_year": "June 2026",
       "content_type": "Hadith",
-      "hadith_book": "Other",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "scholars",
@@ -30132,8 +30132,8 @@
       "month_num": 6,
       "year": 2026,
       "month_year": "June 2026",
-      "content_type": "General",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "wudoo",
@@ -30219,7 +30219,7 @@
       "year": 2026,
       "month_year": "June 2026",
       "content_type": "Hadith",
-      "hadith_book": "Other",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on the Obligations of Wudu",
       "topic_tags": [
         "wudu",
@@ -30262,7 +30262,7 @@
       "year": 2026,
       "month_year": "June 2026",
       "content_type": "Hadith",
-      "hadith_book": "Other",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": null,
       "topic_tags": [
         "death and afterlife",
@@ -30305,7 +30305,7 @@
       "year": 2026,
       "month_year": "June 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sunan Abu Dawud",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Book of Purification",
       "topic_tags": [
         "wudu",
@@ -30390,7 +30390,7 @@
       "year": 2026,
       "month_year": "July 2026",
       "content_type": "Hadith",
-      "hadith_book": "Jami al-Tirmidhi",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Chapter on the Virtues of Knowledge and Its People",
       "topic_tags": [
         "knowledge",
@@ -30518,8 +30518,8 @@
       "month_num": 7,
       "year": 2026,
       "month_year": "July 2026",
-      "content_type": "General",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "sunnah",
@@ -30605,7 +30605,7 @@
       "year": 2026,
       "month_year": "July 2026",
       "content_type": "Hadith",
-      "hadith_book": "Jami al-Tirmidhi",
+      "hadith_book": "Riyadul Saliheen",
       "hadith_chapter": "Chapter on the Virtues of Knowledge",
       "topic_tags": [
         "knowledge",
@@ -30648,7 +30648,7 @@
       "year": 2026,
       "month_year": "July 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Book of Wudu",
       "topic_tags": [
         "wudu",
@@ -30734,7 +30734,7 @@
       "year": 2026,
       "month_year": "July 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sunan Abu Dawud",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Economizing Water in Purification",
       "topic_tags": [
         "wudu",
@@ -30777,7 +30777,7 @@
       "year": 2026,
       "month_year": "July 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Bukhari",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": "Chapter on Wudu and Its Invalidators",
       "topic_tags": [
         "wudu",
@@ -30819,8 +30819,8 @@
       "month_num": 7,
       "year": 2026,
       "month_year": "July 2026",
-      "content_type": "General",
-      "hadith_book": null,
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
       "hadith_chapter": null,
       "topic_tags": [
         "wudoo",
@@ -35458,5 +35458,5 @@
       "has_clean_txt": false
     }
   ],
-  "updated_at": "2026-07-11T03:58:38.348451+00:00"
+  "updated_at": "2026-07-11T20:57:04.923748+00:00"
 }

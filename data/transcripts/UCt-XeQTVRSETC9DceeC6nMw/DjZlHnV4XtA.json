@@ -1288,8 +1288,8 @@
   "time_slot": "Saturday-Fajr",
   "summary": "This lecture discusses the Islamic concept of repentance (Tawbah) as a fundamental component of belief. The speaker analyzes Quranic verses that command repentance, emphasizing that it is not exclusive to ordinary believers but is incumbent upon all people, including the Prophet Muhammad (peace be upon him) and other messengers. The lecture explains that repentance is a prerequisite for success and salvation, citing the hadith that \"every son of Adam is a sinner, and the best of sinners are those who repent.\" The speaker then explores the linguistic meanings of seeking forgiveness (Istighfar) and repentance (Tawbah), explaining how Istighfar means to seek Allah's concealment and protection from sins, while Tawbah refers to turning away from sin in the future. Together, these concepts address both past transgressions and future spiritual protection.",
   "suggested_title": "The Importance of Repentance (Tawbah) in Islam: A Quranic and Hadith Analysis",
-  "content_type": "Mixed",
-  "hadith_book": "Other",
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "repentance",
@@ -1302,5 +1302,6 @@
     "prophetic teachings"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Even Prophets Must Repent"
+  "catchy_title": "Why Even Prophets Must Repent",
+  "manually_reviewed": true
 }

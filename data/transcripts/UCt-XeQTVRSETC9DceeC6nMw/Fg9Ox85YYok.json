@@ -1716,8 +1716,8 @@
   "time_slot": "Friday-Isha",
   "summary": "This lecture discusses the proper etiquette and purpose of the masjid (mosque) in Islam. The speaker begins by explaining the history of the Kaaba, noting that Islamic scholars believe it was originally built by Prophet Adam and later rebuilt by Prophet Ibrahim and the Prophet Muhammad. The central theme focuses on balancing inclusivity in the masjid with maintaining its sacred purpose—remembrance of Allah, prayer, and Quranic recitation. The speaker uses several hadith examples, particularly the story of a Bedouin urinating in the masjid, to illustrate how the Prophet Muhammad taught respect for the mosque while showing mercy to those unfamiliar with proper conduct. The lecture emphasizes that while children and families are welcome, they must be taught to respect the masjid as a holy space through proper behavior, modulated voices, and cleanliness, comparing this to how we conduct ourselves in important secular spaces.",
   "suggested_title": "The Purpose and Etiquette of the Masjid: Balancing Inclusivity with Sacred Reverence",
-  "content_type": "Mixed",
-  "hadith_book": "Sahih Bukhari",
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Adab (Etiquette) and Manners in the Masjid",
   "topic_tags": [
     "masjid etiquette",
@@ -1730,5 +1730,6 @@
     "kaaba"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why the Masjid Deserves Our Respect"
+  "catchy_title": "Why the Masjid Deserves Our Respect",
+  "manually_reviewed": true
 }

@@ -2047,8 +2047,8 @@
   "time_slot": "Friday-Isha",
   "summary": "This lecture addresses the concept of divine will versus human free will in Islam, explaining that while humans possess free will to make choices within the boundaries set by Allah, ultimately all outcomes depend on Allah's will. The speaker uses the analogy of chess to illustrate how free will operates within divine parameters. The lecture emphasizes the critical importance of Islamic knowledge for Muslim minorities living among non-Muslims, warning that lack of proper Islamic education leads to innovations (bid'ah) in the faith. The speaker stresses parental responsibility in teaching children the Quran and Islamic principles, cautioning that relying solely on mosques while allowing children to absorb non-Islamic ideologies from society is insufficient and dangerous.",
   "suggested_title": "Free Will, Divine Will, and the Importance of Islamic Knowledge for Muslim Minorities",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "free will",
@@ -2061,5 +2061,6 @@
     "children education"
   ],
   "srt_status": "pending",
-  "catchy_title": "Free Will or Divine Will? What Islam Actually Says"
+  "catchy_title": "Free Will or Divine Will? What Islam Actually Says",
+  "manually_reviewed": true
 }

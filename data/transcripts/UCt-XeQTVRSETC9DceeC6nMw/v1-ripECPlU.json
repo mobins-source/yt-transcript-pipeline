@@ -1705,8 +1705,8 @@
   "time_slot": "Monday-Fajr",
   "summary": "This lecture discusses exemptions from fasting during Ramadan, specifically focusing on elderly individuals who find fasting difficult. The speaker explains that while old age is not an illness per se, it falls under the same category of exemptions as illness, pregnancy, and breastfeeding because it creates hardship outside the norm of typical discomfort. The distinction is made between discomfort (which is part of fasting) and difficulty (which warrants exemption). For elderly persons who cannot fast without significant difficulty, they are permitted to break their fast and must feed a poor person for each day missed, based on Quranic verse 2:184. The lecture also provides historical context on how fasting legislation evolved, from being optional with a feeding alternative in the second year of Hijra to becoming obligatory with exemptions for specific cases.",
   "suggested_title": "Exemptions from Fasting: Old Age and the Principle of Difficulty in Islamic Jurisprudence",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "fasting",
@@ -1719,5 +1719,6 @@
     "elderly"
   ],
   "srt_status": "pending",
-  "catchy_title": "When Is Fasting Too Hard? Islam's Mercy"
+  "catchy_title": "When Is Fasting Too Hard? Islam's Mercy",
+  "manually_reviewed": true
 }

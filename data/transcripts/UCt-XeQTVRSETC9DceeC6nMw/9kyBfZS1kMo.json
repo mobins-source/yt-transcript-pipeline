@@ -918,7 +918,7 @@
   "summary": "This lecture discusses chapter 210 from a hadith collection, focusing on the merits and virtues of Jumu'ah (Friday prayer). The speaker explains various aspects including the obligation of attending Jumu'ah, proper preparation through bathing and perfume, arriving early, and the special times for dua acceptance on Friday. A hadith is presented from Abu Hurairah and Umar warning that those who abandon Jumu'ah attendance risk having their hearts sealed by Allah and falling into spiritual heedlessness. The speaker emphasizes that Jumu'ah sermons should focus on core Islamic principles rather than peripheral issues, and explains the criteria for whom Jumu'ah is obligatory upon (sane, adult Muslims who are residents and free).",
   "suggested_title": "Chapter 210: The Merits and Obligations of Jumu'ah Prayer and Its Core Purpose",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "210",
   "topic_tags": [
     "jumu'ah",
@@ -930,5 +930,6 @@
     "core principles of islam"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Friday Prayer Seals Your Heart"
+  "catchy_title": "Why Friday Prayer Seals Your Heart",
+  "manually_reviewed": true
 }

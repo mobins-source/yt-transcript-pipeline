@@ -1861,7 +1861,7 @@
   "summary": "This lecture from the Muslim Community Center of Tucson discusses a hadith from Sahih Muslim narrated by Aisha about the Prophet's statement regarding meeting Allah. The speaker emphasizes Aisha's critical role in Islamic jurisprudence, noting that she transmitted approximately one-fourth of all Islamic rulings and was among the seven major hadith narrators. The core hadith addresses the concept of desiring to meet Allah, with the Prophet explaining that this doesn't mean disliking death in the worldly sense, but rather one's spiritual state when facing death.\n\nThe speaker provides detailed explanation of the death process according to Islamic teachings, describing how angels surround the dying person and present them with either their place in paradise or hellfire. For believers, the soul exits peacefully like water from a vessel, while for disbelievers, the soul is extracted painfully like wet wool from thorns. The lecturer clarifies that whether death appears painless or agonizing to observers is irrelevant; what matters is the person's righteousness and relationship with Allah, which determines their actual experience at that critical moment. The hadith ultimately serves as an adage to live by, encouraging believers to maintain righteousness to ensure a peaceful meeting with Allah.",
   "suggested_title": "The Hadith of Desiring Allah's Meeting: Understanding Death and the Afterlife",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Muslim",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Chapter on Desiring Allah's Meeting (Man ahabb liqa Allah ahabb Allah liqa'ahu)",
   "topic_tags": [
     "death and dying",
@@ -1874,5 +1874,6 @@
     "afterlife"
   ],
   "srt_status": "pending",
-  "catchy_title": "How Will You Meet Allah? Aisha's Hadith Explained"
+  "catchy_title": "How Will You Meet Allah? Aisha's Hadith Explained",
+  "manually_reviewed": true
 }

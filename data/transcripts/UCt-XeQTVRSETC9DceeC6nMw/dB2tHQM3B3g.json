@@ -1007,8 +1007,8 @@
   "time_slot": "Saturday-Isha",
   "summary": "This lecture discusses Islamic theology regarding divine decree (Qadr) and creation, focusing on the first stage of decree called Al-Kitaba (the writing). The speaker explains the concept of the Preserved Tablet (Al-Lawh Al-Mahfuz), describing how Allah commanded the Pen to write all that would occur until the Day of Judgment, 50,000 years before creation. The lecture addresses the theological reconciliation between divine foreknowledge and human free will, emphasizing that Allah's writing of all events does not constitute force or compulsion since humans did not yet exist. The speaker also mentions the four stages of decree and discusses eight eternal creations of Allah that have a beginning but no end, including the Pen, the Preserved Tablet, Paradise, Hellfire, the human soul, and Allah's Throne.",
   "suggested_title": "Understanding Divine Decree: The Preserved Tablet and the Four Stages of Qadr",
-  "content_type": "Mixed",
-  "hadith_book": "Sahih Bukhari",
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Book of Destiny/Divine Decree",
   "topic_tags": [
     "divine decree",
@@ -1021,5 +1021,6 @@
     "hadith"
   ],
   "srt_status": "pending",
-  "catchy_title": "Does Allah's Knowledge Remove Your Free Will?"
+  "catchy_title": "Does Allah's Knowledge Remove Your Free Will?",
+  "manually_reviewed": true
 }

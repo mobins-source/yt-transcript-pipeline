@@ -1807,7 +1807,7 @@
   "summary": "This lecture discusses the 210th chapter of Sahih Muslim, focusing on the virtues of Friday (Yawm al-Jumu'ah) and the creation of Adam. The speaker explains the stages of Adam's creation, including how Allah collected dust from various parts of the earth through different angels, and how Adam's first act was sneezing, which the Prophet praised as a sign of life and vitality. The lecture then transitions to discuss Adam's creation of Eve as his spouse to provide solace and companionship, establishing marriage as a foundational Islamic institution based on complementary roles rather than equality.",
   "suggested_title": "The Virtues of Friday and the Creation of Adam: Understanding Islamic Gender Roles and Marriage",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Muslim",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter 210 - The Virtues of the Day of Friday (Yawm al-Jumu'ah)",
   "topic_tags": [
     "creation of adam",
@@ -1820,5 +1820,6 @@
     "prophet muhammad"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Friday is Islam's Most Blessed Day"
+  "catchy_title": "Why Friday is Islam's Most Blessed Day",
+  "manually_reviewed": true
 }

@@ -531,7 +531,7 @@
   "suggested_title": "Economizing Water in Wudu: Islamic Teachings on Preventing Waste",
   "catchy_title": "Why did the Prophet use just one liter for wudu?",
   "content_type": "Hadith",
-  "hadith_book": "Sunan Abu Dawud",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Economizing Water in Purification",
   "topic_tags": [
     "wudu",
@@ -543,5 +543,6 @@
     "excess prohibition",
     "daily practices"
   ],
-  "srt_status": "pending"
+  "srt_status": "pending",
+  "manually_reviewed": true
 }

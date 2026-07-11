@@ -2017,8 +2017,8 @@
   "time_slot": "Wednesday-Isha",
   "summary": "This lecture discusses the opening verses of Surah Muzammil and explores the science of verse numbering (Aad al-Ayat) in the Quran. The speaker explains that while the text of the Quran is completely preserved and agreed upon by scholars, there is scholarly difference regarding where verses begin and end—a minor distinction that does not affect the actual words of the Quran. The lecture addresses a critical issue: the modern phenomenon of 'numerical miracles' in the Quran, cautioning that such obsessions are a distraction from the Quran's true purpose. The speaker compares this behavior to how Bani Israel asked unnecessary details about religious matters, missing the actual message and wisdom of their scriptures.",
   "suggested_title": "Understanding Quranic Verse Division and Guarding Against Misuse of Numerical Analysis",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "surah muzammil",
@@ -2031,5 +2031,6 @@
     "tafsir"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Obsessing Over Quran Numbers Misses the Point"
+  "catchy_title": "Why Obsessing Over Quran Numbers Misses the Point",
+  "manually_reviewed": true
 }

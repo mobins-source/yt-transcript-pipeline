@@ -1686,7 +1686,7 @@
   "summary": "This Islamic lecture discusses the various ways revelation (wahy) comes to the Prophet Muhammad, drawing from detailed narrations found in Sahih Bukhari. The speaker explains five distinct forms of revelation: visions during sleep, angels appearing as men (both recognized and unrecognized), the most difficult form involving a metallic clanging sound in the ears, seeing angels in their original form, and direct speech from Allah. The lecture clarifies common misconceptions about the \"bell-like\" sound, explaining it refers to an intense metallic vibration rather than an actual bell. The speaker then recounts the story of Khadijah bringing the Prophet to her cousin Waraqa ibn Nawfal, a Christian scholar fluent in Arabic, Hebrew, and Aramaic, who affirms the revelation as coming from Allah's messenger (Jibreel). Waraqa prophesies that the Prophet will be driven from Mecca, drawing from the historical pattern that every prophet faces opposition.",
   "suggested_title": "The Forms of Revelation to the Prophet Muhammad and Waraqa ibn Nawfal's Confirmation",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Chapters on the beginning of revelation (Kitab Bada al-Wahy)",
   "topic_tags": [
     "revelation",
@@ -1699,5 +1699,6 @@
     "prophecy"
   ],
   "srt_status": "pending",
-  "catchy_title": "How Did Allah Reveal the Quran to Muhammad?"
+  "catchy_title": "How Did Allah Reveal the Quran to Muhammad?",
+  "manually_reviewed": true
 }

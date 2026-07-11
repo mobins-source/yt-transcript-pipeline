@@ -1922,7 +1922,7 @@
   "summary": "This lecture discusses the fifth chapter on vigilance of Allah's observation from a hadith collection, focusing on how narrations are graded as authentic, weak, or fabricated. The speaker explains the methodology scholars use to authenticate hadith, emphasizing the extremely high standards required to attribute statements to the Prophet Muhammad. Using a specific narration about self-accountability and working for the afterlife as an example, the instructor clarifies that weak narrations do not represent lost portions of the Sunnah because important teachings are repeated across multiple narrations and are supported by Quranic principles. The lecture explores the interconnected nature of Islamic knowledge, explaining that the Quran and Sunnah form a complete ecosystem where removing one part affects the entire system.",
   "suggested_title": "Hadith Authentication Methodology: Understanding Authentic, Weak, and Fabricated Narrations",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter 5 - On Vigilance of Allah's Observation",
   "topic_tags": [
     "hadith authentication",
@@ -1935,5 +1935,6 @@
     "narrator reliability"
   ],
   "srt_status": "pending",
-  "catchy_title": "How Scholars Know What Prophet Muhammad Really Said"
+  "catchy_title": "How Scholars Know What Prophet Muhammad Really Said",
+  "manually_reviewed": true
 }

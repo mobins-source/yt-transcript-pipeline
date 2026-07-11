@@ -842,7 +842,7 @@
   "summary": "This lecture discusses the nature of Islamic knowledge and the virtue of seeking knowledge according to the Quran and Sunnah. The speaker explains that the number of hadith narrations attributed to a companion does not reflect their level of knowledge, using examples like Abu Bakr and Umar who were among the most knowledgeable companions despite having few narrations. The lecture clarifies that true knowledge in Islamic texts refers specifically to knowledge of the Quran and Sunnah, not secular knowledge. The speaker emphasizes that angels honor students of knowledge and that implementing knowledge is as important as possessing it.",
   "suggested_title": "The Nature of Islamic Knowledge and the Virtue of Seeking Knowledge According to Quran and Sunnah",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Repentance",
   "topic_tags": [
     "knowledge",
@@ -855,5 +855,6 @@
     "virtue of knowledge"
   ],
   "srt_status": "pending",
-  "catchy_title": "Few Hadith Narrations, Vast Islamic Knowledge"
+  "catchy_title": "Few Hadith Narrations, Vast Islamic Knowledge",
+  "manually_reviewed": true
 }

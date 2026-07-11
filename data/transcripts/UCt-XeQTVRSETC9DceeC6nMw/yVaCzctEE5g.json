@@ -1228,8 +1228,8 @@
   "time_slot": "Sunday-Fajr",
   "summary": "This lecture discusses the conditions of repentance (tawbah) in Islam, explaining why Islamic scholars differ in their categorization of these conditions. The speaker clarifies that while some scholars mention three conditions for repentance (ceasing the sin, feeling regret, and having sincere intention never to repeat it) and others mention five conditions (adding intention for Allah's sake and repenting during an accepted time), these differences are primarily matters of categorization rather than substantive disagreement. The lecture emphasizes that all scholars agree on the essential ingredients necessary for repentance to be accepted by Allah; they simply organize these ingredients differently based on scholarly precision and teaching methodology. The speaker uses this discussion to illustrate a broader principle in Islamic jurisprudence: that differences in scholarly opinions often stem from how concepts are organized and categorized, which has important implications for building subsequent rulings.",
   "suggested_title": "Understanding Scholarly Differences in the Conditions of Repentance (Tawbah)",
-  "content_type": "General",
-  "hadith_book": "Sahih Muslim",
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Narrations on repentance and acceptance before sunrise from the west",
   "topic_tags": [
     "repentance",
@@ -1242,5 +1242,6 @@
     "hadith"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Scholars Count Repentance's Conditions Differently"
+  "catchy_title": "Why Scholars Count Repentance's Conditions Differently",
+  "manually_reviewed": true
 }

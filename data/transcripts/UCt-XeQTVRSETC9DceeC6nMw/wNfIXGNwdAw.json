@@ -1454,8 +1454,8 @@
   "time_slot": "Friday-Isha",
   "summary": "This lecture examines the Islamic distinction between prophets (nabī) and messengers (rasūl). The speaker explains that while some scholars consider these terms synonymous, the majority view holds that every messenger is a prophet, but not every prophet is a messenger. This is supported by a hadith mentioning 315 messengers and 124,000 prophets sent to humanity. A prophet is defined as someone who receives divine revelation, while a messenger has the additional role of being sent to people who fundamentally reject monotheism and must be called from disbelief to faith. The speaker uses examples like David (Dāwūd) as a prophet but not a messenger, and Muhammad as both a prophet and messenger. The lecture also covers conditions universal to all prophets and messengers, such as being male, human, and free.",
   "suggested_title": "The Difference Between Prophets and Messengers in Islam",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "prophets",
@@ -1468,5 +1468,6 @@
     "messenger conditions"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Muhammad Was Both Prophet and Messenger"
+  "catchy_title": "Why Muhammad Was Both Prophet and Messenger",
+  "manually_reviewed": true
 }

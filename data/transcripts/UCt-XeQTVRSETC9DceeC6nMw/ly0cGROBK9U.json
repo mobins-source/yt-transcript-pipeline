@@ -2314,8 +2314,8 @@
   "time_slot": "Wednesday-Isha",
   "summary": "This lecture analyzes the opening verses of Surah Al-Qalam (Chapter 68) of the Quran, specifically focusing on the word \"Noon\" (ن) and its multiple meanings in Arabic. The instructor explains that \"Noon\" has three potential meanings: the letter noon, a whale, and an inkwell. He discusses how all three meanings are referenced in the surah through different contexts, demonstrating the Quranic literary device of double meanings and puns. The lecture then expands into a detailed discussion of the importance of writing and the pen in human civilization, explaining why Allah swears by the pen and connecting this to the power of ideas, literacy, and the transmission of knowledge across generations.",
   "suggested_title": "Surah Al-Qalam Opening: The Meanings of Noon and the Power of the Pen",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "quran",
@@ -2328,5 +2328,6 @@
     "knowledge transmission"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Allah Swears by the Pen"
+  "catchy_title": "Why Allah Swears by the Pen",
+  "manually_reviewed": true
 }

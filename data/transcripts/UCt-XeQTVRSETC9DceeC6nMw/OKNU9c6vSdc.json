@@ -947,8 +947,8 @@
   "time_slot": "Tuesday-Fajr",
   "summary": "This lecture discusses the chapter on patience from an Islamic text, focusing on Quranic verses about trials and tribulations. The speaker explains that Allah commands patience and that believers will be tested with fear, hunger, loss of wealth, loss of lives, and lack of fruits (both literal and metaphorical). The lecture emphasizes that these tests are universal—everyone experiences both ease and difficulty in life. The speaker discusses how fasting and charitable giving help maintain gratitude and prevent entitlement. A significant portion addresses the concept of fruits of labor, explaining that believers may not see immediate results from their righteous actions, citing Prophet Noah's 950 years of calling people to Islam with minimal response as an example of this test.",
   "suggested_title": "The Chapter of Patience: Understanding Allah's Tests Through Trial and Tribulation",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "patience",
@@ -961,5 +961,6 @@
     "gratitude"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Does Allah Command Patience?"
+  "catchy_title": "Why Does Allah Command Patience?",
+  "manually_reviewed": true
 }

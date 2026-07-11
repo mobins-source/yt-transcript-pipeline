@@ -1596,7 +1596,7 @@
   "summary": "This lecture discusses a hadith narrated in both Sahih Bukhari and Sahih Muslim about Prophet Sulaiman's superior judgment compared to his father Prophet Dawud. The story involves two women claiming custody of a child, where Dawud initially awards the child to the elder woman, but Sulaiman uses a clever psychological test by threatening to cut the child in half, which reveals the true mother through her instinctive reaction. The speaker explains that true judicial wisdom involves extracting hidden information through circumstantial evidence (qarinah) rather than just knowing the law, illustrating this concept through the example of Prophet Yusuf's ripped garment. The lecture also addresses proper Islamic etiquette regarding how to praise the Prophet Muhammad, explaining that while it's permissible to say he is the best of prophets, direct comparisons like 'Muhammad is better than Moses' should be avoided as they diminish respect for other prophets.",
   "suggested_title": "The Wisdom of Prophet Sulaiman's Judgment: Hadith on Judicial Excellence and Circumstantial Evidence",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Book of Miscellaneous Narrations and Signs of the Day of Judgment",
   "topic_tags": [
     "sulaiman",
@@ -1609,5 +1609,6 @@
     "moral lessons"
   ],
   "srt_status": "pending",
-  "catchy_title": "How Prophet Sulaiman Found the True Mother"
+  "catchy_title": "How Prophet Sulaiman Found the True Mother",
+  "manually_reviewed": true
 }

@@ -2847,8 +2847,8 @@
   "time_slot": "Saturday-Isha",
   "summary": "This is a weekly question and answer session from the Muslim Community Center of Tucson featuring Islamic teachings on Quranic recitation, prophecy, and interpersonal rights. The speaker begins with a reminder about the importance of regular Quranic recitation, citing the Prophet's guidance that Muslims should complete the Quran at least once monthly, with the ideal frequency being once every three days. The discussion then addresses how to reconcile prophecies about the end times with the Islamic obligation to strive and improve society, explaining that prophecies are not necessarily prohibitions or commands. The session concludes with a detailed discussion on the concept of oppression and rights between Muslims on the Day of Judgment, distinguishing between quantifiable physical rights and matters of personal expectations.",
   "suggested_title": "Weekly Q&A Session: Quranic Recitation, Divine Decree and Rights Between Muslims",
-  "content_type": "Mixed",
-  "hadith_book": "Sahih Bukhari",
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Virtues of the Quran",
   "topic_tags": [
     "quran recitation",
@@ -2861,5 +2861,6 @@
     "islamic teachings"
   ],
   "srt_status": "pending",
-  "catchy_title": "Recite Quran, Fulfill Rights, Transform Hearts"
+  "catchy_title": "Recite Quran, Fulfill Rights, Transform Hearts",
+  "manually_reviewed": true
 }

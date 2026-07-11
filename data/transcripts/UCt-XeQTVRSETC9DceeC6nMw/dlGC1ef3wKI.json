@@ -1841,8 +1841,8 @@
   "time_slot": "Sunday-Isha",
   "summary": "This lecture discusses the definition and core tenants of Islam as extracted from Quranic verses. The speaker emphasizes the importance of seeking Islamic knowledge and understanding the three foundational pillars of Islam: submission to Allah alone, adherence to Allah's commands through obedience, and disassociation from polytheism and idolatry. The content covers how believers answer to these principles not just in the afterlife, but through their daily actions and lifestyle choices. The speaker highlights that true Islamic knowledge is serious spiritual work that requires active engagement and struggle against Satan's distractions, using examples of how this knowledge is transmitted through communities and studied in the mosque.",
   "suggested_title": "The Three Tenants of Islam: Submission, Obedience, and Disassociation from Polytheism",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "islamic definition",
@@ -1855,5 +1855,6 @@
     "community learning"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why the Quran Could Never Be Human Words"
+  "catchy_title": "Why the Quran Could Never Be Human Words",
+  "manually_reviewed": true
 }

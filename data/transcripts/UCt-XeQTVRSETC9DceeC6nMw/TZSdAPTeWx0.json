@@ -1534,8 +1534,8 @@
   "time_slot": "Sunday-Isha",
   "summary": "This lecture analyzes Surah Al-Muddaththir (Chapter 74), verses 38-48, one of the earlier Meccan chapters revealed to Prophet Muhammad. The speaker clarifies a fundamental Islamic concept regarding personal accountability and sin, contrasting Islamic teachings with Christian concepts of original sin. The core message of verse 38 is that every soul is held captive by its own actions, not by the sins of others, reflecting Allah's perfect justice. The speaker extensively discusses the story of Adam and Iblis to illustrate the importance of sincere repentance (with a contrite heart) versus mere words, explaining that Adam's expulsion from paradise was a natural consequence of his actions rather than a punishment, and that accepting repentance does not erase the physical consequences of one's deeds.",
   "suggested_title": "Surah Al-Muddaththir (74:38-48): Personal Accountability and the Justice of Allah - Adam and Iblis",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "surah al-muddaththir",
@@ -1548,5 +1548,6 @@
     "people of the right"
   ],
   "srt_status": "pending",
-  "catchy_title": "Your Deeds Bind You, Not Adam's Sin"
+  "catchy_title": "Your Deeds Bind You, Not Adam's Sin",
+  "manually_reviewed": true
 }

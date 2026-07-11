@@ -565,8 +565,8 @@
   "time_slot": "Thursday-Fajr",
   "summary": "This lecture discusses Arabic linguistic concepts in Quranic interpretation, specifically examining the use of comparative adjectives (اسم التفضيل) in the Quran. The speaker analyzes how comparative language is sometimes used not to indicate literal comparison between two things, but rather to express the absolute goodness or superiority of something. Using Surah Muhammad as the primary Quranic reference, the speaker explains that when Allah says 'it would have been better for them,' this does not necessarily imply a comparison but rather indicates what is truly good for them. The speaker also references a Hadith from Sahih Bukhari about Abu Hurairah asking the Prophet Muhammad who will be most benefited by his intercession on the Day of Judgment.",
   "suggested_title": "Understanding Comparative Adjectives in Quranic Grammar and Interpretation",
-  "content_type": "Mixed",
-  "hadith_book": "Sahih Bukhari",
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "quranic grammar",
@@ -579,5 +579,6 @@
     "prophet's intercession"
   ],
   "srt_status": "pending",
-  "catchy_title": "When 'Better' Doesn't Mean Comparison"
+  "catchy_title": "When 'Better' Doesn't Mean Comparison",
+  "manually_reviewed": true
 }

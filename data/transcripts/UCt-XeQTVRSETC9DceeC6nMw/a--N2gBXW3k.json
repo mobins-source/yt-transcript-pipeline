@@ -2038,7 +2038,7 @@
   "summary": "This lecture discusses the first revelation of the Quran to Prophet Muhammad (peace be upon him) as narrated in Sahih Bukhari and Sahih Muslim. The speaker explains the significance of the first five verses revealed (Surah Al-Alaq 96:1-5) and the Prophet's initial reaction of fear and shock, describing his physical and emotional state. The lecture then delves into Khadijah's reassurance to the Prophet, where she identifies five character traits that made him deserving of prophethood. The speaker concludes by exploring the concept of righteousness (taqwa) and the Quranic principle that those who uphold truth naturally are more receptive to accepting the Quran's message.",
   "suggested_title": "The First Revelation: Understanding the Beginning of Prophethood and Khadijah's Five Traits",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "The Beginning of Revelation",
   "topic_tags": [
     "first revelation",
@@ -2051,5 +2051,6 @@
     "character traits"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Khadijah Knew He Was the Prophet"
+  "catchy_title": "Why Khadijah Knew He Was the Prophet",
+  "manually_reviewed": true
 }

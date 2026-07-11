@@ -1680,8 +1680,8 @@
   "time_slot": "Wednesday-Isha",
   "summary": "This lecture provides detailed Quranic exegesis (tafsir) of verses 14-19, with particular focus on verses 15 and 16 from Surah Al-Muzzammil. The speaker discusses Allah's descriptions of the Day of Judgment, specifically the two blows into the Horn (Trumpet) by the angel Israfil. The first blow describes the destruction of the earth and mountains turning to running sand, while the second blow describes the day when even children will turn gray-haired from the terror. The lecture emphasizes how these descriptions convey the all-encompassing horror and chaos of the Day of Judgment by destroying the earthly sources of human comfort and stability—the firm earth and solid mountains—leaving only Allah as the true source of solace.",
   "suggested_title": "Tafsir of Surah Al-Muzzammil Verses 15-16: The Day of Judgment and the Two Blows into the Horn",
-  "content_type": "Quran",
-  "hadith_book": "Sahih Bukhari",
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Various chapters related to the Day of Judgment and the Hour",
   "topic_tags": [
     "day of judgment",
@@ -1694,5 +1694,6 @@
     "divine comfort"
   ],
   "srt_status": "pending",
-  "catchy_title": "When Mountains Turn to Sand: The Day of Judgment"
+  "catchy_title": "When Mountains Turn to Sand: The Day of Judgment",
+  "manually_reviewed": true
 }

@@ -2324,8 +2324,8 @@
   "time_slot": "Thursday-Isha",
   "summary": "This lecture focuses on the final verse of Surah al-Muzzammil (Chapter 73, Verse 20), which emphasizes that no good deed, no matter how small, is lost with Allah. The speaker explains the Quranic rhetorical device of emphasis through pronoun repetition and discusses how Allah rewards good deeds abundantly, often beyond what was initially given. Through various examples and hadith references, including the Prophet Muhammad's final act of brushing his teeth and the story of a man who gave his last loaf of bread, the speaker illustrates that the value of deeds lies not in their quantity but in their sincerity and intensity. The lecture concludes with a powerful hadith about a man with 99 scrolls of sins whose single genuine good deed outweighs all his transgressions and admits him to Paradise.",
   "suggested_title": "The Infinite Value of Good Deeds: Tafsir of Surah al-Muzzammil 73:20",
-  "content_type": "Quran",
-  "hadith_book": "Sahih Bukhari",
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Various chapters including those on purification and virtues",
   "topic_tags": [
     "quran tafsir",
@@ -2339,5 +2339,6 @@
     "spiritual discipline"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Your Smallest Deed Matters Most"
+  "catchy_title": "Why Your Smallest Deed Matters Most",
+  "manually_reviewed": true
 }

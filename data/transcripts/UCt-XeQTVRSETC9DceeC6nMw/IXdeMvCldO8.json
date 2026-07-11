@@ -1610,8 +1610,8 @@
   "time_slot": "Wednesday-Isha",
   "summary": "The speaker discusses Surah Al-Muzzammil verse 20, explaining the Islamic concept of Naskh (abrogation) - the legislative principle whereby Allah changes rulings throughout the Quran and Sunnah. The verse specifically addresses the abrogation of the night prayer obligation, which began as a strict requirement but was later made optional or preferable. The speaker explains that abrogation is a confirmed principle with evidence from the Quran, Hadith, and scholarly consensus, rejected only by later innovative groups like the Mu'tazilites around the 3rd century AH.",
   "suggested_title": "Understanding Naskh (Abrogation) in Islamic Legislation: Surah Al-Muzzammil Verse 20",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "naskh",
@@ -1624,5 +1624,6 @@
     "discipline building"
   ],
   "srt_status": "pending",
-  "catchy_title": "When Allah Changes the Rules: Understanding Naskh"
+  "catchy_title": "When Allah Changes the Rules: Understanding Naskh",
+  "manually_reviewed": true
 }

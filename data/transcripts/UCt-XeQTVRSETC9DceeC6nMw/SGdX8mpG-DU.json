@@ -702,7 +702,7 @@
   "suggested_title": "The Prophet's Method of Combing the Beard and Interlacing Fingers During Ablution",
   "catchy_title": "How to Properly Wash Between Your Fingers in Wudu",
   "content_type": "Hadith",
-  "hadith_book": "Sunan Abu Dawud",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Book of Purification",
   "topic_tags": [
     "wudu",
@@ -714,5 +714,6 @@
     "purification",
     "sunnah"
   ],
-  "srt_status": "pending"
+  "srt_status": "pending",
+  "manually_reviewed": true
 }

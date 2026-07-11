@@ -1149,7 +1149,7 @@
   "summary": "This lecture discusses the 30-31st narration in the chapter on patience from a hadith collection, featuring a narration by Anas about the Prophet encountering a woman grieving at her child's grave. The speaker provides detailed analysis of the Islamic rulings regarding women visiting graves and following funeral processions, explaining the conditions under which these practices are permissible according to different schools of Islamic jurisprudence. The discussion covers key conditions such as avoiding prohibited acts at graves, obtaining permission from a guardian, ensuring no suspicion attaches to the visit, and maintaining moderation in frequency.",
   "suggested_title": "Women Visiting Graves and Following Funeral Processions: Islamic Rulings and Conditions",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Patience, Narration 30-31",
   "topic_tags": [
     "women and cemeteries",
@@ -1162,5 +1162,6 @@
     "sunnah"
   ],
   "srt_status": "pending",
-  "catchy_title": "Can Women Visit Graves? Islamic Rules Explained"
+  "catchy_title": "Can Women Visit Graves? Islamic Rules Explained",
+  "manually_reviewed": true
 }

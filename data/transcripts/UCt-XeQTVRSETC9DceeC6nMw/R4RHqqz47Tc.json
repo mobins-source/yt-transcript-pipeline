@@ -669,8 +669,8 @@
   "time_slot": "Wednesday-Isha",
   "summary": "This content presents an Islamic lecture discussing the early revelations of the Quran, specifically focusing on Surah Al-Alaq (Chapter 96) and Surah Al-Muddathir (Chapter 74) as the first surahs revealed to Prophet Muhammad. The speaker analyzes the contrast between the call to read and educate (in Surah Al-Alaq) and the call to warn and preach (in Surah Al-Muddathir), explaining how the Prophet's message evolved from private revelation to public preaching. The lecture emphasizes the Prophet's mission progression from warning his closest relatives (Bani Hashim) to eventually calling all of humanity to monotheism and Islam.",
   "suggested_title": "The First Revelations: Surah Al-Alaq and Surah Al-Muddathir - The Prophet's Mission Begins",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "quran",
@@ -683,5 +683,6 @@
     "quranic commentary"
   ],
   "srt_status": "pending",
-  "catchy_title": "How Did Prophet Muhammad's Mission Begin?"
+  "catchy_title": "How Did Prophet Muhammad's Mission Begin?",
+  "manually_reviewed": true
 }

@@ -721,7 +721,7 @@
   "summary": "This lecture discusses a sacred hadith (Hadith Qudsi) from Riyadh as-Salihin collected by Imam An-Nawawi, narrated by Abu Hurairah. The hadith quotes Allah saying that when He takes away a believer's most beloved person in this world and the believer is patient and hopeful for reward, Paradise is their recompense. The speaker explains the nature of sacred hadiths, distinguishing them from the Qur'an by clarifying that while the Qur'an is Allah's exact wording and meaning, a sacred hadith conveys Allah's meaning but is expressed in the Prophet's own words. The lecture emphasizes that the beloved person need not be a family member but could be anyone most dear to an individual.",
   "suggested_title": "Sacred Hadith on Divine Reward for Patience: Explaining Hadith Qudsi from Riyadh as-Salihin",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Patience and Acceptance of Divine Decree",
   "topic_tags": [
     "hadith qudsi",
@@ -734,5 +734,6 @@
     "imam nawawi"
   ],
   "srt_status": "pending",
-  "catchy_title": "When Allah Takes Your Beloved: Paradise Awaits"
+  "catchy_title": "When Allah Takes Your Beloved: Paradise Awaits",
+  "manually_reviewed": true
 }

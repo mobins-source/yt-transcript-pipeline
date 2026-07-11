@@ -755,8 +755,8 @@
   "time_slot": "Sunday-Fajr",
   "summary": "This session discusses the biography and virtues of Abu Dharr al-Ghifari (رضي الله عنه), one of the distinguished companions of Prophet Muhammad. The speaker explains the hierarchical status of companions, categorizing them by levels of virtue and proximity to the Prophet, including those present at Badr, those who gave the Pledge of Ridwan, and other significant groups. Abu Dharr is highlighted as a companion of exceptional knowledge, integrity, and early conversion to Islam, having migrated from Ghaifa to Medina. The speaker mentions that Abu Dharr narrated approximately 280-300 hadith traditions and emphasizes his role as a vessel of knowledge (وعاء ملئ علما) from the Prophet.",
   "suggested_title": "The Life and Virtues of Abu Dharr al-Ghifari: A Distinguished Companion of the Prophet",
-  "content_type": "Mixed",
-  "hadith_book": "Riyadul Saliheen",
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "companions",
@@ -769,5 +769,6 @@
     "prophetic traditions"
   ],
   "srt_status": "pending",
-  "catchy_title": "What Made Abu Dharr an Exceptional Companion?"
+  "catchy_title": "What Made Abu Dharr an Exceptional Companion?",
+  "manually_reviewed": true
 }

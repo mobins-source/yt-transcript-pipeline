@@ -183,8 +183,8 @@
   "time_slot": "Saturday-Isha",
   "summary": "This transcript appears to be a fragmented discussion about Islamic concepts, including references to the Prophet Muhammad (peace be upon him) and various Quranic or hadith-related terms. The content includes mentions of divine concepts and Quranic verses, though the transcript quality is poor with mixed languages and incomplete sentences that make full comprehension difficult.",
   "suggested_title": "Islamic Concepts and Quranic References",
-  "content_type": "Mixed",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "quranic references",
@@ -193,5 +193,6 @@
     "religious discussion"
   ],
   "srt_status": "pending",
-  "catchy_title": "What Is Ajab al-Dhanab? Prophet's Wisdom Explained"
+  "catchy_title": "What Is Ajab al-Dhanab? Prophet's Wisdom Explained",
+  "manually_reviewed": true
 }

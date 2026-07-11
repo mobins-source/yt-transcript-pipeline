@@ -2283,8 +2283,8 @@
   "time_slot": "Thursday-Isha",
   "summary": "This lecture focuses on Quran 73:19, emphasizing the critical importance of understanding and implementing Quranic guidance in daily life. The speaker discusses how the verse describes the Quranic verses as \"an awesome reminder\" and a complete source of guidance, contrasting this with Muslims' actual practices. The lecture highlights a significant gap between Muslim claims of following the Quran and Sunnah versus their actual reliance on secular sources, professional advice, and internet resources for life decisions.",
   "suggested_title": "The Quran as Complete Guidance: Closing the Gap Between Belief and Practice",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "quran guidance",
@@ -2297,5 +2297,6 @@
     "Islamic scholarship"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Muslims Ignore the Quran's Complete Guidance"
+  "catchy_title": "Why Muslims Ignore the Quran's Complete Guidance",
+  "manually_reviewed": true
 }

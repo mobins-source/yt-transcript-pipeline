@@ -1269,7 +1269,7 @@
   "summary": "This lecture discusses a hadith from Sahih Bukhari about how Allah afflicts those He desires good for, using the metaphor of a jeweler working with precious metals to explain divine trials. The speaker clarifies that while certain groups (like the Muhajirin) may be generally superior, this doesn't mean every individual from a superior group is better than every individual from another group. The core teaching is that Allah tests believers through hardship and the harm of others as part of their spiritual refinement, similar to how a jeweler subjects precious metals to intense heat to bring out their best qualities. This testing is essential because true worship requires choosing goodness without compulsion, making human worship uniquely valuable despite being less in quantity than that of angels.",
   "suggested_title": "The Jeweler's Furnace: Understanding Divine Trials and Spiritual Refinement in Islam",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter of Patience",
   "topic_tags": [
     "trials and tribulation",
@@ -1282,5 +1282,6 @@
     "testing"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Allah Tests Those He Loves Most"
+  "catchy_title": "Why Allah Tests Those He Loves Most",
+  "manually_reviewed": true
 }

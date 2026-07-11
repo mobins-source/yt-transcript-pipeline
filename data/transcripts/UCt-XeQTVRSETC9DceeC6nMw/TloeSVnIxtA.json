@@ -1209,8 +1209,8 @@
   "time_slot": "Thursday-Isha",
   "summary": "This lecture discusses the life and beliefs of Abu Jahl (Amr ibn Hisham), one of the Prophet Muhammad's fiercest opponents. The speaker explains that Abu Jahl was not ignorant of Islam or confused about the Prophet's message, but rather deliberately rejected it out of tribal pride and competition. The lecture recounts how Abu Jahl, despite taking oaths to avoid listening to the Quran at night, would repeatedly sneak to the Kaaba to listen to the Prophet's recitation along with other Qurayshi leaders like Abu Sufyan. When confronted about his actions, Abu Jahl openly admitted he knew Muhammad was a true prophet and messenger of Allah, but refused to follow him because accepting him would mean Banu Hashim would gain superiority over his own tribe Banu Umayya in terms of divine favor.",
   "suggested_title": "Abu Jahl: Understanding the Opposition to Prophet Muhammad - His Knowledge, Tribal Pride, and Deliberate Rejection of Islam",
-  "content_type": "General",
-  "hadith_book": "Other",
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "abu jahl",
@@ -1223,5 +1223,6 @@
     "messenger"
   ],
   "srt_status": "pending",
-  "catchy_title": "Abu Jahl Knew the Truth—Why He Still Rejected It"
+  "catchy_title": "Abu Jahl Knew the Truth—Why He Still Rejected It",
+  "manually_reviewed": true
 }

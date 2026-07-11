@@ -1088,7 +1088,7 @@
   "summary": "This lecture presents a detailed explanation of the verse \"Guide us the straight path\" (Ayat al-Istiqamah) from Surah Al-Fatiha, utilizing a prophetic hadith that describes the path of Allah through an extended analogy. The speaker explains that Allah's path is likened to a straight, broad, open road with walls on both sides containing doors with curtains. At the entrance, a caller invites people to enter and stay on the path, while another voice from above warns against deviating by opening the curtains (which represent forbidden acts). The speaker emphasizes that progression on this path depends entirely on following the Sunnah of Prophet Muhammad, and that any attempt to proceed without adhering to his example results in no forward movement. The analogy is then broken down: the path represents Islam, the walls represent Allah's boundaries, the doors represent prohibitions (haram), and the voice above represents the Muslim's conscience.",
   "suggested_title": "The Straight Path: An Analysis of the Prophet's Hadith on Following the Sunnah",
   "content_type": "Hadith",
-  "hadith_book": "Other",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "straight path",
@@ -1101,5 +1101,6 @@
     "path to allah"
   ],
   "srt_status": "pending",
-  "catchy_title": "The Straight Path: What Does It Really Mean?"
+  "catchy_title": "The Straight Path: What Does It Really Mean?",
+  "manually_reviewed": true
 }

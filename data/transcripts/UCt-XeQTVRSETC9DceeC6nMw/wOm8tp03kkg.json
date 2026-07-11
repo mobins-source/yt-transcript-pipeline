@@ -1561,7 +1561,7 @@
   "summary": "This lecture discusses the famous hadith of three men (a leper, a bald man, and a blind man) whom Allah tested by sending an angel to cure them and grant their wishes for wealth. The speaker analyzes how each man's motivation for requesting wealth differed based on their spiritual state—the first two sought wealth for vanity and social status, while the third humbly requested sheep. The central theme explores why some people become corrupted by wealth while others, like Prophet Sulaiman, remain righteous despite abundance. The speaker emphasizes that righteousness must exist before wealth arrives; those who postpone goodness until favorable circumstances arrive will only become worse when given resources. The first man's story serves as a cautionary tale: after decades of enjoying his wealth but refusing to acknowledge Allah's blessing, he is returned to his original state of leprosy, which the speaker argues is actually merciful as it provides opportunity for repentance.",
   "suggested_title": "The Three Men and the Test of Wealth: A Lesson on Gratitude and Spiritual Readiness",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter of Vigilance of Allah's Observation",
   "topic_tags": [
     "hadith",
@@ -1574,5 +1574,6 @@
     "repentance"
   ],
   "srt_status": "pending",
-  "catchy_title": "When Wealth Reveals Your True Heart"
+  "catchy_title": "When Wealth Reveals Your True Heart",
+  "manually_reviewed": true
 }

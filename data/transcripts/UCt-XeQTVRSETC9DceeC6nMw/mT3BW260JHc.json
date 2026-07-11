@@ -4476,7 +4476,7 @@
   "summary": "This lecture discusses a hadith narration collected by major hadith scholars regarding prohibitions in prayer (salah). The speaker explains six specific prohibitions: turning the head like a fox, pecking like a crow during transitions between positions, laying out like a beast, falling abruptly into prostration like a camel, and always praying in the same spot in the mosque like a camel chooses a fixed location. Each prohibition is analyzed in detail with explanations of why they are forbidden, which positions they relate to, and whether they invalidate prayer. The speaker emphasizes that these are based on maintaining proper form, tranquility, and focus in prayer, and addresses the importance of community unity in the mosque rather than formation of exclusive groups based on ethnicity or constant seating locations.",
   "suggested_title": "Six Prohibitions in Prayer (Salah): Etiquette and Proper Form",
   "content_type": "Hadith",
-  "hadith_book": "Other",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "salah",
@@ -4489,5 +4489,6 @@
     "companion narrations"
   ],
   "srt_status": "pending",
-  "catchy_title": "Six Prayer Mistakes That Dishonor Salah"
+  "catchy_title": "Six Prayer Mistakes That Dishonor Salah",
+  "manually_reviewed": true
 }

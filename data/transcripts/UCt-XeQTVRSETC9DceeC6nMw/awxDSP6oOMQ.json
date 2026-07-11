@@ -816,7 +816,7 @@
   "summary": "This Islamic lecture discusses voluntary fasting (صيام التطوع) based on Al-Wajeez fi Fiqh al-Sunnah wa al-Kitab al-Aziz. The speaker covers the virtues of fasting on specific days including the 6th of Shawwal, Day of Arafah (for non-pilgrims), and the Day of Ashura (10th of Muharram). The lecture includes hadith evidence from Sahih Muslim narrated by Abu Qatadah regarding the expiation of sins through fasting these days. The speaker also discusses the distinction between major sins (كبائر) and minor sins (صغائر), explaining that fasting on these days expiates minor sins. Additional discussion includes the hadith of Um al-Fadl (mother of al-Fadl) regarding the Prophet's fasting status on the Day of Arafah, with evidence from both Sahih Bukhari and Sahih Muslim.",
   "suggested_title": "Voluntary Fasting and the Virtues of Fasting on Days of Arafah and Ashura",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Muslim",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Book of Fasting - Chapter on Voluntary Fasting",
   "topic_tags": [
     "voluntary fasting",
@@ -829,5 +829,6 @@
     "prophet muhammad"
   ],
   "srt_status": "pending",
-  "catchy_title": "Which Fast Wipes Away Your Sins?"
+  "catchy_title": "Which Fast Wipes Away Your Sins?",
+  "manually_reviewed": true
 }

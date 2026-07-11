@@ -871,7 +871,7 @@
   "summary": "This Islamic lecture discusses a hadith from Riyadul Saliheen (Gardens of the Righteous) narrated by Abu Said Al-Khudri about a man who killed 99 people and then sought repentance. The speaker explains how the man was directed by a scholar to change his environment and migrate to a better place to maintain his repentance. The lecture covers the moment of the man's death while traveling to this new land, where the angels of mercy and angels of punishment disputed over his soul, reflecting the Islamic concept that angels are assigned different roles in the afterlife based on a person's deeds and circumstances.",
   "suggested_title": "The Story of Repentance and the Angels of Mercy vs. Punishment - Riyadul Saliheen",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Repentance (Bab al-Taubah)",
   "topic_tags": [
     "repentance",
@@ -884,5 +884,6 @@
     "taubah"
   ],
   "srt_status": "pending",
-  "catchy_title": "When Angels Dispute Over a Killer's Soul"
+  "catchy_title": "When Angels Dispute Over a Killer's Soul",
+  "manually_reviewed": true
 }

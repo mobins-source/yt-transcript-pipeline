@@ -2205,8 +2205,8 @@
   "time_slot": "Friday-Isha",
   "summary": "The Muslim Community Center of Tucson held a Quran memorization competition awards ceremony on April 26th, recognizing 52 children who successfully memorized various chapters of the Quran at different difficulty levels. The competition was organized into six levels, progressing from Surat Al-Bayyinah (level one) through Surat ar-Rahman (level seven), with participants receiving certificates and prizes for their achievements. The ceremony honored the students' dedication, teachers, judges, parents, and youth coordinators who contributed to the program's success.",
   "suggested_title": "Quran Memorization Competition Awards Ceremony - Muslim Community Center of Tucson",
-  "content_type": "Announcement",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "quran competition",
@@ -2217,5 +2217,6 @@
     "islamic education"
   ],
   "srt_status": "pending",
-  "catchy_title": "52 Children Honored at Quran Memorization Ceremony"
+  "catchy_title": "52 Children Honored at Quran Memorization Ceremony",
+  "manually_reviewed": true
 }

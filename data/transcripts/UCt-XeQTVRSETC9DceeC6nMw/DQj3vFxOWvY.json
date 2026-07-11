@@ -2580,8 +2580,8 @@
   "time_slot": "Saturday-Isha",
   "summary": "This lecture discusses Surah Al-Muzzammil (Chapter 73), verses 11-14, focusing on the consequences of disbelief and rejection of Allah's message in the afterlife. The speaker explains how disbelievers will suddenly perceive the truth clearly after death when the veil is removed from their eyes, but this realization will only increase their misery. The lecture addresses various forms of disbelief, including active rejection and negligent indifference, and emphasizes that every human experiences moments of crisis and spiritual awareness that serve as divine reminders to seek guidance.",
   "suggested_title": "Surah Al-Muzzammil (73:11-14) - The Consequences of Disbelief and the Removal of the Veil in the Afterlife",
-  "content_type": "Quran",
-  "hadith_book": "Sahih Muslim",
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "quran exegesis",
@@ -2594,5 +2594,6 @@
     "accountability"
   ],
   "srt_status": "pending",
-  "catchy_title": "When Disbelievers Finally See the Truth"
+  "catchy_title": "When Disbelievers Finally See the Truth",
+  "manually_reviewed": true
 }

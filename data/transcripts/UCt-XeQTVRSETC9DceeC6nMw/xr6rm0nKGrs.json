@@ -2132,8 +2132,8 @@
   "time_slot": "Thursday-Fajr",
   "summary": "This lecture from the Muslim Community Center of Tucson provides a detailed analysis of the pillars of fasting in Islamic jurisprudence. The instructor covers the two main pillars: intention (niyyah) and refraining from things that break the fast. The lecture emphasizes that intention must be established before dawn for obligatory fasts, and discusses how evidence is structured in Islamic scholarship, moving from general to specific proofs using Quranic verses and hadith narrations. The instructor explains that intention is a condition for all acts of worship and uses the principle that obligatory fasts follow the same rulings whether during Ramadan or when making up missed days. The second pillar is explained through Quranic evidence, particularly verse 187 of Surah Al-Baqarah, which delineates the fasting period from dawn until sunset. The lecture emphasizes the importance of understanding the evidence behind Islamic rulings rather than merely following them blindly, distinguishing between true knowledge and blind adherence.",
   "suggested_title": "The Two Pillars of Fasting: Intention and Abstinence - Islamic Jurisprudence Lecture",
-  "content_type": "Mixed",
-  "hadith_book": "Sahih Bukhari",
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Book of Fasting (Kitab al-Sawm)",
   "topic_tags": [
     "fasting",
@@ -2146,5 +2146,6 @@
     "worship"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Intention is the Foundation of Fasting"
+  "catchy_title": "Why Intention is the Foundation of Fasting",
+  "manually_reviewed": true
 }

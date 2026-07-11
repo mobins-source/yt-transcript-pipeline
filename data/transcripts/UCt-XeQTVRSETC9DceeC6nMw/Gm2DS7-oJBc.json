@@ -3072,8 +3072,8 @@
   "time_slot": "Sunday-Isha",
   "summary": "The imam of Muslim Community Center of Tucson provides a comprehensive overview of their Ramadan programming schedule, including Taraweeh prayers starting Wednesday night with one juz (part) of Quran recited each night to complete the full Quran by the last night of Ramadan. He outlines the schedule (8 PM nightly), volunteer opportunities for youth (requiring 4-hour commitments), and ongoing Quran study circles on weekends. The second part of the address discusses an important Islamic concept about distinguishing between mudarah (impermissible compromise of religious principles) and mudara (diplomacy). The imam provides examples from the Prophet Muhammad's life, including his decision not to rebuild the Kaaba on its original foundations immediately after conquering Mecca to avoid shocking newly converted Muslims, and his kind treatment of a disrespectful visitor named Hayib.",
   "suggested_title": "Ramadan 2024 Program Overview and Islamic Principles of Diplomacy vs. Compromise",
-  "content_type": "Mixed",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "ramadan",
@@ -3086,5 +3086,6 @@
     "community"
   ],
   "srt_status": "pending",
-  "catchy_title": "Ramadan Begins Wednesday: Schedule, Service, Wisdom"
+  "catchy_title": "Ramadan Begins Wednesday: Schedule, Service, Wisdom",
+  "manually_reviewed": true
 }

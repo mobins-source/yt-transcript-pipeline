@@ -1108,7 +1108,7 @@
   "summary": "This lecture discusses the Islamic concept of repentance (tawbah) as presented in what appears to be a chapter from a Islamic jurisprudence or hadith commentary text. The speaker explains that repentance is an obligation for all sins, whether major or minor, and outlines the three essential conditions for acceptance of repentance: ceasing the sinful act immediately, feeling genuine regret for the past, and having a firm resolve never to return to the sin in the future. The speaker distinguishes between sins that only involve Allah and the individual versus sins that infringe on others' rights, explaining that the three conditions apply specifically to the former category.\n\nThe lecture emphasizes that repentance is a comprehensive act of worship addressing past, present, and future dimensions of the sin. The speaker addresses common misconceptions, such as the false belief that one can intend to repent while planning to return to the sin later, explaining that Allah looks into hearts and such intentions invalidate the third condition of genuine resolve. The speaker also discusses practical challenges to repentance, including attachment to sins that have become habitual, fear of permanent loss, and the importance of relying on Allah's aid rather than one's own strength to overcome sinful patterns.",
   "suggested_title": "The Three Conditions of Repentance (Tawbah) in Islamic Law",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Repentance",
   "topic_tags": [
     "repentance",
@@ -1121,5 +1121,6 @@
     "moral discipline"
   ],
   "srt_status": "pending",
-  "catchy_title": "Three Conditions Allah Looks For in Repentance"
+  "catchy_title": "Three Conditions Allah Looks For in Repentance",
+  "manually_reviewed": true
 }

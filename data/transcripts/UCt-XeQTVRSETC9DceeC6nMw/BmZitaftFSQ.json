@@ -2168,8 +2168,8 @@
   "time_slot": "Wednesday-Isha",
   "summary": "A lecture from the Muslim Community Center of Tucson discussing Surah Al-Mur and the story of Walid ibn Mughirah, a wealthy and influential figure in pre-Islamic Mecca. The speaker emphasizes the importance of independent critical thinking versus blindly following the opinions of others or being swayed by propaganda. He draws parallels between the propaganda used against the Prophet Muhammad by the Quraysh elite and modern-day propaganda in contemporary society, urging Muslims to examine where their opinions originate. The lecture concludes with a hadith from Sahih Muslim about the Battle of the Trench, illustrating how even the Prophet's companions experienced fear and doubt during difficult circumstances.",
   "suggested_title": "Critical Thinking and Resisting Propaganda: Lessons from Surah Al-Mur and the Quraysh",
-  "content_type": "Mixed",
-  "hadith_book": "Sahih Muslim",
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Battle of the Trench (Ghazwat al-Khandaq)",
   "topic_tags": [
     "independent thinking",
@@ -2182,5 +2182,6 @@
     "quranic lessons"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Do You Believe What You Believe?"
+  "catchy_title": "Why Do You Believe What You Believe?",
+  "manually_reviewed": true
 }

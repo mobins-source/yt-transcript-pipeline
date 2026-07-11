@@ -1948,7 +1948,7 @@
   "summary": "This lecture discusses Islamic teachings on the signs of the Day of Judgment (Yawm al-Qiyamah) based on a hadith narrated by Omar ibn al-Khattab. The speaker explains two major signs mentioned by the Prophet Muhammad: first, a slave girl giving birth to her master, which has three valid interpretations including literal enslavement during Islamic conquests, confusion of lineage, and figurative child-parent role reversals due to societal breakdown. Second, the speaker elaborates on barefoot shepherds suddenly acquiring obscene wealth and competing in building skyscrapers, analyzing this as a sign of rigged economies, rapid wealth accumulation without generational foundation, and the dangerous combination of ignorance with power. The lecture concludes by identifying the questioner as the angel Gabriel (Jibril), explaining how the Prophet deliberately delayed revealing this identity for three days to build students' curiosity and deeper engagement with the knowledge.",
   "suggested_title": "Signs of the Day of Judgment: Slave Girl Born to Master and Barefoot Shepherds Building Skyscrapers",
   "content_type": "Hadith",
-  "hadith_book": "Other",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Signs of the Hour (Yawm al-Qiyamah)",
   "topic_tags": [
     "signs of the hour",
@@ -1960,5 +1960,6 @@
     "islamic teachings"
   ],
   "srt_status": "pending",
-  "catchy_title": "When Shepherds Build Skyscrapers: Signs of Qiyamah"
+  "catchy_title": "When Shepherds Build Skyscrapers: Signs of Qiyamah",
+  "manually_reviewed": true
 }

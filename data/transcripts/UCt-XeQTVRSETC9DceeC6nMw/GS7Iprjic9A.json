@@ -1003,8 +1003,8 @@
   "summary": "This lecture discusses the invalidators of wudoo (ritual ablution) in Islam, specifically focusing on deep sleep as an invalidator. The speaker explains that sleep itself does not break wudoo, but rather deep sleep creates uncertainty about whether wudoo has been broken, since a person cannot be certain of what their body did while they were unconscious. The speaker clarifies the distinction between light sleep and deep sleep, noting that only deep sleep invalidates wudoo. The lecture also addresses the special case of the Prophet Muhammad (peace be upon him), whose heart remained awake even during physical sleep to receive revelation, allowing him to know with certainty whether his wudoo was broken.",
   "suggested_title": "Understanding Deep Sleep as an Invalidator of Wudoo: Certainty and Doubt in Ritual Purity",
   "catchy_title": "Does sleep really break your wudoo?",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "wudoo",
@@ -1015,5 +1015,6 @@
     "certainty",
     "salah preparation"
   ],
-  "srt_status": "pending"
+  "srt_status": "pending",
+  "manually_reviewed": true
 }

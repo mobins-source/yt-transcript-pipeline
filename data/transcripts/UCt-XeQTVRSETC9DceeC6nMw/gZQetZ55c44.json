@@ -1304,7 +1304,7 @@
   "summary": "This lecture discusses a hadith about the increasing scarcity of righteous people throughout generations, using the metaphor of leftovers at the bottom of a barrel to describe the quality of humanity that will remain. The speaker provides detailed Islamic theological clarification on what constitutes righteousness in Islamic terminology, explaining that true righteousness can only come through knowledge of the Quran and Sunnah, not through natural goodness or character alone. The lecture emphasizes the distinction between being excused in the afterlife and being truly righteous, arguing that while non-Muslims may possess individual virtues or be excused for lack of guidance, they cannot achieve complete righteousness without Islamic guidance.",
   "suggested_title": "The Scarcity of the Righteous: Understanding True Righteousness in Islam",
   "content_type": "Hadith",
-  "hadith_book": "Other",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "18th or 19th book",
   "topic_tags": [
     "hadith",
@@ -1317,5 +1317,6 @@
     "virtue"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why True Righteousness Becomes Rarer Each Generation"
+  "catchy_title": "Why True Righteousness Becomes Rarer Each Generation",
+  "manually_reviewed": true
 }

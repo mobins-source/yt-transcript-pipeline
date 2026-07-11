@@ -1591,7 +1591,7 @@
   "time_slot": "Saturday-Isha",
   "summary": "An imam at the Muslim Community Center of Tucson delivers a lecture on Quranic study and spiritual commitment, focusing on Surah Al-Qalam (Chapter 68, verses 1-4) which praises Prophet Muhammad's character. The speaker emphasizes the importance of systematic Quranic learning and reflection, contrasting it with casual listening. He discusses hadith reports about the blessings of gathering to study Allah's words, highlighting how Allah mentions such gatherings to His angels and grants mercy and forgiveness to those present.\n\nThe imam addresses broader themes of Muslim identity and community revival, discussing how Muslims have been stripped of their heritage through colonialism and must now reclaim their connection to the Quran. He criticizes the problem of \"hesitation\"—the inability to fully commit to either worldly or spiritual pursuits—using the metaphor of a hunter unable to choose between deer. He calls on the community to enter into complete submission to Allah and dedicate themselves entirely to learning and understanding the Quran, warning that partial commitment leads to failure in both worlds.",
   "suggested_title": "The Importance of Quranic Study and Complete Spiritual Commitment",
-  "content_type": "Mixed",
+  "content_type": "Hadith",
   "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "The virtues of gathering for Quranic recitation and study",
   "topic_tags": [
@@ -1605,5 +1605,6 @@
     "hadith virtues"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Quran Study Demands Complete Commitment"
+  "catchy_title": "Why Quran Study Demands Complete Commitment",
+  "manually_reviewed": true
 }

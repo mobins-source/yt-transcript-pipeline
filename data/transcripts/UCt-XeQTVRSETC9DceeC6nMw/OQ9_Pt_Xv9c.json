@@ -1466,7 +1466,7 @@
   "summary": "This lecture discusses a hadith teaching from the Prophet Muhammad to Ibn Abbas about foundational Islamic principles and beliefs. The speaker emphasizes that correcting behavior requires correcting underlying belief systems rather than merely addressing symptoms, using examples from American society like Prohibition's failure. The core teaching centers on preserving Allah's boundaries and commandments, with the promise that Allah will preserve those who do so. The speaker explains how this hadith addresses root causes of contemporary social issues, particularly among Muslim youth influenced by secular narratives that promote materialism and unrealistic expectations.",
   "suggested_title": "Correcting Beliefs to Correct Actions: The Hadith of Ibn Abbas",
   "content_type": "Hadith",
-  "hadith_book": "Other",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "hadith of ibn abbas",
@@ -1479,5 +1479,6 @@
     "correcting behavior"
   ],
   "srt_status": "pending",
-  "catchy_title": "Fix Your Beliefs, Fix Your Life"
+  "catchy_title": "Fix Your Beliefs, Fix Your Life",
+  "manually_reviewed": true
 }

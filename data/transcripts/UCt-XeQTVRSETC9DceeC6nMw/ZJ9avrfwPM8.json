@@ -1740,8 +1740,8 @@
   "time_slot": "Wednesday-Isha",
   "summary": "The speaker discusses a Quranic verse about the Prophet Muhammad's transformation from a state of need to wealth, emphasizing that this wealth refers not to material riches but to spiritual and intellectual wealth—knowledge, contentment, and faith in Allah. The speaker explains that the Prophet's actual physical inheritance was minimal (only a shield, armor, and mule), highlighting that true prophetic legacy is knowledge and wisdom. Through various analogies—comparing a poor person eating meager food to a wealthy person eating caviar, discussing childhood excitement over toys, and referencing the story of Pharaoh—the speaker illustrates that material possessions and worldly pleasures are ultimately illusory and temporary. The core message emphasizes that true wealth lies in the contentment and peace of the heart, not in accumulating physical possessions, and that one's perspective determines happiness more than external circumstances.",
   "suggested_title": "True Wealth: Beyond Material Possessions - An Islamic Perspective on Contentment and Faith",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "quran interpretation",
@@ -1754,5 +1754,6 @@
     "perspective"
   ],
   "srt_status": "pending",
-  "catchy_title": "What's True Wealth? Allah's Answer to the Prophet"
+  "catchy_title": "What's True Wealth? Allah's Answer to the Prophet",
+  "manually_reviewed": true
 }

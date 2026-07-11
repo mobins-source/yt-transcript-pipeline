@@ -1982,8 +1982,8 @@
   "time_slot": "Saturday-Fajr",
   "summary": "This lecture continues the chapter on vigilance (taqwa) of Allah from what appears to be a hadith collection study. The speaker provides a detailed biographical overview of Muad ibn Jabal, a prominent companion of the Prophet Muhammad. Key details include Muad becoming Muslim at age 18 before the Hijra, his participation in the Battle of Badr (where he received Allah's forgiveness), his tribe affiliation (Al-Khazraj), and his appointment by the Prophet to spread Islam in Yemen. The speaker emphasizes Muad's scholarly virtues and his death at age 35-36 in the 18th year of Hijra during the plague of Amwas in Syria. The lecture employs mnemonic devices and comparative analysis to help students memorize biographical details and understand the significance of companions in Islamic history.",
   "suggested_title": "Biography of Muad ibn Jabal: A Companion's Life and Scholarly Virtues",
-  "content_type": "Mixed",
-  "hadith_book": "Riyadul Saliheen",
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter of Vigilance (Taqwa)",
   "topic_tags": [
     "muad ibn jabal",
@@ -1996,5 +1996,6 @@
     "islamic history"
   ],
   "srt_status": "pending",
-  "catchy_title": "Who Was Muad ibn Jabal?"
+  "catchy_title": "Who Was Muad ibn Jabal?",
+  "manually_reviewed": true
 }

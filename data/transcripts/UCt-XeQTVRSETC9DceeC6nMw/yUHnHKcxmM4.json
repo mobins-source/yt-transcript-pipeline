@@ -1501,7 +1501,7 @@
   "summary": "This lecture provides an in-depth introduction to Riyadul Saliheen (Gardens of the Righteous), a compilation of hadith narrations from the Prophet Muhammad. The speaker explains how the author structured this work to make authentic hadith accessible to average Muslims, unlike complex original hadith collections like Sahih Bukhari and Sahih Muslim. Approximately 85% of Riyadul Saliheen's nearly 2,000 narrations are sourced from Bukhari and Muslim, ensuring high authenticity standards. The speaker emphasizes that no narrations in Riyadul Saliheen are unanimously agreed upon as fabricated or extremely weak by Islamic scholars, though some individual narrations may be debated. The lecture addresses common criticism of the author by explaining that scholarly disagreement is normal and that prominence in Islamic scholarship naturally attracts detractors. The speaker announces plans to begin a detailed study of the text, covering each narration with brief explanations.",
   "suggested_title": "Introduction to Riyadul Saliheen: Structure, Authenticity, and Scholarly Authority",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Introduction to the book",
   "topic_tags": [
     "riyadul saliheen",
@@ -1514,5 +1514,6 @@
     "hadith classification"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Scholars Created Simplified Hadith Collections"
+  "catchy_title": "Why Scholars Created Simplified Hadith Collections",
+  "manually_reviewed": true
 }

@@ -2057,8 +2057,8 @@
   "time_slot": "Sunday-Isha",
   "summary": "This lecture discusses the Quranic story of Qarun (Korah), a wealthy cousin of Prophet Musa who was known for his exceptional knowledge of the Torah and his vast wealth. The speaker explores how Qarun, despite his religious knowledge and the advice from his community to use his wealth for pleasing Allah, fell into arrogance by attributing his blessings to his own intelligence and merit rather than to Allah. The speaker emphasizes that there is a critical difference between what people say and what they truly believe, and that our actions and hearts, not our words, reveal our true conviction. The narrative illustrates how Qarun's arrogance led to his destruction when Allah caused the earth to swallow him and his wealth, serving as a cautionary tale about the dangers of vanity in both knowledge and wealth.",
   "suggested_title": "The Story of Qarun: A Lesson on Arrogance and the Proper Attribution of Blessings to Allah",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "qarun",
@@ -2071,5 +2071,6 @@
     "dunya"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Qarun's Knowledge Couldn't Save Him"
+  "catchy_title": "Why Qarun's Knowledge Couldn't Save Him",
+  "manually_reviewed": true
 }

@@ -440,7 +440,7 @@
   "summary": "This content discusses a hadith narration about the Prophet Muhammad's approach to battlefield strategy and preparation. The speaker explains how the Prophet would time battles to occur after noon, allowing time for prayer while maintaining daylight for combat. The narration, attributed to Ibrahim through a companion, describes the Prophet's pre-battle address to his companions, emphasizing patience and the promise of paradise. The Prophet is quoted as saying 'Paradise is found under the shade of swords' and making a specific supplication for victory that scholars categorize as a battle-related dua.",
   "suggested_title": "The Prophet's Pre-Battle Strategy and Supplication for Victory",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter of Patience",
   "topic_tags": [
     "battle strategy",
@@ -453,5 +453,6 @@
     "islamic history"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why the Prophet Timed Battles After Noon"
+  "catchy_title": "Why the Prophet Timed Battles After Noon",
+  "manually_reviewed": true
 }

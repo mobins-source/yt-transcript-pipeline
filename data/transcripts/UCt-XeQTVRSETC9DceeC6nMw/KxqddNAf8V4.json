@@ -339,8 +339,8 @@
   "time_slot": "Wednesday-Fajr",
   "summary": "This lecture discusses the concept of truthfulness and honesty in Islam as a command from Allah, contrasting it with the pervasive fakeness in modern society, particularly in advertising and marketing. The speaker critiques how contemporary advertising is designed to manipulate people into purchasing products they don't need, viewing this as the epitome of deception. The speaker connects this critique to Islamic teachings about being truthful and maintaining reverence of Allah, emphasizing that truthfulness is not separate from the fear of Allah but rather an integral part of it.",
   "suggested_title": "Truthfulness in Islam vs. Deception in Modern Advertising",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "truthfulness",
@@ -353,5 +353,6 @@
     "ethics"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Modern Ads Are Built on Lies"
+  "catchy_title": "Why Modern Ads Are Built on Lies",
+  "manually_reviewed": true
 }

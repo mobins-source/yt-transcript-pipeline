@@ -1100,7 +1100,7 @@
   "suggested_title": "The Second Obligation of Wudoo: Washing the Hands and Forearms",
   "catchy_title": "Why the Elbows Matter in Wudoo",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Wudoo and its Obligations",
   "topic_tags": [
     "wudoo",
@@ -1112,5 +1112,6 @@
     "hands and forearms",
     "quran terminology"
   ],
-  "srt_status": "pending"
+  "srt_status": "pending",
+  "manually_reviewed": true
 }

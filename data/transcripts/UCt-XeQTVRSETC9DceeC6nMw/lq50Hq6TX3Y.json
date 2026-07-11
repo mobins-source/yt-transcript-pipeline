@@ -1721,7 +1721,7 @@
   "time_slot": "Saturday-Isha",
   "summary": "This lecture discusses the proper methods and etiquette of Quranic recitation (tajweed) as commanded in Surah Al-Muzzammil verse 4. The speaker explains how the Prophet Muhammad and his companions recited the Quran with intention, clarity, and measured pace to allow the mind to comprehend each letter and word. The lecture covers four modes of Quranic recitation speeds and emphasizes that recitation should facilitate contemplation and connection with Allah's words, not showcase the reciter's abilities. The speaker strongly criticizes the introduction of musical elements and 'maqams' (musical scales) into Quranic recitation, explaining how this innovation contradicts Islamic scholarship and transforms the Quran into entertainment rather than divine guidance.",
   "suggested_title": "The Proper Recitation of the Quran: Tajweed, Intention, and Rejecting Musical Innovation",
-  "content_type": "Quran",
+  "content_type": "Hadith",
   "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Hasten to do good deeds before six signs of the hour",
   "topic_tags": [
@@ -1735,5 +1735,6 @@
     "proper pronunciation"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Music Has No Place in Quranic Recitation"
+  "catchy_title": "Why Music Has No Place in Quranic Recitation",
+  "manually_reviewed": true
 }

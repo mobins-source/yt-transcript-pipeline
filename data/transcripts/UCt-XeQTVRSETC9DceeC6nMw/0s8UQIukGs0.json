@@ -2217,8 +2217,8 @@
   "time_slot": "Friday-Isha",
   "summary": "This lecture reflects on Quranic principles about collective responsibility within the Muslim community (Ummah). The speaker uses examples from the Quran and Islamic history to demonstrate how the actions of individuals and minorities affect the entire Muslim body, citing Allah's address to the Jews of Medina about their predecessors' mistakes, the Battle of Uhud where a small group of disobedient archers caused defeat, and the Battle of Hunayn where excessive confidence in numbers led to initial failure. The core message emphasizes that believers form one unified body where each part's condition affects the whole, and that Muslims must actively command good and forbid evil rather than remaining silent and complicit.",
   "suggested_title": "The Collective Responsibility of the Muslim Ummah: Unity, Obedience, and Commanding Good",
-  "content_type": "Quran",
-  "hadith_book": "Sunan Ibn Majah",
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Chapters on Commanding Good and Forbidding Evil",
   "topic_tags": [
     "collective responsibility",
@@ -2231,5 +2231,6 @@
     "quranic principles"
   ],
   "srt_status": "pending",
-  "catchy_title": "Your Actions Affect the Entire Muslim Body"
+  "catchy_title": "Your Actions Affect the Entire Muslim Body",
+  "manually_reviewed": true
 }

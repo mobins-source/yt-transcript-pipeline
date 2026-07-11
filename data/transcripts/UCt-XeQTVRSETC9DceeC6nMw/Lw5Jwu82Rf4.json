@@ -1642,7 +1642,7 @@
   "summary": "This lecture discusses the virtues and recommended practices for Friday (Jumu'ah) prayer in Islam. The speaker emphasizes that Fajr prayer on Friday is the most beloved prayer to Allah throughout the week, and explains the significant rewards awaiting those who attend congregational prayers, referencing a hadith where the Prophet mentioned people would come crawling if they fully understood the rewards. The lecture then details the specific rights and traditions of Friday preparation and observance, including bathing, wearing fine clothes, using perfume, brushing teeth thoroughly, and making salah upon the Prophet multiple times during the day.",
   "suggested_title": "The Virtues and Rights of Jumu'ah (Friday Prayer): Preparation and Observance",
   "content_type": "Hadith",
-  "hadith_book": "Other",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Jumu'ah (Friday Prayer) - Virtues and Practices",
   "topic_tags": [
     "jumu'ah prayer",
@@ -1655,5 +1655,6 @@
     "ritual purification"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Friday Fajr is Most Beloved to Allah"
+  "catchy_title": "Why Friday Fajr is Most Beloved to Allah",
+  "manually_reviewed": true
 }

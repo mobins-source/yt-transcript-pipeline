@@ -1941,8 +1941,8 @@
   "time_slot": "Thursday-Isha",
   "summary": "This lecture discusses how religious divisions arise among followers of faith, particularly addressing the Quranic verse about those who divide their religion into factions. The speaker explains that the core message of all prophets—worshipping Allah alone, establishing prayer, and giving zakat—should unite believers, but divisions occur when people innovate and deviate from the essential tenants of their faith. The speaker emphasizes that claiming to follow a prophet or love Allah is not unique; what matters is whether Allah claims you and whether the Prophet Muhammad recognizes you as his true follower. The lecture distinguishes between scholarly differences of opinion on interpretive matters and fundamental divisions on core Islamic beliefs and practices.",
   "suggested_title": "Unity in Core Islamic Beliefs: Understanding Division and Innovation in Religion",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "islamic unity",
@@ -1954,5 +1954,6 @@
     "scholarly differences"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Do Muslims Divide Over Islam's Core?"
+  "catchy_title": "Why Do Muslims Divide Over Islam's Core?",
+  "manually_reviewed": true
 }

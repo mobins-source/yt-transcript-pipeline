@@ -2093,7 +2093,7 @@
   "summary": "This lecture continues the study of the fifth chapter on vigilance of Allah's observation from a hadith collection, focusing on the 62nd narration of Abdullah ibn Abbas. The instructor discusses the famous hadith where the Prophet Muhammad taught young Ibn Abbas several short, memorable statements of Islamic wisdom that serve as life guidance. These include principles about preserving Allah's boundaries, seeking help from Allah, understanding divine decree, and trusting in Allah's plan. The lecture extensively explores the concept of Islamic predestination (qadr), explaining the proper Muslim belief regarding past events and divine decree, contrasting the believer's perspective with that of disbelievers.",
   "suggested_title": "Hadith of Abdullah ibn Abbas: Words of Wisdom and Understanding Divine Decree",
   "content_type": "Hadith",
-  "hadith_book": "Other",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter of Vigilance of Allah's Observation, 62nd narration",
   "topic_tags": [
     "hadith",
@@ -2106,5 +2106,6 @@
     "patience"
   ],
   "srt_status": "pending",
-  "catchy_title": "What the Prophet Taught Young Ibn Abbas"
+  "catchy_title": "What the Prophet Taught Young Ibn Abbas",
+  "manually_reviewed": true
 }

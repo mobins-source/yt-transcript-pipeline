@@ -958,7 +958,7 @@
   "summary": "This lecture discusses the methodology of hadith compilation and chapter organization in classical hadith collections, specifically focusing on Imam al-Nawawi's approach in organizing Sahih Muslim. The speaker explains how earlier hadith scholars like al-Bukhari used chapter titles to present conclusions drawn from the narrations, and how al-Nawawi applied this same methodology when he added chapter titles and organization to Sahih Muslim (which originally had none). The lecture then transitions into discussing a specific chapter about the virtues and merits of Friday (Jumu'ah), covering topics such as the obligation of bathing before Jumu'ah, wearing perfume, attending early, making dua on Friday, sending salutations upon the Prophet, and remembering Allah on this special day.",
   "suggested_title": "The Virtues and Merits of Friday (Jumu'ah) - Hadith Methodology and Jumu'ah Rulings",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Muslim",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Book of Virtues, Chapter on the Virtues and Merits of Jumu'ah (Chapter 210)",
   "topic_tags": [
     "hadith methodology",
@@ -971,5 +971,6 @@
     "imam al-nawawi"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Even Scholars Aren't Perfect"
+  "catchy_title": "Why Even Scholars Aren't Perfect",
+  "manually_reviewed": true
 }

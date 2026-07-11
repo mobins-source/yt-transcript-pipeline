@@ -2077,8 +2077,8 @@
   "time_slot": "Sunday-Isha",
   "summary": "This lecture provides a detailed tafsir (exegesis) of Surah Al-Haqqah verses 17-19, focusing on the Day of Judgment and its terrifying nature. The speaker explores different Quranic recitations (qiraat) of verse 17, explaining how subtle pronunciation differences (fatha vs kasra) add layers of meaning—from protection against the day's horrors to protection from Allah's anger itself. The analysis demonstrates how multiple recitations allow the Quran to convey multiple meanings within a single written text, illustrating one of the Quran's miracles. The lecture delves into linguistic analysis of key words like 'inshiqaaq' (splitting), explaining the Arabic root meanings and how they convey imagery of the sky splitting suddenly from its center due to the stress and anticipation of the Day of Judgment, which will last 50,000 years. The speaker also examines grammatical gender agreement in Arabic and how Allah uses masculine verbs with feminine nouns to convey concepts of strength and violence in describing the heavens' splitting.",
   "suggested_title": "Tafsir of Surah Al-Haqqah Verses 17-19: The Day of Judgment and Quranic Recitations",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "quran",
@@ -2091,5 +2091,6 @@
     "grammar"
   ],
   "srt_status": "pending",
-  "catchy_title": "One Verse, Multiple Meanings: Quranic Recitations Revealed"
+  "catchy_title": "One Verse, Multiple Meanings: Quranic Recitations Revealed",
+  "manually_reviewed": true
 }

@@ -153,8 +153,8 @@
   "time_slot": "Thursday-Fajr",
   "summary": "This brief excerpt discusses the importance of adhering to the Quran and Sunnah without attempting to exceed their boundaries or reinterpret them beyond their intended meaning. The speaker emphasizes that people of weak intellect may misunderstand Islamic teachings and attempt to distort them, which is described as a perilous and hazardous act. The content stresses the responsibility of Muslims to seek true knowledge and understanding rather than attempting to go beyond the limitations set by Islamic sources.",
   "suggested_title": "Adhering to the Quran and Sunnah: Avoiding Misinterpretation and False Innovation",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "quran",
@@ -166,5 +166,6 @@
     "religious responsibility"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Going Beyond Quran and Sunnah Is Dangerous"
+  "catchy_title": "Why Going Beyond Quran and Sunnah Is Dangerous",
+  "manually_reviewed": true
 }

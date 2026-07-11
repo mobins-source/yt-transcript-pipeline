@@ -1664,8 +1664,8 @@
   "time_slot": "Sunday-Isha",
   "summary": "This lecture discusses the first verses revealed to Prophet Muhammad (Quran 96:1-5, Surah Al-Alaq) and their foundational importance in Islam. The speaker explains how these initial revelations emphasize the principle that knowledge must precede action, as evidenced by the command to 'read' before the command to 'stand and give da'wah.' The speaker elaborates on three categories of people mentioned in Surah Al-Fatihah: those whom Allah's favor is upon (those with knowledge and action), those upon whom Allah's anger is upon (those with knowledge but no action), and those who are astray (those with action but no knowledge). The lecture emphasizes that true guidance requires both knowledge and implementation together, warning against the dangers of good intentions without knowledge, and the spiritual emptiness of knowledge without action.",
   "suggested_title": "Knowledge and Action: The Foundation of Islam - Understanding Surah Al-Alaq and Surah Al-Fatihah",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "quran interpretation",
@@ -1678,5 +1678,6 @@
     "faith and practice"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Knowledge Must Come Before Action"
+  "catchy_title": "Why Knowledge Must Come Before Action",
+  "manually_reviewed": true
 }

@@ -2036,8 +2036,8 @@
   ],
   "summary": "This lecture discusses the Islamic perspective on artificial intelligence, free will, and contemporary societal threats. The speaker begins by referencing a hadith about the creation of angels from light, jinn from fire, and humans from clay, emphasizing that these three creatures are uniquely mentioned together because they possess free will and their destinies overlap with one another. The speaker then extensively addresses the dangers of AI, arguing that AI can never be truly sentient or possess free will, and warns against the emerging trend of people worshipping or emotionally depending on AI systems. The lecture connects these concerns to broader themes of propaganda, surveillance, and the importance of adhering to Quranic guidance rather than relying on technology for spiritual or personal decisions.",
   "suggested_title": "Free Will in Creation and the Islamic Response to Artificial Intelligence",
-  "content_type": "Mixed",
-  "hadith_book": "Other",
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "free will",
@@ -2060,5 +2060,6 @@
   "month_year": "June 2026",
   "actual_at": "2026-06-04T04:16:17+00:00",
   "srt_status": "pending",
-  "catchy_title": "Why Angels, Jinn, and Humans Are Mentioned Together"
+  "catchy_title": "Why Angels, Jinn, and Humans Are Mentioned Together",
+  "manually_reviewed": true
 }

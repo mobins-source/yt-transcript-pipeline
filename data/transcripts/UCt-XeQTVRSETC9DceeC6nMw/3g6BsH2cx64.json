@@ -1645,8 +1645,8 @@
   "time_slot": "Sunday-Isha",
   "summary": "This lecture discusses Quranic descriptions of hellfire and the Islamic principle that consequences (reward or punishment) are derivatives of actions themselves. The speaker explains four attributes of hellfire mentioned in a Quranic chapter: restraints, raging fury, inedible food, and painful punishment. Through multiple examples—including those who consume orphans' wealth, the arrogant, and those who reject divine truth—the speaker demonstrates how punishments in the afterlife mirror the sins committed in this life. The lecture emphasizes that this principle applies both to the hereafter and the present world, using the metaphor of dye in fabric to illustrate how the truth of the Quran leaves an indelible mark on hearts that cannot be forgotten or ignored.",
   "suggested_title": "The Principle of Derivative Consequences: How Quranic Punishments Reflect Our Actions",
-  "content_type": "Quran",
-  "hadith_book": "Other",
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "quranic exegesis",
@@ -1659,5 +1659,6 @@
     "tafsir"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Hellfire's Punishment Mirrors Your Actions"
+  "catchy_title": "Why Hellfire's Punishment Mirrors Your Actions",
+  "manually_reviewed": true
 }

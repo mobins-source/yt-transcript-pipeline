@@ -1470,8 +1470,8 @@
   "time_slot": "Monday-Isha",
   "summary": "This lecture discusses Surah Al-Ma'idah (the fifth chapter of the Quran), which was revealed as one of the last chapters to Prophet Muhammad and focuses on completing Islamic rulings and the details of worship. The speaker emphasizes the chapter's heavy spiritual weight and explores the story of Cain and Abel (Kabil and Habil), two sons of Adam who both made offerings to Allah but with drastically different intentions and levels of sincerity. Kabil offered the lowest quality of his harvest due to his attachment to worldly wealth, while Habil offered the best of his herd, demonstrating genuine devotion to Allah.\n\nThe central theme is a critique of the Muslim tendency to seek the minimum acceptable standard in worship rather than striving for excellence. The speaker uses practical analogies—buying a car with defects, purchasing a damaged house, or choosing a spouse—to illustrate how Muslims would never accept such compromises in worldly matters, yet approach their religious obligations with the bare minimum effort. He emphasizes that every action and word prepares one's grave and determines one's afterlife, urging believers to perfect their worship through attention to detail, proper learning of Islamic practices, and sincere devotion similar to Habil's approach.",
   "suggested_title": "Surah Al-Ma'idah and the Story of Cain and Abel: Excellence in Worship vs. Bare Minimum",
-  "content_type": "Quran",
-  "hadith_book": "Other",
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "surah al-maida",
@@ -1484,5 +1484,6 @@
     "quranic stories"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Muslims Settle for Bare Minimum Worship"
+  "catchy_title": "Why Muslims Settle for Bare Minimum Worship",
+  "manually_reviewed": true
 }

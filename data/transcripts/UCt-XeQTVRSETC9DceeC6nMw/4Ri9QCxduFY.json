@@ -1259,8 +1259,8 @@
   "time_slot": "Tuesday-Fajr",
   "summary": "This lecture discusses the Islamic principle of balancing good deeds and sins in one's life, using the analogy of personal financial management. The speaker explains that just as careful spending and saving prevents financial ruin, carefully managing one's deeds through good actions prevents spiritual ruin. Drawing from Islamic teachings, the speaker emphasizes that good deeds are rewarded tenfold while sins count as one, and illustrates through various Quranic stories (the prostitute and the dog, the woman and the cat) how a single deed can determine one's eternal fate. The core message is that believers should maintain obedience to Allah as their default state, immediately follow any sin with a good deed, and recognize that one's final spiritual balance may be tipped by a single action.",
   "suggested_title": "Balancing Good Deeds and Sins: The Scale of Accountability in Islam",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "good deeds",
@@ -1273,5 +1273,6 @@
     "character development"
   ],
   "srt_status": "pending",
-  "catchy_title": "One Good Deed Can Save Your Soul"
+  "catchy_title": "One Good Deed Can Save Your Soul",
+  "manually_reviewed": true
 }

@@ -4497,7 +4497,7 @@
   "summary": "This lecture from the Muslim Community Center of Tucson focuses on the Islamic practice of using a sutra (barrier) during prayer. The speaker explains the historical context of how the Prophet Muhammad would pray in the desert with a lance stuck in the ground as a sutra, and discusses the Quranic and Hadith basis for this practice, particularly referencing a hadith from Sahih Muslim. The lecture covers practical applications of sutra usage in modern masjids, the proper distance to maintain (three cubits), and addresses questions about exceptions in Mecca and Medina, teaching children prayer etiquette, and the severe warnings against crossing in front of someone praying.",
   "suggested_title": "The Importance of Sutra in Prayer: Islamic Etiquette and Hadith Explanation",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Muslim",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Prayer and Sutra (barrier during prayer)",
   "topic_tags": [
     "sutra",
@@ -4510,5 +4510,6 @@
     "masjid etiquette"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why the Prophet Used a Lance During Prayer"
+  "catchy_title": "Why the Prophet Used a Lance During Prayer",
+  "manually_reviewed": true
 }

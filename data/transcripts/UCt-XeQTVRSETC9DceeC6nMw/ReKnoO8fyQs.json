@@ -2239,8 +2239,8 @@
   "time_slot": "Thursday-Isha",
   "summary": "This lecture discusses the nature of Quranic revelation and scholarly interpretation, emphasizing that Quranic chapters were not always revealed as complete units but often in pieces over the 23-year revelation period. The speaker explains why contemporary Islamic scholars continuously write about the same traditional topics—not to introduce innovation, but to make ancient Islamic knowledge accessible to modern audiences whose languages, cultures, and environments have drastically changed. Using examples like the word \"hammam\" (public bath), the speaker illustrates how cultural and linguistic shifts necessitate reinterpretation of classical Islamic texts. The lecture then explores how certain Islamic works like Sahih Bukhari, Riyadul Saliheen, and Qisas al-Anbiya have been divinely preserved and became household names due to their authors' sincerity and scholarly excellence, contrasting them with other equally scholarly works that have been largely forgotten.",
   "suggested_title": "Understanding Quranic Revelation and the Preservation of Islamic Scholarship Through Time",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "quranic revelation",
@@ -2253,5 +2253,6 @@
     "islamic scholarship"
   ],
   "srt_status": "pending",
-  "catchy_title": "Was the Quran Revealed All at Once?"
+  "catchy_title": "Was the Quran Revealed All at Once?",
+  "manually_reviewed": true
 }

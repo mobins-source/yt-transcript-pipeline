@@ -772,7 +772,7 @@
   "summary": "This lecture discusses the 210th chapter of a hadith collection focusing on the virtues of Friday (Jumu'ah) prayer. The speaker explains the distinction between a valid Friday prayer and a rewarding one, emphasizing that while a prayer may be technically valid, it does not guarantee receiving the ultimate reward of Jumu'ah, which is the expiation of sins between one Friday and the next (or the next with an additional three days). The speaker then presents a narration from Salman al-Farisi that outlines specific conditions for receiving this reward, including ritual bathing, using perfume or musk, not disturbing others in the mosque, refraining from unnecessary prayers before the sermon, maintaining silence during the imam's sermon, and praying the required units after Jumu'ah.",
   "suggested_title": "Conditions for Receiving the Reward of Jumu'ah Prayer - Chapter 210",
   "content_type": "Hadith",
-  "hadith_book": "Other",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter 210 - The Virtues of the Day of Jumu'ah",
   "topic_tags": [
     "jumu'ah prayer",
@@ -785,5 +785,6 @@
     "islamic jurisprudence"
   ],
   "srt_status": "pending",
-  "catchy_title": "Does Your Jumu'ah Count? The Missing Conditions"
+  "catchy_title": "Does Your Jumu'ah Count? The Missing Conditions",
+  "manually_reviewed": true
 }

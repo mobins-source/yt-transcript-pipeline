@@ -1931,8 +1931,8 @@
   "time_slot": "Thursday-Isha",
   "summary": "This lecture discusses the proper etiquette and respect required when seeking Islamic knowledge, using Quranic verses and a hadith from Sahih al-Bukhari as foundations. The speaker emphasizes that how one treats knowledge and scholars directly impacts how Allah treats that person with knowledge. Through the narrative of three men who encountered the Prophet Muhammad with different approaches to learning, the speaker illustrates that respect, attentiveness, and proper conduct are essential to accessing knowledge. The lecture addresses common misconceptions about making Islamic learning \"engaging\" and \"entertaining,\" arguing instead that believers should approach knowledge with the reverence and dedication it deserves, recognizing that scholars are heirs of prophethood.",
   "suggested_title": "The Etiquette of Seeking Knowledge: Respect and Reverence in Learning",
-  "content_type": "Mixed",
-  "hadith_book": "Sahih Bukhari",
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Book of Knowledge",
   "topic_tags": [
     "islamic knowledge",
@@ -1945,5 +1945,6 @@
     "adab"
   ],
   "srt_status": "pending",
-  "catchy_title": "How Allah Treats You Based on Knowledge"
+  "catchy_title": "How Allah Treats You Based on Knowledge",
+  "manually_reviewed": true
 }

@@ -2644,8 +2644,8 @@
   "time_slot": "Friday-Isha",
   "summary": "This lecture focuses on preparing for Ramadan by setting realistic and detailed goals rather than vague or overly ambitious resolutions. The speaker uses the analogy of planning a trip to Phoenix to illustrate how goals need specific planning to be achieved. He emphasizes that change is incremental, referencing how Allah created the heavens and earth over six days. The speaker discusses three key points: start implementing changes now rather than waiting for Ramadan, ensure goals are specific and detailed rather than too broad, and understand that true fasting is about avoiding haram actions and unproductive behavior, not merely abstaining from food and drink. The core message is that Ramadan's real purpose is spiritual purification through the Quran, with fasting serving as a means to cleanse the heart and prepare it to receive divine guidance.",
   "suggested_title": "Preparing for Ramadan: Setting Realistic Goals and Understanding the True Spirit of Fasting",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "ramadan preparation",
@@ -2658,5 +2658,6 @@
     "islamic discipline"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Your Ramadan Resolutions Always Fail"
+  "catchy_title": "Why Your Ramadan Resolutions Always Fail",
+  "manually_reviewed": true
 }

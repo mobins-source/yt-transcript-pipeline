@@ -1650,8 +1650,8 @@
   "time_slot": "Sunday-Isha",
   "summary": "This sermon discusses the account of Waraqa ibn Nawfal recognizing Angel Gabriel when he visited the Prophet Muhammad. The speaker explains how the Prophet was initially beloved by his people before receiving the message, but this natural affection differed from legislative love based on faith in his prophethood. The sermon emphasizes that true love for the Prophet manifests through following his Sunnah and adhering to his teachings, not merely through proclamations. The speaker then transitions to explaining why prophets face enmity, clarifying that it stems not from doubt about their prophethood, but from the message's implications conflicting with people's desires, comfort, and positions of power. The sermon concludes by presenting the four pillars of disbelief: anger/aggression, desire, jealousy/envy, and arrogance, explaining how these ultimately drive people to reject prophets and truth rather than genuine intellectual confusion.",
   "suggested_title": "The Four Pillars of Disbelief: Understanding Why People Reject the Message",
-  "content_type": "Mixed",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "prophethood",
@@ -1664,5 +1664,6 @@
     "arrogance and rejection"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why People Reject Truth: The Four Hidden Pillars"
+  "catchy_title": "Why People Reject Truth: The Four Hidden Pillars",
+  "manually_reviewed": true
 }

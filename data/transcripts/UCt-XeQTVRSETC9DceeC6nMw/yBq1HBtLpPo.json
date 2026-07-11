@@ -2243,7 +2243,7 @@
   "summary": "This lecture discusses a hadith about the Euphrates River uncovering a mountain of gold near the end times, where 99 out of 100 people will die fighting over it. The speaker analyzes both the literal event and the deeper spiritual meaning, explaining that this narration reveals the moral decay and spiritual condition of humanity during the end times. The lecturer contrasts the values of pre-Islamic Arabs—who valued honor, truthfulness, and community bonds—with the modern mentality characterized by greed, materialism, and 'main character syndrome,' where individuals prioritize wealth above all else despite impossible odds. The lecture concludes by reflecting on the implications of this state of affairs for Muslim societies and the broader world.",
   "suggested_title": "The Euphrates Mountain of Gold: Understanding Human Greed and Moral Decay in the End Times",
   "content_type": "Hadith",
-  "hadith_book": "Other",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "end times",
@@ -2256,5 +2256,6 @@
     "spirituality"
   ],
   "srt_status": "pending",
-  "catchy_title": "99 Die for Gold: When Greed Destroys Humanity"
+  "catchy_title": "99 Die for Gold: When Greed Destroys Humanity",
+  "manually_reviewed": true
 }

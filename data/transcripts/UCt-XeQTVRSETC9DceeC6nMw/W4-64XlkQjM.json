@@ -1871,8 +1871,8 @@
   "time_slot": "Friday-Isha",
   "summary": "This lecture covers Quranic verses 19-20 of Surah Al-Muzzammil (Chapter 73), focusing on the concept of the straight path (Sirat al-Mustaqeem) and Allah's guidance. The speaker explains that the straight path refers to Islam and the Quran through various scholarly interpretations, using the analogy of a straight building viewed from different angles. A significant portion discusses the Prophet's parable of the straight path with two walls containing doors with curtains, explaining how Allah's boundaries (hudud) and prohibitions guide believers while their conscience (the voice of Allah in the heart) warns them against transgression. The lecture concludes by emphasizing human dignity and accountability, explaining how Allah assigns multiple angels to guide and record each person's deeds—demonstrating that human life is precious and not meant to be wasted.",
   "suggested_title": "Understanding the Straight Path: Surah Al-Muzzammil Verses 19-20 - Divine Guidance and Accountability",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "straight path",
@@ -1885,5 +1885,6 @@
     "human accountability"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Does Allah Guard Your Every Step?"
+  "catchy_title": "Why Does Allah Guard Your Every Step?",
+  "manually_reviewed": true
 }

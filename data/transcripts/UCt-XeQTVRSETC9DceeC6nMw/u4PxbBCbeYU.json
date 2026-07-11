@@ -1555,8 +1555,8 @@
   "time_slot": "Sunday-Isha",
   "summary": "This lecture analyzes Surah Al-Maidah verse 9, focusing on Allah's description as 'The Lord of the East and the West' and the theological argument it presents. The speaker explains that the Quranic argument was not directed at atheists or those denying Allah's existence, but rather at the pagan Arabs who believed in Allah as creator yet worshiped idols as intercessors. The core issue addressed is Tawheed (monotheism) - that believing in Allah alone as the sole creator logically necessitates worshiping Him alone without partners. The speaker uses the example of Al-Lat, an idol worshiped in Mecca, to illustrate how the pagans sought intercession through created beings. The lecture emphasizes that the Quranic argument establishes that if Allah is the only creator and sustainer, then worshiping anything alongside Him is illogical and contradictory.",
   "suggested_title": "Understanding the Quranic Argument: Tawheed and the Logic of Exclusive Worship (Surah Al-Maidah 9)",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "tawheed",
@@ -1569,5 +1569,6 @@
     "islamic theology"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Worship Idols If Allah Alone Creates?"
+  "catchy_title": "Why Worship Idols If Allah Alone Creates?",
+  "manually_reviewed": true
 }

@@ -1002,7 +1002,7 @@
   "summary": "This lecture discusses a hadith from Abu Hurairah found in Riyadul Saliheen, specifically addressing the chapter on sincerity (Ikhlas) and the intention behind all actions. The main hadith explains that a man's congregational prayer in the mosque increases in reward by more than twenty degrees compared to praying alone at home or in the market. The speaker provides linguistic analysis of the term 'buda' (between 3-9) and discusses various hadith narrations mentioning 25-27 degrees of reward.",
   "suggested_title": "The Reward of Congregational Prayer - Riyadul Saliheen Chapter on Sincerity",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Sincerity and Intention (Ikhlas) in All Actions and Statements",
   "topic_tags": [
     "congregational prayer",
@@ -1015,5 +1015,6 @@
     "islamic jurisprudence"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Mosque Prayer Beats Home Prayer?"
+  "catchy_title": "Why Mosque Prayer Beats Home Prayer?",
+  "manually_reviewed": true
 }

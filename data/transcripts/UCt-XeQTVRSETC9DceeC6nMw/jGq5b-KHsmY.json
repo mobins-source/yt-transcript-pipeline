@@ -1686,8 +1686,8 @@
   "time_slot": "Thursday-Isha",
   "summary": "This lecture discusses Surah Al-Masad and the story of Abu Lahab (Alwi Muir), one of the Prophet Muhammad's main antagonists in pre-Islamic Mecca. The speaker describes Abu Lahab's character before Islam—his wealth, justice, generosity, and even his abstinence from alcohol—yet his rejection of the Prophet due to pride and self-interest. A key incident is detailed where Abu Jahl manipulates his uncle Abu Lahab by appealing to his pride and wealth, convincing him to publicly denounce the Prophet to counter rumors, marking the moment Abu Lahab chose hellfire over guidance.",
   "suggested_title": "The Story of Abu Lahab: Pride, Propaganda, and the Choice of Disbelief - Surah Al-Masad",
-  "content_type": "Quran",
-  "hadith_book": "Other",
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "abu lahab",
@@ -1700,5 +1700,6 @@
     "islamic history"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Wealth and Pride Led Abu Lahab to Hellfire"
+  "catchy_title": "Why Wealth and Pride Led Abu Lahab to Hellfire",
+  "manually_reviewed": true
 }

@@ -1094,7 +1094,7 @@
   "summary": "This lecture discusses Chapter 1 from an Islamic text on the topic of sincerity and intentions (niyyah). The speaker covers three key narrations: first, a prophecy about an army planning to attack Mecca that will be swallowed by the earth, which scholars connect to events before the emergence of al-Mahdi; second, an explanation of al-Mahdi as a regular man (not a prophet) from the lineage of Prophet Muhammad who will restore justice; and third, a hadith about hijra (migration) stating there is no more obligatory hijra from Mecca after its conquest in the 7th or 8th year after Hijra, though spiritual migration from lands of disbelief will continue until the Day of Judgment. The speaker emphasizes that Muslims should not passively wait for al-Mahdi but instead focus on revival of knowledge and action, and that those unable to join military ranks should maintain the intention to support Muslims.",
   "suggested_title": "Chapter 1 Lecture: Sincerity, Intention, and Islamic Prophecies - Mecca, Hijra, and Al-Mahdi",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter 1 - Sincerity and Intentions (Niyyah)",
   "topic_tags": [
     "hadith",
@@ -1107,5 +1107,6 @@
     "sincerity"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why an Army Disappeared Before Reaching Mecca"
+  "catchy_title": "Why an Army Disappeared Before Reaching Mecca",
+  "manually_reviewed": true
 }

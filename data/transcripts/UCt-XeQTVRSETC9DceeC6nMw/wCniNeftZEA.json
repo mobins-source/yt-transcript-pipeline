@@ -751,7 +751,7 @@
   "summary": "This Islamic lecture discusses hadiths from Riyadh as-Saliheen (The Gardens of the Righteous) by Imam An-Nawawi, focusing on the chapter about patience (sabr). The speaker presents a hadith from Anas (may Allah be pleased with him) in which the Prophet Muhammad (peace be upon him) explains that when Allah intends good for His servant, He hastens their punishment in this world, and when Allah intends evil for a servant, He withholds punishment until they meet Him on the Day of Judgment. The lecture explores the theological implications of divine will, the concept of tribulation as a mercy from Allah, and how trials serve purposes such as expiation of sins, elevation of ranks, and spiritual refinement.",
   "suggested_title": "Divine Will, Trials, and Patience: Lessons from Riyadh as-Saliheen",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Patience (Sabr)",
   "topic_tags": [
     "hadith",
@@ -764,5 +764,6 @@
     "islamic jurisprudence"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Allah Hastens Punishment in This World"
+  "catchy_title": "Why Allah Hastens Punishment in This World",
+  "manually_reviewed": true
 }

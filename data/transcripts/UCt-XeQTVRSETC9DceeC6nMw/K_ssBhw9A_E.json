@@ -2565,8 +2565,8 @@
   "time_slot": "Friday-Isha",
   "summary": "This is a Quranic exegesis (tafsir) lecture focusing on Surah Al-Noon (Chapter 68). The speaker discusses the naming conventions of Quranic chapters, explaining that they are typically named after their opening verses or unique topics. The lecture emphasizes that Surah Al-Noon is a Meccan chapter with 52 verses, revealed as the fourth chapter to the Prophet. A significant portion of the lecture is dedicated to explaining the mysterious letters (Muqatta'at) that open the chapter, particularly the letter \"Noon.\" The speaker explains that these letters are not words but carry intentional meanings, and they serve as a challenge to the disbelievers, demonstrating the miraculous nature of the Quran by showing that despite having access to the same Arabic letters and vocabulary, no one can produce anything comparable to the Quran.",
   "suggested_title": "Tafsir Surah Al-Noon: Understanding the Chapter of the Pen and the Miraculous Opening Letters",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "surah al-noon",
@@ -2579,5 +2579,6 @@
     "quranic methodology"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Allah Opens Surah Al-Noon With Just One Letter"
+  "catchy_title": "Why Allah Opens Surah Al-Noon With Just One Letter",
+  "manually_reviewed": true
 }

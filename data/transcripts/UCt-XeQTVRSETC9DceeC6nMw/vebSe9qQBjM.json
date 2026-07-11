@@ -1183,7 +1183,7 @@
   "summary": "This lecture provides a detailed analysis of a famous hadith from Sahih Muslim narrated by Abu Hurairah, where the Prophet Muhammad (peace be upon him) states that Allah does not look at your bodies or appearances, but rather at your hearts and deeds. The speaker explains the distinction between Allah's seeing (ruyah) and His looking with regard and approval (nazar), using examples from the Quran where Allah does not look at certain people. The lecture emphasizes that this hadith is often misunderstood as justification for bad deeds with good intentions, when in fact the hadith establishes that good deeds flow from good intentions and bad deeds from bad intentions.\n\nThe speaker discusses Imam Shafi'i's principle that intention is only considered in ambiguous actions that could be interpreted multiple ways, but not in categorically explicit and unambiguously wrong actions. The lecture provides examples from Islamic jurisprudence, including the story of Hatib ibn Abi Balta'ah and Abdullah ibn Ubayy, to illustrate when intention is and is not taken into account. The core message is that sincere intentions (niyyah) and righteous hearts are essential foundations for acceptable deeds, and that one cannot use good intentions to justify actions that are fundamentally and explicitly forbidden.",
   "suggested_title": "Understanding the Hadith: Allah Looks at Hearts and Deeds - The Proper Role of Intention in Islam",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Muslim",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Sincerity and Intention (Ikhlas wa Hadhr al-Niyyah)",
   "topic_tags": [
     "intention",
@@ -1196,5 +1196,6 @@
     "deeds"
   ],
   "srt_status": "pending",
-  "catchy_title": "Good Intentions Alone Don't Justify Wrong Deeds"
+  "catchy_title": "Good Intentions Alone Don't Justify Wrong Deeds",
+  "manually_reviewed": true
 }

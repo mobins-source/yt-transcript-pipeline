@@ -1693,7 +1693,7 @@
   "suggested_title": "The Virtue of Scholars and the Importance of Seeking Islamic Knowledge",
   "catchy_title": "Why scholars matter more than you think",
   "content_type": "Hadith",
-  "hadith_book": "Other",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "scholars",
@@ -1705,5 +1705,6 @@
     "hadith",
     "companions"
   ],
-  "srt_status": "pending"
+  "srt_status": "pending",
+  "manually_reviewed": true
 }

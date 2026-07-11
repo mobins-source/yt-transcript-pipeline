@@ -2399,8 +2399,8 @@
   "time_slot": "Sunday-Isha",
   "summary": "This lecture from the Muslim Community Center of Tucson discusses the relationship between following the Quran and Sunnah and experiencing worldly success. The speaker explains that while adhering to Islamic teachings may require sacrificing certain worldly desires, these sacrifices are insignificant compared to the reward of the hereafter. Using the metaphor of the dunya and akhirah as \"co-wives,\" the speaker illustrates that believers must prioritize one over the other, emphasizing that the hereafter should be primary and the dunya secondary. The lecture stresses the importance of speaking with intention and awareness before Allah, referencing the practices of the companions who carefully considered their words and actions.\n\nThe speaker provides practical guidance on distinguishing between those who prioritize the hereafter versus the dunya by examining their detailed plans. Those truly committed to the hereafter will have specific, detailed plans for reaching paradise (jannah) with clear strategies for spiritual development, while their worldly plans remain general. Conversely, most people have detailed worldly plans but vague spiritual goals. The lecture concludes that one cannot simultaneously prioritize both the dunya and the akhirah equally, and believers must consciously choose which receives their focus and detailed planning, following the example set by the companions of the Prophet.",
   "suggested_title": "Prioritizing the Hereafter Over the Dunya: Balancing Faith and Worldly Life",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "akhirah",
@@ -2413,5 +2413,6 @@
     "prioritization"
   ],
   "srt_status": "pending",
-  "catchy_title": "Will Following Islam Make You Poor?"
+  "catchy_title": "Will Following Islam Make You Poor?",
+  "manually_reviewed": true
 }

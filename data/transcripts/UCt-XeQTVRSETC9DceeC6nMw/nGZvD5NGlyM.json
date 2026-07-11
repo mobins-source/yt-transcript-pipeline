@@ -696,7 +696,7 @@
   "summary": "This lecture discusses the blessed hour on Friday (Yawm al-Jumu'ah) when supplications are guaranteed to be answered, based on hadith narrations from Abu Hurayrah. The speaker, referencing Al-Nawawi's Riyadul Saliheen, explains that there is a specific hour on Friday when a Muslim who is standing in prayer and making dua to Allah will have their supplication answered. The lecture also analyzes a narration from Abdullah ibn Umar transmitted through Abu Burdah, examining its authenticity and discussing whether it refers to the time between when the imam sits down until the prayer ends.",
   "suggested_title": "The Blessed Hour of Friday: When Supplications Are Answered",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on the Virtues of Friday (Yawm al-Jumu'ah)",
   "topic_tags": [
     "friday prayer",
@@ -709,5 +709,6 @@
     "prophet muhammad"
   ],
   "srt_status": "pending",
-  "catchy_title": "Which Hour on Friday Gets Your Dua Answered?"
+  "catchy_title": "Which Hour on Friday Gets Your Dua Answered?",
+  "manually_reviewed": true
 }

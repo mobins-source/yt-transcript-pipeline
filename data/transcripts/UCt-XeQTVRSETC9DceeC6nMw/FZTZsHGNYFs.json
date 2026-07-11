@@ -1444,8 +1444,8 @@
   "time_slot": "Friday-Isha",
   "summary": "This lecture discusses the foundational definition of Islam as revealed in Surah al-Muddathir, emphasizing three core pillars: submission to Allah alone without partners, obedience to Allah and His messenger, and disassociation from shirk (polytheism) and its people. The speaker explains that these three elements are essential and must coexist in a Muslim's life, using the hadith where Gabriel asked the Prophet about Islam to demonstrate that while Islam has prominent practices (the Five Pillars), its actual essence lies in these three foundational principles. The lecture clarifies misconceptions about nominal Muslims and emphasizes that Islam must have bearing on a person's life and choices, not merely be a label.",
   "suggested_title": "The Three Pillars of Islam: Submission, Obedience, and Disassociation from Shirk",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "definition of islam",
@@ -1458,5 +1458,6 @@
     "muslim identity"
   ],
   "srt_status": "pending",
-  "catchy_title": "Islam's Three Foundations Beyond the Five Pillars"
+  "catchy_title": "Islam's Three Foundations Beyond the Five Pillars",
+  "manually_reviewed": true
 }

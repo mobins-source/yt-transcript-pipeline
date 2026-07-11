@@ -1435,8 +1435,8 @@
   "summary": "This lecture discusses the conditions and obligations of wudoo (ritual ablution) in Islamic jurisprudence. The speaker explains the distinction between conditions, pillars, and obligations in acts of worship, using the example of building a bridge to clarify how conditions are prerequisites outside the actual act while pillars are integral parts. The lecture covers the concept of succession (tartīb) in wudoo, explaining that all parts must be performed in sequence within a reasonable timeframe (approximately 4-5 minutes) to maintain validity. The speaker then transitions into discussing the six obligations of wudoo and explains why Islamic scholars refer to these as obligations rather than pillars, emphasizing that obligations allow forgiveness if forgotten but become invalid if intentionally omitted.",
   "suggested_title": "Conditions, Obligations, and Succession in Wudoo (Ritual Ablution)",
   "catchy_title": "Why Wudoo Has Obligations, Not Pillars",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "wudoo",
@@ -1447,5 +1447,6 @@
     "succession in worship",
     "ritual purity"
   ],
-  "srt_status": "pending"
+  "srt_status": "pending",
+  "manually_reviewed": true
 }

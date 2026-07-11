@@ -320,8 +320,8 @@
   "summary": "This lecture discusses the Islamic concept of sin expiation and spiritual purification through acts of worship. The speaker uses the analogy of washing clothes with different intensities of stains to explain how sins vary in severity—some minor sins can be easily removed through routine good deeds, while major sins require sincere repentance in addition to righteous acts. The speaker emphasizes that Allah has mercifully structured multiple overlapping acts of worship to serve as a spiritual filter throughout a person's life, helping to cleanse them of sins before the Hereafter.",
   "suggested_title": "Understanding Sin Expiation and Spiritual Purification in Islam",
   "catchy_title": "How Does Allah Help Us Cleanse Our Sins?",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "sin expiation",
@@ -333,5 +333,6 @@
     "islamic mercy",
     "hereafter"
   ],
-  "srt_status": "pending"
+  "srt_status": "pending",
+  "manually_reviewed": true
 }

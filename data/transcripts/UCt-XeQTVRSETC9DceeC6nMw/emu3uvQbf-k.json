@@ -1420,7 +1420,7 @@
   "summary": "This lecture discusses a hadith from Riyadul Saliheen about vigilance and God-consciousness, featuring a narration from Anas ibn Malik. The speaker contrasts the attitude of the Prophet's companions—who eagerly embraced every command from Allah and His messenger with a posture of \"we hear and we obey\"—with the modern Muslim attitude of questioning obligations and seeking loopholes. The lecture emphasizes how the companions viewed Islam as liberation from slavery and bondage, understanding the Quran and Sunnah as tools for emancipation and strengthening their relationship with Allah. The speaker addresses misconceptions about religious adherence, particularly regarding the role of women in Islam, tracing these negative stereotypes to Western colonial propaganda designed to undermine Muslim societies by removing women from their homes.",
   "suggested_title": "The Attitude of the Companions: From 'We Hear and Obey' to Modern Skepticism - A Hadith on Vigilance and God-Consciousness",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter of Vigilance of Allah's Observation",
   "topic_tags": [
     "companions",
@@ -1433,5 +1433,6 @@
     "prophetic traditions"
   ],
   "srt_status": "pending",
-  "catchy_title": "From 'We Hear and Obey' to Modern Doubt"
+  "catchy_title": "From 'We Hear and Obey' to Modern Doubt",
+  "manually_reviewed": true
 }

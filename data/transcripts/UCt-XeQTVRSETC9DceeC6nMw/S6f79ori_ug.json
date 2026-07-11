@@ -1370,7 +1370,7 @@
   "summary": "This lecture discusses optional fasting in Islamic law, specifically focusing on the Sunnah of fasting six days in the month of Shawwal following Ramadan. The speaker explains that this practice is highly recommended but not obligatory, based on a hadith from Sahih Muslim where the Prophet Muhammad encourages fasting six days of Shawwal after completing Ramadan, stating it is as if one has fasted the entire year. The lecture clarifies important details about the proper way to observe this Sunnah, including whether the six days must be consecutive and how to prioritize makeup days from Ramadan.",
   "suggested_title": "Fasting Six Days of Shawwal: Guidelines and Rulings from Sahih Muslim",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Muslim",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Book of Fasting",
   "topic_tags": [
     "optional fasting",
@@ -1383,5 +1383,6 @@
     "makeup fasts"
   ],
   "srt_status": "pending",
-  "catchy_title": "Fast Six Days, Get a Year's Reward"
+  "catchy_title": "Fast Six Days, Get a Year's Reward",
+  "manually_reviewed": true
 }

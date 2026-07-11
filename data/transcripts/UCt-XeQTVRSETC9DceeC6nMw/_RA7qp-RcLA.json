@@ -1755,8 +1755,8 @@
   "time_slot": "Wednesday-Isha",
   "summary": "This lecture discusses the progression of humanity from monotheism to polytheism, using Quranic verses and hadith to explain how people deviated from the worship of Allah alone. The speaker explains that humanity began upon the fitrah (natural disposition) and pure monotheism, but gradually devolved into idolatry through the whispers of Satan. He illustrates this with the historical account of how statues were initially created to commemorate righteous people but were eventually misused to promote idol worship. The lecture emphasizes that Satan's plan unfolds gradually over generations, using modern examples like the evolution of media vulgarity to demonstrate how societies slowly accept what was once forbidden.",
   "suggested_title": "The Fall of Humanity from Monotheism to Idolatry: How Satan Corrupts Societies Over Time",
-  "content_type": "Mixed",
-  "hadith_book": "Sahih Bukhari",
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Hadith of Anas regarding the Day of Judgment",
   "topic_tags": [
     "tawheed",
@@ -1769,5 +1769,6 @@
     "societal corruption"
   ],
   "srt_status": "pending",
-  "catchy_title": "How Satan Corrupts Societies Across Generations"
+  "catchy_title": "How Satan Corrupts Societies Across Generations",
+  "manually_reviewed": true
 }

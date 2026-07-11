@@ -1559,8 +1559,8 @@
   "time_slot": "Saturday-Fajr",
   "summary": "This lecture discusses the eight types of najasa (ritual impurities) in Islamic jurisprudence. The instructor covers human waste, animal discharges, blood from specific sources, waste from unlawful animals, menstrual and postpartum blood, dog saliva, and dead animals. A significant portion addresses the concept of al-mayta (dead animals), distinguishing between animals inherently unlawful to eat versus lawful animals that died without proper slaughter. The instructor emphasizes that slaughtering with improper intention (for other than Allah) constitutes major shirk and renders meat haram, providing real-world examples of cultural practices involving superstitious slaughter dedicated to jinn, saints, or tribal leaders.",
   "suggested_title": "The Eight Types of Najasa (Ritual Impurities) and the Ruling on Dead Animals",
-  "content_type": "General",
-  "hadith_book": "Sahih Bukhari",
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Hadith of Ali ibn Abi Talib regarding slaughtering for other than Allah",
   "topic_tags": [
     "najasa",
@@ -1573,5 +1573,6 @@
     "meat rulings"
   ],
   "srt_status": "pending",
-  "catchy_title": "Seven Types of Najasa: What Makes Something Ritually Unclean?"
+  "catchy_title": "Seven Types of Najasa: What Makes Something Ritually Unclean?",
+  "manually_reviewed": true
 }

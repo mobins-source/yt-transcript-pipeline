@@ -651,7 +651,7 @@
   "summary": "This lecture presents hadith from Riyadul Saliheen (The Gardens of the Righteous) by Imam Al-Nawawi, specifically discussing a hadith narrated by Abu Huraira and Abu Saeed Al-Khudri. The hadith explains that every affliction a Muslim experiences—whether hardship, illness, worry, sadness, hurt, or even a thorn prick—serves as expiation for their sins, with Allah removing sins as leaves fall from a tree. The speaker provides detailed linguistic and Quranic analysis of the key terms used in the hadith, explaining the meaning of words like 'kafarah' (expiation), 'nasab' (hardship), 'wasab' (illness), 'hamm' (worry), and 'ghamm' (distress). An additional hadith from Ibn Masud is mentioned, describing the Prophet's illness before his death and confirming that the Prophet himself received double reward for his afflictions.",
   "suggested_title": "Hadith on Expiation of Sins Through Afflictions from Riyadul Saliheen",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Patience and Expiation of Sins",
   "topic_tags": [
     "hadith",
@@ -664,5 +664,6 @@
     "islamic wisdom"
   ],
   "srt_status": "pending",
-  "catchy_title": "Does Every Hardship Erase Your Sins?"
+  "catchy_title": "Does Every Hardship Erase Your Sins?",
+  "manually_reviewed": true
 }

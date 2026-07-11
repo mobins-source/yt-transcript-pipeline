@@ -1233,8 +1233,8 @@
   "time_slot": "Friday-Isha",
   "summary": "This video contains announcements from the Muslim Community Center of Tucson followed by a detailed Quranic exegesis (tafsir) of Surah Al-Muddaththir, verses 32-37. The announcements include plans for collective Quran reading sessions (Juz by Juz) and facility updates regarding entrance usage. The main content focuses on the interpretive explanation of Allah's oaths in the passage, specifically the imagery of the moon, retreating night, and breaking dawn, which serve as a parable for the arrival of Prophet Muhammad and the revelation of the Quran as a transformative force that brings people from darkness and misguidance into light and hope.",
   "suggested_title": "Tafsir of Surah Al-Muddaththir (verses 32-37): The Imagery of Divine Oaths and the Coming of the Messenger",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "surah al-muddaththir",
@@ -1247,5 +1247,6 @@
     "revelation"
   ],
   "srt_status": "pending",
-  "catchy_title": "Moon, Night, Dawn: Understanding Divine Oaths"
+  "catchy_title": "Moon, Night, Dawn: Understanding Divine Oaths",
+  "manually_reviewed": true
 }

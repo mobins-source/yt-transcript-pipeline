@@ -752,7 +752,7 @@
   "suggested_title": "Invalidators of Wudu: Scholarly Consensus and Evidence",
   "catchy_title": "What Actually Breaks Your Wudu?",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Wudu and Its Invalidators",
   "topic_tags": [
     "wudu",
@@ -764,5 +764,6 @@
     "scholarly consensus",
     "islamic jurisprudence"
   ],
-  "srt_status": "pending"
+  "srt_status": "pending",
+  "manually_reviewed": true
 }

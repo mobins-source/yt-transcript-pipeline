@@ -1430,7 +1430,7 @@
   "summary": "This lecture discusses the famous hadith 'the religion is advice' (al-din al-nasihah), clarifying that the correct translation should be 'the religion is allegiance and loyalty' rather than mere advice. The speaker explains the Arabic word 'nasihah' (نصيحة) in its deeper meaning of filtering and purifying, metaphorically representing loyalty and allegiance. The hadith outlines five categories of allegiance: to Allah, to His Book, to His Messenger Muhammad, to the leaders of Muslims, and to every Muslim believer. The speaker emphasizes that understanding proper priorities—allegiance hierarchy—determines 99% of one's choices in life.",
   "suggested_title": "Understanding True Meaning of Nasihah: Religion as Allegiance and Loyalty",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Muslim",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Forty Hadith of Nawawi (42 narrations)",
   "topic_tags": [
     "hadith",
@@ -1443,5 +1443,6 @@
     "Islamic jurisprudence"
   ],
   "srt_status": "pending",
-  "catchy_title": "Religion Isn't Advice—It's Allegiance"
+  "catchy_title": "Religion Isn't Advice—It's Allegiance",
+  "manually_reviewed": true
 }

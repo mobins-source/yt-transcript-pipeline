@@ -1872,7 +1872,7 @@
   "summary": "This lecture focuses on Chapter 6 of Riyadul Saliheen, specifically the chapter on Taqwa (conscientiousness of Allah). The instructor provides a detailed etymological and theological analysis of the term Taqwa, explaining that it is not merely 'fear of Allah' but rather 'shielding oneself from Allah's punishment through obedience to His commands and abstention from His prohibitions.' The lecture emphasizes that fear of Allah is the driving force behind Taqwa, using the analogy of a shield or protective armor. The instructor contrasts this Islamic understanding with polytheistic practices and emphasizes that only Allah can protect from Allah, as evidenced by prophetic traditions and Quranic verses.",
   "suggested_title": "Understanding Taqwa (Consciousness of Allah) - Riyadul Saliheen Chapter 6",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter 6 - The Chapter of Taqwa (Consciousness of Allah's Observation)",
   "topic_tags": [
     "taqwa",
@@ -1885,5 +1885,6 @@
     "quranic interpretation"
   ],
   "srt_status": "pending",
-  "catchy_title": "Building Your Shield: What is True Taqwa?"
+  "catchy_title": "Building Your Shield: What is True Taqwa?",
+  "manually_reviewed": true
 }

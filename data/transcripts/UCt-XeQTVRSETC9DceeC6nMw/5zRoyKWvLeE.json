@@ -1425,7 +1425,7 @@
   "summary": "This Islamic lecture discusses an incident from the time of Prophet Muhammad (peace be upon him) that occurred after the Battle of Hunain, a few weeks following the conquest of Mecca. The speaker explains the historical context of how many Arabs had recently accepted Islam, and describes how the Prophet distributed al-fai (spoils of war designated for the leader) strategically to tribal leaders to maintain their allegiance to Islam. A man named Dhu al-Khuwaysirah criticized the Prophet's distribution as unjust, accusing him of not being motivated by sincerity to Allah. This incident is presented as the origin point of the first theological innovation (bid'ah) in Islam—the belief that even the Prophet could be unjust—which the speaker traces as the root cause of major divisions and conflicts in Islamic history for the next 1500 years.",
   "suggested_title": "The Origin of the First Innovation in Islam: The Story of Dhu al-Khuwaysirah's Accusation",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Muslim",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Spoils of War (al-Fai) and Distribution of Booty",
   "topic_tags": [
     "battle of hunain",
@@ -1438,5 +1438,6 @@
     "sahih muslim"
   ],
   "srt_status": "pending",
-  "catchy_title": "When One Man Challenged the Prophet's Justice"
+  "catchy_title": "When One Man Challenged the Prophet's Justice",
+  "manually_reviewed": true
 }

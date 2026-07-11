@@ -1786,8 +1786,8 @@
   "time_slot": "Thursday-Isha",
   "summary": "This lecture discusses Quranic verses 40-42 describing the people of paradise and hellfire, focusing on how the righteous will question the damned about their damnation. The speaker explains the nature of criminals (mujerimin) in Islamic terminology and addresses the paradox of how people in paradise and hellfire can communicate despite being vastly separated in distance and time. He clarifies that the laws of physics and communication in the afterlife differ fundamentally from our earthly experience, providing examples from prophetic narrations about paradise's impossible physical properties (transparent silver, palaces visible from inside and outside simultaneously, vast dominions visible at once). The lecture emphasizes that the people of hellfire admit their guilt only when experiencing torment but revert to arrogance and denial when removed from pain, illustrating the concept through the example of Iblis's rejection of truth through argumentation rather than honest admission.",
   "suggested_title": "Paradise and Hellfire: Communication Across the Realms and the Nature of Arrogance in Rejection of Truth",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "quran interpretation",
@@ -1800,5 +1800,6 @@
     "iblis"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Paradise Questions Hellfire: Truth Beyond Physics"
+  "catchy_title": "Why Paradise Questions Hellfire: Truth Beyond Physics",
+  "manually_reviewed": true
 }

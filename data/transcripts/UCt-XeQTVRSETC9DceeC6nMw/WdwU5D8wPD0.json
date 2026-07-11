@@ -585,7 +585,7 @@
   "summary": "This lecture discusses a hadith from Riyadul Saliheen (Gardens of the Righteous) compiled by Imam Al-Nawawi, specifically from the chapter on patience. The speaker explains the hadith narrated by Anas ibn Malik in which the Prophet Muhammad (peace be upon him) forbids believers from wishing for death due to hardships or afflictions. The Prophet provides an alternative supplication: 'O Allah, keep me alive as long as life is good for me, and take me when death is better for me.' The lecture explores the nuances of this teaching, including whether this supplication is permissible only during times of difficulty or also during ease, and addresses the apparent contradiction with other Islamic texts mentioning circumstances where wishing for death might be acceptable, such as during severe trials to one's faith.",
   "suggested_title": "Prohibiting the Wish for Death Due to Hardship: A Study from Riyadul Saliheen",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Patience (Bab al-Sabr)",
   "topic_tags": [
     "patience",
@@ -598,5 +598,6 @@
     "prophetic wisdom"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Muslims Shouldn't Wish for Death"
+  "catchy_title": "Why Muslims Shouldn't Wish for Death",
+  "manually_reviewed": true
 }

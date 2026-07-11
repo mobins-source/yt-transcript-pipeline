@@ -1626,7 +1626,7 @@
   "summary": "This lecture discusses a Hadith from Jundubada in which the Prophet Muhammad (peace be upon him) presents three foundational principles for spiritual success: obey Allah wherever you are, follow any sin with a good deed to erase it, and deal with people with excellent character. The speaker explains how these three principles encompass both personal worship between the individual and Allah, and social interactions involving others. The lecture emphasizes that while humans are inherently imperfect and will sin, what distinguishes the righteous is their constant repentance and reformation. The speaker contrasts Islamic teaching on human nature and accountability with Christian concepts of original sin, explaining that in Islam each person is responsible only for their own actions and has the capacity to seek forgiveness through repentance and good deeds.",
   "suggested_title": "Three Principles of Spiritual Success: Obedience, Repentance, and Good Character",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on the three sentences of the Prophet",
   "topic_tags": [
     "hadith",
@@ -1639,5 +1639,6 @@
     "Islamic teachings"
   ],
   "srt_status": "pending",
-  "catchy_title": "Three Sentences That Defeat Satan"
+  "catchy_title": "Three Sentences That Defeat Satan",
+  "manually_reviewed": true
 }

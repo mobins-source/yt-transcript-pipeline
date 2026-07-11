@@ -1434,7 +1434,7 @@
   "summary": "This lecture discusses the Islamic practice of voluntary fasting (sawm) outside of Ramadan, specifically the Sunnah of fasting three days per month. The speaker uses the historical example of Abdullah ibn Amr ibn al-As, a companion of the Prophet who was excessively engaged in worship (fasting daily, reciting the entire Quran daily, and praying throughout the night). When the Prophet learned of this through Abdullah's father Amr ibn al-As, He commanded moderation, reducing Abdullah's practices to fasting three days monthly, reciting the Quran once monthly, and moderating his nightly prayers. The speaker explains the Prophet's wisdom in this gradual approach, using the analogy of bargaining to move someone from extremes to moderation.\n\nThe lecture continues by explaining that while any three days of the month are permissible for voluntary fasting, the best days are the 13th, 14th, and 15th of the Islamic month, when the moon is full. This recommendation is based on hadith narrations from Abu Dharr collected by Tirmidhi and Abu Dawud. The speaker also clarifies that just as with optional prayers, Muslims have flexibility in when to fast voluntary fasts, with only certain days being prohibited (Eids, Fridays, and Saturdays as standalone fasts). The principle is that flexibility in voluntary worship accommodates people's varying schedules and circumstances.",
   "suggested_title": "Voluntary Fasting Three Days Per Month: The Sunnah and Wisdom of Moderation",
   "content_type": "Hadith",
-  "hadith_book": "Jami al-Tirmidhi",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Fasting (Kitab al-Sawm)",
   "topic_tags": [
     "voluntary fasting",
@@ -1447,5 +1447,6 @@
     "islamic law"
   ],
   "srt_status": "pending",
-  "catchy_title": "Three Days Monthly: Prophet's Perfect Balance"
+  "catchy_title": "Three Days Monthly: Prophet's Perfect Balance",
+  "manually_reviewed": true
 }

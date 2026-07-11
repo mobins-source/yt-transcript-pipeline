@@ -726,7 +726,7 @@
   "summary": "The speaker discusses a hadith from Riyadul Saliheen (The Gardens of the Righteous) by Imam Al-Nawawi, specifically about the virtues of Friday (Jumu'ah). The hadith, narrated by Abu Hurairah, describes the rewards of arriving at Friday prayer at different times, comparing them to sacrificing valuable animals such as camels, cows, rams, chickens, and eggs. The speaker explains how to interpret the 'hours' mentioned in the hadith by dividing the time between sunrise and when the imam begins the sermon into equal portions, with each early arrival bringing greater spiritual rewards.",
   "suggested_title": "The Virtues of Attending Friday Prayer Early - Hadith from Riyadul Saliheen",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on the Virtues of Friday (Jumu'ah)",
   "topic_tags": [
     "friday prayer",
@@ -739,5 +739,6 @@
     "islamic etiquette"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Early Friday Prayer Equals a Sacrifice"
+  "catchy_title": "Why Early Friday Prayer Equals a Sacrifice",
+  "manually_reviewed": true
 }

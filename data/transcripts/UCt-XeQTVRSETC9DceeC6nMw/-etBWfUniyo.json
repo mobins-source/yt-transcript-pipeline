@@ -716,7 +716,7 @@
   "summary": "This lecture discusses a hadith from Riyadul Saliheen (Gardens of the Righteous) by Imam Al-Nawawi, focusing on the chapter about repentance. The speaker presents a hadith narrated by Imran ibn Al-Husayn (may Allah be pleased with him), a companion of the Prophet who suffered from severe illnesses including dropsy (fluid accumulation) and hemorrhoids throughout his life. The Prophet Muhammad instructed him to pray standing, and if unable, then sitting, and if unable, then lying on his side, demonstrating Islamic flexibility in religious practice based on physical capacity.",
   "suggested_title": "Hadith on Adapting Prayer According to Physical Ability - Imran ibn Al-Husayn",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Repentance (Tawbah)",
   "topic_tags": [
     "hadith",
@@ -729,5 +729,6 @@
     "mercy in islam"
   ],
   "srt_status": "pending",
-  "catchy_title": "When You Can't Stand for Prayer, Do This"
+  "catchy_title": "When You Can't Stand for Prayer, Do This",
+  "manually_reviewed": true
 }

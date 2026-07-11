@@ -1179,7 +1179,7 @@
   "summary": "This lecture discusses the 48th narration from the Chapter of Patience, featuring a hadith in which a man asks the Prophet Muhammad for advice, and the Prophet repeatedly responds with 'Do not become angry.' The speaker explains that while emotions like anger are natural human responses beyond direct control, the narration teaches two practical meanings: first, to avoid situations, people, or environments known to trigger anger; and second, to exercise self-control when anger does occur. The lecture emphasizes that anger itself is not shameful—even the Prophets experienced anger—but rather how one manages anger is what matters. The speaker also stresses the importance of seeking Islamic knowledge through qualified scholars rather than randomly studying sources, comparing this to the necessity of professional guidance in medicine.",
   "suggested_title": "Managing Anger: Understanding the Hadith of Patient Self-Control",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter of Patience, 48th narration",
   "topic_tags": [
     "anger management",
@@ -1192,5 +1192,6 @@
     "knowledge seeking"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why the Prophet Always Said 'Don't Get Angry'"
+  "catchy_title": "Why the Prophet Always Said 'Don't Get Angry'",
+  "manually_reviewed": true
 }

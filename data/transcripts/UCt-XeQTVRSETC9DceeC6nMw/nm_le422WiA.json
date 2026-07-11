@@ -1500,8 +1500,8 @@
   "time_slot": "Wednesday-Isha",
   "summary": "This lecture discusses the story of Prophet Yunus (Jonah) from the Quran, focusing on his experience being swallowed by a whale after abandoning his assigned people without Allah's permission. The speaker explains how Yunus ended up on a boat where lots were drawn to determine who would be cast overboard, with Yunus ultimately jumping in himself. The core message emphasizes that what truly saved Yunus was not his dua in that moment of crisis, but rather his established relationship with Allah built through obedience and remembrance during times of ease. The speaker contrasts this with the story of the three men in the cave, illustrating that a strong spiritual foundation with Allah is what enables people to survive and overcome life's difficulties. The lecture concludes with the teaching that believers must remember and worship Allah during times of comfort and ease, so that Allah will remember and help them during times of hardship.",
   "suggested_title": "The Story of Prophet Yunus: Building Your Relationship with Allah in Times of Ease",
-  "content_type": "Quran",
-  "hadith_book": "Sahih Bukhari",
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "The Three Men in the Cave",
   "topic_tags": [
     "prophet yunus",
@@ -1514,5 +1514,6 @@
     "believers"
   ],
   "srt_status": "pending",
-  "catchy_title": "What Actually Saved Prophet Yunus?"
+  "catchy_title": "What Actually Saved Prophet Yunus?",
+  "manually_reviewed": true
 }

@@ -2434,8 +2434,8 @@
   "time_slot": "Friday-Fajr",
   "summary": "This lecture discusses the definition and importance of true Islamic knowledge versus merely knowing statements from various scholars. The speaker explains that knowledge requires evidence from the Quran and Sunnah, not just familiarity with different scholarly opinions. Using Quranic guidance (Surah An-Nisa 4:59), he emphasizes that when disagreements arise, Muslims should refer back to Allah and His Messenger rather than engaging in debates about which imam is superior. The speaker draws parallels to professional expertise, explaining that deep understanding comes from comprehensive study, not from isolated readings or internet searches. He concludes by stressing the importance of following qualified scholars in the community to maintain unity and adherence to Islamic principles.",
   "suggested_title": "True Islamic Knowledge: Evidence-Based Understanding vs. Opinion Compilation",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "knowledge",
@@ -2448,5 +2448,6 @@
     "fiqh methodology"
   ],
   "srt_status": "pending",
-  "catchy_title": "Knowledge or Just Knowing What Scholars Said?"
+  "catchy_title": "Knowledge or Just Knowing What Scholars Said?",
+  "manually_reviewed": true
 }

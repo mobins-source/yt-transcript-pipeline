@@ -771,7 +771,7 @@
   "summary": "This lecture discusses the concept of Ihsan (spiritual excellence) from Riyadul Saliheen by Imam Al-Nawawi, based on the hadith of Gabriel asking the Prophet Muhammad about Ihsan. The instructor explains that Ihsan is worshipping Allah as if you see Him, and if you cannot see Him, then He sees you. The lecture also covers the three levels of Islamic practice: Islam (submission), Iman (belief), and Ihsan (excellence), explaining their definitions and relationships. Additionally, the speaker discusses how actions have consequences that extend beyond the individual, affecting others and creating a legacy of deeds.",
   "suggested_title": "Ihsan (Excellence in Worship) - Riyadul Saliheen Lecture",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Ihsan/Excellence in Worship",
   "topic_tags": [
     "ihsan",
@@ -784,5 +784,6 @@
     "imam nawawi"
   ],
   "srt_status": "pending",
-  "catchy_title": "Worship Allah as if you see Him"
+  "catchy_title": "Worship Allah as if you see Him",
+  "manually_reviewed": true
 }

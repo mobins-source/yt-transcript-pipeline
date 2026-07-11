@@ -178,8 +178,8 @@
   "time_slot": "Saturday-Isha",
   "summary": "This is a welcoming address from a new member or leader at the Muslim Community Center of Tucson. The speaker introduces themselves to the community and invites everyone to gather in the gymnasium after prayers to socialize over tea and sweets. The speaker expresses gratitude for the warm welcome and hospitality received, and shares optimism about the future of the community.",
   "suggested_title": "Welcome and Introduction to the Community - Muslim Community Center of Tucson",
-  "content_type": "Announcement",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "community welcome",
@@ -188,5 +188,6 @@
     "hospitality"
   ],
   "srt_status": "pending",
-  "catchy_title": "Welcome to Our Community: Let's Break Bread Together"
+  "catchy_title": "Welcome to Our Community: Let's Break Bread Together",
+  "manually_reviewed": true
 }

@@ -1691,8 +1691,8 @@
   "time_slot": "Sunday-Isha",
   "summary": "This lecture discusses the Quranic verse (51:56) where Allah states He created jinn and mankind solely for worship. The speaker explains that worship in Islam is not limited to ritual acts like prayer, fasting, and hajj, but encompasses a broad range of actions, speech, and beliefs that align with Allah's will. The lecture explores why humans, despite seemingly having minimal obligatory worship compared to angels, hold a special place in creation due to their unique internal struggle between impulses and divine guidance.\n\nThe key distinction between humans and angels is that while both possess free will and consciousness, humans have an inherent inclination toward disobedience, whereas angels have no such impulse. This struggle between choosing what is right according to divine revelation versus following base desires is what makes human worship uniquely valuable. When a human consciously obeys Allah despite temptation, they accomplish something angels cannot. Conversely, when choosing disobedience, humans fall lower than animals, having squandered their free will and divine knowledge.",
   "suggested_title": "The Purpose of Human Creation: Understanding Worship and the Unique Struggle of Mankind",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "worship in islam",
@@ -1705,5 +1705,6 @@
     "obedience to allah"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Allah Created Humans: The Worship Struggle"
+  "catchy_title": "Why Allah Created Humans: The Worship Struggle",
+  "manually_reviewed": true
 }

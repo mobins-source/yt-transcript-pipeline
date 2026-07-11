@@ -1660,8 +1660,8 @@
   "time_slot": "Thursday-Isha",
   "summary": "This lecture discusses Quranic analogies and parables, specifically referencing Surah Al-Baqarah's teachings about how Allah uses examples like the mosquito and fly to convey truth, regardless of the size or perceived significance of the comparison. The speaker emphasizes that the mushrikin (polytheists) rejected these parables not based on logical refutation but on dismissing them as beneath Allah's dignity. The lecture extends this principle to explain that knowledge of Islamic teachings is essential for increasing faith, countering the misconception that sincerity alone suffices without proper knowledge and adherence to the Sunnah.\n\nThe speaker addresses a dangerous modern trend among some groups claiming that knowledge hinders spiritual connection with Allah, arguing instead that ignorance combined with sincerity leads to misguided practices. Drawing comparisons to how modern Christianity has become entertainment-focused rather than knowledge-based, the speaker emphasizes that righteous deeds must be grounded in both sincere intention (ikhlas) and proper Islamic knowledge. The lecture concludes that believers must understand the five reasons Allah provides these Quranic details: to increase disbelievers in misguidance, to affirm the Quran's divine origin to the People of the Book, to increase believers in faith, to remove doubt, and to highlight the disease in the hearts of the disbelievers.",
   "suggested_title": "The Importance of Knowledge in Islamic Worship: Understanding Quranic Analogies and True Belief",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "quranic analogies",
@@ -1674,5 +1674,6 @@
     "righteous deeds"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Allah Uses Small Examples to Teach Big Truths"
+  "catchy_title": "Why Allah Uses Small Examples to Teach Big Truths",
+  "manually_reviewed": true
 }

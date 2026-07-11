@@ -1269,7 +1269,7 @@
   "summary": "This lecture analyzes a hadith narration (number 24) from a chapter on repentance, discussing a tradition collected by both Sahih Bukhari and Sahih Muslim. The narration describes how Allah will smile upon two men on the Day of Judgment—one a martyr killed while fighting for Islam, and the other his killer who subsequently repents, converts to Islam, and is also martyred. The speaker emphasizes that despite grave sins, there remains hope for repentance as long as a person has breath in their body. The lecture connects this to broader Islamic themes about the transformative power of the Quran and divine wisdom in acceptance of repentance.",
   "suggested_title": "Hadith on Repentance: The Martyr and His Killer Both Entering Paradise",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Repentance - Narration 24",
   "topic_tags": [
     "repentance",
@@ -1282,5 +1282,6 @@
     "prophetic tradition"
   ],
   "srt_status": "pending",
-  "catchy_title": "Can a Killer and Martyr Both Enter Paradise?"
+  "catchy_title": "Can a Killer and Martyr Both Enter Paradise?",
+  "manually_reviewed": true
 }

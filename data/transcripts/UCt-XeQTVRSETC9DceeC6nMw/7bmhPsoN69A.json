@@ -1927,7 +1927,7 @@
   "summary": "This lecture analyzes a hadith from the chapter on righteousness (taqwa) regarding the Prophet Muhammad's farewell pilgrimage address. The speaker discusses the commandment to obey those in authority as a fundamental Islamic principle equivalent to the five pillars, drawing from a hadith narration about the Prophet's instructions during Hajj. The speaker extensively explores why contemporary Muslims struggle with obedience to authority figures, attributing this to psychological colonization from Western powers that have conditioned Muslims to reject authority from their own communities while submitting only to external powers. The lecture examines how this manifests in religious settings (following the imam in prayer, respecting scholars) and broader social structures, contrasting the current state with the Prophet's original mission to unite the Arab tribes under Islamic leadership.",
   "suggested_title": "Obedience to Authority in Islam: A Hadith Analysis on Taqwa and Its Contemporary Challenges",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter of Righteousness (Taqwa)",
   "topic_tags": [
     "obedience to authority",
@@ -1940,5 +1940,6 @@
     "community structure"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Do Muslims Reject Their Own Leaders?"
+  "catchy_title": "Why Do Muslims Reject Their Own Leaders?",
+  "manually_reviewed": true
 }

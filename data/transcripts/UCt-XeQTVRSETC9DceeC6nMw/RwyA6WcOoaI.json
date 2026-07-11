@@ -4144,7 +4144,7 @@
   "summary": "This is a recording of Eid al-Fitr prayers and celebration at the Muslim Community Center of Tucson. The content features the complete Eid prayer service conducted according to the Hanafi school of Islamic jurisprudence, led by an imam who explains the procedure and recites Quranic verses. Following the prayer, there is a khutbah (sermon) addressing the congregation about continuing spiritual practices after Ramadan, maintaining regular prayer attendance at mosques, continuing Quran recitation, the recommendation to fast six days of Shawwal, and various moral and social instructions. The sermon also includes supplications for the Muslim ummah and prayers for those facing hardship globally.",
   "suggested_title": "Eid al-Fitr Prayer and Sermon - Muslim Community Center of Tucson",
   "content_type": "Mixed",
-  "hadith_book": null,
+  "hadith_book": "Other",
   "hadith_chapter": null,
   "topic_tags": [
     "eid al-fitr",
@@ -4157,5 +4157,6 @@
     "spiritual guidance"
   ],
   "srt_status": "pending",
-  "catchy_title": "Eid al-Fitr Prayer Service and Khutbah"
+  "catchy_title": "Eid al-Fitr Prayer Service and Khutbah",
+  "manually_reviewed": true
 }

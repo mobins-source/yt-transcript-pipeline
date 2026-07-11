@@ -128,8 +128,8 @@
   "time_slot": "Saturday-Isha",
   "summary": "This appears to be a fragmented audio recording from a Muslim Community Center discussion or lecture. The transcript captures portions of what seems to be a religious discussion involving questions and answers about Islamic practices. References are made to recitation modes, prayer practices, and mentions of authentic narrations (hadith). However, the audio quality or transcription is poor, making it difficult to determine the exact topic being discussed.",
   "suggested_title": "Muslim Community Center Q&A Session - Unclear Topic",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "qna session",
@@ -139,5 +139,6 @@
     "community center"
   ],
   "srt_status": "pending",
-  "catchy_title": "Authentic Hadith on Prayer and Hypocrisy"
+  "catchy_title": "Authentic Hadith on Prayer and Hypocrisy",
+  "manually_reviewed": true
 }

@@ -1053,8 +1053,8 @@
   "time_slot": "Monday-Fajr",
   "summary": "This lecture continues the discussion of the first chapter of an Islamic text on sincerity (ikhlas) and intention in worship. The speaker analyzes three Quranic verses (98:5, 22:37, and 3:29) that establish the importance of sincere intention in all acts of worship. A significant portion of the lecture addresses a common misconception about proclaiming one's intention before prayer, arguing that Islamic jurisprudence does not require verbal declaration of intention. The speaker clarifies that intention is an internal matter of the heart, known to Allah regardless of whether it is spoken or concealed, and cites agreement among the four Islamic schools (madhabs) that the Prophet Muhammad never taught the recitation of intentions before worship.",
   "suggested_title": "The Importance of Sincere Intention (Ikhlas) in Worship and Dispelling the Misconception of Proclaiming Intentions",
-  "content_type": "Mixed",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "intention",
@@ -1067,5 +1067,6 @@
     "salah"
   ],
   "srt_status": "pending",
-  "catchy_title": "Does Your Intention Need to Be Spoken?"
+  "catchy_title": "Does Your Intention Need to Be Spoken?",
+  "manually_reviewed": true
 }

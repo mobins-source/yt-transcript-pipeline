@@ -1449,8 +1449,8 @@
   "time_slot": "Saturday-Fajr",
   "summary": "This lecture discusses the concept of patience (sabr) and being more patient than one's enemy, as mentioned at the end of Surah Ali Imran (Chapter 3 of the Quran). The speaker uses the pre-Islamic Arabian warrior Antar as an example to illustrate how battles are won through superior endurance and willpower rather than overwhelming force. The lecture then transitions to the spiritual battlefield, explaining that believers' greatest enemy is Shaitan (Satan), who has been around for millennia but is ultimately weak because he cannot compel believers to sin without their consent. The speaker emphasizes that Muslims are equipped with the Quran, the Sunnah, intellect, and community support to resist Shaitan's whispers and lies.",
   "suggested_title": "Patience and Resistance Against Shaitan: Lessons from Surah Ali Imran",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "patience",
@@ -1463,5 +1463,6 @@
     "islamic virtue"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Shaitan Cannot Force You to Sin"
+  "catchy_title": "Why Shaitan Cannot Force You to Sin",
+  "manually_reviewed": true
 }

@@ -1343,8 +1343,8 @@
   "time_slot": "Sunday-Fajr",
   "summary": "This lecture discusses the Battle of Azb (Battle of the Trench) as context for understanding patience and trials in Islam. The speaker explains why this battle was particularly frightening for the companions, including the involvement of treacherous allies, overwhelming enemy numbers, the threat to Medina's population, harsh weather conditions, and the unprecedented unity of Arab tribes against the Muslims. Despite their fear, the companions found solace in recognizing that Allah and His messenger had promised such difficulties would occur, viewing these trials as a sign of Allah's favor rather than punishment. The lecture connects this to Surah Al-Baqarah verse 155, which promises that Allah will test believers with fear, hunger, and loss of wealth and lives, followed by glad tidings for the patient.",
   "suggested_title": "The Battle of the Trench: Understanding Patience Through Trials and Divine Promises",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "patience",
@@ -1357,5 +1357,6 @@
     "steadfastness"
   ],
   "srt_status": "pending",
-  "catchy_title": "When Fear Becomes a Sign of Allah's Favor"
+  "catchy_title": "When Fear Becomes a Sign of Allah's Favor",
+  "manually_reviewed": true
 }

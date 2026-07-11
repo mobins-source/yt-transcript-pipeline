@@ -3587,7 +3587,7 @@
   "summary": "This lecture from the Muslim Community Center of Tucson focuses on the proper etiquette and conduct related to prayer (salah), particularly how to approach the mosque and conduct oneself when arriving for congregational prayer. The speaker discusses several hadith narrations from Sahih Muslim that address rushing to prayer, the role of the imam in controlling prayer times, and the proper formation of prayer rows. Key topics include the prohibition against hastening to prayer, the principle that whatever prayer is missed must be made up, and clarifications on common misunderstandings about catching portions of congregational prayer.",
   "suggested_title": "Etiquette of Prayer and Approaching the Mosque: Islamic Jurisprudence on Salah Conduct",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Muslim",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Chapters on Prayer (Salah), Congregational Prayer, and Proper Conduct",
   "topic_tags": [
     "salah etiquette",
@@ -3600,5 +3600,6 @@
     "prayer timing"
   ],
   "srt_status": "pending",
-  "catchy_title": "What Prophet Said Before Entering the Mosque"
+  "catchy_title": "What Prophet Said Before Entering the Mosque",
+  "manually_reviewed": true
 }

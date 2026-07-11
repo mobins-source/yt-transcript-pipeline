@@ -1012,8 +1012,8 @@
   "time_slot": "Saturday-Isha",
   "summary": "This lecture discusses the Islamic concept of mudahana (compromising religious principles) and its prohibition in Islam. The speaker uses examples from early Islamic history, particularly from the Meccan period, where the Quraysh offered compromises to Prophet Muhammad—such as not insulting their idols if they wouldn't criticize Islam. The speaker emphasizes that such compromises are fundamentally unacceptable because Islam requires clear distinction between belief and disbelief, and Muslims must be able to publicly affirm Islamic teachings and critique other religions without fear of persecution. The lecture explains that a Muslim can live as a minority among non-Muslims only if they can practice Islam publicly and openly, without hiding their faith or compromising its core tenets.",
   "suggested_title": "Mudahana (Religious Compromise): Why Islam Prohibits Compromising Core Beliefs",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "mudahana",
@@ -1026,5 +1026,6 @@
     "religious integrity"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Islam Forbids Compromising Your Faith"
+  "catchy_title": "Why Islam Forbids Compromising Your Faith",
+  "manually_reviewed": true
 }

@@ -1459,8 +1459,8 @@
   "time_slot": "Wednesday-Isha",
   "summary": "This lecture provides an in-depth Quranic analysis of Surah Al-Muddaththir (Chapter 74), verses 38-48. The speaker explains the concept that every soul is held captive by its own sins, except for the people of the right (inhabitants of paradise). The lecture explores why they are called \"the people of the right\" - because they receive their books in their right hand, were on the right side of Adam, and will be on the right of Allah's throne on the Day of Judgment. The speaker elaborates on the linguistic meaning of \"Jannah\" (gardens), explaining how the Arabic letters Jeem and Noon convey the meaning of concealment, describing paradise as lush, thick gardens that conceal those within them.",
   "suggested_title": "Surah Al-Muddaththir Verses 38-48: The People of the Right and the Description of Paradise",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "surah al-muddaththir",
@@ -1473,5 +1473,6 @@
     "jannah"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Paradise is Called the Right Hand"
+  "catchy_title": "Why Paradise is Called the Right Hand",
+  "manually_reviewed": true
 }

@@ -941,7 +941,7 @@
   "summary": "This lecture is a detailed Quranic and hadith-based discussion on the importance of sincere intention (niyyah) in all acts of worship and daily actions. The speaker explains that sincerity is a fundamental principle taught by all prophets and messengers, and that actions are judged by their intentions. Using hadiths from Sahih Bukhari, the lecturer illustrates how those who are prevented from participating in righteous acts due to valid excuses (illness, poverty, etc.) still receive full reward if their intention is sincere. The concept of 'Shari'ah reality' (al-haqiqah al-shari'ah) is introduced to explain how those absent due to legitimate reasons are considered spiritually present with those performing good deeds.",
   "suggested_title": "The Importance of Sincere Intention (Niyyah) in Worship - Riyadul Saliheen Chapter 1",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter 1: On Sincerity and Correct Intention in All Actions, Statements, and States (both visible and hidden)",
   "topic_tags": [
     "niyyah",
@@ -954,5 +954,6 @@
     "reward and intention"
   ],
   "srt_status": "pending",
-  "catchy_title": "Does Your Intention Really Matter?"
+  "catchy_title": "Does Your Intention Really Matter?",
+  "manually_reviewed": true
 }

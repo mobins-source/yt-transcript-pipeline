@@ -1689,8 +1689,8 @@
   "time_slot": "Wednesday-Isha",
   "summary": "This lecture provides a detailed Quranic exegesis (tafsir) of Surah Al-Muzzammil (Chapter 73), focusing on verses related to the Day of Judgment and the splitting of the heavens. The speaker explains grammatical constructions in Arabic, particularly the use of the verb 'kana' (was) and its nuances in conveying emphasis and certainty about Allah's promises. The discourse emphasizes that Allah's promises, especially regarding the Day of Judgment, are so certain they are spoken of as already accomplished. The lecture also discusses how the Quran serves as the technology or guidance for humanity to reach Allah, and emphasizes that following the Quran and the Prophet Muhammad is the only path to guidance.",
   "suggested_title": "Tafsir of Surah Al-Muzzammil: Allah's Promises and the Day of Judgment",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "quran exegesis",
@@ -1703,5 +1703,6 @@
     "arabic linguistics"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Allah's Promises Are Already Fulfilled"
+  "catchy_title": "Why Allah's Promises Are Already Fulfilled",
+  "manually_reviewed": true
 }

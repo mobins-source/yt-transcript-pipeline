@@ -1820,8 +1820,8 @@
   ],
   "summary": "This lecture analyzes Quran verse 3:110 through the lens of companion narrations, specifically focusing on Abu Hurairah's explanations. The speaker discusses how companions like Abu Hurairah transmitted Quranic interpretations directly from the Prophet, establishing that their explanations constitute authentic narrations rather than personal opinions. The verse declares Muslims as \"the best of nations brought forth for mankind,\" with the speaker elaborating on what this designation means and its conditions. Abu Hurairah's explanation reveals multiple layers of meaning: Muslims are the best for humanity, they bring people from disbelief to Islam, and they serve as ambassadors of Islamic truth. The lecture emphasizes that despite Muslims representing only a small fraction of humanity (like a hair on a bull's back), they hold supreme spiritual status through their commitment to Islam.",
   "suggested_title": "Quran 3:110 - The Best of Nations: Companion Narrations and Their Authority in Quranic Interpretation",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "quran interpretation",
@@ -1844,5 +1844,6 @@
   "month_year": "June 2026",
   "actual_at": "2026-06-05T04:15:32+00:00",
   "srt_status": "pending",
-  "catchy_title": "Why Muslims Are Humanity's Greatest Nation"
+  "catchy_title": "Why Muslims Are Humanity's Greatest Nation",
+  "manually_reviewed": true
 }

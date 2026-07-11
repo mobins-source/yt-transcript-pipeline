@@ -1951,8 +1951,8 @@
   "time_slot": "Saturday-Isha",
   "summary": "This is a detailed Quranic exegesis (tafsir) focusing on Surah Al-Muzammil, verses 17-18. The speaker discusses Allah's sending of messengers as witnesses to nations, using the example of Pharaoh's disobedience and the consequences thereof. The primary focus is on explaining the concept of 'Taqwa' (often translated as fear of Allah), clarifying that it encompasses much more than fear alone—it represents obedience to Allah's commandments and refraining from His prohibitions as a means of protection from His punishment. The speaker emphasizes that only Allah can provide protection on the Day of Judgment, a day so terrifying that even infants will have their hair turn white from fear.",
   "suggested_title": "Tafsir of Surah Al-Muzammil Verses 17-18: Understanding Taqwa and Divine Protection",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "surah al-muzammil",
@@ -1965,5 +1965,6 @@
     "messengers"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Pharaoh's Disobedience Led to Destruction"
+  "catchy_title": "Why Pharaoh's Disobedience Led to Destruction",
+  "manually_reviewed": true
 }

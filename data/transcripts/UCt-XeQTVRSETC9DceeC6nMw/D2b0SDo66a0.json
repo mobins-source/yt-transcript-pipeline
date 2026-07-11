@@ -1083,7 +1083,7 @@
   "summary": "This lecture discusses a hadith from Sahih Bukhari and Sahih Muslim about the Prophet Muhammad encountering a woman crying at her child's grave. The scholar explains the concept of patience (sabr) in Islam, distinguishing between emotional tears (which do not negate patience) and wailing or screaming (which do). The woman initially does not recognize the Prophet and rebukes him for his advice to be patient. The scholar explains why the Prophet chose not to continue teaching at that moment due to her emotional state, and only provided guidance later when she returned to his home. The lecture concludes with the Prophet's teaching that true patience manifests at the first moment of hardship.",
   "suggested_title": "The Hadith of the Woman at the Grave: Understanding True Patience in Islam",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter of Patience",
   "topic_tags": [
     "patience",
@@ -1096,5 +1096,6 @@
     "hardship"
   ],
   "srt_status": "pending",
-  "catchy_title": "When Tears Don't Break Your Patience"
+  "catchy_title": "When Tears Don't Break Your Patience",
+  "manually_reviewed": true
 }

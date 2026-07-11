@@ -2041,8 +2041,8 @@
   "time_slot": "Friday-Isha",
   "summary": "This lecture discusses Surah Al-Muzzammil (Chapter 73) and its command to the Prophet Muhammad to stand in prayer during the night. The speaker explains the nature of Quranic commands, clarifying that the default ruling of any command in the Quran and Sunnah is obligation (wajib), unless otherwise qualified. The lecture covers how this command was specific to the Prophet in terms of obligatory status, while being preferred for the general Muslim community. The speaker details the stages through which Salah (prayer) was legislated in Islam, culminating in the five daily obligatory prayers instituted on the night of Isra and Mi'raj in the tenth year of prophethood.\n\nThe lecture emphasizes that the Prophet never prayed the entire night despite what some might assume from the verse, citing the example of three young men who attempted extremism in worship by making excessive vows, which the Prophet rejected. The speaker warns against extremism in religion, illustrating how even beneficial things like water can become harmful in excess. The lecture concludes by discussing proper Quranic recitation (tajweed), explaining that recitation should be measured and deliberate rather than rushed, and mentions that the exact methodology and pace of the Prophet's recitation will be detailed in the following lesson.",
   "suggested_title": "Surah Al-Muzzammil: Night Prayer, The Nature of Commands, and Avoiding Religious Extremism",
-  "content_type": "Quran",
-  "hadith_book": "Sahih Bukhari",
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Chapter on Salah (Prayer) and Fasting; Narrations of Anas and Aisha",
   "topic_tags": [
     "night prayer",
@@ -2055,5 +2055,6 @@
     "surah al-muzzammil"
   ],
   "srt_status": "pending",
-  "catchy_title": "Night Prayer: Command, Not Extremism"
+  "catchy_title": "Night Prayer: Command, Not Extremism",
+  "manually_reviewed": true
 }

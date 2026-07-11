@@ -922,7 +922,7 @@
   "summary": "This video presents a detailed Quranic and hadith-based lecture from Riyadul Saliheen (Gardens of the Righteous) by Imam Al-Nawawi. The session focuses on the chapter of sincerity and intention (Ikhlas wa Ihdar al-Niyyah), specifically analyzing a hadith about Abu Yazid Ma'n ibn Yazid ibn Al-Akhnas. The hadith discusses a situation where Abu Yazid left dinars for charity at a mosque, and later his son took them, not knowing they were meant for charity. When the father discovered this, he brought the matter to Prophet Muhammad (PBUH) for judgment. The Prophet ruled that each person receives according to their intention: the father received reward for his charitable intention, and the son received the coins because he was in need and qualified as a recipient of charity.",
   "suggested_title": "Sincerity and Intention in Charity: Hadith Analysis from Riyadul Saliheen",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Sincerity and Intention (Ikhlas wa Ihdar al-Niyyah) - First Chapter, Fifth Hadith",
   "topic_tags": [
     "intention",
@@ -935,5 +935,6 @@
     "prophet's judgment"
   ],
   "srt_status": "pending",
-  "catchy_title": "Your Intention, Your Reward: The Prophet's Judgment"
+  "catchy_title": "Your Intention, Your Reward: The Prophet's Judgment",
+  "manually_reviewed": true
 }

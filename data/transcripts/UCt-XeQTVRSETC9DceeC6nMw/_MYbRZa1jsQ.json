@@ -3364,7 +3364,7 @@
   "summary": "This is a question and answer session at the Muslim Community Center of Tucson addressing the state of the Muslim world today. A community member asks about the apparent paradox of Muslims being more numerous than ever with more mosques and schools, yet experiencing weak iman and disconnection from their religion. The speaker responds by referencing a hadith from the Prophet Muhammad describing a time when Muslims will be numerous like foam on a river—appearing abundant but lacking substance and quality. The speaker elaborates on how Muslims have become weak, unable to defend themselves, and resort to appealing to the world for help, particularly referencing the situation in Gaza. The discussion emphasizes that victory in Islamic history has never been about quantity but quality, and that Muslims have strayed from prioritizing knowledge of the Quran and their deen, instead focusing on worldly matters and adopting un-Islamic practices.",
   "suggested_title": "The State of the Muslim World: Quality vs. Quantity - Q&A on Islamic Community",
   "content_type": "Hadith",
-  "hadith_book": "Other",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Prophecies about Muslim weakness and the foam analogy",
   "topic_tags": [
     "islamic state",
@@ -3377,5 +3377,6 @@
     "muslim weakness"
   ],
   "srt_status": "pending",
-  "catchy_title": "More Muslims, Weaker Iman: What Happened?"
+  "catchy_title": "More Muslims, Weaker Iman: What Happened?",
+  "manually_reviewed": true
 }

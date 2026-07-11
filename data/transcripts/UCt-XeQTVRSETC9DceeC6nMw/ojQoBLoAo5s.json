@@ -1450,8 +1450,8 @@
   "time_slot": "Saturday-Fajr",
   "summary": "This lecture discusses the Quranic verse about seeking aid in patience and prayer (Surah Al-Baqarah 2:45) from the chapter on patience. The speaker explains how fasting and prayer serve as tools to help believers endure hardships, emphasizing that all difficulties are temporary and that patience combined with prayer provides both immediate relief and long-term spiritual guidance. The lecture explores how patience and prayer work together: patience provides the immediate response to hardship while prayer and Quranic reflection redirect one's inner forces and energies toward constructive purposes.\n\nThe speaker addresses how shaitan operates through discouragement and manipulation, including using others to disparage believers who stumble. He emphasizes that a single failure does not define one's character, and that hopelessness is shaitan's most powerful tool against humans. The lecture uses the analogy of stopping a river with a wall to explain why merely suppressing human desires and energies leads to destructive outcomes; instead, these forces must be redirected through proper channels like marriage and spiritual devotion.\n\nThe speaker concludes by illustrating how the companions used patience and prayer to redirect their energies positively, warning that repression without redirection of these inner forces can lead to spiritual failure despite initially appearing righteous.",
   "suggested_title": "Seeking Aid in Patience and Prayer: Understanding Surah Al-Baqarah 2:45",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "patience",
@@ -1464,5 +1464,6 @@
     "quranic reflection"
   ],
   "srt_status": "pending",
-  "catchy_title": "How Patience and Prayer Defeat Hardship"
+  "catchy_title": "How Patience and Prayer Defeat Hardship",
+  "manually_reviewed": true
 }

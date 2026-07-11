@@ -1139,8 +1139,8 @@
   "summary": "This lecture discusses the Islamic jurisprudential distinction between pillars (arkan) and obligations (wajibat) in the context of ablution (wudu). The scholar explains why wudu components are categorized as obligations rather than pillars, using the example that certain parts of wudu can be omitted based on a person's physical circumstances (such as missing limbs or injuries), whereas pillars of other acts of worship like prayer must always be performed regardless of circumstances. The lecture emphasizes how categorization critically impacts Islamic legal rulings and treatments of religious obligations. The speaker then details the six obligations of wudu: washing the face including mouth and nose, washing the hands and arms to the elbows, wiping the head including the ears, washing the feet to the ankles, performing these actions successively, and performing them in the correct order.",
   "suggested_title": "Pillars vs. Obligations in Wudu: Understanding Islamic Jurisprudential Terminology and the Six Obligations of Ablution",
   "catchy_title": "Why isn't wudu a pillar? The precision of Islamic law",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "wudu",
@@ -1152,5 +1152,6 @@
     "arkan",
     "wajibat"
   ],
-  "srt_status": "pending"
+  "srt_status": "pending",
+  "manually_reviewed": true
 }

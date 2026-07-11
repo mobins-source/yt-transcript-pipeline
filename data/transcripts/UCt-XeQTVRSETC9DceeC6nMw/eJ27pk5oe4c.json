@@ -2188,8 +2188,8 @@
   "time_slot": "Saturday-Isha",
   "summary": "This lecture discusses Surah Al-Muzzammil Chapter 73, Verse 20, focusing on the distinction between Meccan and Medinan revelations. The speaker explains that Meccan chapters were revealed before the Hijra when Muslims were a persecuted minority, while Medinan chapters came after when Muslims established their own state. The speaker elaborates on how understanding this context is crucial for interpreting Quranic verses, as the same words can have drastically different meanings depending on their revelation context. The lecture examines why Verse 20 of Surah Al-Muzzammil is debated among scholars—some argue it's Medinan due to its length and mention of jihad and Zakat, while others contend it's Meccan with forward-looking references to obligations that would be detailed later in Medina.",
   "suggested_title": "Meccan vs Medinan Revelations: Understanding Surah Al-Muzzammil 73:20 and Quranic Context",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "quran",
@@ -2202,5 +2202,6 @@
     "islamic law"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Does This Verse Break the Pattern?"
+  "catchy_title": "Why Does This Verse Break the Pattern?",
+  "manually_reviewed": true
 }

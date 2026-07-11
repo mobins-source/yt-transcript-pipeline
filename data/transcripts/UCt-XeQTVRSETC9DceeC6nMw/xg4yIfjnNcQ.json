@@ -2318,8 +2318,8 @@
   "time_slot": "Sunday-Isha",
   "summary": "This lecture focuses on the final verses of Surah Al-Muzzammil (Chapter 73), specifically verse 20, which commands believers to 'recite of the Quran what is convenient.' The speaker explains that this command has two interconnected meanings: prayer (salah) and Quranic recitation within prayer. The lecture emphasizes that when Allah refers to salah as recitation, He is referencing one of its most integral components. The core teaching revolves around the importance of establishing prayer properly with all its conditions, pillars, and obligations met, illustrated through the hadith of a companion who prayed hastily without proper tranquility (khushu). The speaker stresses that worship without proper adherence to Islamic guidelines is invalid and will be scattered like dust on the Day of Judgment.",
   "suggested_title": "Establishing Prayer Correctly: Understanding Surah Al-Muzzammil 73:20 and the Importance of Khushu in Salah",
-  "content_type": "Mixed",
-  "hadith_book": "Other",
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "The hadith of the companion who prayed without proper form and was instructed by the Prophet to repeat his prayer",
   "topic_tags": [
     "surah al-muzzammil",
@@ -2332,5 +2332,6 @@
     "islamic jurisprudence"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Rushed Prayer Gets Scattered Like Dust"
+  "catchy_title": "Why Rushed Prayer Gets Scattered Like Dust",
+  "manually_reviewed": true
 }

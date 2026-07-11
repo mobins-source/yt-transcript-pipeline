@@ -1732,7 +1732,7 @@
   "summary": "This lesson from the Muslim Community Center of Tucson covers the 210th chapter on the virtues and merits of Friday (Jumu'ah) from Sahih Muslim. The instructor explains the significance of Friday as the day chosen by Allah for major events in human history, including the creation of Adam, his entry into paradise, his expulsion from it, and the Day of Judgment. The primary focus is on a hadith narrated by Abu Hurairah regarding the conditions for attaining forgiveness on Friday: making perfect wudhu (ablution), attending Jumu'ah, listening attentively, and maintaining silence. The instructor provides an in-depth, detailed explanation of how to perform wudhu correctly based on the Prophet Muhammad's practices as narrated by Uthman ibn Affan.",
   "suggested_title": "The Virtues of Friday and the Complete Method of Performing Wudhu According to the Sunnah",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Muslim",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter 210: The Virtues and Merits of the Day of Jumu'ah",
   "topic_tags": [
     "jumu'ah",
@@ -1745,5 +1745,6 @@
     "purification"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Friday is Islam's Most Important Day"
+  "catchy_title": "Why Friday is Islam's Most Important Day",
+  "manually_reviewed": true
 }

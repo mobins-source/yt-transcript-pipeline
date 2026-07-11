@@ -1580,7 +1580,7 @@
   "summary": "This lecture discusses the etiquettes and practices of fasting in Islam, with particular emphasis on Suhur (pre-dawn breakfast). The speaker explains the Islamic terminology, the blessing and importance of Suhur as mentioned in the Quran and Hadith, and provides detailed etymological analysis of Islamic terms. The lecture covers the minimum requirement for Suhur (even one gulp of water), the rewards for eating with the intention of fasting, and the timing of Suhur through authentic narrations from Sahih Bukhari and Sahih Muslim.",
   "suggested_title": "The Etiquettes of Fasting: Understanding Suhur (Pre-Dawn Breakfast) in Islam",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari, Sahih Muslim",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Book of Fasting (Kitab al-Sawm)",
   "topic_tags": [
     "suhur",
@@ -1593,5 +1593,6 @@
     "fasting practices"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Even One Sip Counts Before Dawn"
+  "catchy_title": "Why Even One Sip Counts Before Dawn",
+  "manually_reviewed": true
 }

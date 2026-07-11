@@ -917,7 +917,7 @@
   "summary": "This lecture discusses the Islamic principles of distributing spoils of war (ghanimah) following the Battle of Hunayn. The speaker explains how the Prophet Muhammad (peace be upon him) distributed war spoils according to Allah's command: one-fifth to Allah and His Messenger for the betterment of Muslims, with the remaining four-fifths distributed to soldiers based on rank and contribution. Beyond the mandatory distribution, the Prophet had discretionary wealth from conquered territories that he could distribute according to his judgment. The lecture explains the Prophet's wisdom in giving more to newly converted tribal leaders like Uyaynah and Habis, whose unstable faith required additional support to keep them and their followers committed to Islam, rather than rewarding more established Muslims whose iman was already firm.",
   "suggested_title": "Distribution of War Spoils and the Prophet's Wisdom in Strengthening New Muslims - Battle of Hunayn",
   "content_type": "Hadith",
-  "hadith_book": "Other",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Battle of Hunayn - Distribution of Spoils",
   "topic_tags": [
     "battle of hunayn",
@@ -930,5 +930,6 @@
     "distribution of wealth"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why the Prophet Gave More to New Muslims"
+  "catchy_title": "Why the Prophet Gave More to New Muslims",
+  "manually_reviewed": true
 }

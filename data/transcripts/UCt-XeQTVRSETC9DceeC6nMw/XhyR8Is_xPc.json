@@ -3117,8 +3117,8 @@
   "time_slot": "Saturday-Isha",
   "summary": "This lecture addresses the fundamental principles of Islam, emphasizing the importance of mastering basic religious concepts before advancing to more complex issues. The speaker discusses the Quranic command for scholars to cultivate and raise the hearts and minds of Muslims, comparing this to how a farmer cultivates crops or parents raise children. The lecture focuses on the two testimonies of faith (La ilaha illallah and Muhammad is the messenger of Allah), explaining what each entails, necessitates, and negates. The speaker emphasizes strict adherence to the Prophet's Sunnah and warns against innovation (bid'ah) in religious matters, providing examples of how innovations can corrupt Islamic teaching over time.",
   "suggested_title": "The Fundamentals of Islam: Understanding the Two Testimonies of Faith and the Importance of the Sunnah",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "fundamentals of islam",
@@ -3131,5 +3131,6 @@
     "worship practices"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Mastering Islam's Basics Saves Your Soul"
+  "catchy_title": "Why Mastering Islam's Basics Saves Your Soul",
+  "manually_reviewed": true
 }

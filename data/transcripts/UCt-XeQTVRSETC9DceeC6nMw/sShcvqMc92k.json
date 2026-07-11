@@ -1414,8 +1414,8 @@
   "time_slot": "Wednesday-Isha",
   "summary": "This lecture discusses the Quranic verse \"hold all of you to the rope of Allah together and do not become divided\" (Surah Al-Imran 3:103), exploring its meaning and practical implications for Muslim community life. The speaker explains that the rope of Allah refers to Islam, the Quran, and the Sunnah, and emphasizes that Muslims must not only individually hold to these teachings but must do so collectively. The lecture stresses the importance of physical and spiritual togetherness, referencing the Prophet's emphasis on straightening the rows in prayer and maintaining community cohesion even in daily life.",
   "suggested_title": "Holding to the Rope of Allah: The Importance of Unity in the Muslim Community",
-  "content_type": "Quran",
-  "hadith_book": "Other",
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "unity",
@@ -1428,5 +1428,6 @@
     "muslim brotherhood"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Muslim Unity Starts With One Rope"
+  "catchy_title": "Why Muslim Unity Starts With One Rope",
+  "manually_reviewed": true
 }

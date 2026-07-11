@@ -1737,8 +1737,8 @@
   "time_slot": "Thursday-Fajr",
   "summary": "This lecture discusses the rulings and practices related to Eid prayers (Salat al-Eid), including the obligations for women to attend, proper dress codes, and the specific rituals involved. The speaker covers both Eid al-Fitr and Eid al-Adha, explaining the differences in takbir (glorification of Allah) between the two celebrations, including the distinction between absolute takbir and restricted takbir performed at specific times. The lecture also addresses practical considerations for Muslim communities, such as scheduling multiple prayer times to accommodate logistics and parking issues, while emphasizing the importance of unity in religious practice.",
   "suggested_title": "Eid Prayer Rulings, Women's Participation, and Community Logistics",
-  "content_type": "Hadith",
-  "hadith_book": "Sunan Abu Dawud",
+  "content_type": "Mixed",
+  "hadith_book": "Other",
   "hadith_chapter": "Eid Prayer Regulations",
   "topic_tags": [
     "eid prayer",
@@ -1751,5 +1751,6 @@
     "prayer etiquette"
   ],
   "srt_status": "pending",
-  "catchy_title": "Women at Eid Prayer: What Islam Actually Says"
+  "catchy_title": "Women at Eid Prayer: What Islam Actually Says",
+  "manually_reviewed": true
 }

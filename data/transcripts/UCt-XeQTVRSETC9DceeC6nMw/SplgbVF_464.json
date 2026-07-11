@@ -2057,8 +2057,8 @@
   "time_slot": "Thursday-Isha",
   "summary": "This lecture analyzes Chapter 73, verses 10-14 of the Quran, focusing on Allah's instruction to the Prophet Muhammad to be patient with his enemies' words while boycotting their company in the best manner. The speaker explains that patience is not inaction but rather a calculated, deliberate action taken at the proper time. He emphasizes that while the Prophet prayed at night, his enemies plotted, but patience combined with wise avoidance was the superior strategy. The lecture also addresses the important distinction between boycotting enemies of Allah versus boycotting Muslim brothers, explaining that boycotting fellow Muslims is a serious sin comparable to murder.",
   "suggested_title": "Patience and Boycott: Understanding Quranic Wisdom in Dealing with Enemies - Surah Al-Muzzammil 73:10-14",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "patience",
@@ -2071,5 +2071,6 @@
     "emotional control"
   ],
   "srt_status": "pending",
-  "catchy_title": "Patience Isn't Weakness: Strategic Avoidance of Enemies"
+  "catchy_title": "Patience Isn't Weakness: Strategic Avoidance of Enemies",
+  "manually_reviewed": true
 }

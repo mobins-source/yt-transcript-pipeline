@@ -902,7 +902,7 @@
   "summary": "This lecture discusses a hadith from Riyadul Saliheen about Sa'd ibn Abi Waqqas, a wealthy Companion of the Prophet Muhammad. The speaker analyzes the hadith where Sa'd asks the Prophet about disposing of his wealth, and the Prophet responds that it is better to leave one's heirs wealthy than poor and begging from others. The lecture explores the linguistic nuances of the hadith text, including a narrator's uncertainty between two similar words (kathir vs kabir), which the speaker explains demonstrates the scrupulousness of hadith transmitters rather than weak memory. The speaker also addresses misinterpretations of the hadith's mention of feeding one's wife, rejecting modern romanticized interpretations and emphasizing the hadith's focus on Islamic worship and family provision.",
   "suggested_title": "Hadith on Wealth, Inheritance, and Providing for Family - Sa'd ibn Abi Waqqas",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "hadith analysis",
@@ -915,5 +915,6 @@
     "wealth management"
   ],
   "srt_status": "pending",
-  "catchy_title": "Leave Your Heirs Wealthy, Not Begging"
+  "catchy_title": "Leave Your Heirs Wealthy, Not Begging",
+  "manually_reviewed": true
 }

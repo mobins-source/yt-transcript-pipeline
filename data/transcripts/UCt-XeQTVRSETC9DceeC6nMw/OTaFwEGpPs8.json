@@ -1056,8 +1056,8 @@
   "time_slot": "Sunday-Isha",
   "summary": "This lecture explores verse 200 of Surat Ali Imran, which commands believers to be patient and practice ribat (spiritual readiness). The speaker explains that while ribat literally refers to military preparation, the Prophet Muhammad provided an alternative understanding through a hadith that reveals a deeper meaning. The Prophet taught that ribat also encompasses seemingly mundane acts of worship that accumulate to erase sins and elevate one's spiritual status, such as perfecting wudu despite discomfort, frequently visiting the masjid, and waiting between prayers. These overlooked deeds are presented as the means through which most people enter paradise, not through grand sacrifices but through consistent, habitual worship.",
   "suggested_title": "The Hidden Meaning of Ribat: How Mundane Acts of Worship Erase Sins and Elevate the Soul",
-  "content_type": "Mixed",
-  "hadith_book": "Sahih Bukhari",
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Hadith of Abu Hurairah regarding the erasure of sins through wudu, steps to the masjid, and waiting between prayers",
   "topic_tags": [
     "ribat",
@@ -1070,5 +1070,6 @@
     "quranic interpretation"
   ],
   "srt_status": "pending",
-  "catchy_title": "What Really Is Ribat? The Prophet's Surprising Answer"
+  "catchy_title": "What Really Is Ribat? The Prophet's Surprising Answer",
+  "manually_reviewed": true
 }

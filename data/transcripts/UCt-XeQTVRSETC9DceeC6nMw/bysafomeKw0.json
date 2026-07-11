@@ -836,7 +836,7 @@
   "summary": "This lecture discusses the virtues and etiquette of Friday (Jumu'ah) prayer based on Chapter 136 of Riyadul Saliheen by Imam An-Nawawi. The speaker explains the excellence of Friday as a day when Allah created Adam and introduced paradise, citing hadiths from Sahih Muslim narrated by Abu Hurairah. The primary focus is on the hadith about ritual purification (wudu), attending Jumu'ah, listening attentively, and maintaining silence during the prayer, which results in forgiveness of sins between two Fridays plus three additional days. The lecture emphasizes the Islamic definition of silence, which goes beyond mere verbal quietude to include abstaining from any communication, fidgeting, or distraction during the sermon and prayer.",
   "suggested_title": "The Virtues and Etiquette of Friday Prayer: Silence, Attentiveness, and Spiritual Rewards",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter 136 - On the Virtues of Friday and Its Requirements",
   "topic_tags": [
     "friday prayer",
@@ -849,5 +849,6 @@
     "ritual purity"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Friday Prayer Forgives Your Sins"
+  "catchy_title": "Why Friday Prayer Forgives Your Sins",
+  "manually_reviewed": true
 }

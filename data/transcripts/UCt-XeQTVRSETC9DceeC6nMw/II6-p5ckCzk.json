@@ -2293,8 +2293,8 @@
   "time_slot": "Wednesday-Isha",
   "summary": "This lecture discusses the story of Prophet Muhammad's first revelation from Allah, focusing on the physical and spiritual nature of receiving divine revelation. The speaker explains that revelation is a strenuous process with physiological effects, citing examples from hadith where companions witnessed the physical weight of revelation—such as the camel buckling under the weight when the Prophet received Surah Al-Ma'idah. The lecture details the preparation period of approximately six months of premonitions in sleep that preceded the first revelation, and describes the Prophet's practice of contemplation and solitude in the cave of Hira during Ramadan, where he would reflect on existence, purpose, and the truth of Allah's religion.",
   "suggested_title": "The Story of the Prophet's First Revelation: The Meeting with Angel Gabriel in the Cave of Hira",
-  "content_type": "Quran",
-  "hadith_book": "Other",
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "revelation",
@@ -2307,5 +2307,6 @@
     "sirah"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Revelation Physically Overwhelmed the Prophet"
+  "catchy_title": "Why Revelation Physically Overwhelmed the Prophet",
+  "manually_reviewed": true
 }

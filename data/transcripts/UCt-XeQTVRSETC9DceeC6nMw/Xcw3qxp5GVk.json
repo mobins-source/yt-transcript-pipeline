@@ -2404,7 +2404,7 @@
   "summary": "This lecture discusses the historical account of Thumamah ibn Uthal, a prominent chieftain of Banu Hanifa who was captured by Muslim forces in the sixth year after Hijrah. The speaker explains how the Prophet Muhammad strategically held Thumamah captive in the mosque at Medina for three days, allowing him to witness Islamic worship and the Quran recitation, which eventually led to his conversion to Islam. The narrative demonstrates the Prophet's wisdom in using circumstance and exposure to Islamic teachings to break through the propaganda Thumamah had absorbed against Islam.",
   "suggested_title": "The Story of Thumamah ibn Uthal: From Enemy to Muslim Champion",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Accounts of companions and military expeditions",
   "topic_tags": [
     "thumamah ibn uthal",
@@ -2416,5 +2416,6 @@
     "hijrah"
   ],
   "srt_status": "pending",
-  "catchy_title": "Enemy Commander Converted in Three Days"
+  "catchy_title": "Enemy Commander Converted in Three Days",
+  "manually_reviewed": true
 }

@@ -871,7 +871,7 @@
   "summary": "This lecture discusses a hadith involving Sa'd ibn Abi Waqqas during the Prophet Muhammad's Farewell Pilgrimage. Sa'd, a wealthy companion with only one daughter as heir, asked the Prophet about giving away two-thirds of his wealth in charity, leaving one-third for his daughter. The Prophet advised against this, suggesting one-third was sufficient charity while still providing for his heir. The speaker explains that Islamic teachings on charity and wealth are distinct from Western secular ideologies, emphasizing that one's wealth is ultimately a trust from Allah and that close relatives have priority in charity before general charitable giving.",
   "suggested_title": "Sa'd ibn Abi Waqqas and the Ruling on Charity During the Farewell Pilgrimage",
   "content_type": "Hadith",
-  "hadith_book": "Other",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "charity",
@@ -883,5 +883,6 @@
     "companions of the prophet"
   ],
   "srt_status": "pending",
-  "catchy_title": "How Much Charity Is Too Much?"
+  "catchy_title": "How Much Charity Is Too Much?",
+  "manually_reviewed": true
 }

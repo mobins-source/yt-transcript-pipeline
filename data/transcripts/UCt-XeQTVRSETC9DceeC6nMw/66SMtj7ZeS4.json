@@ -1093,7 +1093,7 @@
   "summary": "This lecture discusses Chapter 6 from Riyadul Saliheen, focusing on the essential role of Islamic knowledge in attaining virtue and closeness to Allah. The speaker explains that good intentions alone are insufficient without proper understanding of the Quran and Sunnah. The lecture then presents a hadith warning against the seductions of worldly life, particularly emphasizing the danger of romantic attraction to women. The speaker clarifies that this warning encompasses not just physical temptation but any romantic involvement that could lead a person away from their faith and obligations to Allah. He illustrates with examples of how women can be either a positive or negative influence on men's spiritual journey.",
   "suggested_title": "Knowledge as Foundation for Virtue and Warning Against Worldly Seductions - Chapter 6 of Riyadul Saliheen",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter 6",
   "topic_tags": [
     "knowledge",
@@ -1106,5 +1106,6 @@
     "islamic virtue"
   ],
   "srt_status": "pending",
-  "catchy_title": "Knowledge: The Foundation for True Virtue"
+  "catchy_title": "Knowledge: The Foundation for True Virtue",
+  "manually_reviewed": true
 }

@@ -1107,7 +1107,7 @@
   "summary": "This lecture discusses the beginning of revelation (Wahy) to Prophet Muhammad, focusing on the role of Khadijah and Waraqa ibn Nawfal in supporting the Prophet during the early revelations. The speaker explains the first revelation in the cave of Hira, where the Angel Gabriel appeared to the Prophet with the command 'Iqra' (Read). The lecture covers the period of intermission (Fatrah) in revelation, discussing scholarly opinions about its duration, and emphasizes how the Prophet would retreat to the cave of Hira for contemplation. The content includes detailed narrations from Sahih Bukhari and Sahih Muslim about the Prophet's experience when he received the Surah Al-Mudassir revelation.",
   "suggested_title": "The Beginning of Revelation: The First Verses Revealed to Prophet Muhammad",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Book of Revelation, Narrations about the First Revelation",
   "topic_tags": [
     "revelation",
@@ -1120,5 +1120,6 @@
     "first revelation"
   ],
   "srt_status": "pending",
-  "catchy_title": "The Night Revelation Changed Everything Forever"
+  "catchy_title": "The Night Revelation Changed Everything Forever",
+  "manually_reviewed": true
 }

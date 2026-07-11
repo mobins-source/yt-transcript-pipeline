@@ -1409,8 +1409,8 @@
   "time_slot": "Sunday-Isha",
   "summary": "This lecture discusses Surah Al-Muddathir's verses regarding Al-Walid ibn Al-Mughirah, one of the Prophet Muhammad's greatest adversaries in Mecca. The speaker details Al-Walid's extreme wealth, influence, and role in leading the Quraysh's persecution of Muslims, including the three-year boycott of Banu Hashim. The lecture explains how Al-Walid's rejection of Islam stemmed from jealousy—both of the Prophet's prophethood (which he felt he deserved more) and of Banu Hashim's prominence. Despite his many admirable qualities including wisdom, wealth, and abstinence from alcohol, Al-Walid's prideful nature and refusal to submit to God's will led to his spiritual downfall, with over 30 Quranic verses revealed addressing his arrogance.",
   "suggested_title": "Al-Walid ibn Al-Mughirah: The Wealthy Opponent of Prophet Muhammad - Tafsir Surah Al-Muddathir",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "quran tafsir",
@@ -1423,5 +1423,6 @@
     "wealth and ego"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why This Wealthy Arab Rejected Islam's Truth"
+  "catchy_title": "Why This Wealthy Arab Rejected Islam's Truth",
+  "manually_reviewed": true
 }

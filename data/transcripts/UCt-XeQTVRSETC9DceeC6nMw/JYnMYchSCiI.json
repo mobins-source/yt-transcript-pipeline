@@ -1506,7 +1506,7 @@
   "summary": "This transcript discusses a narration from Abu Bakr, a former slave who converted to Islam during the siege of Khaybar by grabbing onto a pulley (bakra) to descend from the fortress walls. The speaker explains the meaning of the kunya (Arabic nickname) 'Abu Bakr' derived from this incident, and clarifies the historical context of Arab slavery, which differed significantly from Western slavery. The narration was preserved and transmitted through Islamic scholarship, eventually being recorded in Sahih Muslim.",
   "suggested_title": "The Story of Abu Bakr: From Slavery to Companionship During the Siege of Khaybar",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Muslim",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "sahih muslim",
@@ -1518,5 +1518,6 @@
     "islamic history"
   ],
   "srt_status": "pending",
-  "catchy_title": "How a Slave Earned the Name Abu Bakr"
+  "catchy_title": "How a Slave Earned the Name Abu Bakr",
+  "manually_reviewed": true
 }

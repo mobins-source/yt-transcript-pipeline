@@ -649,8 +649,8 @@
   "time_slot": "Wednesday-Fajr",
   "summary": "This Islamic lecture discusses the concept of patience (sabr) and forgiveness in Islam, centered around the Quranic verse 'Indeed, those who are patient will be given their reward without account' (Quran 39:10). The speaker references various chapters of the Quran including Surah Az-Zumar, Surah Al-Kursi, and other important Surahs. The lecture emphasizes that patience is essential for completing one's religious journey and that only the patient will receive their full reward on the Day of Judgment without any reduction or measure. The speaker also discusses the interpretation of 'without account' (bighair hisaab) as explained by classical Islamic scholars like Al-Hasan Al-Basri.",
   "suggested_title": "The Virtue of Patience and Forgiveness in Islam - Tafsir of Surah Az-Zumar Verse 10",
-  "content_type": "Quran",
-  "hadith_book": "Riyadul Saliheen",
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "patience",
@@ -663,5 +663,6 @@
     "perseverance"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why the Patient Receive Limitless Rewards"
+  "catchy_title": "Why the Patient Receive Limitless Rewards",
+  "manually_reviewed": true
 }

@@ -656,7 +656,7 @@
   "summary": "This lecture discusses a hadith from Riyadul Saliheen about repentance, narrated by Abu Said al-Khudri. The hadith tells the story of a man who murdered 99 people and sought guidance on how to repent. When he consulted a monk (who lacked true knowledge), he was incorrectly told there was no chance for repentance. The speaker emphasizes that this monk's ignorance led him to despair, demonstrating how lack of knowledge can result in grave spiritual harm. The lecture highlights the importance of seeking knowledge from true scholars ('ulama) rather than those who merely appear pious, and illustrates how ignorance is the root cause of human corruption and misery.",
   "suggested_title": "The Story of Repentance: The Danger of Ignorance and the Importance of True Scholars",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Repentance (Babu al-Tawbah)",
   "topic_tags": [
     "repentance",
@@ -669,5 +669,6 @@
     "abu said al-khudri"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why This Murderer Despaired: False Guidance"
+  "catchy_title": "Why This Murderer Despaired: False Guidance",
+  "manually_reviewed": true
 }

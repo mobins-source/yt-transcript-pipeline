@@ -1059,7 +1059,7 @@
   "suggested_title": "The Sunnah of Prayer After Wudu: Achieving Focus and Forgiveness",
   "catchy_title": "Can you pray two rak'ahs without distraction?",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Book of Wudu",
   "topic_tags": [
     "wudu",
@@ -1071,5 +1071,6 @@
     "sunnah",
     "forgiveness"
   ],
-  "srt_status": "pending"
+  "srt_status": "pending",
+  "manually_reviewed": true
 }

@@ -1590,7 +1590,7 @@
   "summary": "This lecture from Sahih Bukhari's Book of Fasting discusses the eight days or times when a person is prohibited from fasting according to Islamic law. The speaker lists six prohibited fasting occasions: Fridays alone, the days of Tashriq (11th-13th of Dhul-Hijjah), the two Eids, Saturdays alone, the second half of Sha'ban (for those without a scheduled fast), and Yawm ash-Shakk (the doubtful day before Ramadan). The lecture then elaborates on the seventh and eighth prohibitions, with the eighth being Sawm ad-Dahr (fasting every single day of the year), which is explicitly forbidden. The speaker explains through the hadith of Abdullah ibn Amr that fasting continuously throughout the year is not permissible, even with good intentions, as it contradicts the Sunnah and removes the meaningful contrast that makes fasting spiritually beneficial.",
   "suggested_title": "The Prohibited Times of Fasting: Understanding Sawm ad-Dahr and Islamic Fasting Regulations",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Book of Fasting (Kitab al-Sawm)",
   "topic_tags": [
     "fasting",
@@ -1603,5 +1603,6 @@
     "worship"
   ],
   "srt_status": "pending",
-  "catchy_title": "Eight Times You Cannot Fast in Islam"
+  "catchy_title": "Eight Times You Cannot Fast in Islam",
+  "manually_reviewed": true
 }

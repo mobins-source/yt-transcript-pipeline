@@ -510,7 +510,7 @@
   "summary": "This lecture discusses the Islamic concept of repentance (Tawbah) and its conditions according to Islamic jurisprudence, particularly referencing Al-Nawawi's teachings from Riyadul Saliheen. The speaker explains that repentance from sins between a servant and Allah requires three conditions: abandoning the sin, feeling remorse, and resolving never to return to it. When a sin involves another person's rights, four conditions apply: the three aforementioned conditions plus making restitution or seeking forgiveness from the wronged party. The speaker details specific cases including returning stolen property, restoring someone's reputation through slander or backbiting, and the need for sincere repentance. The lecture emphasizes that complete repentance from all sins is obligatory, though partial repentance is accepted for the sins one repents from while remaining responsible for others.",
   "suggested_title": "The Conditions of Sincere Repentance (Tawbah) in Islam",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Repentance and Seeking Forgiveness",
   "topic_tags": [
     "repentance",
@@ -523,5 +523,6 @@
     "sincerity in worship"
   ],
   "srt_status": "pending",
-  "catchy_title": "Three Steps to Real Repentance from Allah"
+  "catchy_title": "Three Steps to Real Repentance from Allah",
+  "manually_reviewed": true
 }

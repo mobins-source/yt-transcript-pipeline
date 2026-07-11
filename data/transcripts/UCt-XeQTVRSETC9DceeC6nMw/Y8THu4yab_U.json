@@ -3142,7 +3142,7 @@
   "summary": "A comprehensive lecture on Al-Masih ad-Dajjal (the Antichrist) as the greatest threat to humanity. The speaker discusses prophetic warnings from the Quran and Hadith about the Dajjal's emergence, emphasizing that all prophets warned their people about this figure. Two key signs of the Dajjal's imminent emergence are highlighted: first, when he is no longer warned about on the minbar (pulpit), and second, when positions of authority are filled by unqualified individuals who lack integrity and trustworthiness. The speaker connects these signs to contemporary society, arguing that the loss of trust (amanah) in leadership across all sectors—political, educational, medical, and legal—indicates we may be living in the time preceding the Dajjal's emergence.",
   "suggested_title": "Signs of the Emergence of Al-Masih ad-Dajjal: Loss of Trust and Unqualified Leadership",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Chapter on the Hour (Resurrection) and Signs of the Day of Judgment",
   "topic_tags": [
     "dajjal",
@@ -3155,5 +3155,6 @@
     "islamic teachings"
   ],
   "srt_status": "pending",
-  "catchy_title": "Humanity's Greatest Threat: Are We Ready?"
+  "catchy_title": "Humanity's Greatest Threat: Are We Ready?",
+  "manually_reviewed": true
 }

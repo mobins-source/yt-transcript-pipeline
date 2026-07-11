@@ -2472,8 +2472,8 @@
   "time_slot": "Thursday-Fajr",
   "summary": "This lecture discusses the methodology of studying hadith narrators and their biographies, using the companions of Prophet Muhammad as examples. The instructor explains the importance of understanding the timeline and context of the companions' lives to properly comprehend hadith narrations. A significant portion focuses on Mu'adh ibn Jabal, highlighting his exceptional merit as the most knowledgeable companion regarding halal and haram (lawful and unlawful matters), despite his young age at death in 18 AH. The lecture also introduces the Islamic concept of two types of virtue: general merit (superiority in all aspects) and specific merit (excellence in particular areas), using examples from the prophets and companions to illustrate this distinction.",
   "suggested_title": "Understanding Hadith Narrators: The Biography and Merits of Mu'adh ibn Jabal and the Concept of General vs. Specific Virtue",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "hadith methodology",
@@ -2486,5 +2486,6 @@
     "narrator authenticity"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Mu'adh ibn Jabal Was Knowledge's Greatest Expert"
+  "catchy_title": "Why Mu'adh ibn Jabal Was Knowledge's Greatest Expert",
+  "manually_reviewed": true
 }

@@ -1957,7 +1957,7 @@
   "summary": "This lecture discusses the life, character, and scholarly contributions of Abdullah ibn Abbas, a prominent companion of the Prophet Muhammad. The speaker details ibn Abbas's early life, his relationship to the Prophet, and his exceptional status as a scholar of Islamic sciences, particularly Quranic exegesis (tafsir). The lecture covers ibn Abbas's role in resolving religious disputes, his methodology for seeking knowledge through careful questioning, and his legacy in establishing a school of Islamic thought. Key anecdotes illustrate his dedication to learning, including his practice of waiting at the doors of elder companions and spending an entire year refining a single question to ask Caliph Umar.",
   "suggested_title": "The Life and Legacy of Abdullah ibn Abbas: The Prophet's Young Companion and Supreme Quranic Scholar",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter 5 - The Chapter of Vigilance of Allah's Observation (Narration 62)",
   "topic_tags": [
     "abdullah ibn abbas",
@@ -1970,5 +1970,6 @@
     "scholarly methodology"
   ],
   "srt_status": "pending",
-  "catchy_title": "The Scholar Who Waited at Doors for Knowledge"
+  "catchy_title": "The Scholar Who Waited at Doors for Knowledge",
+  "manually_reviewed": true
 }

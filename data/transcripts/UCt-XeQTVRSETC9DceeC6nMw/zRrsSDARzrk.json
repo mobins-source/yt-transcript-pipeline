@@ -1289,7 +1289,7 @@
   "summary": "This lecture covers Chapter 2 of Al-Wajiz (a fiqh book based on Quran and Sunnah), which details the types of najasa (filth/impurities) that invalidate prayer. The instructor enumerates seven categories of najasa: human urine and feces, al-wady and al-madhy (urological fluids), feces of animals forbidden to eat, menstrual and postpartum blood, and dog saliva. The lecture emphasizes that najasa is specifically defined as substances that compromise prayer validity according to Islamic sources, distinguishing it from general uncleanliness. A detailed discussion of dog saliva is provided, citing a hadith from Sahih Muslim about the requirement to wash vessels touched by dogs seven times, with the first washing using dirt, establishing it as a heightened level of najasa requiring specific purification methods.",
   "suggested_title": "Al-Wajiz Fiqh Lecture: Types of Najasa (Ritual Impurities) and Purification Requirements",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Muslim",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Purification and Najasa",
   "topic_tags": [
     "najasa",
@@ -1302,5 +1302,6 @@
     "al-wajiz"
   ],
   "srt_status": "pending",
-  "catchy_title": "Seven Types of Najasa: What Invalidates Prayer?"
+  "catchy_title": "Seven Types of Najasa: What Invalidates Prayer?",
+  "manually_reviewed": true
 }

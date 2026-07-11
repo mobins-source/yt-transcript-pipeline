@@ -1701,8 +1701,8 @@
   "time_slot": "Wednesday-Isha",
   "summary": "This lecture provides a detailed Quranic exegesis of the opening verses of Surah Al-Muddaththir, specifically addressing the six commands Allah gave to Prophet Muhammad. The speaker explains the literal and metaphorical meanings of key phrases such as \"O you who is swaddled in clothing\" and \"stand and warn,\" connecting them to the Prophet's initial experience with revelation and the Arabic linguistic context. The lecture emphasizes how these verses establish the foundational responsibilities and priorities for those called to convey Allah's message, including the need to emerge from comfort zones and the importance of moral purification in both physical and spiritual aspects.",
   "suggested_title": "Tafsir of Surah Al-Muddaththir: The Six Divine Commands to the Prophet",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "quran exegesis",
@@ -1715,5 +1715,6 @@
     "tafsir"
   ],
   "srt_status": "pending",
-  "catchy_title": "Six Commands Allah Gave the Prophet"
+  "catchy_title": "Six Commands Allah Gave the Prophet",
+  "manually_reviewed": true
 }

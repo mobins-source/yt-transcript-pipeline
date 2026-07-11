@@ -1891,8 +1891,8 @@
   "time_slot": "Friday-Isha",
   "summary": "This lecture discusses the story of Prophet Muhammad's first revelation from Allah, specifically examining the methods and circumstances of how the Quran was revealed to him. The speaker clarifies authentic Islamic knowledge by addressing misconceptions, such as whether the Quran was revealed during sleep (it was not) and whether angels other than Gabriel brought verses (only Gabriel brought the actual Quranic verses). The lecture emphasizes the importance of relying on authentic sources of knowledge and avoiding unverified or fabricated narrations that circulate online and in unreliable books.\n\nA significant portion focuses on why Gabriel physically squeezed the Prophet during their first encounter, which the speaker explains was crucial to eliminate any doubt about whether the revelation was real or merely a hallucination. The speaker references scholarly explanations about why it was more necessary for the Prophet to see Gabriel than to see Allah, and emphasizes that believing in the Prophet's encounter with Gabriel is a fundamental Islamic belief. The lecture concludes with a preview of continuing Surah Al-Alaq in the next session.",
   "suggested_title": "The Prophet's First Revelation: Methods of Revelation and Gabriel's Role",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "revelation",
@@ -1905,5 +1905,6 @@
     "quranic authenticity"
   ],
   "srt_status": "pending",
-  "catchy_title": "How Did Allah Reveal the Quran to Muhammad?"
+  "catchy_title": "How Did Allah Reveal the Quran to Muhammad?",
+  "manually_reviewed": true
 }

@@ -1956,8 +1956,8 @@
   "time_slot": "Wednesday-Isha",
   "summary": "This lecture analyzes Quran chapter 73, verses 8-10, focusing on the command to remember Allah's name and dedicate oneself to Him. The speaker discusses the proper etiquette of Quranic recitation, explaining the distinction between formal Quranic recitation (where Basmala rules apply) and merely mentioning Quranic verses in speech or teaching. A significant portion addresses the term 'cutting yourself off to Him' and clarifies that Islam explicitly rejects celibacy and monasticism, which are innovations not prescribed by Allah. The speaker emphasizes that marriage is integral to Islamic practice and faith, citing prophetic traditions against celibacy.",
   "suggested_title": "Tafsir Surah Al-Muzzammil 73:8-10 - Remembrance of Allah, Quranic Recitation Rules, and the Rejection of Celibacy in Islam",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "tafsir",
@@ -1970,5 +1970,6 @@
     "islamic jurisprudence"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Islam Forbids Celibacy and Monasticism"
+  "catchy_title": "Why Islam Forbids Celibacy and Monasticism",
+  "manually_reviewed": true
 }

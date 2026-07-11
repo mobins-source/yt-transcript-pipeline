@@ -1073,7 +1073,7 @@
   "summary": "This Islamic lecture discusses the Islamic jurisprudential concept of purification (taharah) as a prerequisite for valid prayer (salah). The speaker explains the distinction between major and minor states of impurity (hadath), clarifying that major impurity requires ghusl (full ablution/bathing) while minor impurity requires wudu (partial ablution). The lecture covers the technical Islamic definitions of these terms and emphasizes that purification can be achieved either with water or with tayammum (dry ablution using earth particles) when water is unavailable. The speaker references a hadith from Sahih Muslim attributed to Ibn Umar, in which the Prophet Muhammad states that no prayer is accepted without purification, and elaborates on the specific conditions and alternatives for achieving this state of ritual purity.",
   "suggested_title": "Islamic Purification (Taharah): States of Impurity and Requirements for Valid Prayer",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Muslim",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "purification",
@@ -1086,5 +1086,6 @@
     "islamic jurisprudence"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Your Prayer Needs Purification First"
+  "catchy_title": "Why Your Prayer Needs Purification First",
+  "manually_reviewed": true
 }

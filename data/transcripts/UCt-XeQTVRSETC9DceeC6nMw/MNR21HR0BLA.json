@@ -609,8 +609,8 @@
   "time_slot": "Tuesday-Fajr",
   "summary": "This lecture discusses the concept of 'Al-Muraqaba' (God's watchfulness and divine observation) in Islamic theology. The speaker emphasizes that Allah is always aware of all actions, thoughts, and intentions of His creation, referencing multiple Quranic verses including Surah Al-Aaraf (26:18), Surah Al-Imran (3:29), and Surah Al-Fajr (89:14). The content explores the names and attributes of Allah as 'Ar-Raqib' (The Watchful One) and explains how believers should cultivate consciousness of Allah's omniscience in their daily lives, including even the subtlest of intentions and actions.",
   "suggested_title": "Understanding Al-Muraqaba: Divine Watchfulness and God's Constant Awareness",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "god's attributes",
@@ -623,5 +623,6 @@
     "quranic verses"
   ],
   "srt_status": "pending",
-  "catchy_title": "Allah Sees Every Action, Every Intention"
+  "catchy_title": "Allah Sees Every Action, Every Intention",
+  "manually_reviewed": true
 }

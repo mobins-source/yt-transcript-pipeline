@@ -867,7 +867,7 @@
   "summary": "This lecture discusses a hadith from Riyadul Saliheen regarding oaths and the principle of taqwa (reverence of Allah). The speaker explains that when a person swears an oath but later discovers that breaking the oath and pursuing a different action is closer to taqwa and obedience to Allah, they should break the oath and pursue the righteous action instead. The narration is illustrated through the historical context of the Battle of Tabuk, where the Prophet Muhammad initially swore not to take poor companions on the expedition due to lack of resources, but later broke this oath when additional supplies became available, allowing them to join. The speaker clarifies that while breaking an oath for a greater good is permissible, the person must still perform kaffarah (expiation) for breaking the oath, which involves feeding or clothing ten poor people, freeing a slave, or fasting for three days.",
   "suggested_title": "Breaking an Oath for Greater Taqwa: The Principle of Choosing Righteousness Over Oaths",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter of Reverence of Allah",
   "topic_tags": [
     "oaths",
@@ -880,5 +880,6 @@
     "companions"
   ],
   "srt_status": "pending",
-  "catchy_title": "When Breaking Your Oath Brings You Closer to Allah"
+  "catchy_title": "When Breaking Your Oath Brings You Closer to Allah",
+  "manually_reviewed": true
 }

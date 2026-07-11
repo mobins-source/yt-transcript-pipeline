@@ -1847,7 +1847,7 @@
   "summary": "This lecture discusses the methodology of using hadith as evidence in Islamic scholarship, specifically examining why scholars choose certain narrations over others when writing Islamic texts. The speaker analyzes the famous hadith of Ihsan (excellence in worship) from the chapter on Taqwa (consciousness of Allah), comparing the version narrated by Omar (in Sahih Muslim) with the version narrated by Abu Hurayra (in both Sahih Bukhari and Muslim). Despite the Bukhari and Muslim version having higher authenticity grading, scholars traditionally use Omar's version because it is more detailed and comprehensive. The lecture explains key principles in hadith science including chain of transmission (isnad), narrator reliability, and the balance between authenticity levels and narrative completeness.",
   "suggested_title": "Hadith Methodology: Why Scholars Choose the Omar Narration Over the Abu Hurayra Narration of Ihsan",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Muslim",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter of Taqwa (Vigilance and Consciousness of Allah)",
   "topic_tags": [
     "hadith methodology",
@@ -1860,5 +1860,6 @@
     "islamic scholarship"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Scholars Prefer Omar's Ihsan Narration"
+  "catchy_title": "Why Scholars Prefer Omar's Ihsan Narration",
+  "manually_reviewed": true
 }

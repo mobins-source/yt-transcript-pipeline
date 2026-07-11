@@ -551,7 +551,7 @@
   "summary": "This lecture discusses hadith narrations about repentance and its acceptance by Allah. The speaker references multiple narrations from Sahih Muslim regarding Allah's extended opportunity for repentance day and night until the sun rises from the west, and emphasizes that repentance is accepted until the moment of death (when the soul is being extracted from the body). The lecture also provides educational context about how prominent companions like Ibn Masud, Ibn Omar, and Ibn Abbas are identified in hadith collections, noting they are among the most prolific narrators of the Prophet's traditions.",
   "suggested_title": "The Acceptance of Repentance: Hadith on Divine Mercy and the Point of No Return",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Muslim",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Repentance (Tawbah)",
   "topic_tags": [
     "repentance",
@@ -564,5 +564,6 @@
     "ibn masud"
   ],
   "srt_status": "pending",
-  "catchy_title": "Allah's Hand Extended Until the Sun Rises West"
+  "catchy_title": "Allah's Hand Extended Until the Sun Rises West",
+  "manually_reviewed": true
 }

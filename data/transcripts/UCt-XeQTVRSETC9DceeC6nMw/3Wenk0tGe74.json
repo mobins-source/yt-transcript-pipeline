@@ -722,7 +722,7 @@
   "summary": "This lecture from Sahih Muslim discusses a hadith narrated by Abdullah ibn Mas'ud about the Prophet Muhammad reciting Surah At-Takathur (Chapter 102) during prayer. The speaker explains how the Prophet wept deeply while reciting verses about how the competition for worldly wealth and accumulation distracts people from remembering death. The Prophet emphasized that humans are preoccupied with possessing more wealth and possessions, constantly saying \"my money, my property, mine.\" The discourse focuses on the transient nature of worldly possessions and what truly belongs to a person in the eternal sense.",
   "suggested_title": "The Distraction of Worldly Wealth: Commentary on Surah At-Takathur from Sahih Muslim",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Muslim",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Related to Surah At-Takathur (Chapter 102)",
   "topic_tags": [
     "hadith",
@@ -735,5 +735,6 @@
     "islamic values"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why the Prophet Wept Over Wealth"
+  "catchy_title": "Why the Prophet Wept Over Wealth",
+  "manually_reviewed": true
 }

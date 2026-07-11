@@ -1375,7 +1375,7 @@
   "summary": "This lecture discusses a hadith about the definitions of Islam and Iman (faith) through the famous narration where a man asks the Prophet Muhammad about Islam, Iman, and Ihsan. The speaker explains that Islam refers to outward actions (prayer, fasting, zakat, hajj, and shahada), while Iman refers to inward beliefs (belief in Allah, angels, books, messengers, the Last Day, and divine decree). The key teaching is that these terms, when mentioned together in the Quran and Sunnah, have distinct meanings, but when mentioned separately, they converge and entail one another. The lecture emphasizes the importance of understanding Quranic word pairs and their contextual meanings to avoid misinterpretation.",
   "suggested_title": "Understanding Islam and Iman: The Distinction Between Outward Actions and Inward Belief",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Muslim",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on the explanation of Islam, Iman, and Ihsan",
   "topic_tags": [
     "islam",
@@ -1388,5 +1388,6 @@
     "spiritual development"
   ],
   "srt_status": "pending",
-  "catchy_title": "Islam vs. Iman: What's the Real Difference?"
+  "catchy_title": "Islam vs. Iman: What's the Real Difference?",
+  "manually_reviewed": true
 }

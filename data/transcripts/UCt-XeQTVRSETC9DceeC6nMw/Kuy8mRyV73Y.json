@@ -1906,8 +1906,8 @@
   "time_slot": "Thursday-Isha",
   "summary": "This lecture provides a detailed Quranic exegesis (tafsir) of Surah Al-Qalam (Chapter 68), specifically verses 5-9. The speaker discusses Allah's affirmation of Prophet Muhammad's sanity against the disbelievers' accusations, and explains the concept of 'fitna' (trial/tribulation) as a means to reveal one's true character. The lecture emphasizes the importance of not obeying disbelievers in matters of guidance, faith, and morality, while contextualizing this instruction to allow cooperation in practical matters. A significant portion focuses on the Islamic principle of not compromising the truth ('mudate') for the sake of pleasing others, using historical examples of the Quraysh's attempts to negotiate with the Prophet and his steadfast refusal.",
   "suggested_title": "Tafsir of Surah Al-Qalam (68): Verses 5-9 - Truth, Compromise, and Steadfastness",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "quran",
@@ -1920,5 +1920,6 @@
     "spiritual trials"
   ],
   "srt_status": "pending",
-  "catchy_title": "Will Truth Always Win? What the Quraysh Never Understood"
+  "catchy_title": "Will Truth Always Win? What the Quraysh Never Understood",
+  "manually_reviewed": true
 }

@@ -2579,8 +2579,8 @@
   "time_slot": "Wednesday-Fajr",
   "summary": "A speaker from the Muslim Community Center of Tucson delivers an extended sermon emphasizing the importance of attending Fajr prayer, particularly for young men. Drawing from personal experiences growing up in Palestine and references to oppression of Muslims in various countries (Egypt, Syria, Libya, Bangladesh), the speaker contrasts the religious freedoms available in America with the persecution Muslims faced elsewhere. He argues that consistent Fajr attendance builds character and discipline in youth, citing the example of Umar ibn Abd al-Aziz as a historical model of proper Islamic upbringing and priorities. The sermon calls on community members to recruit neighbors and family members to attend Fajr prayer regularly as a means of strengthening the Muslim community.",
   "suggested_title": "The Importance of Fajr Prayer and Building Character in Youth",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "fajr prayer",
@@ -2593,5 +2593,6 @@
     "religious freedom"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Fajr Prayer Builds Strong Muslim Youth"
+  "catchy_title": "Why Fajr Prayer Builds Strong Muslim Youth",
+  "manually_reviewed": true
 }

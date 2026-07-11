@@ -2323,8 +2323,8 @@
   "time_slot": "Sunday-Isha",
   "summary": "This lecture analyzes the first four verses of Surah Al-Qalam (Chapter 68) of the Quran, focusing on Allah's defense of Prophet Muhammad against accusations of madness. The speaker explains how Allah uses multiple emphatic devices (oaths by the pen, particles of emphasis) to affirm the Prophet's intelligence, vast reward, and excellent character. The core message addresses how society often confuses righteousness with weakness, viewing patient, forgiving, and moral individuals as unintelligent, while glorifying cunning and deception. The speaker provides cultural context through animal metaphors and hadith examples to demonstrate that the Prophet's patience, mercy, and restraint were manifestations of strength and superior intellect, not weakness.",
   "suggested_title": "Surah Al-Qalam (68:1-4) - Allah's Defense of the Prophet's Character and Intelligence Against Society's Mockery",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "surah al-qalam",
@@ -2337,5 +2337,6 @@
     "social commentary"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Society Mistook the Prophet's Mercy for Madness"
+  "catchy_title": "Why Society Mistook the Prophet's Mercy for Madness",
+  "manually_reviewed": true
 }

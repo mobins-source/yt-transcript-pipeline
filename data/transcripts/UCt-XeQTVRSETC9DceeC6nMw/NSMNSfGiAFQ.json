@@ -2048,7 +2048,7 @@
   "summary": "This lecture discusses the virtues of fasting in Islam, drawing from Al-Wajeez, a simplified abridgment of a classical Islamic jurisprudence work. The speaker explains why fasting holds a unique place among Islamic obligations, emphasizing that it is an act of worship performed purely for Allah since only the individual and Allah know whether someone is truly fasting. A key hadith qudsi is presented where Allah states that fasting is exclusively for Him and that He personally rewards those who fast. The speaker elaborates on how fasting serves as a means of drawing near to Allah and purifying the soul from sin, contrasting it with other acts of worship that can potentially be performed for worldly recognition.",
   "suggested_title": "The Virtues of Fasting: A Hadith-Based Lecture on the Special Status of Fasting in Islam",
   "content_type": "Hadith",
-  "hadith_book": "Al-Wajeez",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Chapter on Fasting (Kitab al-Sawm)",
   "topic_tags": [
     "fasting",
@@ -2061,5 +2061,6 @@
     "niyyah"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Allah Exclusively Rewards Those Who Fast"
+  "catchy_title": "Why Allah Exclusively Rewards Those Who Fast",
+  "manually_reviewed": true
 }

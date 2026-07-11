@@ -1552,7 +1552,7 @@
   "suggested_title": "The Correct Method of Wudoo According to the Sunnah: Clarifying Common Misconceptions",
   "catchy_title": "What's Actually Required in Wudoo?",
   "content_type": "Hadith",
-  "hadith_book": null,
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "wudoo",
@@ -1564,5 +1564,6 @@
     "quran",
     "misconceptions"
   ],
-  "srt_status": "pending"
+  "srt_status": "pending",
+  "manually_reviewed": true
 }

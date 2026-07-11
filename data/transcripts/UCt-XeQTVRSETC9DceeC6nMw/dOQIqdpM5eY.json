@@ -853,7 +853,7 @@
   "summary": "This lecture discusses an authentic hadith collected by both Sahih Bukhari and Sahih Muslim about one of the Israelite prophets (identified by scholars as Yahya) preparing his people for battle. The prophet establishes strict criteria for participation, excluding those with undisclosed worldly commitments: newly married men awaiting consummation, those engaged in incomplete building projects, and those with livestock during breeding season. The core message emphasizes truthfulness and sincerity—the requirement that one's heart, intentions, and external actions must be aligned. The prophet wanted only fully committed warriors whose hearts were already on the battlefield, not those whose bodies came while their hearts remained at home. This hadith illustrates the principle that true soldiers of faith must be completely devoted, unlike those who merely give their bodies while their true interests lie elsewhere.",
   "suggested_title": "Truthfulness and Sincerity in Commitment: The Prophet's Battle Preparation",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Truthfulness and Sincerity",
   "topic_tags": [
     "hadith",
@@ -866,5 +866,6 @@
     "prophet stories"
   ],
   "srt_status": "pending",
-  "catchy_title": "Your Body Goes But Your Heart Stays Home"
+  "catchy_title": "Your Body Goes But Your Heart Stays Home",
+  "manually_reviewed": true
 }

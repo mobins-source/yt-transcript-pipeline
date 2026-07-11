@@ -1730,8 +1730,8 @@
   "time_slot": "Friday-Isha",
   "summary": "This lecture analyzes Chapter 73 of the Quran, focusing on verses addressing the Prophet Muhammad's relationship with Allah and how to handle opposition from enemies. The speaker emphasizes that the central theme is prayer and connection to Allah, instructing the Prophet to stand in night prayer and recite the Quran methodically while being patient with those who oppose him. The lecture discusses the concept of \"beautiful boycotting\" - maintaining distance from enemies with dignity and poise rather than through spreading rumors or harboring bitterness. The speaker explains that patience is not passivity but rather the foundation of all wise action, and that while falsehood may occasionally gain temporary victories, truth and righteousness will ultimately prevail. The lecture also contextualizes the Prophet's courage in facing a violent, idol-worshipping society alone, emphasizing that courage and virtue are learnable traits that can be developed through trust in Allah.",
   "suggested_title": "Chapter 73 Quran: Patience, Prayer, and Dealing with Enemies - Tafsir Lecture",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "quran chapter 73",
@@ -1744,5 +1744,6 @@
     "islamic character"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Prayer Matters When Facing Enemies"
+  "catchy_title": "Why Prayer Matters When Facing Enemies",
+  "manually_reviewed": true
 }

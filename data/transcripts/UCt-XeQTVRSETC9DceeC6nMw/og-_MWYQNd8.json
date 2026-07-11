@@ -2576,7 +2576,7 @@
   "summary": "This is a detailed Islamic jurisprudence lecture on the pillars of fasting in Islam, specifically focusing on the six things that break a fast. The instructor discusses the first two pillars of fasting: intention and refraining from things that invalidate the fast. The lecture provides an in-depth analysis of what constitutes \"eating and drinking\" according to Islamic law, explaining that anything intentionally swallowed that passes through the throat breaks a fast, whether it is food, drink, medicine, or smoke. The instructor covers practical applications including nasal sprays, eye drops, kohl (antimony), inhalers, and other substances, using both Quranic principles and prophetic traditions (Sunnah) to establish rulings.",
   "suggested_title": "Islamic Jurisprudence on the Pillars of Fasting: Eating, Drinking, and What Breaks the Fast",
   "content_type": "Hadith",
-  "hadith_book": "Other",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on the Pillars of Fasting",
   "topic_tags": [
     "fasting",
@@ -2589,5 +2589,6 @@
     "halal and haram"
   ],
   "srt_status": "pending",
-  "catchy_title": "Six Things That Break Your Fast"
+  "catchy_title": "Six Things That Break Your Fast",
+  "manually_reviewed": true
 }

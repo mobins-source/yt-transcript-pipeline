@@ -1761,8 +1761,8 @@
   "time_slot": "Thursday-Isha",
   "summary": "This lecture discusses the second chapter of the Quran (Surah Al-Abasa) and provides detailed Islamic theological teachings about the Day of Judgment, specifically focusing on the blowing of the Horn (Sur) by the angel Israfil. The speaker explains the different phases of the Horn's blows, the events that will precede the Day of Judgment including the decline of Islam on earth, the sun rising from the west, and the emergence of a miraculous animal. The lecture describes the sequence of apocalyptic events, the state of humanity at the end times, and the resurrection of people for divine judgment. The speaker also clarifies scholarly differences regarding whether there are two or three blows of the Horn and addresses the 40-day period of silence between the first and second blows.",
   "suggested_title": "The Day of Judgment: The Blowing of the Horn and End Times Events",
-  "content_type": "Quran",
-  "hadith_book": "Sahih Muslim",
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Kitab Al-Fitan (Book of Trials/Tribulations) and related eschatological chapters",
   "topic_tags": [
     "day of judgment",
@@ -1775,5 +1775,6 @@
     "islamic theology"
   ],
   "srt_status": "pending",
-  "catchy_title": "When the Horn Blows: What Happens Next?"
+  "catchy_title": "When the Horn Blows: What Happens Next?",
+  "manually_reviewed": true
 }

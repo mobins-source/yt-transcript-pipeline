@@ -1360,7 +1360,7 @@
   "summary": "This lecture analyzes a hadith from Sahih Bukhari and Sahih Muslim regarding sales transactions and truthfulness in business dealings. The instructor explains the ruling that buyer and seller have the option to reverse a sale as long as they remain in each other's company, and how this principle applies to different types of transactions based on their nature and market customs. The core teaching emphasizes that transparency and honesty in transactions bring blessing (baraka) from Allah, while concealment and lies remove blessing from business dealings.\n\nThe discussion connects this hadith to the broader Islamic principle that Muslims must be truthful and transparent in their commercial interactions. Examples are provided showing how sellers must disclose defects and market values, and how buyers must pay fair prices. The instructor contrasts Islamic business ethics with capitalist practices that exploit vulnerable customers through monopolies and price gouging, emphasizing that Islam prohibits such abusive behaviors whether by merchants or customers.",
   "suggested_title": "Truthfulness and Honesty in Business Transactions: Hadith on Sales and Baraka",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter of Truth and Truthfulness",
   "topic_tags": [
     "sales transactions",
@@ -1373,5 +1373,6 @@
     "hadith"
   ],
   "srt_status": "pending",
-  "catchy_title": "Does Your Business Have Allah's Blessing?"
+  "catchy_title": "Does Your Business Have Allah's Blessing?",
+  "manually_reviewed": true
 }

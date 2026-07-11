@@ -1303,8 +1303,8 @@
   "time_slot": "Tuesday-Fajr",
   "summary": "This lecture discusses the methodology of hadith compilation and chapter organization in classical Islamic texts. The speaker explains how different hadith scholars, such as Al-Bukhari and Ibn Hibban, organize their collections differently based on their goals. Some scholars, like Al-Bukhari, deliberately place narrations in unexpected chapters to draw attention to overlooked themes, while others like An-Nawawi in Riyadul Saliheen prioritize accessibility for general readers. The speaker also provides a Quranic example from Surah Al-Baqarah about the cow, illustrating how narrative order can be adjusted to emphasize particular themes without diminishing others.",
   "suggested_title": "Hadith Organization Methods: From Al-Bukhari to Riyadul Saliheen",
-  "content_type": "Mixed",
-  "hadith_book": "Riyadul Saliheen",
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter of Repentance (final narration)",
   "topic_tags": [
     "hadith methodology",
@@ -1317,5 +1317,6 @@
     "islamic scholarship"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Al-Bukhari Placed Hadiths in Surprising Chapters"
+  "catchy_title": "Why Al-Bukhari Placed Hadiths in Surprising Chapters",
+  "manually_reviewed": true
 }

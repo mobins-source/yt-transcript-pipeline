@@ -1053,7 +1053,7 @@
   "summary": "This lecture continues the discussion of Islamic etiquette regarding personal hygiene after using the restroom, specifically from a hadith-based Islamic jurisprudence text. The speaker explains the permissibility of using water or dry materials (stones) for cleaning, with the minimum requirement being three stones. The lecture covers prophetic prohibitions against using animal droppings and bones for this purpose, with detailed explanation of the Islamic reasoning: these materials are considered food for jinn and their animals according to Islamic teachings. The speaker also provides broader theological context about the existence and nature of jinn in Islamic belief, explaining why Muslims are not required to understand the specifics of how jinn consume these materials.",
   "suggested_title": "Islamic Etiquette of Personal Hygiene: Hadith on Istinja (Cleaning After Using the Restroom)",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Muslim",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Etiquette of Relieving Oneself (Adab al-Istinja)",
   "topic_tags": [
     "istinja",
@@ -1066,5 +1066,6 @@
     "hadith commentary"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Muslims Avoid Bones After the Restroom"
+  "catchy_title": "Why Muslims Avoid Bones After the Restroom",
+  "manually_reviewed": true
 }

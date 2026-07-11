@@ -1655,8 +1655,8 @@
   "time_slot": "Thursday-Isha",
   "summary": "This lecture analyzes the first Quranic mention of Prophet Moses (Musa) and Pharaoh in Chapter 73, focusing on the linguistic and theological significance of how Allah introduces these figures. The speaker examines the carefully chosen pronouns and wording in the verse \"Indeed, we have sent to you all a messenger just as we have sent to Pharaoh a messenger,\" noting the shift from plural (addressed to the people of Mecca) to singular (Pharaoh). The lecture explores the Arabic etymology of the word \"Pharaoh\" as an Arabicized foreign title originally meaning the ruler of Egypt, which carries connotations of arrogance, tyranny, and control. The speaker explains how the term evolved in Arabic to describe any tyrannical, arrogant person who uses intelligence for destructive purposes.",
   "suggested_title": "Quranic Analysis: The First Mention of Pharaoh and Musa - Linguistic and Spiritual Lessons",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "quran exegesis",
@@ -1669,5 +1669,6 @@
     "character analysis"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Allah Introduced Pharaoh First"
+  "catchy_title": "Why Allah Introduced Pharaoh First",
+  "manually_reviewed": true
 }

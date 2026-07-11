@@ -751,8 +751,8 @@
   "time_slot": "Monday-Fajr",
   "summary": "This lecture discusses the chapter on patience from an Islamic perspective, emphasizing that patience is a broad concept far beyond simple tolerance or anger management. The speaker explains that patience, like good character and worship, encompasses many aspects of life and behavior - being truthful, generous, courageous, and acting for the sake of Allah. The lecture then transitions to an explanation of Quran 2:155, which discusses how Allah tests believers with fear, hunger, loss of wealth, and lives, emphasizing that testing is a certainty for all believers proportional to the strength of their faith. The speaker notes that the Prophet Muhammad (peace be upon him) taught that prophets face the greatest trials, followed by those most similar to them.",
   "suggested_title": "Understanding Patience and Divine Testing: Commentary on Quran 2:155",
-  "content_type": "Mixed",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "patience",
@@ -765,5 +765,6 @@
     "trials"
   ],
   "srt_status": "pending",
-  "catchy_title": "Is Patience Just About Anger? Think Again"
+  "catchy_title": "Is Patience Just About Anger? Think Again",
+  "manually_reviewed": true
 }

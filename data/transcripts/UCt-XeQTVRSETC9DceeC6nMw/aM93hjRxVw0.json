@@ -1872,8 +1872,8 @@
   "time_slot": "Thursday-Isha",
   "summary": "This lecture focuses on the essential traits and methodology of Islamic da'wah (calling people to Islam), using Quranic verses as the foundation. The speaker emphasizes that effective Islamic outreach must center on tawheed (monotheism) and the worship of Allah alone, rather than getting distracted by peripheral theological debates or minor Islamic jurisprudential details. The speaker references the instruction given to Mu'adh ibn Jabal when sent to Yemen, highlighting that the first priority in da'wah should be calling people to worship only Allah. The lecture addresses several key principles from the Quran including the importance of exalting Allah, abandoning idolatry in all its forms, and avoiding the spiritual disease of \"alman\" (self-conceit and expecting repayment for one's service to Islam).",
   "suggested_title": "The Methodology of Islamic Da'wah: Core Principles and Avoiding Common Pitfalls",
-  "content_type": "Quran",
-  "hadith_book": "Sahih Bukhari",
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Various hadith discussions including the instruction to Mu'adh ibn Jabal and accounts of companions",
   "topic_tags": [
     "da'wah",
@@ -1886,5 +1886,6 @@
     "spiritual humility"
   ],
   "srt_status": "pending",
-  "catchy_title": "The Foundation of Da'wah: Start With Tawheed"
+  "catchy_title": "The Foundation of Da'wah: Start With Tawheed",
+  "manually_reviewed": true
 }

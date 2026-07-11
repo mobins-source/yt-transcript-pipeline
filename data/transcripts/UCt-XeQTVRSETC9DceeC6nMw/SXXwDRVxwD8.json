@@ -609,8 +609,8 @@
   "time_slot": "Wednesday-Fajr",
   "summary": "This lecture discusses the life and trials of Khabbab ibn al-Aratt, a companion of the Prophet Muhammad who endured severe persecution during the early days of Islam in Mecca. The speaker describes how Khabbab and other early Muslims were tortured by the Quraysh, with particular focus on the physical hardships he suffered. The lecture emphasizes themes of patience (sabr) and trust in Allah during times of difficulty, highlighting how the early Muslims maintained their faith despite facing exile, torture, and ridicule from the Meccan society.",
   "suggested_title": "The Life and Trials of Khabbab ibn al-Aratt: Early Islamic Persecution and Patience",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "companions of the prophet",
@@ -623,5 +623,6 @@
     "faith and endurance"
   ],
   "srt_status": "pending",
-  "catchy_title": "Tortured Yet Unbroken: Khabbab's Unwavering Faith"
+  "catchy_title": "Tortured Yet Unbroken: Khabbab's Unwavering Faith",
+  "manually_reviewed": true
 }

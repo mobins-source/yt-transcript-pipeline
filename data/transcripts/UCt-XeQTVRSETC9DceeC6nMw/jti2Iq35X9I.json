@@ -1208,8 +1208,8 @@
   "time_slot": "Friday-Fajr",
   "summary": "This lecture discusses the life and significance of Abu Hurairah, a prominent companion of Prophet Muhammad who arrived in Medina during or shortly after the Battle of Khaybar as a migrant (muajir) from the land of Daws. The speaker explains Abu Hurairah's humble beginnings, living in the suffa (a canopy-covered area in the Prophet's mosque) with other poor migrants, and his exceptional dedication to staying with the Prophet at all times. Despite only spending about four years with the Prophet, Abu Hurairah narrated an extraordinarily large number of hadith (prophetic traditions), which is explained through his constant companionship and his supplication for knowledge that would not be forgotten, which the Prophet corroborated. The lecture also addresses why his narration count far exceeds that of other companions, including the Prophet's wives.",
   "suggested_title": "The Life and Merits of Abu Hurairah: The Most Prolific Hadith Narrator",
-  "content_type": "Mixed",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "abu hurairah",
@@ -1222,5 +1222,6 @@
     "prophetic tradition"
   ],
   "srt_status": "pending",
-  "catchy_title": "How Abu Hurairah Narrated Thousands of Hadith"
+  "catchy_title": "How Abu Hurairah Narrated Thousands of Hadith",
+  "manually_reviewed": true
 }

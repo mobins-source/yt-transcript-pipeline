@@ -1886,8 +1886,8 @@
   "time_slot": "Thursday-Isha",
   "summary": "This lecture provides a detailed Quranic exegesis (tafsir) of Surah Al-Qalam (Chapter 68), focusing on the opening verses and their profound meanings. The speaker explains why this surah does not mention the Quran directly after its opening letters (unlike most other chapters), instead swearing by the pen and what is written. The lecture explores how Allah defends Prophet Muhammad (peace be upon him) against accusations of madness by the Quraysh, explaining the rhetorical principle that negations in the Quran intended as praise carry implications of their positive opposites. The speaker discusses why it is inappropriate to call prophets and messengers \"geniuses,\" explaining the problematic connotations this word carries in both Arabic and English etymology. The lecture concludes by explaining how Allah provides reassurance to the Prophet through reminder of eternal reward.",
   "suggested_title": "Tafsir of Surah Al-Qalam: The Pen, Divine Defense of the Prophet, and the Principle of Negation as Praise",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "surah al-qalam",
@@ -1900,5 +1900,6 @@
     "reward and patience"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Two Surahs Skip Mentioning the Quran"
+  "catchy_title": "Why Two Surahs Skip Mentioning the Quran",
+  "manually_reviewed": true
 }

@@ -2705,8 +2705,8 @@
   "time_slot": "Wednesday-Isha",
   "summary": "This lecture from the Muslim Community Center of Tucson focuses on Surah Al-Muzzammil (Chapter 73), verses 5-8, discussing the command to recite the Quran with proper pacing and to pray at night. The speaker emphasizes the importance of understanding literal versus metaphorical meanings in Quranic interpretation. He explains that the default approach to understanding Quranic words is to take them as literal unless there is clear evidence they are metaphorical, contrasting this with the Mu'tazilite approach which treats most meanings as metaphorical. The lecture includes detailed explanations of how literal and metaphorical meanings work in language, using examples like \"this man is a lion\" and \"this box is heavy.\"",
   "suggested_title": "Understanding Literal and Metaphorical Meanings in Quran Interpretation - Surah Al-Muzzammil 5-8",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "surah al-muzzammil",
@@ -2719,5 +2719,6 @@
     "mu'tazilite theology"
   ],
   "srt_status": "pending",
-  "catchy_title": "Literal or Metaphorical: How to Read Quran"
+  "catchy_title": "Literal or Metaphorical: How to Read Quran",
+  "manually_reviewed": true
 }

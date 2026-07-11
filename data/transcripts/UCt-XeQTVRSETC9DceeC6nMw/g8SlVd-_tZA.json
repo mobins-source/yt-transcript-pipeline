@@ -1490,7 +1490,7 @@
   "summary": "This lecture discusses a detailed hadith narration from Sahih Muslim about the Dajjal (false messiah), specifically from the narration of Ibn Sayyad. The speaker explains the timeline of the Dajjal's reign on earth, which will last 40 days with supernatural time manipulation: the first day equivalent to a year, the second to a month, the third to a week, and remaining days as regular days. The lecture clarifies that this time manipulation is literal, not figurative, based on the companions' understanding and the prophetic instruction to estimate prayers accordingly. The speaker also details the Dajjal's abilities and tactics, including his power to make the sky rain, earth produce crops, and accumulate all earth's treasures to seduce followers, contrasting this with Prophet Muhammad's call which drew people away from worldly wealth.",
   "suggested_title": "The Dajjal's Reign and Deceptions: Understanding the Timeline and Methods of the False Messiah",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Muslim",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "The narration of Ibn Sayyad regarding the Dajjal",
   "topic_tags": [
     "dajjal",
@@ -1503,5 +1503,6 @@
     "sahih muslim"
   ],
   "srt_status": "pending",
-  "catchy_title": "How Long Will the Dajjal Actually Rule?"
+  "catchy_title": "How Long Will the Dajjal Actually Rule?",
+  "manually_reviewed": true
 }

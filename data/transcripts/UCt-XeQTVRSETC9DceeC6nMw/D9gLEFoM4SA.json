@@ -1016,8 +1016,8 @@
   "time_slot": "Wednesday-Isha",
   "summary": "This lecture discusses Quranic verses from Surah Al-Alaq and Surah Al-Muddathir, focusing on the confrontation between Prophet Muhammad (peace be upon him) and Abu Jahl. The speaker explains the historical context of Abu Jahl's arrogance and his attempt to intimidate the Prophet while he was praying near the Kaaba. The lecture covers the Quranic response to Abu Jahl's threats, including Allah's promise to summon the angels of hell (Zabaniyah) if Abu Jahl were to call upon his council. The speaker emphasizes the importance of prostration (sujud) as the closest form of worship and connection between a servant and their Lord.",
   "suggested_title": "The Story of Abu Jahl and the Quranic Response: Tafsir of Surah Al-Alaq and Al-Muddathir",
-  "content_type": "Quran",
-  "hadith_book": "Sahih Muslim",
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Related hadith about Abu Jahl and the Prophet's prayer",
   "topic_tags": [
     "quran tafsir",
@@ -1030,5 +1030,6 @@
     "mecca"
   ],
   "srt_status": "pending",
-  "catchy_title": "When Abu Jahl Threatened the Prophet at Prayer"
+  "catchy_title": "When Abu Jahl Threatened the Prophet at Prayer",
+  "manually_reviewed": true
 }

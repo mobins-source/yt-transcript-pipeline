@@ -987,7 +987,7 @@
   "summary": "This lecture discusses a hadith (Hadith 1149) from Sahih Muslim regarding the virtues of Friday (Jumu'ah) and how the five daily prayers, Jumu'ah prayers, and Ramadan fasting serve as expiation for sins. The speaker explains that this expiation applies specifically to minor sins, provided that a person refrains from major sins. The lecture clarifies the distinction between major and minor sins in Islamic jurisprudence, establishing that major sins are those with specific punishments mentioned in Islamic law (either in this life or the hereafter), while minor sins are those without such specified punishments. The speaker emphasizes that this categorization is not meant to minimize minor sins, but rather to contrast them with more serious transgressions that require repentance.",
   "suggested_title": "The Expiation of Sins Through Daily Prayers, Friday Prayer, and Fasting: Major vs Minor Sins",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Muslim",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter 210 - The Merits of the Day of Jumu'ah",
   "topic_tags": [
     "hadith",
@@ -1000,5 +1000,6 @@
     "islamic jurisprudence"
   ],
   "srt_status": "pending",
-  "catchy_title": "Do Daily Prayers Erase Your Sins?"
+  "catchy_title": "Do Daily Prayers Erase Your Sins?",
+  "manually_reviewed": true
 }

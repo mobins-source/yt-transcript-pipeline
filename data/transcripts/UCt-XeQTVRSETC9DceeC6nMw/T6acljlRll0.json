@@ -1108,8 +1108,8 @@
   "summary": "This lecture discusses the Islamic concept of wudoo (ablution) and the distinction between invalidators and inhibitors of wudoo. The speaker explains that while invalidators are acts that break an already-established wudoo (like passing gas), inhibitors prevent wudoo from being valid in the first place. A major focus is on nail polish, artificial nails, and certain makeup products that prevent water from reaching the skin or nails during ablution, making wudoo impossible to perform properly. The speaker addresses the cultural pressures, particularly on women, to wear beauty products that compromise their religious obligations, emphasizing that believers should be content with what Allah has given them rather than constantly seeking external beautification through artificial means.",
   "suggested_title": "Understanding Inhibitors of Wudoo: Nail Polish, Makeup, and Valid Ablution in Islam",
   "catchy_title": "Does Your Nail Polish Invalidate Your Prayer?",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "wudoo",
@@ -1121,5 +1121,6 @@
     "salah",
     "fiqh"
   ],
-  "srt_status": "pending"
+  "srt_status": "pending",
+  "manually_reviewed": true
 }

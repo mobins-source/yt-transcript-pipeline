@@ -913,7 +913,7 @@
   "summary": "This is a detailed Islamic jurisprudence lesson on the concept of ritual impurity (najasah/filth) in Islamic law. The instructor reviews various types of impurities including human and animal waste, pre-ejaculatory fluid (madi), post-urinary fluid (wadi), and menstrual blood. The main focus is on menstrual blood, with the instructor providing evidence from a hadith narrated by Aisha (daughter of Abu Bakr) that appears in both Sahih Bukhari and Sahih Muslim. The hadith describes the Prophet's guidance on how women should handle menstrual blood on their clothing—by scrubbing, wringing, and rinsing with water. The instructor explains the practical application and the distinction between physical stains and ritual purity, emphasizing that following this process renders the clothing ritually clean for prayer even if visible stains remain.",
   "suggested_title": "Islamic Jurisprudence: Ritual Impurities (Najasah) and Menstrual Blood - Hadith Evidence and Practical Application",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Purity and Menstrual Blood",
   "topic_tags": [
     "najasah",
@@ -922,9 +922,10 @@
     "women's fiqh",
     "salah",
     "hadith",
-    "Islamic jurisprudence",
+    "islamic jurisprudence",
     "purity rulings"
   ],
   "srt_status": "pending",
-  "catchy_title": "What Makes Clothes Ritually Pure Again?"
+  "catchy_title": "What Makes Clothes Ritually Pure Again?",
+  "manually_reviewed": true
 }

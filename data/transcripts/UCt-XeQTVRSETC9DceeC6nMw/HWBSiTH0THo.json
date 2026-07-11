@@ -2027,8 +2027,8 @@
   "time_slot": "Sunday-Isha",
   "summary": "This lecture discusses the true reasons why people reject Islam and faith, using Quranic examples and analysis. The speaker emphasizes that disbelief among the Quraysh and others was not due to sincere confusion or genuine misunderstanding, but rather due to the implications that accepting Islam would have on their lives—such as loss of power, wealth, status, and worldly pleasures. Examples include Pharaoh, Abu Jahl, and Abdullah ibn Ubayy, who rejected Islam to preserve their positions of authority and influence. The speaker explains that people today similarly reject Islam not because it is unclear, but because of lifestyle implications. The lecture then transitions to Quranic descriptions of Saqar (one of the names of hellfire), detailing its severity, the 70,000 ropes with 70,000 angels pulling it, and the 19 angels commissioned to oversee the torment of the damned.",
   "suggested_title": "The Real Reason People Reject Islam: Understanding the Implications of Faith",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "quran commentary",
@@ -2041,5 +2041,6 @@
     "quranic examples"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why People Really Reject Islam"
+  "catchy_title": "Why People Really Reject Islam",
+  "manually_reviewed": true
 }

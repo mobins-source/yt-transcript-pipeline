@@ -1528,7 +1528,7 @@
   "summary": "This lecture from the Muslim Community Center of Tucson provides an Islamic educational discussion on the definitions and distinctions between key Islamic concepts, particularly focusing on Islam (submission to Allah), Iman (faith/belief), and Tassadeeq (confirmation). The instructor uses Riyadul Saliheen (Gardens of the Righteous) as a reference and explores the linguistic and Shariah definitions of these terms. The lecture emphasizes that Iman encompasses not just belief in the heart, but also verbal affirmation and righteous actions, distinguishing it from mere intellectual assent. The discussion includes references to Quranic verses and examples from Islamic history to illustrate how true belief must be accompanied by conviction without doubt and must lead to corresponding actions.",
   "suggested_title": "Islamic Definitions: Understanding Islam, Iman, and Tassadeeq - Lecture on Fundamentals of Faith",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Taqwa (God-consciousness) and Monitoring of Allah",
   "topic_tags": [
     "iman",
@@ -1541,5 +1541,6 @@
     "belief and action"
   ],
   "srt_status": "pending",
-  "catchy_title": "What's the Difference Between Islam and Iman?"
+  "catchy_title": "What's the Difference Between Islam and Iman?",
+  "manually_reviewed": true
 }

@@ -660,7 +660,7 @@
   "summary": "This lecture discusses a hadith from Riyadul Saliheen by Imam An-Nawawi, narrated by Abu Malik Al-Harith ibn Asim Al-Ashari. The central hadith states \"Purification is half of faith.\" The speaker explains this hadith by breaking down the concept of faith into two fundamental components: negation (negating false beliefs and deities) and affirmation (affirming the worship of Allah alone). The speaker emphasizes the Islamic principle of \"At-Tahliyah before At-Tahliyah\" (purification before adornment), meaning one must first remove impurities and incorrect beliefs before adorning oneself with correct beliefs and practices. The lecture also mentions related hadith teachings about the virtues of various actions such as praise of Allah, prayer, charity, patience, and the Quran.",
   "suggested_title": "Purification is Half of Faith: Understanding Negation and Affirmation in Islamic Belief",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Patience (Bab Al-Sabr)",
   "topic_tags": [
     "purification",
@@ -673,5 +673,6 @@
     "tawheed"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Purification Comes Before Everything"
+  "catchy_title": "Why Purification Comes Before Everything",
+  "manually_reviewed": true
 }

@@ -1239,7 +1239,7 @@
   "summary": "This lecture analyzes a hadith narration from the Prophet Muhammad (peace be upon him) regarding two Muslims who meet in battle with swords. The speaker explains how Islamic jurisprudence determines culpability in cases of homicide by examining the nature of the weapon used rather than solely relying on stated intentions. The lecture distinguishes between accidental, unintentional, and intentional homicide, emphasizing that lethal weapons like swords are designed specifically to take life, making it unreasonable for someone to claim they didn't intend to kill when using such a weapon. The speaker illustrates these principles with modern examples like handguns and tasers to clarify Islamic legal reasoning.",
   "suggested_title": "Islamic Law on Homicide: Intention vs. Weapon Type - Hadith Analysis on Murder and Culpability",
   "content_type": "Hadith",
-  "hadith_book": "Other",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter 1 - Ninth Narration",
   "topic_tags": [
     "homicide",
@@ -1252,5 +1252,6 @@
     "judicial ruling"
   ],
   "srt_status": "pending",
-  "catchy_title": "What Your Weapon Says About Intent"
+  "catchy_title": "What Your Weapon Says About Intent",
+  "manually_reviewed": true
 }

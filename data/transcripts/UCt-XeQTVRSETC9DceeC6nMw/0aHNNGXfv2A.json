@@ -2483,8 +2483,8 @@
   "time_slot": "Sunday-Isha",
   "summary": "This lecture discusses the major signs of the Day of Judgment as mentioned in the Quran, particularly focusing on Surah Al-An'am verse 158. The speaker explains three major signs: the angel of death arriving, the Day of Judgment itself, and the most significant signs before the Day of Judgment. The lecture extensively covers the description of Ad-Dajjal (the Antichrist) as provided by the Prophet Muhammad, including detailed physical characteristics such as his muscular build, curly hair, and deficient right eye. The speaker refutes modern interpretations that equate the Dajjal with computers or other contemporary phenomena, emphasizing that these descriptions are literal and specific to an actual person who will emerge before the Day of Judgment.",
   "suggested_title": "The Major Signs of the Day of Judgment: Description and Reality of Ad-Dajjal",
-  "content_type": "Quran",
-  "hadith_book": "Sahih Bukhari",
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Descriptions of Ad-Dajjal and Signs of the Hour",
   "topic_tags": [
     "day of judgment",
@@ -2497,5 +2497,6 @@
     "end times"
   ],
   "srt_status": "pending",
-  "catchy_title": "Who Is Ad-Dajjal? The Literal Truth"
+  "catchy_title": "Who Is Ad-Dajjal? The Literal Truth",
+  "manually_reviewed": true
 }

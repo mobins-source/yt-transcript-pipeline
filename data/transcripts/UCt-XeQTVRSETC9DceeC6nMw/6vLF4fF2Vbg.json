@@ -962,7 +962,7 @@
   "summary": "This lecture discusses a hadith from Riyadul Saliheen narrated by Abu Hurairah, in which a man asks the Prophet Muhammad (peace be upon him) for advice and the Prophet repeatedly responds 'do not become angry.' The speaker explains that this prohibition is not about suppressing emotions themselves, which are natural to humans, but rather about controlling the circumstances and factors that lead to anger. He elaborates on the Islamic legal principle (Usul al-Fiqh) that the means to something have the same ruling as the end itself (al-wasail laha ahkam al-maqasid), citing examples such as how alcohol-related activities are prohibited just as drinking alcohol is prohibited. The speaker distinguishes between wasail (direct means) and dhara'i (indirect means), and emphasizes the concept of ijtinab (avoidance), which means completely distancing oneself not only from anger itself but from anything that leads to or might lead to anger.",
   "suggested_title": "Controlling Anger: A Hadith Analysis on Islamic Legal Principles of Means and Ends",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Anger and Forbearance",
   "topic_tags": [
     "anger",
@@ -975,5 +975,6 @@
     "behavioral conduct"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why the Prophet Repeated 'Don't Get Angry'"
+  "catchy_title": "Why the Prophet Repeated 'Don't Get Angry'",
+  "manually_reviewed": true
 }

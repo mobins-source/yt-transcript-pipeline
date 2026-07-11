@@ -3536,7 +3536,7 @@
   "summary": "This lecture discusses the Islamic principle of following the imam (prayer leader) during salah (prayer), based on a hadith collected by Sahih Muslim. The speaker explains the linguistic meaning of imam (one who leads/is in front) and elaborates on the hadith's instruction that the imam has been appointed to be followed. The lecture details the proper mechanics of following the imam, including the requirement to follow immediately without delay, with scholars establishing that falling more than two pillars behind invalidates the prayer. The speaker discusses four ways people relate to the imam: going ahead (prohibited and prayer invalid), going simultaneously (prohibited but valid), lagging significantly behind (prohibited and invalid after two pillars), and the correct way of following immediately and properly.",
   "suggested_title": "Following the Imam in Prayer: Islamic Jurisprudence and Proper Salah Conduct",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Muslim",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "imam",
@@ -3549,5 +3549,6 @@
     "worship"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why You Must Follow the Imam in Prayer"
+  "catchy_title": "Why You Must Follow the Imam in Prayer",
+  "manually_reviewed": true
 }

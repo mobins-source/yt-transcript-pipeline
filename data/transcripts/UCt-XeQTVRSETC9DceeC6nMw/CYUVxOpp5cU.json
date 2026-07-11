@@ -2244,7 +2244,7 @@
   "summary": "This lecture discusses hypocrisy (nifaq) in Islam based on hadith narrations from Sahih Muslim. The speaker explains that hypocrisy is a spectrum, not a binary state, and is characterized by a mismatch between internal beliefs and external actions. He defines the essence of hypocrisy as the attitude of \"what can I get and what can I not give,\" and compares it to cancer in the Muslim community body. The speaker outlines the major signs of hypocrisy mentioned in the hadith: lying as a nature, breaking promises, betraying trusts, breaking treaties, and becoming vulgar and harmful during disputes.",
   "suggested_title": "The Signs and Dangers of Hypocrisy: A Hadith-Based Analysis from Sahih Muslim",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Muslim",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "hypocrisy",
@@ -2257,5 +2257,6 @@
     "self-improvement"
   ],
   "srt_status": "pending",
-  "catchy_title": "The Five Signs of Hidden Hypocrisy"
+  "catchy_title": "The Five Signs of Hidden Hypocrisy",
+  "manually_reviewed": true
 }

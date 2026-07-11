@@ -1364,8 +1364,8 @@
   "time_slot": "Saturday-Isha",
   "summary": "This lecture discusses Quran Chapter 74, verses 38-48, focusing on the Islamic concept that every soul is held captive by its own actions and sins, not by inherited guilt. The speaker explains how this differs fundamentally from the Christian concept of original sin, clarifying that Islam rejects the idea that humans are born guilty or that children bear responsibility for their parents' sins. The discussion emphasizes that while people may experience consequences of their parents' choices (such as changed circumstances), these are natural results, not divine punishment. The speaker uses the example of Adam's expulsion from paradise to illustrate that this was a natural consequence of his choice, not a punishment, especially since Allah accepted his repentance.",
   "suggested_title": "Every Soul is Captive by Its Own Sin: Refuting Original Sin in Islam (Surah Al-Muddathir 74:38-48)",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "quran interpretation",
@@ -1378,5 +1378,6 @@
     "consequences vs punishment"
   ],
   "srt_status": "pending",
-  "catchy_title": "Your Sins Are Your Own: Islam's Answer to Original Sin"
+  "catchy_title": "Your Sins Are Your Own: Islam's Answer to Original Sin",
+  "manually_reviewed": true
 }

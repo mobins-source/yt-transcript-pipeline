@@ -1334,7 +1334,7 @@
   "summary": "This lecture discusses the third narration from Chapter 5 of an Islamic text on the topic of Allah's observation and decree. The speaker focuses on Abdullah ibn Abbas, the Prophet's cousin, and provides extensive biographical context about his life, including his birth during the Banu Hashim embargo in Mecca and his early years before the Prophet's death. The lecture explores the Arabic etymology of the word 'bahir' (scholar) and explains how Abdullah ibn Abbas, despite having limited physical time with the Prophet (estimated 6-7 years), became known as an incredibly prolific narrator of over a thousand hadith. The speaker emphasizes the depth of Ibn Abbas's knowledge and scholarship within Islamic tradition.",
   "suggested_title": "Abdullah ibn Abbas: The Life, Legacy, and Scholarship of the Prophet's Cousin",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter 5 - On Vigilance of Allah's Observation",
   "topic_tags": [
     "abdullah ibn abbas",
@@ -1347,5 +1347,6 @@
     "islamic scholarship"
   ],
   "srt_status": "pending",
-  "catchy_title": "How did Ibn Abbas become Islam's greatest scholar?"
+  "catchy_title": "How did Ibn Abbas become Islam's greatest scholar?",
+  "manually_reviewed": true
 }

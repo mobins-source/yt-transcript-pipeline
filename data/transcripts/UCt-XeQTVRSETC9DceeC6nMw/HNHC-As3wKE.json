@@ -1540,8 +1540,8 @@
   "summary": "This lecture discusses the methodology of Islamic jurisprudence books, specifically examining how scholars traditionally structure their works following the pattern established by al-Bukhari's Sahih. The speaker uses wudu (ablution) as a detailed case study, explaining how fiqh books present the ideal form of worship first, then break it down into categories: conditions, pillars, obligations, sunnahs, and nullifiers. The lecture emphasizes the six obligations of wudu and demonstrates how Quranic verses are interpreted through the Prophet's consistent practice, using the example of washing the mouth and nose to show how the Prophet's actions—when performed consistently without exception—establish obligatory rulings.",
   "suggested_title": "Understanding the Structure of Fiqh Books: The Methodology of Islamic Jurisprudence Through Wudu",
   "catchy_title": "How the Prophet Teaches Us What's Obligatory",
-  "content_type": "General",
-  "hadith_book": "Sahih Bukhari",
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "wudu",
@@ -1552,5 +1552,6 @@
     "obligations",
     "ablution"
   ],
-  "srt_status": "pending"
+  "srt_status": "pending",
+  "manually_reviewed": true
 }

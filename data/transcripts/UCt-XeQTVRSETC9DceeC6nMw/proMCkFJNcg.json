@@ -2357,8 +2357,8 @@
   "time_slot": "Thursday-Isha",
   "summary": "The speaker emphasizes the critical importance of Muslim brotherhood and unity within the community. Drawing from Quranic verses and prophetic narrations, he explains that believers need each other more than basic necessities to achieve paradise and fulfill Islamic obligations. He illustrates this through the story of Sa'd ibn Abi Waqqas and the distribution of spoils at the Battle of Badr, demonstrating how Allah removed knowledge of Laylat al-Qadr from the companions due to their conflict over worldly matters. The core message is that Muslims must not only superficially resolve disputes but address root causes of conflict, as discord brings collective punishment and separation from one another carries severe spiritual consequences.",
   "suggested_title": "The Obligation of Muslim Brotherhood and Resolving Conflict at Its Root",
-  "content_type": "Mixed",
-  "hadith_book": "Sahih Muslim",
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Regarding Laylat al-Qadr and the consequences of discord among companions",
   "topic_tags": [
     "brotherhood",
@@ -2371,5 +2371,6 @@
     "quran"
   ],
   "srt_status": "pending",
-  "catchy_title": "Do We Really Need Each Other?"
+  "catchy_title": "Do We Really Need Each Other?",
+  "manually_reviewed": true
 }

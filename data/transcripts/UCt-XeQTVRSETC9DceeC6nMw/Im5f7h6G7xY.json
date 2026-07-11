@@ -1988,7 +1988,7 @@
   "summary": "This lecture discusses the pillars and nullifiers of fasting in Islam, specifically focusing on the book of fasting within Islamic jurisprudence. The instructor covers the two pillars of fasting (intention and refraining from breaking the fast) and details the six things that nullify a fast: eating and drinking intentionally, inducing vomiting, menstruation, postpartum bleeding, and intercourse. The lecture emphasizes that fasting is a binary state—either one is fasting or not—and discusses the concept of 'imsak (refraining from food while not fasting). A detailed narration from Sahih Bukhari and Sahih Muslim is presented regarding a man who engaged in intercourse during a fasting day in Ramadan, explaining the severe expiation required (freeing a slave, fasting two consecutive months, or feeding 60 poor people). The instructor provides historical context on slavery in pre-Islamic Arabia versus Islamic law, explaining how Islam restricted the ways to become enslaved while expanding paths to emancipation.",
   "suggested_title": "Nullifiers of Fasting and the Expiation for Intercourse During Ramadan",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Book of Fasting",
   "topic_tags": [
     "fasting",
@@ -1998,8 +1998,9 @@
     "postpartum bleeding",
     "intercourse",
     "expiation",
-    "Islamic law"
+    "islamic law"
   ],
   "srt_status": "pending",
-  "catchy_title": "Six Things That Break Your Fast"
+  "catchy_title": "Six Things That Break Your Fast",
+  "manually_reviewed": true
 }

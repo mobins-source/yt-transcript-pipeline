@@ -636,7 +636,7 @@
   "summary": "This is a lesson from Riyadul Saliheen (The Gardens of the Righteous) by Imam Nawawi, specifically discussing the chapter on sincerity and intention. The instructor analyzes the fourth hadith in the first chapter, which is a narration from Jabir ibn Abdullah al-Ansari about the Prophet Muhammad saying that men in Medina who were prevented by illness from joining a military expedition (Ghazwat Tabouk) would still receive the reward as if they participated. The lesson includes detailed hadith methodology discussion, comparing the same hadith as reported by Muslim from Jabir and by Bukhari from Anas, explaining how different narrators with different wording affects hadith classification.",
   "suggested_title": "Riyadul Saliheen - Chapter on Sincerity and Intention: The Reward of Those Prevented by Illness",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter 1: On Sincerity and Presenting Intention, Hadith 4",
   "topic_tags": [
     "sincerity",
@@ -649,5 +649,6 @@
     "companion narrations"
   ],
   "srt_status": "pending",
-  "catchy_title": "Sick Yet Rewarded: The Prophet's Promise"
+  "catchy_title": "Sick Yet Rewarded: The Prophet's Promise",
+  "manually_reviewed": true
 }

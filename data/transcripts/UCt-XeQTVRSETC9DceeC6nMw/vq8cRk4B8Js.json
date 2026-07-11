@@ -712,7 +712,7 @@
   "summary": "This lecture discusses a hadith from the chapter on truthfulness and truth, narrating the story of a prophet from previous nations who prepared his people for battle. The prophet instructed those with worldly attachments—such as unmarried men intending marriage, those with unfinished homes, or those with pregnant livestock—not to follow him, emphasizing quality over quantity in his troops. The lecture draws parallels to the story of Jal and how the Companions practiced this principle of maintaining spiritual and military purity. The narrative concludes with the prophet's miraculous request to Allah to keep the sun in position during battle, allowing his forces to complete their victory before nightfall, and introduces the unique permission given to the Prophet Muhammad and his nation regarding the spoils of war.",
   "suggested_title": "Quality Over Quantity in Faith and Battle: Lessons from a Previous Prophet",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Truthfulness and Truth",
   "topic_tags": [
     "hadith",
@@ -725,5 +725,6 @@
     "faith and action"
   ],
   "srt_status": "pending",
-  "catchy_title": "Would You Leave Your Family for Battle?"
+  "catchy_title": "Would You Leave Your Family for Battle?",
+  "manually_reviewed": true
 }

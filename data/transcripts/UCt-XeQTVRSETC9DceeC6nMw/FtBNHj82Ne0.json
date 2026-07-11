@@ -1806,8 +1806,8 @@
   "summary": "This lecture discusses the three valid sources of knowledge in Islam: logic/reason (both deductive and inductive), guidance through messengers, and the clear book (Quran). The speaker emphasizes that anything argued without these sources is merely whims and desires. He warns against confirmation bias—the dangerous tendency to form beliefs first and then twist evidence to match those beliefs, rather than following evidence to reach conclusions. The speaker illustrates this problem through historical Islamic innovations (Al-Khawarij, Al-Qadariyyah, Jahmiyyah) where groups presupposed conclusions and then distorted Islamic sources to support them. He connects this to modern problems where Muslims adopt secular ideologies (feminism, democracy, socialism) and then reinterpret Quranic verses to justify these pre-formed beliefs, leading to distrust of Islamic scholars and fitna (discord) in the community.",
   "suggested_title": "Evidence Before Belief: Avoiding Confirmation Bias in Islamic Understanding",
   "catchy_title": "Belief Before Evidence: The Gravest Islamic Innovation",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "confirmation bias",
@@ -1819,5 +1819,6 @@
     "scholars authority",
     "fitna"
   ],
-  "srt_status": "pending"
+  "srt_status": "pending",
+  "manually_reviewed": true
 }

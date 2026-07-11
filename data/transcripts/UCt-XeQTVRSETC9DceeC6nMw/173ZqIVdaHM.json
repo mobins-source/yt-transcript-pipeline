@@ -1882,8 +1882,8 @@
   "time_slot": "Sunday-Fajr",
   "summary": "This is a Ramadan educational session covering Islamic jurisprudence and Quranic studies. The first portion reviews the conditions and pillars of fasting during Ramadan, including detailed discussions of what breaks a fast (such as eating, drinking, intercourse, vomiting, and menstruation/postpartum bleeding) and practical applications of these rules to modern scenarios like IV drips, vaccines, nicotine patches, and inhalers. The second portion emphasizes the spiritual importance of Quran recitation during Ramadan, explaining that the month is primarily defined by the revelation of the Quran rather than fasting alone. The instructor discusses the Prophet Muhammad's practice of reviewing the Quran with Gabriel annually during Ramadan, particularly the final complete revision in the last year of his life, which established the current arrangement of the Quran's chapters and verses. The session encourages attendees to prioritize Quran memorization and recitation as the central focus of their Ramadan observance.",
   "suggested_title": "Ramadan Fasting Rules and the Significance of Quran Recitation in Ramadan",
-  "content_type": "Mixed",
-  "hadith_book": "Sahih Bukhari",
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Hadith of Ibn Abbas regarding the Prophet's practice with Gabriel in Ramadan",
   "topic_tags": [
     "ramadan",
@@ -1896,5 +1896,6 @@
     "ramadan etiquette"
   ],
   "srt_status": "pending",
-  "catchy_title": "Does Your Fast Count? Ramadan Rules Explained"
+  "catchy_title": "Does Your Fast Count? Ramadan Rules Explained",
+  "manually_reviewed": true
 }

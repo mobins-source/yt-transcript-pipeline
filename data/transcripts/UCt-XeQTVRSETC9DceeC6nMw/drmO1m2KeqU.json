@@ -1276,7 +1276,7 @@
   "suggested_title": "The Sin of Concealing Knowledge: Understanding the Hadith on Knowledge and Responsibility",
   "catchy_title": "Why Hiding Knowledge Earns Fire",
   "content_type": "Hadith",
-  "hadith_book": "Jami al-Tirmidhi",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Chapter on the Virtues of Knowledge",
   "topic_tags": [
     "knowledge",
@@ -1288,5 +1288,6 @@
     "day of judgment",
     "scholarly responsibility"
   ],
-  "srt_status": "pending"
+  "srt_status": "pending",
+  "manually_reviewed": true
 }

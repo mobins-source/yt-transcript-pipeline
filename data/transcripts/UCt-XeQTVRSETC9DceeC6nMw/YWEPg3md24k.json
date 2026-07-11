@@ -2183,8 +2183,8 @@
   "time_slot": "Friday-Isha",
   "summary": "The speaker discusses the fundamental character trait of Muslims and believers, emphasizing that true Islamic character is rooted in the Quran and exemplified by Prophet Muhammad. The core topic is the importance of acknowledging human limitations in understanding religious knowledge and the proper response when encountering verses or hadith one doesn't comprehend. Rather than arguing, twisting meanings, or dismissing religious texts, believers should accept them with humility and say \"I don't know\" when appropriate, recognizing that complete understanding of all Islamic teachings is impossible for any single person.",
   "suggested_title": "The Character of the Believer: Humility, Knowledge, and Accepting Divine Guidance",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "islamic character",
@@ -2197,5 +2197,6 @@
     "intellectual humility"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Muslims Say 'I Don't Know'"
+  "catchy_title": "Why Muslims Say 'I Don't Know'",
+  "manually_reviewed": true
 }

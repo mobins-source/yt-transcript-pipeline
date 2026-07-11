@@ -1981,8 +1981,8 @@
   "time_slot": "Sunday-Isha",
   "summary": "This lecture discusses Surah al-Muzzammil, Chapter 73, Verse 20, exploring whether this verse was revealed during the Meccan or Medinan period (concluded to be Meccan). The speaker analyzes Allah's command to the Prophet Muhammad to pray at night as much as he is able, emphasizing that Islamic practice must be sustainable and adapted to human capacity. The lecture covers the concept of balancing spiritual enthusiasm with realistic expectations, establishing minimum standards of practice while capitalizing on peak moments of devotion. The speaker references hadith from Sahih al-Bukhari regarding night prayers, the witr prayer, and Satan's tactics to prevent believers from connecting with Allah through night worship, including the metaphor of Satan tying three knots on a person's head during sleep that are undone through remembrance, ablution, and prayer.",
   "suggested_title": "Surah al-Muzzammil 73:20 - Balancing Spiritual Effort with Human Capacity in Night Prayer",
-  "content_type": "Mixed",
-  "hadith_book": "Sahih Bukhari",
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Chapters on Prayer and Night Prayer (Qiyam)",
   "topic_tags": [
     "night prayer",
@@ -1995,5 +1995,6 @@
     "satan"
   ],
   "srt_status": "pending",
-  "catchy_title": "Can You Really Pray All Night Every Night?"
+  "catchy_title": "Can You Really Pray All Night Every Night?",
+  "manually_reviewed": true
 }

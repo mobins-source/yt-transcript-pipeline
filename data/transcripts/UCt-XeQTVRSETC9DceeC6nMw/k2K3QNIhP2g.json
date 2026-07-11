@@ -1520,7 +1520,7 @@
   "summary": "This lecture from the Muslim Community Center of Tucson focuses on the study of hadith, specifically discussing the 40 Narrations of Imam al-Nawawi (actually 42 narrations), which are considered the foundational principles of Islam. The speaker explains that these narrations serve as the essence of all prophetic teachings and that every ruling in Islam can be traced back to them. The lecture covers specific narrations attributed to Abu Dharr and Muadh ibn Jabal, who were sent by the Prophet Muhammad to Yemen as judges and Islamic teachers. The speaker emphasizes three critical narrations that contain life-changing wisdom, particularly the hadith about believing in Islam only when one loves for their brother what they love for themselves.",
   "suggested_title": "The 40 Narrations of Imam al-Nawawi: Foundational Principles of Islam",
   "content_type": "Hadith",
-  "hadith_book": "Other",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Vigilance (Taqwa) and the Narrations of Abu Dharr and Muadh ibn Jabal",
   "topic_tags": [
     "hadith",
@@ -1533,5 +1533,6 @@
     "knowledge"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why These 42 Narrations Changed Islam Forever"
+  "catchy_title": "Why These 42 Narrations Changed Islam Forever",
+  "manually_reviewed": true
 }

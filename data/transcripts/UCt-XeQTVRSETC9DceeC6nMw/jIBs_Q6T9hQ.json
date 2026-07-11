@@ -1858,8 +1858,8 @@
   "time_slot": "Thursday-Isha",
   "summary": "This is a recorded congregational prayer (Salah) session from the Muslim Community Center of Tucson, featuring the complete recitation of Surah Al-Fatiha and portions of Surah Al-A'raf during prayer, followed by a sermon (Khutbah). The speaker discusses the concept of Fitrah (natural disposition) in Islam, explaining how every human is born upon the natural inclination toward monotheism and morality. The lecture references the hadith about children being born upon Fitrah and their parents influencing their religious path, emphasizing that humans possess an innate understanding of right and wrong. The speaker also addresses the Islamic concept of divine decree (Qadr) and free will, explaining the balance between human agency and God's predestination, while cautioning against excessive debate on this complex theological topic as warned by the Prophet Muhammad.",
   "suggested_title": "Sermon on Fitrah (Natural Disposition) and Divine Decree with Congregational Prayer",
-  "content_type": "Mixed",
-  "hadith_book": "Sahih Bukhari",
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "The hadith regarding children being born upon Fitrah",
   "topic_tags": [
     "fitrah",
@@ -1872,5 +1872,6 @@
     "qadr"
   ],
   "srt_status": "pending",
-  "catchy_title": "Born Upon Fitrah: Your Natural Connection to God"
+  "catchy_title": "Born Upon Fitrah: Your Natural Connection to God",
+  "manually_reviewed": true
 }

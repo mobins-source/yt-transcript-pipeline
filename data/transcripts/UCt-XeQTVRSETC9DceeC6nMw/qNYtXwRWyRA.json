@@ -1410,7 +1410,7 @@
   "summary": "The speaker discusses the seventh narration in a chapter about vigilance of Allah's observation from Riyadul Saliheen. The narration, attributed to Abu Shad Ibuad, contains a famous saying of the Prophet Muhammad that many Muslims recognize, though the narration has a weak chain of transmission. The speaker explains the methodology of hadith authentication, noting that the author of Riyadul Saliheen relied heavily on earlier scholars' authentication work. Despite the weak chain, the meaning of this narration is correct and supported throughout the Quran and Sunnah. The speaker emphasizes that weak narrations can still be cited when their meaning aligns with established Islamic principles.",
   "suggested_title": "The Seventh Narration on Intelligence and Self-Accountability from Riyadul Saliheen",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter of Vigilance of Allah's Observation",
   "topic_tags": [
     "hadith authentication",
@@ -1423,5 +1423,6 @@
     "prophetic tradition"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why This Famous Hadith Has a Weak Chain"
+  "catchy_title": "Why This Famous Hadith Has a Weak Chain",
+  "manually_reviewed": true
 }

@@ -480,7 +480,7 @@
   "summary": "This lecture discusses the Islamic ruling on bathing (ghusl) on Friday (Yawm al-Jumu'ah) based on hadith narrations from Sahih Bukhari and Sahih Muslim. The speaker presents two key narrations attributed to Abu Sa'id al-Khudri that establish ghusl on Friday as an obligation (wajib) for every adult Muslim, regardless of gender, health status, or travel situation. The lecture addresses the distinction between the validity of prayer without ghusl and the loss of reward associated with neglecting this specific act of worship.",
   "suggested_title": "The Obligation of Ghusl (Bathing) on Friday: Hadith Analysis from Riyadul Saliheen",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Friday Prayer (Salat al-Jumu'ah)",
   "topic_tags": [
     "friday prayer",
@@ -492,5 +492,6 @@
     "abu said al-khudri"
   ],
   "srt_status": "pending",
-  "catchy_title": "Is Friday Ghusl Really Obligatory?"
+  "catchy_title": "Is Friday Ghusl Really Obligatory?",
+  "manually_reviewed": true
 }

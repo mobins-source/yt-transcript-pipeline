@@ -1460,7 +1460,7 @@
   "summary": "This lecture discusses the eighth narration in the fifth chapter of Riyadul Saliheen, which focuses on vigilance of Allah's observation. The speaker explains the hadith authenticity grading system, detailing the differences between weak and authentic narrations, and clarifying that Riyadul Saliheen contains only slight weaknesses in its few disputed narrations. The main hadith presented is from Abu Huraira: 'It is of the perfection of a man's Islam that he leaves off what does not concern him,' which is analyzed in the context of Islamic discipline and mindfulness of Allah.",
   "suggested_title": "Riyadul Saliheen Chapter 5: The Perfection of Islam in Leaving Off What Does Not Concern You",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter of Vigilance of Allah's Observation (Fifth Chapter)",
   "topic_tags": [
     "hadith authenticity",
@@ -1473,5 +1473,6 @@
     "hadith grading"
   ],
   "srt_status": "pending",
-  "catchy_title": "Stop Worrying About What Doesn't Concern You"
+  "catchy_title": "Stop Worrying About What Doesn't Concern You",
+  "manually_reviewed": true
 }

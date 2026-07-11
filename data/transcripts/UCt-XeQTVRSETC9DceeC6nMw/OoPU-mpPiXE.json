@@ -2258,7 +2258,7 @@
   "summary": "This is a detailed Islamic lecture analyzing the famous Hadith of Gabriel (Jibreel), which is considered the foundational hadith of Islam. The speaker explains that Gabriel came to teach the companions about Islam through questioning, and discusses how causing something to happen carries the same ruling as doing it directly. The core focus is defining Islam through its three essential components: submission to Allah with monotheism (worshipping only Allah), adherence to Allah with holistic obedience, and disassociation from polytheism and its people. The lecturer emphasizes that these three elements are the bare minimum threshold for being Muslim and cannot be compromised, even if someone performs all other good deeds.",
   "suggested_title": "The Definition of Islam: The Three Essential Elements from the Hadith of Gabriel",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Muslim",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "The Hadith of Gabriel (Jibreel) - Book of Faith (Iman)",
   "topic_tags": [
     "hadith of gabriel",
@@ -2271,5 +2271,6 @@
     "iman"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Did Gabriel Only Ask Questions?"
+  "catchy_title": "Why Did Gabriel Only Ask Questions?",
+  "manually_reviewed": true
 }

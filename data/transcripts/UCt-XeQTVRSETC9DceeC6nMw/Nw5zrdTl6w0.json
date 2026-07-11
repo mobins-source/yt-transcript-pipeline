@@ -616,7 +616,7 @@
   "summary": "This lecture discusses a hadith from Riyadul Saliheen (The Gardens of the Righteous) by Imam al-Nawawi, specifically from the chapter on patience. The speaker covers the hadith narrated by Abu Hurairah in which the Prophet Muhammad (peace be upon him) states that a believer continues to face trials in their body, children, and wealth until they meet Allah with no sins remaining. The lecturer explains that these trials serve as expiation for sins when met with patience and acceptance of Allah's decree.",
   "suggested_title": "Patience in Times of Trial: Hadith on Tribulation and Expiation of Sins",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Patience",
   "topic_tags": [
     "patience",
@@ -629,5 +629,6 @@
     "islamic teachings"
   ],
   "srt_status": "pending",
-  "catchy_title": "How Trials Erase Your Sins"
+  "catchy_title": "How Trials Erase Your Sins",
+  "manually_reviewed": true
 }

@@ -916,7 +916,7 @@
   "summary": "This lecture from the Muslim Community Center of Tucson discusses chapter from Riyadul Saliheen (Gardens of the Righteous) focusing on the virtue of Friday and its obligations, as well as the expiation of sins through the five daily prayers, Friday prayers, and Ramadan fasting. The speaker explains a hadith narrated by Abu Hurairah in which the Prophet Muhammad (peace be upon him) states that the five prayers, Friday to Friday, and Ramadan to Ramadan expiate the sins that fall between them, provided one avoids major sins. The lecture elaborates on the definition of major sins (kabair) versus minor sins (saghair), explaining that major sins are those with specific punishments in Islamic law or those for which the Prophet disassociated himself from the doer, while minor sins are those without such specific designations.",
   "suggested_title": "Riyadul Saliheen: The Expiation of Sins Through Daily Prayers, Friday, and Ramadan - Definition of Major and Minor Sins",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "The Virtue of Friday and Its Obligation; Increased Remembrance of Allah After Friday",
   "topic_tags": [
     "friday prayer",
@@ -929,5 +929,6 @@
     "daily prayers"
   ],
   "srt_status": "pending",
-  "catchy_title": "How Five Prayers Erase Your Sins"
+  "catchy_title": "How Five Prayers Erase Your Sins",
+  "manually_reviewed": true
 }

@@ -669,8 +669,8 @@
   "time_slot": "Friday-Fajr",
   "summary": "This is a detailed Islamic lecture discussing the concept of prayer (salah) in Islam, with emphasis on the spiritual benefits and rewards of praying in mosques. The speaker explains different categories of mosques (the Grand Mosque, the Prophet's Mosque, the Al-Aqsa Mosque, and congregational mosques) and discusses how angels invoke blessings upon those who pray. The lecture covers the meaning of 'salah' (prayer/supplication) from both linguistic and Islamic perspectives, referencing Quranic verses and the practices of Prophet Muhammad.",
   "suggested_title": "Understanding the Spiritual Significance of Prayer in Islam: Mosques, Angels, and Divine Blessings",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "prayer",
@@ -683,5 +683,6 @@
     "blessings"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Angels Bless Those Who Pray in Mosques"
+  "catchy_title": "Why Angels Bless Those Who Pray in Mosques",
+  "manually_reviewed": true
 }

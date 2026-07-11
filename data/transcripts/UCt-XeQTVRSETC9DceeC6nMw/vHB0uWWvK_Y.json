@@ -1910,8 +1910,8 @@
   "time_slot": "Friday-Isha",
   "summary": "This lecture analyzes Surah Al-Muzzammil (Chapter 73), Verse 20, exploring the Islamic concept of prayer (salah) and Quranic recitation. The speaker discusses the abrogation (Naskh) of night prayers from obligatory to recommended after the five daily prayers were legislated in the second year after prophethood. The lecture examines two scholarly interpretations of the verse's command to recite what is easy: whether it refers to Quranic recitation or prayer itself. The instructor explains how these concepts are intertwined, as Quranic recitation is a necessary component of salah, and demonstrates this through linguistic analysis and hadith examples. The lecture concludes with an etymological analysis of the word 'salah,' tracing its Arabic root to the concept of burning or purifying, explaining how prayer purifies the soul from sins.",
   "suggested_title": "Analysis of Surah Al-Muzzammil Verse 20: Prayer, Quranic Recitation, and the Etymology of Salah",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "surah al-muzzammil",
@@ -1924,5 +1924,6 @@
     "Islamic jurisprudence"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Prayer and Quranic Recitation Are Inseparable"
+  "catchy_title": "Why Prayer and Quranic Recitation Are Inseparable",
+  "manually_reviewed": true
 }

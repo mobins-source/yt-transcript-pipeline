@@ -1555,7 +1555,7 @@
   "summary": "This lecture discusses a hadith about the most virtuous people, exploring how the Prophet Muhammad responded to companions' questions about virtue and merit. The speaker emphasizes that true virtue comes from taqwa (God-consciousness) and requires deep knowledge of the Quran and Sunnah. The narration, collected by both Bukhari and Muslim, addresses different interpretations of the question about virtue—whether it refers to general virtue, noble lineage (exemplified by Prophet Yusuf), or the best tribes of Arabs. The speaker stresses that virtue in Islamic teaching depends on understanding and implementing Quranic knowledge, not just good intentions.",
   "suggested_title": "The Foundation of Virtue: Knowledge of Quran and Sunnah",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "virtue",
@@ -1568,5 +1568,6 @@
     "arab lineage"
   ],
   "srt_status": "pending",
-  "catchy_title": "What Makes Someone Truly Virtuous?"
+  "catchy_title": "What Makes Someone Truly Virtuous?",
+  "manually_reviewed": true
 }

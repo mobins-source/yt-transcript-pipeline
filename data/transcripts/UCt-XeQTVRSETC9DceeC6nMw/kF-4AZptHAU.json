@@ -1405,7 +1405,7 @@
   "summary": "This lecture from the Muslim Community Center of Tucson discusses the story of Zayd ibn Muhammad and his son Usama from Riyadul Saliheen's chapter on patience. The speaker explains the historical context of slavery and adoption during the pre-Islamic period (Jahiliyyah) and how Islam transformed these practices. Zayd was gifted as a slave to the Prophet Muhammad before his prophethood, but chose to stay with the Prophet, who then freed and adopted him. The lecture details how adoption practices in Jahiliyyah were abolished through Quranic revelation, particularly when the Prophet was commanded to marry Zaynab (Zayd's divorced wife), which broke the social taboo against such unions. This single action served to eradicate both illegitimate adoption practices and certain slavery customs. The speaker emphasizes how Allah honored Zayd by mentioning him by name in the Quran—the only companion mentioned by name—as compensation for losing his adoptive lineage.",
   "suggested_title": "The Story of Zayd ibn Muhammad: Abolishing Jahiliyyah Practices of Adoption and Slavery",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter of Patience, 29th narration",
   "topic_tags": [
     "zayd ibn muhammad",
@@ -1418,5 +1418,6 @@
     "islamic law"
   ],
   "srt_status": "pending",
-  "catchy_title": "How Islam Ended Jahiliyyah's Adoption Practices"
+  "catchy_title": "How Islam Ended Jahiliyyah's Adoption Practices",
+  "manually_reviewed": true
 }

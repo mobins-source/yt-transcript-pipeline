@@ -947,7 +947,7 @@
   "summary": "This lecture discusses a hadith from Sahih Muslim about the morning emergence of people and the metaphor of selling one's soul. The speaker explains that every person's life is like a daily transaction in the marketplace, where individuals either sell their souls to Allah (gaining emancipation and freedom) or sell themselves into servitude to desires, material wealth, arrogance, and disobedience (resulting in bondage). The narration touches on multiple Islamic principles including purification, faith, prayer, charity, patience, and the Quran's role as either an argument for or against a person. The speaker emphasizes that human beings are inherently created as slaves of Allah, and choosing to serve only Allah represents the highest station of nobility and freedom, while rejecting this results in slavery to lesser masters.",
   "suggested_title": "Everyone Emerges in the Morning and Sells Himself: Understanding the Hadith of Choice and Servitude",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Muslim",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter of Patience",
   "topic_tags": [
     "hadith",
@@ -960,5 +960,6 @@
     "islamic principles"
   ],
   "srt_status": "pending",
-  "catchy_title": "Are You Selling Your Soul Daily?"
+  "catchy_title": "Are You Selling Your Soul Daily?",
+  "manually_reviewed": true
 }

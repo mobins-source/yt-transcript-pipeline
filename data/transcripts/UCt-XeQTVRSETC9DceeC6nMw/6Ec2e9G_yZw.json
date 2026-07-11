@@ -1625,8 +1625,8 @@
   "time_slot": "Monday-Fajr",
   "summary": "This lecture discusses the seventh and final chapter on things permissible while fasting according to Islamic jurisprudence. The speaker explains various practices allowed during fasting including brushing teeth (siwak), using perfume, applying lotion, using eye drops, and receiving injections. The core of the discussion focuses on Islamic legal methodology—specifically the difference between the default ruling (hukm) for acts of worship versus customs (mu'amalat). In worship, the default is impermissibility unless explicitly permitted by Allah, while in daily customs, the default is permissibility unless explicitly prohibited. The speaker uses the analogy of Adam in paradise to illustrate this principle, where Allah commanded what was forbidden rather than listing all permissions.",
   "suggested_title": "Fasting Permissibilities and Islamic Legal Methodology: Customs vs Worship",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "fasting",
@@ -1639,5 +1639,6 @@
     "permissibility"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Worship and Daily Life Have Opposite Rules"
+  "catchy_title": "Why Worship and Daily Life Have Opposite Rules",
+  "manually_reviewed": true
 }

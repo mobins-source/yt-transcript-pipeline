@@ -1329,8 +1329,8 @@
   "time_slot": "Wednesday-Isha",
   "summary": "This lecture discusses the early period of Prophet Muhammad's mission, focusing on the first revelation of the Quran in the month of Ramadan and the Prophet's encounter with Angel Gabriel. The speaker details how the Prophet consulted with his wife Khadijah, who took him to her cousin Waraqa ibn Nawfal, a Christian scholar knowledgeable about scripture and previous prophets. The lecture then explains the pre-Islamic Arab beliefs and practices, including their mixed understanding of the religion of Prophet Ibrahim. The speaker traces how idolatry was introduced to the Arabian Peninsula through Ibnu Luhai, a prominent merchant and chieftain who adopted idol worship from the Romans, fundamentally corrupting the Arabs' religious understanding and leading many astray.",
   "suggested_title": "The First Revelation and the Introduction of Idolatry in Pre-Islamic Arabia",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "first revelation",
@@ -1343,5 +1343,6 @@
     "jahiliyyah"
   ],
   "srt_status": "pending",
-  "catchy_title": "When Gabriel Brought the First Words"
+  "catchy_title": "When Gabriel Brought the First Words",
+  "manually_reviewed": true
 }

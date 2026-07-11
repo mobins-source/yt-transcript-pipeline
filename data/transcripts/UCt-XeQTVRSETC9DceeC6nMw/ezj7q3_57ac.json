@@ -877,7 +877,7 @@
   "summary": "This lecture discusses a hadith narrated by Abu Yahya Surah al-Rumi, explaining the narrator's background as an Iraqi slave brought to Mecca during pre-Islamic times. The speaker contrasts the treatment of slavery in pre-Islamic and Islamic periods, highlighting how Islam progressively restricted the ways one could become enslaved (only through war captivity) while expanding numerous paths to freedom, such as self-purchase, master's consent, or as expiation for various sins. The main hadith teaches that all affairs of a believer result in good outcomes: gratitude for blessings and patience during hardships both benefit him, whereas the disbeliever gains nothing from either circumstance. The speaker emphasizes this is exclusive to believers and demonstrates Islam's wisdom in gradual social reform without causing economic or social disruption.",
   "suggested_title": "The Affairs of the Believer Are All Good - Hadith on Gratitude and Patience",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Muslim",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "gratitude",
@@ -890,5 +890,6 @@
     "divine wisdom"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Everything Works Out for Believers"
+  "catchy_title": "Why Everything Works Out for Believers",
+  "manually_reviewed": true
 }

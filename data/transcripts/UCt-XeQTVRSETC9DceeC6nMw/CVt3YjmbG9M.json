@@ -1455,7 +1455,7 @@
   "summary": "This lecture discusses the Islamic concept of divine decree (qadr) and human free will as taught through a hadith narration from Abdullah ibn Abbas. The speaker explains the middle path between extreme positions on predestination and free will, emphasizing that Allah has knowledge and control while humans possess genuine agency within divine parameters. The sermon uses prophetic proverbs and wisdom statements as practical tools for decision-making, illustrating how concepts like patience, relief, and victory are interconnected and give meaning to human existence.",
   "suggested_title": "Divine Decree and Human Free Will: Prophetic Wisdom for Daily Life",
   "content_type": "Hadith",
-  "hadith_book": "Other",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Abdullah ibn Abbas teaching on decree and free will",
   "topic_tags": [
     "qadr",
@@ -1468,5 +1468,6 @@
     "spiritual guidance"
   ],
   "srt_status": "pending",
-  "catchy_title": "Free Will vs Divine Decree: Finding Balance"
+  "catchy_title": "Free Will vs Divine Decree: Finding Balance",
+  "manually_reviewed": true
 }

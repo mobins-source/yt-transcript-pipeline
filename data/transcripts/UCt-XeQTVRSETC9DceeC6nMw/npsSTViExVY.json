@@ -1210,8 +1210,8 @@
   "time_slot": "Thursday-Isha",
   "summary": "This lecture discusses the revelation of the Quran during the night of Laylat al-Qadr (the Night of Power) in Ramadan, referencing scholarly opinions about the specific nights it may occur (21st, 23rd, 25th, 27th, or 29th of Ramadan). The speaker explores hadith accounts regarding when the Quran was revealed and discusses the first revelation to Prophet Muhammad, including the account of his fear and Khadijah's reassurance. The lecture emphasizes the virtues mentioned by Khadijah about the Prophet's good character, including maintaining family ties, bearing burdens for others, providing for the needy, showing hospitality to guests, and helping those in need.",
   "suggested_title": "The Revelation of the Quran During Laylat al-Qadr and the First Revelation to the Prophet",
-  "content_type": "Mixed",
-  "hadith_book": "Sahih Bukhari",
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Revelation and Surah Al-Alaq",
   "topic_tags": [
     "laylat al-qadr",
@@ -1224,5 +1224,6 @@
     "night of power"
   ],
   "srt_status": "pending",
-  "catchy_title": "When Was the Quran First Revealed?"
+  "catchy_title": "When Was the Quran First Revealed?",
+  "manually_reviewed": true
 }

@@ -253,8 +253,8 @@
   "time_slot": "Wednesday-Isha",
   "summary": "This is an Islamic lecture discussing Surah Al-Muddathir (Chapter 74), specifically verses 54-56. The speaker provides Quranic exegesis (tafsir) on these verses, explaining the meanings of key phrases and their grammatical interpretations. The lecture emphasizes God's role in guidance and remembrance, exploring the meaning of \"Kala\" (nay/verily) as a word of emphasis and awakening. The speaker also discusses different Quranic readings (qira'at) and concludes with a supplication asking Allah for forgiveness, piety, and divine assistance.",
   "suggested_title": "Tafsir of Surah Al-Muddathir Verses 54-56: Understanding Divine Guidance and Remembrance",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "quran",
@@ -267,5 +267,6 @@
     "qiraat"
   ],
   "srt_status": "pending",
-  "catchy_title": "Does Remembrance of Allah Depend on Us?"
+  "catchy_title": "Does Remembrance of Allah Depend on Us?",
+  "manually_reviewed": true
 }

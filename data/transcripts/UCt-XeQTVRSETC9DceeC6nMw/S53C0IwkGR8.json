@@ -2249,8 +2249,8 @@
   "time_slot": "Thursday-Isha",
   "summary": "This lecture discusses Surah Al-Mutaffifin, the first chapter revealed to Prophet Muhammad in Medina, emphasizing the critical transition between the Meccan and Medinan periods of Islam. The speaker explains the linguistic and theological meaning of \"mutaffifin\" (those who deal in fraud), describing individuals who demand their full rights from others while refusing to give others their due rights. The sermon connects this Quranic concept to contemporary Muslim attitudes, particularly the tendency to focus on personal entitlements rather than personal responsibilities. The speaker critiques how Muslims obsess over what they are owed rather than what they owe, drawing parallels to hypocritical behavior and emphasizing that true faith requires fulfilling others' rights even when our own rights are violated.",
   "suggested_title": "Surah Al-Mutaffifin: Fulfilling the Rights of Others Over Our Own",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "surah al-mutaffifin",
@@ -2263,5 +2263,6 @@
     "character development"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why We Demand Rights But Dodge Responsibilities"
+  "catchy_title": "Why We Demand Rights But Dodge Responsibilities",
+  "manually_reviewed": true
 }

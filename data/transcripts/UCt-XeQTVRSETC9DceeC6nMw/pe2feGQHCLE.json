@@ -1732,7 +1732,7 @@
   "summary": "This lecture discusses the preparatory period before Prophet Muhammad received the first revelation from Angel Gabriel in the cave of Hira. The speaker explains how Allah prepared the Prophet's heart through righteous premonitions (ru'ya) for approximately six months before revelation began. The lecture details the three categories of dreams according to Islamic tradition: righteous premonitions from Allah, dreams from Satan that cause anxiety or evil thoughts, and ordinary dreams from one's subconscious mind. The speaker emphasizes that while dream interpretation is a legitimate Islamic science, it should not be given excessive weight in Muslim life, and contrasts Islamic understanding of dreams with modern psychological approaches.",
   "suggested_title": "The Preparation of the Prophet's Heart: Righteous Premonitions Before Revelation",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Muslim",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "On righteous premonitions and the interpretation of dreams",
   "topic_tags": [
     "prophet muhammad",
@@ -1745,5 +1745,6 @@
     "hadith"
   ],
   "srt_status": "pending",
-  "catchy_title": "How Allah Prepared the Prophet's Heart"
+  "catchy_title": "How Allah Prepared the Prophet's Heart",
+  "manually_reviewed": true
 }

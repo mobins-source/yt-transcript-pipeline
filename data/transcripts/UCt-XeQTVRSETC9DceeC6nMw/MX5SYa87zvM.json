@@ -1740,8 +1740,8 @@
   "time_slot": "Friday-Isha",
   "summary": "This lecture explores the name 'Allah' (الله), one of the 99 names of Allah and the most prominent name that every Muslim must know to enter Islam. The speaker explains the etymology and linguistic roots of the word 'Allah,' derived from the Arabic root 'alah' meaning 'the one who is worshiped out of love and exaltation.' The lecture differentiates between 'ilah' (that which is worshiped) and 'Allah' (that which is worshiped with love and exaltation), explaining how the Arabs originally used both terms but eventually reserved 'Allah' exclusively for the Creator. The speaker details how the word was linguistically refined through the removal of the hamza and merger of letters, and emphasizes that 'Allah' is grammatically unique in Arabic—having no masculine or feminine forms and transcending all other descriptions. The lecture connects this understanding to the Islamic testimony (Shahada), illustrating how the Quran corrected pre-Islamic Arab practices of associating partners with Allah and explaining the original monotheistic religion of Prophet Ibrahim.",
   "suggested_title": "The Name of Allah: Etymology, Meaning, and Significance in Islamic Testimony",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "names of allah",
@@ -1754,5 +1754,6 @@
     "pre-islamic arabia"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why You Must Know This One Name of Allah"
+  "catchy_title": "Why You Must Know This One Name of Allah",
+  "manually_reviewed": true
 }

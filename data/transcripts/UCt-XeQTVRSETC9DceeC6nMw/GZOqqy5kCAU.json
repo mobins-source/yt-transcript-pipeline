@@ -2288,8 +2288,8 @@
   "time_slot": "Sunday-Fajr",
   "summary": "This lecture discusses the rulings of fasting (sawm) in Islam, specifically addressing exemptions and allowances based on the Quranic foundation that 'Allah desires ease for you and does not desire difficulty.' The speaker explains how Islamic jurisprudence works by establishing foundational principles and then applying them to various situations. He details two categories of illness affecting fasting: temporary illness (where days are made up) and chronic/indefinite illness (where fidya or feeding the poor is required). The lecture then extends these principles to other situations like menstruation, postpartum, pregnancy, and breastfeeding, explaining that while not medical illnesses, they present similar circumstances and thus follow similar rulings based on their duration.",
   "suggested_title": "Fasting Exemptions: Understanding Temporary vs. Chronic Conditions and Their Rulings",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "fasting",
@@ -2304,5 +2304,6 @@
     "ease in islam"
   ],
   "srt_status": "pending",
-  "catchy_title": "When Illness Changes Your Fasting Obligations"
+  "catchy_title": "When Illness Changes Your Fasting Obligations",
+  "manually_reviewed": true
 }

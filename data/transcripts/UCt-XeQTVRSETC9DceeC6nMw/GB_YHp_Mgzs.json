@@ -1415,7 +1415,7 @@
   "summary": "This lecture discusses a hadith from Riyadul Saliheen regarding the Quran as an argument for or against a person. The speaker explains that this principle applies universally to all accountable individuals who have reached puberty, possess sound mind, and have knowledge of the Quran. The lecture emphasizes that every human being has an innate sense of right and wrong and bears responsibility to investigate fundamental questions about existence and the message of Islam. The speaker argues that ignorance or busyness cannot excuse people from seeking truth, especially in modern times when the Quran is widely accessible.\n\nThe lecture further elaborates on human nature and accountability, noting that people often make promises to Allah during times of hardship but fail to follow through. The speaker concludes by warning against comparing oneself to others on matters of religion, emphasizing that on the Day of Judgment, individuals will be judged against the standards of the Quran and their knowledge of it, not against other people's actions or faith levels.",
   "suggested_title": "The Quran as an Argument For or Against You: Accountability and Personal Responsibility",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter of Patience (25th chapter), First narration of chapter 25",
   "topic_tags": [
     "quran",
@@ -1428,5 +1428,6 @@
     "islamic ethics"
   ],
   "srt_status": "pending",
-  "catchy_title": "Will the Quran Testify For or Against You?"
+  "catchy_title": "Will the Quran Testify For or Against You?",
+  "manually_reviewed": true
 }

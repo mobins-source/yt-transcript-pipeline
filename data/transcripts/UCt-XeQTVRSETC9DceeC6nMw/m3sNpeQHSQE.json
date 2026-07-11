@@ -1003,7 +1003,7 @@
   "summary": "This lecture discusses Chapter 210 from a hadith collection focusing on the merits, virtues, rulings, and etiquettes of Friday (Jumu'ah). The instructor analyzes two complementary narrations from Omar and Abu Hurayrah regarding the obligation of bathing on Friday. The first narration indicates that those attending Jumu'ah prayer must bathe before coming, while the second establishes bathing as an obligation for all pubescent Muslims on Friday, regardless of attendance. The lecture clarifies that bathing is obligatory for Friday but not a condition for the prayer's validity (unlike wudu), distinguishing between an independent obligation and a prerequisite for prayer acceptance.",
   "suggested_title": "The Obligation of Bathing on Friday (Jumu'ah): Rulings and Etiquettes",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter 210 - Merits, Virtues, Rulings and Etiquettes of the Day of Friday",
   "topic_tags": [
     "friday prayer",
@@ -1016,5 +1016,6 @@
     "companions"
   ],
   "srt_status": "pending",
-  "catchy_title": "Is Friday Bathing Obligatory for Everyone?"
+  "catchy_title": "Is Friday Bathing Obligatory for Everyone?",
+  "manually_reviewed": true
 }

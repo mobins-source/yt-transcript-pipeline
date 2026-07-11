@@ -1089,7 +1089,7 @@
   "summary": "This lecture analyzes a hadith narrated by Abu Bakr in which the Prophet Muhammad (peace be upon him) states that if two Muslims fight each other with swords, both the killer and the victim will be in hellfire. The speaker explains the significance of the Prophet's specific wording, emphasizing that killing a Muslim is described as an act characteristic of disbelievers. The lecture explores the distinction between kufr al-asghar (minor disbelief referring to acts of disbelief) and kufr al-akbar (major disbelief that removes one from Islam), clarifying that fighting fellow Muslims is considered an act of disbelief while not necessarily making the perpetrator an apostate. The speaker uses examples from the Quran to illustrate how Islamic rhetoric conveys multiple layers of meaning through economical wording.",
   "suggested_title": "Understanding the Hadith on Muslims Fighting with Swords: Kufr Al-Asghar vs Kufr Al-Akbar",
   "content_type": "Hadith",
-  "hadith_book": "Other",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "hadith analysis",
@@ -1102,5 +1102,6 @@
     "prophet teachings"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Killing a Muslim is Kufr"
+  "catchy_title": "Why Killing a Muslim is Kufr",
+  "manually_reviewed": true
 }

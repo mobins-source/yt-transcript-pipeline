@@ -1585,7 +1585,7 @@
   "summary": "This lecture continues the discussion of the book of fasting, focusing on recommended actions during fasting and what is permissible for those who are fasting. The speaker clarifies the distinction between actions that invalidate a fast versus those that deplete its reward, using the hadith about fasting that yields only hunger. The lecture addresses the dua for breaking fast, warns against fabricated narrations circulating on social media and in decorative materials, and discusses permissible activities such as bathing, rinsing the mouth, brushing teeth with toothpaste, and blood donation. The speaker emphasizes the importance of authentic Islamic knowledge and the difference between what is haram versus merely uncomfortable or inappropriate.",
   "suggested_title": "Recommended Acts During Fasting and Permissible Actions for the Fasting Person",
   "content_type": "Hadith",
-  "hadith_book": "Other",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Book of Fasting - Chapter on Recommended and Permissible Acts",
   "topic_tags": [
     "fasting",
@@ -1598,5 +1598,6 @@
     "social media"
   ],
   "srt_status": "pending",
-  "catchy_title": "What Actually Breaks Your Fast?"
+  "catchy_title": "What Actually Breaks Your Fast?",
+  "manually_reviewed": true
 }

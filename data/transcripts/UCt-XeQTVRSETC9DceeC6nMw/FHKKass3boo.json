@@ -1288,8 +1288,8 @@
   "time_slot": "Friday-Isha",
   "summary": "This Islamic lecture discusses Surah Al-Muzzammil and the story of Pharaoh's rejection of Prophet Moses. The speaker explains that Pharaoh's disbelief was not due to lack of conviction—he was internally certain of Moses's prophethood—but rather his complete disobedience and refusal to submit and adhere to Allah's commands. The lecture emphasizes the three essential components of Islam: submission to Allah, adherence through obedience, and disassociation from shirk and its people. These must work together simultaneously; lacking any one component makes one's Islam deficient. The speaker uses Pharaoh's example to illustrate that mere intellectual conviction without obedience and submission does not constitute true belief.",
   "suggested_title": "Pharaoh's Disobedience and the Three Components of Islam",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "pharaoh",
@@ -1302,5 +1302,6 @@
     "conviction and action"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Pharaoh Knew Truth But Rejected It"
+  "catchy_title": "Why Pharaoh Knew Truth But Rejected It",
+  "manually_reviewed": true
 }

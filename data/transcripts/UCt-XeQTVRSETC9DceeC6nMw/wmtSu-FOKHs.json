@@ -2158,8 +2158,8 @@
   "time_slot": "Wednesday-Fajr",
   "summary": "This lecture discusses the foundational Islamic concepts of conditions, pillars, and obligations in acts of worship, with specific focus on fasting (sawm) during Ramadan. The speaker explains that conditions are prerequisites outside the act itself, pillars are essential components within the act, and obligations can be overlooked if forgotten without invalidating the worship. The lecture details the two pillars of fasting: intention (niyyah) and refraining from things that break the fast, emphasizing that intention is an internal matter of the heart and does not require verbal declaration, contrary to popular practice. The speaker references scholarly consensus from the four Islamic schools of jurisprudence regarding intention and promises to discuss the six things that break a fast in the next session.",
   "suggested_title": "The Pillars and Conditions of Fasting: Understanding Intention and Valid Fasting",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "fasting",
@@ -2172,5 +2172,6 @@
     "sawm"
   ],
   "srt_status": "pending",
-  "catchy_title": "Does Intention Need to Be Spoken Aloud?"
+  "catchy_title": "Does Intention Need to Be Spoken Aloud?",
+  "manually_reviewed": true
 }

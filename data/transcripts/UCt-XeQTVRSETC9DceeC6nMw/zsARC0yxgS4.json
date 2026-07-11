@@ -1726,7 +1726,7 @@
   "summary": "This lecture discusses a hadith narrated by Ibn Abbas, where the Prophet Muhammad teaches about the importance of knowing and obeying Allah during times of ease, not just during hardship. The speaker emphasizes that building a strong relationship with Allah through obedience and worship in times of comfort is what distinguishes believers from non-believers. The lecture explores how everyone calls upon Allah during crises, but only true believers maintain their connection to Allah when life is going well. The second half addresses the Islamic concept of divine decree (qadr), explaining that events cannot be avoided if Allah has decreed them, and that believers should accept this with the statement 'Insha'Allah' rather than expressing regret through phrases like 'if only.'",
   "suggested_title": "Building a Relationship with Allah in Times of Ease: Hadith of Ibn Abbas and Divine Decree",
   "content_type": "Hadith",
-  "hadith_book": "Other",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter of Vigilance of Allah (Taqwa)",
   "topic_tags": [
     "hadith",
@@ -1739,5 +1739,6 @@
     "iman"
   ],
   "srt_status": "pending",
-  "catchy_title": "Know Allah in Good Times, Not Just Crisis"
+  "catchy_title": "Know Allah in Good Times, Not Just Crisis",
+  "manually_reviewed": true
 }

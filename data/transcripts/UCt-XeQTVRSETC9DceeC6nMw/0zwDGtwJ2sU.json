@@ -2209,7 +2209,7 @@
   "summary": "This lecture discusses the pillars of fasting in Islam, specifically focusing on the second pillar which involves refraining from actions that break the fast. The speaker explains the six things that invalidate a fast, with emphasis on eating and drinking. The lecture covers the definition of eating and drinking (anything foreign going down the throat through mouth or nose), distinguishes between substances that substitute for food/drink versus those that merely provide nourishment (like vitamins or insulin), and provides Quranic and Hadith evidence for these rulings. A significant portion addresses the importance of understanding evidence from the Quran and Sunnah rather than merely following scholarly opinions without comprehension.",
   "suggested_title": "The Pillars of Fasting: What Breaks the Fast and the Importance of Understanding Evidence",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Book of Fasting",
   "topic_tags": [
     "fasting",
@@ -2222,5 +2222,6 @@
     "fiqh"
   ],
   "srt_status": "pending",
-  "catchy_title": "Six Things That Break Your Fast"
+  "catchy_title": "Six Things That Break Your Fast",
+  "manually_reviewed": true
 }

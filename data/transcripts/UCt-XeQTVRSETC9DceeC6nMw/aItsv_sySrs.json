@@ -1530,8 +1530,8 @@
   "time_slot": "Friday-Isha",
   "summary": "This lecture provides a detailed meditation on the opening verses of Surah Al-Alaq (verses 4-5), focusing on Allah's attributes of teaching humanity through the pen and knowledge. The speaker emphasizes the profound significance of the pen as a blessing from Allah, explaining how it enables the transmission of knowledge across generations and centuries. The lecture explores the etymological meanings of the Arabic word \"insan\" (human being), deriving it from both forgetfulness and the human need for social companionship, and discusses how these meanings relate to humanity's tendency toward transgression and disobedience.",
   "suggested_title": "Meditation on Surah Al-Alaq: The Blessing of the Pen and Human Nature",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "quran",
@@ -1544,5 +1544,6 @@
     "islamic teachings"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Allah Called the Pen His Greatest Gift"
+  "catchy_title": "Why Allah Called the Pen His Greatest Gift",
+  "manually_reviewed": true
 }

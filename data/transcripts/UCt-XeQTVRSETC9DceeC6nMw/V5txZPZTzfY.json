@@ -671,7 +671,7 @@
   "summary": "This lecture continues a discussion on the chapter of patience from a hadith collection, focusing on a narration from Sahih Bukhari in which the Prophet Muhammad explains that Allah afflicts those He loves with difficulties to help them grow spiritually, expiate sins, and raise their status. The speaker elaborates on how trials and hardships, combined with knowledge of revelation, purify and develop the human soul. The lecture draws parallels to Quranic imagery of water and fire representing knowledge and difficulties respectively, and uses the analogy of precious metals being refined through processes to become superior final products, similar to how humans are perfected through the combination of divine guidance and life challenges.",
   "suggested_title": "The Role of Patience and Hardship in Spiritual Purification - Sahih Bukhari",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter of Patience",
   "topic_tags": [
     "patience",
@@ -684,5 +684,6 @@
     "character development"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Allah Tests Those He Loves Most"
+  "catchy_title": "Why Allah Tests Those He Loves Most",
+  "manually_reviewed": true
 }

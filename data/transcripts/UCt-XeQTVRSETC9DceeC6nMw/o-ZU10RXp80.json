@@ -1882,8 +1882,8 @@
   "time_slot": "Sunday-Isha",
   "summary": "This lecture discusses the beginning of Surah Al-Alaq and its broader theological implications regarding human dignity and worth. The speaker emphasizes how Allah honors the children of Adam despite their creation from humble origins, contrasting this Islamic perspective with Darwinian evolution theory. The sermon explores how modern society undervalues human life due to secular ideologies, citing examples like suicide, addiction, reckless behavior, and the commodification of human existence. The speaker critiques evolutionary theory as a framework that denies human special status, arguing it has infiltrated both secular and religious institutions, leading to destructive ideologies and a culture that disrespects human life.",
   "suggested_title": "Human Dignity in Islam vs. Darwinian Evolution: Understanding Our True Worth",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "surah al-alaq",
@@ -1896,5 +1896,6 @@
     "youth guidance"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Islam Honors Human Dignity Differently"
+  "catchy_title": "Why Islam Honors Human Dignity Differently",
+  "manually_reviewed": true
 }

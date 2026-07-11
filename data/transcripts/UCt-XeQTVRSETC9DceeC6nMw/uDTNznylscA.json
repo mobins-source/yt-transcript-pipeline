@@ -746,7 +746,7 @@
   "summary": "This lecture discusses the hadith about Allah's 99 Names (Asma ul-Husna) found in Sahih Bukhari and Sahih Muslim. The speaker clarifies common misconceptions about this hadith and explains that while no authentic hadith lists all 99 names in sequence, the concept is well-established in Islamic tradition. The lecture emphasizes three key aspects of engaging with Allah's names: learning and understanding them, incorporating them into daily invocations and prayers through proper supplication (dua), and allowing these divine attributes to impact one's behavior and actions in life.",
   "suggested_title": "The 99 Names of Allah: Understanding, Implementation, and Supplication",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "The Book of Tawheed (Islamic Monotheism)",
   "topic_tags": [
     "99 names of allah",
@@ -758,5 +758,6 @@
     "quranic names"
   ],
   "srt_status": "pending",
-  "catchy_title": "The 99 Names: Myth vs. Islamic Truth"
+  "catchy_title": "The 99 Names: Myth vs. Islamic Truth",
+  "manually_reviewed": true
 }

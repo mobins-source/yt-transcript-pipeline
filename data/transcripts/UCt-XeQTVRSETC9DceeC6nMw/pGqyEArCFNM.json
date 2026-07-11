@@ -2308,8 +2308,8 @@
   "time_slot": "Wednesday-Isha",
   "summary": "This lecture analyzes Surah Al-Muzammil (Chapter 74, Verse 20) and explores the precise linguistic meanings of key Islamic concepts. The speaker explains the difference between establishing prayer (iqamah) versus merely praying, and delves deeply into the Quranic vocabulary surrounding zakat (obligatory charity). Through detailed etymological analysis, the speaker distinguishes between different Arabic words for giving—specifically contrasting terms that imply temporary lending versus permanent gifting. The core teaching emphasizes that zakat never belonged to the wealthy person in the first place; they are merely conduits delivering what rightfully belongs to the poor and needy. The lecture concludes with a powerful discussion on community responsibility, using the metaphor of the Muslim ummah as one body, and critiques the practice of sending zakat overseas while ignoring the poor in one's own community.",
   "suggested_title": "Understanding Zakat and Community Responsibility: Linguistic Analysis of Surah Al-Muzammil 74:20",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "zakat",
@@ -2322,5 +2322,6 @@
     "ummah"
   ],
   "srt_status": "pending",
-  "catchy_title": "Does Zakat Really Belong to You?"
+  "catchy_title": "Does Zakat Really Belong to You?",
+  "manually_reviewed": true
 }

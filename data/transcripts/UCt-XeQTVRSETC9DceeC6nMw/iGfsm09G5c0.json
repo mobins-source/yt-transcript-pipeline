@@ -1233,8 +1233,8 @@
   "time_slot": "Saturday-Fajr",
   "summary": "This lecture concludes a multi-day discussion on the biography of Abu Hurairah, one of the most prolific narrators of hadith from the Prophet Muhammad. The speaker explains why Abu Hurairah had significantly more narrations than other major companions despite being younger and less prominent in political leadership. Key factors include his exclusive focus on narrating and teaching, his younger age allowing him to live longer past the Prophet's death, and his absence from Iraq during Ali's caliphate. The lecture covers Abu Hurairah's role as governor of Bahrain and later as the judge and narrator of Medina, his approximately 800 students, and his famous prophecies about future events, particularly regarding the leadership of foolish rulers and the year 60 AH when Yazid took power—the year after Abu Hurairah's death.",
   "suggested_title": "The Life and Legacy of Abu Hurairah: The Greatest Hadith Narrator",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "abu hurairah",
@@ -1247,5 +1247,6 @@
     "hadith transmission"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Abu Hurairah Narrated More Than Anyone"
+  "catchy_title": "Why Abu Hurairah Narrated More Than Anyone",
+  "manually_reviewed": true
 }

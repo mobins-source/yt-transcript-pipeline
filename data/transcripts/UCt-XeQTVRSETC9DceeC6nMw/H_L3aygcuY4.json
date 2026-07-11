@@ -193,8 +193,8 @@
   "time_slot": "Sunday-Fajr",
   "summary": "This content appears to be a lecture or talk discussing the concept of hypocrisy and the importance of adhering to truth and Islamic principles. The speaker references historical Islamic figures like Umar ibn Abd al-Aziz and Ahmed ibn Hanbal, discussing how leaders and scholars should not compromise their principles based on external pressures or demands from others. The speaker emphasizes that truth must prevail over falsehood, citing Quranic verses about Allah establishing truth and eliminating falsehood. The lecture concludes with a comprehensive dua (supplication) asking Allah to grant beneficial knowledge, increase strength, faith, certainty, and reliance upon Him.",
   "suggested_title": "Truth and Integrity in Islamic Leadership: A Discussion on Hypocrisy and Principles",
-  "content_type": "Mixed",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "islamic leadership",
@@ -206,5 +206,6 @@
     "scholars and integrity"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Leaders Must Never Compromise Truth"
+  "catchy_title": "Why Leaders Must Never Compromise Truth",
+  "manually_reviewed": true
 }

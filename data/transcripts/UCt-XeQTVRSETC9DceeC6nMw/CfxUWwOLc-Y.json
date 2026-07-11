@@ -969,7 +969,7 @@
   "suggested_title": "The Virtues of Knowledge and Its Bearers: Understanding the Quran Through Scholarly Guidance",
   "catchy_title": "Why Scholars Matter for Understanding the Quran",
   "content_type": "Hadith",
-  "hadith_book": "Jami al-Tirmidhi",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Chapter on the Virtues of Knowledge and Its People",
   "topic_tags": [
     "knowledge",
@@ -981,5 +981,6 @@
     "misguidance",
     "paradise"
   ],
-  "srt_status": "pending"
+  "srt_status": "pending",
+  "manually_reviewed": true
 }

@@ -992,8 +992,8 @@
   "time_slot": "Thursday-Fajr",
   "summary": "This lecture discusses the opening verses of the chapter on patience, emphasizing the relationship between the Sunnah and the Quran. The speaker explains that the Sunnah has three primary roles: reiterating what is in the Quran, elaborating on generalized Quranic concepts, and providing rulings not found in the Quran. The lecture then focuses on verse 153 of Surah Al-Baqarah, which commands seeking aid through patience and prayer. The speaker explores the meaning of patience in this context, particularly discussing how fasting serves as a practical embodiment of patience and functions as a microcosm of worldly life, illustrating how transient difficulties are in relation to eternity.",
   "suggested_title": "The Chapter of Patience: Understanding the Quran and Sunnah Relationship with Focus on Surah Al-Baqarah 153",
-  "content_type": "Mixed",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "patience",
@@ -1006,5 +1006,6 @@
     "worship"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Patience and Prayer Change Everything"
+  "catchy_title": "Why Patience and Prayer Change Everything",
+  "manually_reviewed": true
 }

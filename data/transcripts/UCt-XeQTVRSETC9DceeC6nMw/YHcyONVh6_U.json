@@ -775,8 +775,8 @@
   "time_slot": "Saturday-Isha",
   "summary": "This lecture provides a detailed Quranic analysis of verse 8 from Surah Al-Muzammil, which reads 'And remember the name of your Lord and devote yourself to Him with [complete] devotion.' The speaker explains the verse's meaning both in isolation and within its contextual framework within the surah. The lecture discusses how the command 'wa-dhkar' (remember) connects to the previous command about reciting the Quran, and how the particle 'wa' (and) serves as a connector between multiple divine commands. The speaker emphasizes that Quranic verses often employ multiple layers of meaning by design, allowing a single verse to convey several complementary interpretations simultaneously.",
   "suggested_title": "Tafsir of Surah Al-Muzammil Verse 8: Remembering Allah's Name and Complete Devotion",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "quranic exegesis",
@@ -788,5 +788,6 @@
     "quranic interpretation"
   ],
   "srt_status": "pending",
-  "catchy_title": "How Do We Remember Allah's Name Truly?"
+  "catchy_title": "How Do We Remember Allah's Name Truly?",
+  "manually_reviewed": true
 }

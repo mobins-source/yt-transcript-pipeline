@@ -1300,7 +1300,7 @@
   "suggested_title": "The Comprehensive Narration of the Prophet's Wudoo: Method and Spiritual Significance",
   "catchy_title": "How Prophet Muhammad Perfected His Wudoo",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Book of Purification (Kitab al-Taharah)",
   "topic_tags": [
     "wudoo",
@@ -1312,5 +1312,6 @@
     "spiritual practice",
     "islamic jurisprudence"
   ],
-  "srt_status": "pending"
+  "srt_status": "pending",
+  "manually_reviewed": true
 }

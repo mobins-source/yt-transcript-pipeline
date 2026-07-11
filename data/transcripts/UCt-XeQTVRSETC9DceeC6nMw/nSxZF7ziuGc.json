@@ -817,7 +817,7 @@
   "summary": "This lecture discusses a hadith narrated by a student of Ibn Abbas about a black woman who came to the Prophet Muhammad with a request for healing from seizures or fits that caused her clothing to become exposed. The scholar explains the Islamic definitions of Sahaba (companions), Tabi'un (followers of companions), and the significance of the first three generations. The Prophet offered her a choice: patience with her condition and Paradise, or supplication for healing. She chose patience but asked specifically that she not become exposed during her fits, which the Prophet granted through supplication. The lecture emphasizes that difficulty and hardship are necessary paths to Paradise and high spiritual stations, and that Allah's decree is better than what we choose for ourselves.",
   "suggested_title": "The Woman with Fits: A Lesson on Patience, Difficulty, and Paradise",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "hadith",
@@ -830,5 +830,6 @@
     "spiritual growth"
   ],
   "srt_status": "pending",
-  "catchy_title": "Did She Choose Healing or Paradise?"
+  "catchy_title": "Did She Choose Healing or Paradise?",
+  "manually_reviewed": true
 }

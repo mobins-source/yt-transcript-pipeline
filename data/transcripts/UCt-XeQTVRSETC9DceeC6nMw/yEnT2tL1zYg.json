@@ -630,7 +630,7 @@
   "summary": "This is a lecture discussing the excellence of Friday (Jumu'ah) based on Islamic teachings. The speaker references a hadith from Riyadul Saliheen narrated by Aus ibn Aus (may Allah be pleased with him), where the Prophet Muhammad (peace be upon him) stated that Friday is the best day and Muslims should increase their prayers on that day, as their prayers are presented to him. The lecture also incorporates discussion of Quranic verses about reliance on Allah (Tawakkul) and references the story of Prophet Ibrahim (Abraham) and his unwavering trust in Allah when facing the fire.",
   "suggested_title": "The Excellence of Friday and Trust in Allah - Riyadul Saliheen",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on the virtue of Friday",
   "topic_tags": [
     "friday",
@@ -643,5 +643,6 @@
     "islamic ethics"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Friday Is Islam's Greatest Day"
+  "catchy_title": "Why Friday Is Islam's Greatest Day",
+  "manually_reviewed": true
 }

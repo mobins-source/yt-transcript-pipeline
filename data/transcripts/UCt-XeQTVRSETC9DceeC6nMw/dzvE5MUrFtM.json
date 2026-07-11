@@ -803,7 +803,7 @@
   "suggested_title": "The Conditions of Wudu: Intention, Bismillah, and Successive Performance",
   "catchy_title": "What Makes Wudu Valid and Valid?",
   "content_type": "Hadith",
-  "hadith_book": "Sunan Abu Dawud",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Book of Purification (Kitab al-Taharah)",
   "topic_tags": [
     "wudu",
@@ -815,5 +815,6 @@
     "purification",
     "Islamic jurisprudence"
   ],
-  "srt_status": "pending"
+  "srt_status": "pending",
+  "manually_reviewed": true
 }

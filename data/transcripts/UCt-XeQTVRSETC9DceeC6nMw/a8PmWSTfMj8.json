@@ -1360,7 +1360,7 @@
   "summary": "This lecture discusses a hadith narration found in both Sahih Bukhari and Sahih Muslim regarding signs before the Day of Judgment. The speaker explains a hadith where the Prophet describes how people will wish for death due to the intense spiritual trials (fitna) affecting their religion and character near the end of time. The lecturer clarifies that while the hadith mentions people wishing for death, this doesn't necessarily permit asking for death during hardship, as that ruling is discussed elsewhere. The core message is about depicting the severity of spiritual corruption and difficulty in maintaining faith during the final times.",
   "suggested_title": "Signs Before the Day of Judgment: Understanding Hadith About Spiritual Trials and the End of Times",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Book of signs before the Day of Judgment",
   "topic_tags": [
     "hadith interpretation",
@@ -1373,5 +1373,6 @@
     "islamic jurisprudence"
   ],
   "srt_status": "pending",
-  "catchy_title": "When People Will Beg for Death"
+  "catchy_title": "When People Will Beg for Death",
+  "manually_reviewed": true
 }

@@ -1338,8 +1338,8 @@
   "time_slot": "Thursday-Isha",
   "summary": "This lecture discusses the Islamic principle of not compromising on matters of faith and worship, particularly addressing the prohibition against mixing Islamic practices with other religions. The speaker uses historical context from pre-Islamic Mecca, where idol worship was prevalent, to explain how the Prophet Muhammad (peace be upon him) strictly adhered to the principle of monotheism. The lecture examines various forms of compromise—from the Quraysh's historical offers to worship Allah one year and idols the next, to modern examples like attending churches or temples while inviting others to Islam. The speaker emphasizes that accepting such compromises cheapens Islam and reduces it to merely another opinion among many belief systems.",
   "suggested_title": "The Principle of Not Compromising in Faith: Islamic Monotheism and Modern Challenges",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "monotheism",
@@ -1352,5 +1352,6 @@
     "pre-islamic history"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Islam Won't Compromise: Then and Now"
+  "catchy_title": "Why Islam Won't Compromise: Then and Now",
+  "manually_reviewed": true
 }

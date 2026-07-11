@@ -782,7 +782,7 @@
   "summary": "This lecture discusses a hadith from the chapter of repentance, specifically addressing human nature and greed. The instructor explains a narration from Sahih Bukhari and Sahih Muslim, narrated by Ibn Abbas and Malik, in which Prophet Muhammad (peace be upon him) describes how humans are never satisfied with wealth—comparing it to valleys of gold. The only thing that satisfies human greed is death (the dirt of the grave). The lecturer emphasizes that believers combat this natural inclination through the Quran and Sunnah, and importantly, that even those who allow greed to drive them to wrongdoing can find forgiveness through sincere repentance to Allah.",
   "suggested_title": "The Nature of Human Greed and the Path to Repentance - Sahih Bukhari and Muslim",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter of Repentance",
   "topic_tags": [
     "repentance",
@@ -795,5 +795,6 @@
     "forgiveness"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Gold Can Never Satisfy Human Greed"
+  "catchy_title": "Why Gold Can Never Satisfy Human Greed",
+  "manually_reviewed": true
 }

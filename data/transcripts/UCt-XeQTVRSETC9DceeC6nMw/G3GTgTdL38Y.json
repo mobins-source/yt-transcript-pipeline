@@ -2197,8 +2197,8 @@
   "time_slot": "Saturday-Isha",
   "summary": "This lecture analyzes Surah Al-An'am, focusing on its closing verses that question what disbelievers are waiting for. The speaker explains that this lengthy Meccan chapter comprehensively refutes all arguments against Islam and the false beliefs of pre-Islamic Arabia. The discourse then explores three significant events mentioned in the Quran: the arrival of the angels of death, the Day of Judgment, and the sun rising from the west. All three events compel universal belief, yet such forced belief is not accepted by Allah because it lacks the conscious choice and sincere struggle that characterizes true faith. The speaker emphasizes that these events share a common characteristic—they eliminate human agency in belief—and explains the theological significance of why belief during these moments holds no spiritual value.",
   "suggested_title": "The Three Events That Compel Belief: Death, Judgment, and the Sun Rising from the West - Surah Al-An'am Analysis",
-  "content_type": "Quran",
-  "hadith_book": "Other",
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "quran interpretation",
@@ -2211,5 +2211,6 @@
     "faith and choice"
   ],
   "srt_status": "pending",
-  "catchy_title": "What Are the Disbelievers Waiting For?"
+  "catchy_title": "What Are the Disbelievers Waiting For?",
+  "manually_reviewed": true
 }

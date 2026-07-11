@@ -933,7 +933,7 @@
   "summary": "This lecture discusses a foundational hadith narrated by Abdullah ibn Abbas regarding divine recording of intentions and deeds. The speaker explains that Allah records good intentions that are not acted upon as complete merits, good deeds as multiplied rewards (10 to 700 times depending on sincerity and quality), bad intentions not acted upon as merits, and actual sins as single records. The teaching emphasizes the Islamic principle that intentions precede actions, and that Allah's judgment considers both the strength of intention and circumstances surrounding deeds.",
   "suggested_title": "The Hadith of Intentions and Divine Recording of Deeds",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Sincerity and Intentions",
   "topic_tags": [
     "intentions",
@@ -946,5 +946,6 @@
     "islamic jurisprudence"
   ],
   "srt_status": "pending",
-  "catchy_title": "Does Allah Record Your Hidden Intentions?"
+  "catchy_title": "Does Allah Record Your Hidden Intentions?",
+  "manually_reviewed": true
 }

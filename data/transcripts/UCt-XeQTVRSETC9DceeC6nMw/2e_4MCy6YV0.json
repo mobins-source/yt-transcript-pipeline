@@ -615,7 +615,7 @@
   "summary": "This lecture from the Muslim Community Center of Tucson presents a study session from Riyadul Saliheen (Gardens of the Righteous) by Imam Al-Nawawi, focusing on the first chapter concerning sincerity and intention in acts of worship. The speaker discusses the importance of intentionality in all forms of worship, emphasizing that every action must be performed with sincere intention. The lecture includes detailed discussion of the companion Sa'd ibn Abi Waqqas, one of the ten companions promised paradise, his genealogy, his virtues, and his status among the Prophet's companions.",
   "suggested_title": "Riyadul Saliheen: The Chapter on Sincerity and Intention - Biography of Sa'd ibn Abi Waqqas",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter 1: On Sincerity and Intention (Baab al-Ikhlas wa Ihdar al-Niyyah)",
   "topic_tags": [
     "sincerity",
@@ -628,5 +628,6 @@
     "islamic jurisprudence"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Intention Changes Everything in Worship"
+  "catchy_title": "Why Intention Changes Everything in Worship",
+  "manually_reviewed": true
 }

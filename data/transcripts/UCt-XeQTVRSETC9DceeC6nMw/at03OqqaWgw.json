@@ -1555,8 +1555,8 @@
   "time_slot": "Sunday-Isha",
   "summary": "This lecture analyzes the opening verses of Surah Al-Alaq, emphasizing the structural importance of chapter beginnings and endings in the Quran. The speaker discusses how Allah's first command to the Prophet Muhammad was to \"recite\" (Iqra), which carries dual meanings of both oral recitation and reading from written text. The lecture explores the stages of human creation in the womb as metaphors for spiritual development, explaining how the middle stage (alaqah - clinging clot of blood) represents the Prophet's spiritual position when receiving revelation. The speaker emphasizes that the human being reaches full potential only through embodying the Quran, and that knowledge of the Quran and Sunnah is essential and non-negotiable for reaching closeness to Allah.",
   "suggested_title": "The Opening of Surah Al-Alaq: Knowledge, Revelation, and Human Potential",
-  "content_type": "Quran",
-  "hadith_book": "Sahih Muslim",
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "The narration of Umar's statement about loving the Prophet",
   "topic_tags": [
     "surah al-alaq",
@@ -1569,5 +1569,6 @@
     "importance of learning"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Allah's First Command Was 'Read'"
+  "catchy_title": "Why Allah's First Command Was 'Read'",
+  "manually_reviewed": true
 }

@@ -1209,7 +1209,7 @@
   "summary": "This lecture discusses a narration about Sad ibn Malik from the chapter on intentions and sincerity. The speaker explains how Sad became ill during the Prophet's final Hajj in the ninth year of Hijra and sought guidance about making a will and testament. The Prophet Muhammad instructed that a will can only apply to one-third of a person's wealth, regardless of their circumstances. The speaker uses this incident to illustrate how Islamic rulings on inheritance portions remain constant across all times and situations, and he critiques modern attempts to reinterpret Quranic inheritance laws. The lecture concludes with the Prophet's encouraging words to Sad about his future contributions to Islam and his leadership of Muslims in battles.",
   "suggested_title": "The Story of Sad ibn Malik: Will, Testament, and Islamic Inheritance Laws",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter of Intentions and Sincerity",
   "topic_tags": [
     "inheritance laws",
@@ -1222,5 +1222,6 @@
     "modern interpretations"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why One-Third? The Will That Changed Everything"
+  "catchy_title": "Why One-Third? The Will That Changed Everything",
+  "manually_reviewed": true
 }

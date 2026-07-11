@@ -1002,8 +1002,8 @@
   "time_slot": "Monday-Fajr",
   "summary": "This lecture discusses the concept of patience and trials in Islam, focusing on Surah Muhammad verse 31 which states that Allah tests people to reveal who truly strives and who is patient. The speaker explains the distinction between Allah's infinite, timeless knowledge (of all past, present, and future) and His knowledge of actions as they occur, emphasizing that humans are rewarded or punished based on what Allah sees happen, not on His pre-existing knowledge. The lecture also explores the purpose of human creation, explaining that Allah intentionally created humans in a state of deficit so they can earn, grow, and purify their souls through revelation and hardship rather than being created in a state of perfection without opportunity for growth.",
   "suggested_title": "Understanding Patience and Divine Testing: Surah Muhammad 31",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "patience",
@@ -1016,5 +1016,6 @@
     "divine knowledge"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Does Allah Test Us? Surah Muhammad 31"
+  "catchy_title": "Why Does Allah Test Us? Surah Muhammad 31",
+  "manually_reviewed": true
 }

@@ -867,7 +867,7 @@
   "summary": "This Islamic lecture discusses a hadith from Sunan al-Tirmidhi narrated by Safwan ibn Assal about the Prophet Muhammad's teachings on repentance and love. The speaker, referencing Imam al-Nawawi's commentary from Riyadul Saliheen, explains the concept that \"a person will be with those they love on the Day of Judgment,\" emphasizing the importance of aligning oneself with righteous people through consistent action and worship. The hadith also describes a door of repentance (the Gate of the West) that remains open for all who seek forgiveness, which will only close when the sun rises from the west—a sign of the Day of Judgment.",
   "suggested_title": "The Door of Repentance and Being with Those We Love on the Day of Judgment",
   "content_type": "Hadith",
-  "hadith_book": "Jami al-Tirmidhi",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Repentance (Bab al-Tawbah)",
   "topic_tags": [
     "repentance",
@@ -880,5 +880,6 @@
     "islamic jurisprudence"
   ],
   "srt_status": "pending",
-  "catchy_title": "Will You Be With Those You Love?"
+  "catchy_title": "Will You Be With Those You Love?",
+  "manually_reviewed": true
 }

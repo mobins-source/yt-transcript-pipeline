@@ -1941,8 +1941,8 @@
   "time_slot": "Friday-Isha",
   "summary": "This lecture discusses Quranic descriptions of the hellfire (Jahannam) and paradise, focusing on how these descriptions vary throughout the Quran to match the thematic tone of each chapter. The speaker explains that while the hellfire is described in multiple ways across different surahs, each description serves a specific purpose within its chapter's overall message. Using the example of Prophet Ibrahim's meal for his guests, the speaker illustrates how the same incident is described differently in different chapters—Surah Al-Hoot emphasizes the roasting (matching its terrifying tone) while Surah Adh-Dhariyat emphasizes generosity (matching its theme of divine unity). The lecture also addresses the 19 gatekeepers of hellfire, clarifying they are angels, not humans, and discusses the concept of hellfire containing both extreme heat and extreme cold as punishments tailored to each person's deeds.",
   "suggested_title": "Quranic Descriptions of Hellfire and Paradise: Understanding Contextual Variations and Spiritual Realities",
-  "content_type": "Quran",
-  "hadith_book": "Sahih Muslim",
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "hellfire",
@@ -1955,5 +1955,6 @@
     "tawheed"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Does Allah Describe Hellfire Differently?"
+  "catchy_title": "Why Does Allah Describe Hellfire Differently?",
+  "manually_reviewed": true
 }

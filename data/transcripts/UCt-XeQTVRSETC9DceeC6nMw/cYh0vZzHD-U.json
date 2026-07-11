@@ -1128,7 +1128,7 @@
   "summary": "This lecture discusses Hadith 71 from Sahih Muslim, which records the Prophet Muhammad's (peace be upon him) oft-repeated supplication. The speaker analyzes the linguistic construction of the hadith, explaining that it describes something the Prophet would say repeatedly. The main focus is on the supplication itself, where the Prophet asks Allah for guidance, tawa (modesty and moderation), and wealth of the heart (contentment and dignity). The instructor provides detailed explanations of key Arabic terms, particularly 'af' (modesty/moderation in all affairs) and emphasizes that this term encompasses multiple dimensions including shame, moderation in eating and behavior, and avoiding showing off.\n\nThe lecture includes a substantive discussion about contemporary Islamic practice, where the speaker expresses concern that supplications from the Quran and Sunnah are becoming rare in public worship and on the pulpit. He criticizes the trend of using overly elaborate, rhyming, or fancy supplications instead of the simple, humble supplications taught by the Prophet. The speaker explains that while the Prophet's own supplications naturally rhyme due to the eloquence of Arabic language, Muslims should not intentionally seek elaborate rhyming when making dua, as supplication is fundamentally an act of humility before Allah. He concludes by defining key terms from the hadith: 'al-'aff' as modesty and moderation, and 'al-'affafa' as contentment and dignity of the heart.",
   "suggested_title": "Analysis of the Prophet's Supplication for Guidance, Modesty, and Contentment - Sahih Muslim Hadith 71",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Muslim",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter of Tawa, Hadith 71",
   "topic_tags": [
     "supplication",
@@ -1141,5 +1141,6 @@
     "prophet's teachings"
   ],
   "srt_status": "pending",
-  "catchy_title": "Prophet's Essential Dua: Guidance, Modesty, Contentment"
+  "catchy_title": "Prophet's Essential Dua: Guidance, Modesty, Contentment",
+  "manually_reviewed": true
 }

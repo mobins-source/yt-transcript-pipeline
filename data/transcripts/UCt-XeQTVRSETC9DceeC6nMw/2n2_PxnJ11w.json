@@ -2158,8 +2158,8 @@
   "time_slot": "Thursday-Isha",
   "summary": "This lecture discusses the virtue of Islamic scholars and their crucial role in preserving the religion. The speaker explains Quranic verse 35:28 about how only the knowledgeable fear Allah properly, emphasizing the importance of understanding the depth of Quranic language. He references hadith from Sahih Bukhari and Sahih Muslim regarding how Allah grants understanding of the religion to those He favors, and how prophets leave knowledge as their inheritance. The speaker explains that Islamic scholars serve as the heirs of the prophets in this ummah and are responsible for preserving and transmitting the Quran and Sunnah. The discourse warns about the decline in the number and caliber of scholars compared to previous generations, referencing historical examples like Ibn Qayyim al-Jawziyyah's era when there were tens of thousands of hafiz.",
   "suggested_title": "The Virtue of Islamic Scholars and Their Role as Heirs of the Prophets",
-  "content_type": "Mixed",
-  "hadith_book": "Sahih Bukhari",
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Knowledge and Understanding of Religion",
   "topic_tags": [
     "scholars",
@@ -2172,5 +2172,6 @@
     "islamic education"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Only Scholars Truly Fear Allah"
+  "catchy_title": "Why Only Scholars Truly Fear Allah",
+  "manually_reviewed": true
 }

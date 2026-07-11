@@ -747,7 +747,7 @@
   "summary": "This lecture discusses Islamic innovations (bid'ah) and theological concepts, particularly focusing on the first and second innovations in Islamic history. The speaker explains that the first innovation occurred during the Prophet's time but escalated among the companions, leading to internal conflicts and murders. The second innovation discussed is the concept of Qadariyyah (the denial of divine decree), which emerged among Muslims living as minorities among disbelievers. The speaker uses Sahih Muslim as a reference point and illustrates theological concepts through examples, such as explaining how Allah's will encompasses all events while distinguishing between what Allah loves and what He merely allows to occur.",
   "suggested_title": "The First and Second Innovations in Islamic History: Bid'ah and Qadariyyah",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Muslim",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "First narration (introduction/opening chapter with the hadith of Jibril)",
   "topic_tags": [
     "bid'ah",
@@ -760,5 +760,6 @@
     "companions"
   ],
   "srt_status": "pending",
-  "catchy_title": "When Did Islam's First Innovation Begin?"
+  "catchy_title": "When Did Islam's First Innovation Begin?",
+  "manually_reviewed": true
 }

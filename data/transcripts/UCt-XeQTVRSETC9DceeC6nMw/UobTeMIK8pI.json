@@ -1680,7 +1680,7 @@
   "summary": "This lecture discusses the Islamic legal concept of najasa (filth) as a specific legislative term distinct from general uncleanliness or immorality. The speaker explains that human urine and feces are inherently najis (filthy) and provides Quranic and Sunnah evidence to support this classification, including the hadith of Mu'adh ibn Jabal about the Prophet removing his shoes during prayer due to feces on the sole, and the hadith of Anas about a Bedouin urinating in the mosque. The lecture emphasizes the importance of understanding the evidence (dalil) behind Islamic rulings rather than merely knowing them, illustrating this with a story about Sunni scholars debating Houthi scholars in Yemen.",
   "suggested_title": "Understanding Najasa (Filth) in Islamic Jurisprudence: Evidence from Quran and Sunnah",
   "content_type": "Hadith",
-  "hadith_book": "Sunan Abu Dawud",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Book of Purification (Taharah)",
   "topic_tags": [
     "najasa",
@@ -1693,5 +1693,6 @@
     "sunnah"
   ],
   "srt_status": "pending",
-  "catchy_title": "What Does Islamic 'Filth' Actually Mean?"
+  "catchy_title": "What Does Islamic 'Filth' Actually Mean?",
+  "manually_reviewed": true
 }

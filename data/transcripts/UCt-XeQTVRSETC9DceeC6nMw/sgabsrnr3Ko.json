@@ -1160,7 +1160,7 @@
   "suggested_title": "The Three Deeds That Continue After Death: Knowledge, Charity, and Righteous Children",
   "catchy_title": "What Will You Wish For When the Veil is Lifted?",
   "content_type": "Hadith",
-  "hadith_book": "Other",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "death and afterlife",
@@ -1172,5 +1172,6 @@
     "quran and sunnah",
     "rewards in the hereafter"
   ],
-  "srt_status": "pending"
+  "srt_status": "pending",
+  "manually_reviewed": true
 }

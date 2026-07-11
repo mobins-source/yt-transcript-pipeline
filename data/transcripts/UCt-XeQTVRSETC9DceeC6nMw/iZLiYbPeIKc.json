@@ -1469,8 +1469,8 @@
   "time_slot": "Wednesday-Isha",
   "summary": "This lecture discusses the Quranic verses about the Day of Judgment, specifically focusing on the blowing of the horn (Sûr) that will commence the day of judgment. The speaker explains the characteristics of this horn, which is made of light and will be blown by the angel Israfil, one of the eight angels who carry Allah's throne. The lecture covers various hadith narrations describing the incomprehensible size and grandeur of these angels and Allah's throne, emphasizing the importance of patience in facing the hardships of conveying Islam's message. The speaker also addresses misconceptions about how angels and souls experience time differently from humans, using examples from the night journey (Isra and Mi'raj) and the angel of death to illustrate that time perception differs between the heavenly and earthly realms.",
   "suggested_title": "The Horn of Israfil: Understanding the Day of Judgment and Angels' Perception of Time",
-  "content_type": "Mixed",
-  "hadith_book": "Sahih Bukhari",
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Descriptions of the Day of Judgment and the Hereafter",
   "topic_tags": [
     "day of judgment",
@@ -1483,5 +1483,6 @@
     "patience"
   ],
   "srt_status": "pending",
-  "catchy_title": "When Israfil Blows: What Happens Next"
+  "catchy_title": "When Israfil Blows: What Happens Next",
+  "manually_reviewed": true
 }

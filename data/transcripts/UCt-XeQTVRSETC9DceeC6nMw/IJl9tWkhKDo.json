@@ -1183,8 +1183,8 @@
   "time_slot": "Sunday-Isha",
   "summary": "This lecture discusses Quranic descriptions and the concept of the Quran as a reminder (dhikr). The speaker analyzes why disbelievers are repulsed by the Quran, using the Quranic imagery of wild asses fleeing from a lion to illustrate their desperate rejection. The disbelievers' objection that they would believe if each person received their own revealed book is presented as an excuse masking their true problem: the lack of fear of the hereafter. The speaker emphasizes that fear of the Day of Judgment is the root of all morality and the absence of this fear is the root cause of all evil.",
   "suggested_title": "The Quran as a Reminder: Why Disbelievers Reject It and the Root of All Evil",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "quran",
@@ -1197,5 +1197,6 @@
     "tafsir"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Do Disbelievers Flee the Quran?"
+  "catchy_title": "Why Do Disbelievers Flee the Quran?",
+  "manually_reviewed": true
 }

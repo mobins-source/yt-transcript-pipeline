@@ -731,7 +731,7 @@
   "summary": "This lecture discusses the rules and obligations of attending Friday prayer (Salat al-Jumu'ah) according to Islamic jurisprudence. The speaker, using Al-Wajeez (a fiqh manual) and Riyadul Saliheen as primary sources, explains that Friday prayer is an obligation (Fard Ayn) on every adult Muslim, with specific exceptions: slaves, women, children, the sick, and travelers. The lecture covers Quranic verses and hadith from the Prophet Muhammad establishing this requirement, along with scholarly analysis of the conditions and categories of those exempt from this obligation.",
   "suggested_title": "Friday Prayer (Salat al-Jumu'ah): Obligations and Exemptions in Islamic Jurisprudence",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Friday Prayer (Salat al-Jumu'ah)",
   "topic_tags": [
     "friday prayer",
@@ -744,5 +744,6 @@
     "islamic law"
   ],
   "srt_status": "pending",
-  "catchy_title": "Who Must Attend Friday Prayer? Five Key Exceptions"
+  "catchy_title": "Who Must Attend Friday Prayer? Five Key Exceptions",
+  "manually_reviewed": true
 }

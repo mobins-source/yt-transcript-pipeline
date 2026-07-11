@@ -584,8 +584,8 @@
   "time_slot": "Friday-Isha",
   "summary": "This lecture appears to be a Quranic exegesis (tafsir) focused on Surah Al-Muddaththir, specifically analyzing the description of the people of Hell and their characteristics. The speaker, referencing Islamic scholars including Al-Nawawi, discusses theological principles regarding the obligations on Muslims and non-Muslims, and examines the linguistic and semantic aspects of Quranic verses, particularly the term 'Miskin' (the poor/needy). The session concludes with traditional Islamic supplications and blessings.",
   "suggested_title": "Tafsir of Surah Al-Muddaththir: The People of Hell and Linguistic Analysis of Quranic Terms",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "tafsir",
@@ -598,5 +598,6 @@
     "theology"
   ],
   "srt_status": "pending",
-  "catchy_title": "Who Goes to Hell? What Scholars Say"
+  "catchy_title": "Who Goes to Hell? What Scholars Say",
+  "manually_reviewed": true
 }

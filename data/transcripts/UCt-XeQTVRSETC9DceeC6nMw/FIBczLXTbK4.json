@@ -1268,8 +1268,8 @@
   "time_slot": "Saturday-Isha",
   "summary": "This lecture discusses a Quranic passage about the inhabitants of hellfire and their justifications on the Day of Judgment. The speaker explains that disbelievers will claim they did not pray, feed the hungry, or believe in the Day of Reckoning, thinking their good deeds might intercede for them. The speaker emphasizes that without belief in Allah and His prophets and messengers, no good deeds or arguments will benefit a person before Allah. The lecture also addresses how even atheists and disbelievers subconsciously prepare arguments for meeting God, despite publicly denying His existence, demonstrating the innate human recognition of divine judgment.",
   "suggested_title": "The Day of Judgment: Why Good Deeds Without Faith Cannot Intercede - Quranic Commentary on Surah Al-Muddaththir",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "day of judgment",
@@ -1282,5 +1282,6 @@
     "accountability"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Good Deeds Alone Cannot Save You"
+  "catchy_title": "Why Good Deeds Alone Cannot Save You",
+  "manually_reviewed": true
 }

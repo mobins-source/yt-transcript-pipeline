@@ -2197,8 +2197,8 @@
   "time_slot": "Thursday-Isha",
   "summary": "This content provides a detailed Quranic analysis of Surah Al-Muzzammil (Chapter 73), verses 5-8, focusing on the command for night prayer and the process of revelation. The speaker explains how Allah prepared the Prophet Muhammad to receive the Quran, describing the physical and spiritual experience of revelation as both literally and metaphorically heavy. The transcript covers the importance of night prayer for spiritual focus, the proper etiquette of learning (avoiding haste), and how the Prophet's close companions protected him during revelation. The analysis emphasizes that the word \"heavy\" in describing revelation applies both literally (the physical strain) and metaphorically (the spiritual weight and significance).",
   "suggested_title": "Understanding Surah Al-Muzzammil: The Nature of Revelation and Night Prayer",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "quran",
@@ -2211,5 +2211,6 @@
     "learning etiquette"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Night Prayer Aligns Your Heart?"
+  "catchy_title": "Why Night Prayer Aligns Your Heart?",
+  "manually_reviewed": true
 }

@@ -1586,7 +1586,7 @@
   "summary": "This lecture discusses the famous hadith of Jibril (Angel Gabriel) visiting the Prophet Muhammad to teach the companions about Islam, Iman, and Ihsan. The speaker analyzes why Jibril appeared in such a distinctive form with contrasting white clothing and black hair - to draw the attention of all companions away from distraction and focus them on the knowledge being imparted. The lecture emphasizes that Jibril's visit was not only teaching religious content but also demonstrating proper etiquette in seeking knowledge, including appropriate seating positions, respectful behavior, and the importance of good manners when approaching scholars.",
   "suggested_title": "The Hadith of Jibril: The Importance of Adab (Etiquette) in Seeking Knowledge",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Muslim",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "The Chapter on Vigilance and Awareness (Taqwa)",
   "topic_tags": [
     "hadith of jibril",
@@ -1599,5 +1599,6 @@
     "knowledge transmission"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Did Jibril Dress That Way?"
+  "catchy_title": "Why Did Jibril Dress That Way?",
+  "manually_reviewed": true
 }

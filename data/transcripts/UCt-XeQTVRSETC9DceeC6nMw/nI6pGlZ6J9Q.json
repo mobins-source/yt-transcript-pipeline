@@ -1136,8 +1136,8 @@
   "time_slot": "Friday-Fajr",
   "summary": "This lecture discusses the virtues and rulings of Friday (Jumu'ah) based on Quranic verses and hadith. The speaker explains Surah Al-Jumu'ah, particularly verses 10-11, which discuss the permissibility of seeking livelihood after Friday prayer and the emphasis on remembering Allah. The lecture also covers a hadith from Abu Hurairah about Friday being the best day, mentioning that Adam was created on this day, entered paradise on this day, and was expelled from paradise on this day. The speaker analyzes the linguistic structure and religious significance of these teachings.",
   "suggested_title": "Virtues of Friday (Jumu'ah) - Quranic and Hadith Analysis",
-  "content_type": "Mixed",
-  "hadith_book": "Sahih Muslim",
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on the Virtues of Friday",
   "topic_tags": [
     "friday prayer",
@@ -1150,5 +1150,6 @@
     "adam"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Friday Is Islam's Greatest Day"
+  "catchy_title": "Why Friday Is Islam's Greatest Day",
+  "manually_reviewed": true
 }

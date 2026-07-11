@@ -4190,7 +4190,7 @@
   "summary": "This is a Saturday Q&A session at the Muslim Community Center of Tucson focusing on the proper methodology of sujud (prostration) in Islamic prayer. The speaker explains a hadith narrated in all six canonical hadith books where the Prophet Muhammad commanded Muslims to perform sujud on seven specific body parts: the forehead and nose, the two palms with fingers, the two knees, and the two tops of the feet. The lecture emphasizes the precise details of each body part's positioning and the importance of these guidelines for valid prayer. The discussion then expands to broader issues of prayer etiquette, including the straightening of rows, the imam's role and qualifications, and the overall spiritual significance of congregational prayer.",
   "suggested_title": "The Seven Parts of Sujud: Proper Prostration in Islamic Prayer",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Chapters on Prayer and Prostration",
   "topic_tags": [
     "sujud",
@@ -4203,5 +4203,6 @@
     "congregational prayer"
   ],
   "srt_status": "pending",
-  "catchy_title": "Which Seven Body Parts in Sujud?"
+  "catchy_title": "Which Seven Body Parts in Sujud?",
+  "manually_reviewed": true
 }

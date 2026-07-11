@@ -1947,7 +1947,7 @@
   "suggested_title": "The Third Obligation of Wudu: Wiping the Head and Ears",
   "catchy_title": "How did the Prophet wipe his head in wudu?",
   "content_type": "Hadith",
-  "hadith_book": "Other",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on the Obligations of Wudu",
   "topic_tags": [
     "wudu",
@@ -1959,5 +1959,6 @@
     "fiqh",
     "islamic jurisprudence"
   ],
-  "srt_status": "pending"
+  "srt_status": "pending",
+  "manually_reviewed": true
 }

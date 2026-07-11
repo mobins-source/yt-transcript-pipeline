@@ -1691,8 +1691,8 @@
   "time_slot": "Thursday-Isha",
   "summary": "This lecture discusses Surah Al-Alaq (Chapter 96) and its opening verses, which were the first verses revealed to Prophet Muhammad. The speaker explores the dual meanings inherent in Quranic words, particularly the word 'Iqra' (recite/read) and the concept of the pen marking/writing. A significant portion focuses on the four stages of divine decree (knowledge, writing, will, and creation) and how they relate to human free will. The speaker addresses the historical Islamic innovation of 'Jabr' (compulsion) that negated free will, contrasting it with the extreme opposite view, while emphasizing Islam's balanced middle path where humans have free will constrained by the rules of creation.",
   "suggested_title": "Understanding Divine Decree and Free Will in Light of Surah Al-Alaq",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "surah al-alaq",
@@ -1705,5 +1705,6 @@
     "early revealed chapters"
   ],
   "srt_status": "pending",
-  "catchy_title": "Divine Decree or Human Choice? Islam's Middle Path"
+  "catchy_title": "Divine Decree or Human Choice? Islam's Middle Path",
+  "manually_reviewed": true
 }

@@ -123,8 +123,8 @@
   "time_slot": "Wednesday-Fajr",
   "summary": "This lecture discusses the life and significance of Abu Hurairah (may Allah be pleased with him), one of the most prolific companions of the Prophet Muhammad (peace be upon him). Despite spending only about four years with the Prophet, Abu Hurairah became a major transmitter of hadith and was appointed by Caliph Umar as a mufti (Islamic jurist) and hadith scholar of Medina. The speaker emphasizes the importance of studying the biographies of the companions to understand Islamic knowledge and tradition.",
   "suggested_title": "The Life and Legacy of Abu Hurairah: A Major Hadith Transmitter",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "abu hurairah",
@@ -136,5 +136,6 @@
     "prophet muhammad"
   ],
   "srt_status": "pending",
-  "catchy_title": "Four Years With the Prophet, Eternal Legacy"
+  "catchy_title": "Four Years With the Prophet, Eternal Legacy",
+  "manually_reviewed": true
 }

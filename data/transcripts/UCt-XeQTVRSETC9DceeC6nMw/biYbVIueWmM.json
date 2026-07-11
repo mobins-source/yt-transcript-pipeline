@@ -1207,8 +1207,8 @@
   "time_slot": "Thursday-Fajr",
   "summary": "This lecture discusses the importance of the Sunnah (Hadith) and its preservation, with a focus on Abu Hurairah (Abd al-Rahman ibn Sakhr), one of the most prominent Companions of the Prophet Muhammad and a prolific narrator of hadith. The speaker explains how Abu Hurairah became known as the guardian of hadith traditions and how the Prophet made a specific supplication for him to have a strong memory. The lecture addresses attempts by skeptics and those with hidden agendas to undermine the authenticity of hadith in order to distort the understanding of the Quran and Islamic teachings.",
   "suggested_title": "The Importance of Hadith Preservation and Abu Hurairah's Role as a Hadith Narrator",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "hadith preservation",
@@ -1221,5 +1221,6 @@
     "authenticity of hadith"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Abu Hurairah Became Islam's Greatest Hadith Guardian"
+  "catchy_title": "Why Abu Hurairah Became Islam's Greatest Hadith Guardian",
+  "manually_reviewed": true
 }

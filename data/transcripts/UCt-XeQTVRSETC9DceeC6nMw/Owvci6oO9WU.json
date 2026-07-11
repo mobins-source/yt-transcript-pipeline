@@ -1551,7 +1551,7 @@
   "summary": "This lecture discusses the Islamic prohibition against wearing amulets (amulets and charms) and superstitious practices. The speaker uses a historical hadith about Prophet Muhammad commanding the removal of camel tendon amulets from a caravan to explain how these objects were believed to ward off evil spirits and the evil eye in pre-Islamic Arabia. The teaching emphasizes that wearing amulets constitutes shirk (associating partners with Allah) because it implies reliance on these objects rather than on Allah alone. The speaker then provides modern examples of superstitions that persist today, including brass bracelets, horoscopes, and athletes' lucky items, demonstrating that superstitious beliefs have not disappeared despite modern technology.",
   "suggested_title": "The Islamic Prohibition of Amulets and Superstitions: From Historical Practice to Modern Times",
   "content_type": "Hadith",
-  "hadith_book": "Other",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "amulets",
@@ -1564,5 +1564,6 @@
     "modern islam"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Did Prophet Muhammad Ban This Practice?"
+  "catchy_title": "Why Did Prophet Muhammad Ban This Practice?",
+  "manually_reviewed": true
 }

@@ -3220,7 +3220,7 @@
   "summary": "This video captures the Eid prayer service at the Muslim Community Center of Tucson, featuring the traditional Eid takbir (proclamations of 'Allahu Akbar') recited before and during the prayer. The congregation engages in the two-unit Eid prayer, followed by an Eid sermon (khutbah). Community announcements are made regarding Zakat al-Fitr (obligatory charity for Eid), and the imam addresses the congregation about maintaining order, proper prayer formation, and the spirit of celebration while emphasizing Islamic etiquette. The service includes Quranic recitations from Surah Al-Fatiha, Surah Al-A'la, and Surah Al-Ghashiyah.",
   "suggested_title": "Eid Prayer Service and Sermon - Muslim Community Center of Tucson",
   "content_type": "Mixed",
-  "hadith_book": null,
+  "hadith_book": "Other",
   "hadith_chapter": null,
   "topic_tags": [
     "eid prayer",
@@ -3233,5 +3233,6 @@
     "congregational worship"
   ],
   "srt_status": "pending",
-  "catchy_title": "Allahu Akbar: Eid Takbir and Prayer Service"
+  "catchy_title": "Allahu Akbar: Eid Takbir and Prayer Service",
+  "manually_reviewed": true
 }

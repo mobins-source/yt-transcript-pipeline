@@ -988,7 +988,7 @@
   "summary": "This lecture discusses a famous hadith from the chapter on vigilance (Kitab al-Iman) in which the angel Gabriel visits the Prophet Muhammad in the masjid to teach about Islam, Iman, and Ihsan. The speaker provides detailed analysis of the hadith's opening, explaining why the man addressed the Prophet by his first name Muhammad (which is impermissible) and elaborating on the linguistic and legal implications of this act. The lecture explores how the Prophet's response defined Islam through its five pillars: testimony of faith, establishing prayer, giving zakat, fasting Ramadan, and performing the pilgrimage. The speaker emphasizes that the Prophet's definition utilized the most prominent features of Islam rather than providing a technical definition.",
   "suggested_title": "Gabriel's Question on Islam: Understanding the Five Pillars and Proper Etiquette to the Prophet",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Muslim",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Book of Faith (Kitab al-Iman), Chapter on Vigilance",
   "topic_tags": [
     "hadith",
@@ -1001,5 +1001,6 @@
     "sunnah"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Calling the Prophet by Name Is Forbidden"
+  "catchy_title": "Why Calling the Prophet by Name Is Forbidden",
+  "manually_reviewed": true
 }

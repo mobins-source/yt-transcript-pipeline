@@ -1897,8 +1897,8 @@
   "time_slot": "Sunday-Isha",
   "summary": "This lecture discusses Surah Al-Alaq, the first chapter revealed to Prophet Muhammad (peace be upon him), focusing on its historical context and significance. The speaker explains that while the first five verses were the initial revelation received by the Prophet, the remainder of the chapter was revealed later when Meccan opposition had become more pronounced. The lecture emphasizes the importance of studying Quranic narratives with scholarly depth to understand the nuances, context, and spiritual dimensions beyond surface meanings. A substantial portion of the lecture covers Aisha's narration about the beginning of revelation, specifically the phenomenon of true visions (righteous premonitions) that preceded the verbal revelation, explaining how the Prophet's heart remained spiritually awake even during sleep, a quality that distinguished prophets from ordinary people.",
   "suggested_title": "The First Revelation: Understanding Surah Al-Alaq and the Beginning of Prophethood",
-  "content_type": "Mixed",
-  "hadith_book": "Sahih Bukhari",
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Beginning of Revelation (Kitab Bad al-Wahy)",
   "topic_tags": [
     "surah al-alaq",
@@ -1911,5 +1911,6 @@
     "sahih bukhari"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Muslims Fear Surah Al-Alaq in Prayer"
+  "catchy_title": "Why Muslims Fear Surah Al-Alaq in Prayer",
+  "manually_reviewed": true
 }

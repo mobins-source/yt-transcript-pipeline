@@ -3130,8 +3130,8 @@
   "time_slot": "Friday-Isha",
   "summary": "This is an inspirational Islamic sermon delivered to young people at the Muslim Community Center of Tucson, focusing on increasing hope and motivation for paradise (Jannah) during Ramadan. The speaker uses narrations about the gates of paradise and hellfire to illustrate that Allah has made it easier for humans to enter paradise than hellfire—paradise has 8 gates while hellfire has 7, good deeds are rewarded at least 10-fold while sins are recorded only once, and paradise is so vast that even all of humanity combined could not fill it. The speaker emphasizes that paradise is so enormous that Allah will need to create additional people just to fill the remaining space, while hellfire will be shrunk to accommodate those who insist on going there. The sermon pivots to practical Ramadan advice, encouraging listeners to make one meaningful spiritual change rather than trying to transform everything at once, focusing on either abandoning one sin or consistently practicing one good deed in their relationship with Allah.",
   "suggested_title": "The Vastness of Paradise: Spiritual Hope and Ramadan Preparation",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "paradise",
@@ -3144,5 +3144,6 @@
     "islamic teaching"
   ],
   "srt_status": "pending",
-  "catchy_title": "Paradise Has 8 Gates, Hellfire Has 7"
+  "catchy_title": "Paradise Has 8 Gates, Hellfire Has 7",
+  "manually_reviewed": true
 }

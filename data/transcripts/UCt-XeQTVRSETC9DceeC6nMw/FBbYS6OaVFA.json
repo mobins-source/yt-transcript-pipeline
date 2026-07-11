@@ -1590,8 +1590,8 @@
   "time_slot": "Wednesday-Isha",
   "summary": "This lecture focuses on Quranic verses from the early surahs revealed to Prophet Muhammad, specifically analyzing the concept of 'insan' (human being) and humanity's relationship with Allah. The speaker discusses how despite Allah's creation of humans with incredible potential, knowledge, and care—from conception through life—humans tend to overstep their bounds and disobey Allah. The root cause of this disobedience is identified as the human delusion of self-sufficiency and independence from Allah. The speaker contrasts believers with disbelievers, explaining that while disbelievers only remember Allah in times of difficulty, true believers maintain consciousness of their complete dependence on Allah in both ease and hardship, making worship during times of ease more spiritually superior.",
   "suggested_title": "Understanding Human Nature and Divine Mercy: Quranic Order of Revelation",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "quran",
@@ -1604,5 +1604,6 @@
     "order of revelation"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Humans Forget Allah's Dependence"
+  "catchy_title": "Why Humans Forget Allah's Dependence",
+  "manually_reviewed": true
 }

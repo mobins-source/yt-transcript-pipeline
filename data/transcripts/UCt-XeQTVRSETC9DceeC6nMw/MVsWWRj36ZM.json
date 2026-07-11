@@ -3489,8 +3489,8 @@
   "time_slot": "Saturday-Isha",
   "summary": "This Islamic lecture from the Muslim Community Center of Tucson focuses on the proper approach to understanding and following the Quran. The speaker emphasizes that Muslims should not abandon the Quran, using Surah Al-Furqan 30 where the Prophet Muhammad reported that his people treated the Quran as something abandoned. The lecture uses the metaphor of a guide: just as one must follow behind a guide rather than walking in front, Muslims must let the Quran guide them rather than approaching it with preconceived conclusions. The speaker warns against the common mistake of forming beliefs first and then searching the Quran for supporting evidence, illustrating this with the historical example of Abdul Rahman ibn Muljim, a hafiz (Quran memorizer) who assassinated Ali ibn Abi Talib while believing he was serving Allah.\n\nThe second part of the lecture addresses how ordinary Muslims without scholarly training should engage with the Quran. Drawing from Ibn Abbas's framework, the speaker categorizes Quranic meanings into four types: universal meanings understandable to everyone, meanings accessible only to Arabic language specialists, meanings known only to Islamic scholars, and meanings known only to Allah. He advises non-scholars to focus solely on the first category of clear, apparent meanings while reading the Quran daily, rather than attempting to navigate complex scholarly interpretations that require years of dedicated study in classical Arabic and hadith sciences.",
   "suggested_title": "Following the Quran as a Guide: Avoiding Preconceived Conclusions and Learning Quranic Meanings",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "quran interpretation",
@@ -3503,5 +3503,6 @@
     "tafsir"
   ],
   "srt_status": "pending",
-  "catchy_title": "Are You Following the Quran or Leading It?"
+  "catchy_title": "Are You Following the Quran or Leading It?",
+  "manually_reviewed": true
 }

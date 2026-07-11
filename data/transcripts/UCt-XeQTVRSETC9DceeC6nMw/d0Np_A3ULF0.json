@@ -1781,8 +1781,8 @@
   "time_slot": "Wednesday-Isha",
   "summary": "This discourse focuses on a hadith incident between Prophet Muhammad and Umar ibn al-Khattab, where Umar becomes emotional upon seeing the Prophet sleeping on a mat that leaves imprints on his body, contrasting this with the luxurious lifestyles of Roman and Persian rulers. The speaker uses this narration to teach a fundamental Islamic principle: worldly comforts and hardships have no bearing on one's relationship with Allah or spiritual status. The Prophet's response to Umar—asking if doubt has entered his heart—introduces the core theme that precedence of the dunya (worldly life) over the akhirah (hereafter) is the essence of all disobedience.\n\nThe speaker elaborates on how love of the dunya is the root cause of most human suffering, including broken families, divorce, and societal afflictions. He explains that true belief in the temporary nature of this world should fundamentally transform one's behavior, priorities, and perspective on life. The discourse also addresses Islamic rulings prohibiting men from using silk and gold, explaining these are reserved for the hereafter as rewards for believers.\n\nThe sermon concludes with a powerful metaphor: the dunya is merely a waiting room or hotel room where believers should plant seeds for the hereafter, not construct permanent structures. The speaker emphasizes that humans are inherently alien to this world, lacking natural defenses, which reflects their true origin and purpose—to use this temporary life as a means to prepare for eternity.",
   "suggested_title": "The Dunya vs The Hereafter: Understanding Our True Purpose",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "dunya",
@@ -1795,5 +1795,6 @@
     "internal struggle"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Did Umar Cry Seeing the Prophet Sleep?"
+  "catchy_title": "Why Did Umar Cry Seeing the Prophet Sleep?",
+  "manually_reviewed": true
 }

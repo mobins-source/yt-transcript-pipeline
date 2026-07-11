@@ -545,7 +545,7 @@
   "summary": "This lecture discusses a hadith from Sahih Bukhari found in Imam Al-Nawawi's Riyadul Saliheen, specifically in the chapter on patience. The hadith is narrated by Aisha (may Allah be pleased with her), who asked the Prophet Muhammad about the plague. The Prophet explained that plague is a punishment from Allah sent upon whomever He wills, yet simultaneously Allah has made it a mercy for believers. The speaker explains that when a believer remains patient and hopeful during a plague, accepting that only what Allah has written for them will afflict them, they receive a reward equivalent to that of a martyr.",
   "suggested_title": "Patience and Mercy During Plague: Hadith from Riyadul Saliheen",
   "content_type": "Hadith",
-  "hadith_book": "Riyadul Saliheen",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Chapter on Patience",
   "topic_tags": [
     "patience",
@@ -558,5 +558,6 @@
     "islamic teachings"
   ],
   "srt_status": "pending",
-  "catchy_title": "Plague as Mercy: The Martyr's Reward"
+  "catchy_title": "Plague as Mercy: The Martyr's Reward",
+  "manually_reviewed": true
 }

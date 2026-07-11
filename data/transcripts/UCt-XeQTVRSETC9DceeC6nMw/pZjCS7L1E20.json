@@ -2082,8 +2082,8 @@
   "time_slot": "Wednesday-Isha",
   "summary": "This lecture discusses the importance of perspective in understanding Islamic values and priorities. The speaker uses Quranic verses to illustrate how Allah defines concepts like knowledge, wealth, and understanding from the perspective of the hereafter rather than worldly standards. The core message emphasizes that Muslim priorities should be aligned with the afterlife, not the material world. The speaker illustrates this through the biography of Umar ibn Abd al-Aziz, highlighting how his upbringing by scholars who prioritized religious discipline shaped him into one of Islam's greatest leaders, and uses the example of his teacher correcting him for missing the takbir due to hair braiding to demonstrate how early Muslims understood proper priorities and discipline.",
   "suggested_title": "Perspective and Priorities: Understanding Islamic Values Through the Lens of the Hereafter",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "perspective",
@@ -2096,5 +2096,6 @@
     "knowledge"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why the Afterlife Changes Everything"
+  "catchy_title": "Why the Afterlife Changes Everything",
+  "manually_reviewed": true
 }

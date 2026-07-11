@@ -1213,8 +1213,8 @@
   "time_slot": "Friday-Isha",
   "summary": "This Islamic lecture discusses the Quranic concept of human hastiness and impulsiveness, referencing verses that describe how humans are created with haste inherent in their nature. The speaker explains how Prophet Muhammad (peace be upon him) would recite these verses nightly and make specific supplications seeking Allah's protection from being left to one's own devices. The lecture emphasizes that humans often pray for things harmful to them with the same energy as beneficial things, and therefore must trust Allah's wisdom in granting or withholding requests.",
   "suggested_title": "Human Hastiness and the Wisdom of Dua: Learning from Quranic Verses and Prophetic Examples",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "quranic teachings",
@@ -1227,5 +1227,6 @@
     "trust in allah"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why We Can't Be Trusted With Our Own Duas"
+  "catchy_title": "Why We Can't Be Trusted With Our Own Duas",
+  "manually_reviewed": true
 }

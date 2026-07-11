@@ -1778,8 +1778,8 @@
   "time_slot": "Thursday-Isha",
   "summary": "This lecture provides a detailed Quranic analysis of Surah Al-Muzzammil (Chapter 73) and Surah Al-Muddaththir (Chapter 74), focusing on their linguistic and thematic significance. The speaker explains the etymology and meaning of both chapter titles, discussing how the words 'muzzammil' (wrapped up) and 'muddaththir' (covered) relate to different types of worship. The lecture emphasizes that knowledge must precede action and speech in religious practice, citing Imam Bukhari's chapter 'Knowledge Before Speech and Action.' The speaker illustrates how the two surahs correspond to different categories of worship: personal acts between the servant and Allah (like prayer and fasting) and acts that extend to others (like charity and honoring parents).",
   "suggested_title": "Understanding Surah Al-Muzzammil and Surah Al-Muddaththir: Knowledge, Action, and Types of Worship",
-  "content_type": "Quran",
-  "hadith_book": "Sahih Bukhari",
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Chapter on Knowledge Before Speech and Action (Kitab al-Ilm - Bab al-Ilm Qabl al-Qawl wa-al-Amal)",
   "topic_tags": [
     "surah al-muzzammil",
@@ -1792,5 +1792,6 @@
     "practice of deen"
   ],
   "srt_status": "pending",
-  "catchy_title": "Knowledge Before Action: Two Surahs Explained"
+  "catchy_title": "Knowledge Before Action: Two Surahs Explained",
+  "manually_reviewed": true
 }

@@ -2114,7 +2114,7 @@
   "summary": "This lecture covers Islamic jurisprudence regarding permissible activities during fasting, specifically from a hadith collection discussing the chapter on things that do not break the fast. The speaker addresses common misconceptions about fasting, such as the belief in Trinidad that submerging in water breaks one's fast, and provides evidence from the Prophet's practices. The detailed discussion covers bathing for cooling purposes, rinsing the mouth and nose, the principle of connection (tas'il) in Islamic law, and concludes with an explanation of cupping (hijama) and whether it invalidates the fast. The speaker uses various examples and Islamic legal principles to clarify what does and does not break a person's fast.",
   "suggested_title": "Permissible Activities During Fasting: Bathing, Rinsing, and Cupping",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Book of Fasting - Chapter on Things Permissible for One Who is Fasting",
   "topic_tags": [
     "fasting",
@@ -2127,5 +2127,6 @@
     "prophetic traditions"
   ],
   "srt_status": "pending",
-  "catchy_title": "What Actually Breaks Your Fast?"
+  "catchy_title": "What Actually Breaks Your Fast?",
+  "manually_reviewed": true
 }

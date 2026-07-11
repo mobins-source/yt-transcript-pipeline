@@ -700,8 +700,8 @@
   "time_slot": "Thursday-Fajr",
   "summary": "This lecture discusses the Islamic concept of truthfulness (sidq) and integrity, drawing from Quranic verses about hypocrites. The speaker emphasizes that true truthfulness is not merely speaking true statements, but requires sincere belief in the heart combined with truthful speech and action. The discourse contrasts genuine Islamic conduct with superficial displays of piety, using examples from the lives of the Prophet Muhammad and the Companions, particularly comparing the authentic humility of leaders like Umar ibn al-Khattab with the false humility of hypocrites who engaged in passive-aggressive behavior and artificial piety.",
   "suggested_title": "Truthfulness of Heart and Speech: The Islamic Concept of Sidq",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "truthfulness",
@@ -714,5 +714,6 @@
     "prophet's teachings"
   ],
   "srt_status": "pending",
-  "catchy_title": "When True Words Hide a False Heart"
+  "catchy_title": "When True Words Hide a False Heart",
+  "manually_reviewed": true
 }

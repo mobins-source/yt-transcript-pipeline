@@ -1947,7 +1947,7 @@
   "summary": "This is a detailed Islamic lecture analyzing a hadith from Sunan Ibn Majah, where Prophet Muhammad (peace be upon him) warned that the weakness of his nation is wealth and material possessions (mal). The speaker uses multiple scenarios—including lottery tickets, gambling winnings, and interest-based loans—to illustrate how Muslims often compromise their Islamic principles when large sums of money are involved. The core message emphasizes that the ruling of Allah does not change based on the amount of money; whether it's $5 or $1 million, haram remains haram. The speaker contrasts the hesitation modern Muslims feel about rejecting haram wealth with the unwavering conviction of the Prophet's Companions, arguing that this weakness to money is the primary obstacle preventing Muslims from advancing spiritually and communally.",
   "suggested_title": "The Weakness of the Ummah: How Wealth and Money Lead Us Away from Islam",
   "content_type": "Hadith",
-  "hadith_book": "Sunan Ibn Majah",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": "Narration of Iyad ibn Himar",
   "topic_tags": [
     "wealth",
@@ -1960,5 +1960,6 @@
     "Islamic law"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Money Weakens the Ummah"
+  "catchy_title": "Why Money Weakens the Ummah",
+  "manually_reviewed": true
 }

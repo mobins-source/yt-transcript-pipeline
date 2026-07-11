@@ -1063,7 +1063,7 @@
   "summary": "This lecture discusses the recommended fasting practices during the Islamic month of Muharram, specifically focusing on the Day of Ashura (10th of Muharram). The speaker explains that while fasting on Ashura is highly encouraged (mustahab) rather than obligatory, the Prophet Muhammad recommended fasting the 9th day along with the 10th to differentiate Muslim practices from Jewish and Christian observances. The lecture emphasizes the Islamic principle of distinguishing Muslim religious practices from those of other faith communities through modifications rather than identical observances.",
   "suggested_title": "Fasting on Ashura: The 9th and 10th of Muharram - Islamic Differentiation from Other Faiths",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Muslim",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Book of Fasting",
   "topic_tags": [
     "ashura",
@@ -1076,5 +1076,6 @@
     "recommended fasting"
   ],
   "srt_status": "pending",
-  "catchy_title": "Why Muslims Fast Different Days Than Jews"
+  "catchy_title": "Why Muslims Fast Different Days Than Jews",
+  "manually_reviewed": true
 }

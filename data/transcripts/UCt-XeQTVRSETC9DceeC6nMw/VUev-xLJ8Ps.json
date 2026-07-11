@@ -1995,7 +1995,7 @@
   "time_slot": "Saturday-Fajr",
   "summary": "This lecture marks the completion of the book of fasting from Al-Wajeez and begins a new study of the book of purification, also from Al-Wajeez. The instructor explains that Al-Wajeez is an abridgement of Fiqh us-Sunnah by Sayyid Sabiq, a renowned Azhari scholar. The lecture discusses how Islamic jurisprudence books are typically organized following the narration of Jibreel (Gabriel) and the pillars of Islam, a tradition established by early scholars like Al-Imam Malik and Al-Shafi'i. The instructor emphasizes that the majority of Islamic law is agreed upon, with differences of opinion only arising in details, and that Al-Wajeez focuses on direct commands from the Quran and Sunnah rather than peripheral issues. The book of purification (at-taharah) covers two main areas: achieving spiritual purity (raf' al-hadath) through wudu, ghusl, or tayammum to make prayer permissible, and removing filth (najasat) from one's body, clothing, and prayer space. The instructor clarifies important distinctions such as the difference between filth and merely unclean substances, and explains how wudu is a condition of prayer specifically for those with access to water and in a state of minor impurity.",
   "suggested_title": "Introduction to the Book of Purification from Al-Wajeez: Spiritual Purity and Filth in Islamic Jurisprudence",
-  "content_type": "Mixed",
+  "content_type": "Hadith",
   "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Book of Purification (Kitab at-Taharah)",
   "topic_tags": [
@@ -2009,5 +2009,6 @@
     "al-wajeez"
   ],
   "srt_status": "pending",
-  "catchy_title": "Starting Fresh: The Book of Purification"
+  "catchy_title": "Starting Fresh: The Book of Purification",
+  "manually_reviewed": true
 }
