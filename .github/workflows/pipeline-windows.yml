@@ -1,64 +1,50 @@
-name: YouTube Transcript Pipeline (Windows)
+name: Playlist Backfill (Windows)
 
-# MIGRATION WORKFLOW — Windows 11 runner validation.
+# ROLE: Sh. Ali Mashhour playlist backfill from a SEPARATE network/IP.
+# The Mac runner owns the MCC schedule; this runner drains the playlist
+# backlog without touching the Mac's YouTube request budget.
 #
-# Phase 2-3 of the Mac -> Windows migration:
-#   - This file is workflow_dispatch ONLY (no schedule). The Mac workflow
-#     (pipeline.yml) still owns the schedule during validation.
-#   - Trigger this manually from the Actions tab, midday (away from the
-#     8:17am / 10:17pm scheduled runs — both machines share one home IP,
-#     so they share one YouTube request budget).
-#   - Never run this while a Mac run is in progress (both push to main).
+# Key differences from the Mac workflow:
+#   - Playlists ONLY (no YOUTUBE_CHANNELS) — never fetches MCC
+#   - --backfill mode: 40-request budget, circuit breaker, gentle pacing,
+#     blocked videos stay pending
+#   - NO COOKIES on purpose. The Windows machine is on a different IP with
+#     no block history; anonymous fetching should work. NEVER point this
+#     workflow at the YOUTUBE_COOKIES secret — the same session cookies on
+#     two IPs concurrently can get the session invalidated for BOTH machines.
+#     If blocks appear here, create a separate secret (YOUTUBE_COOKIES_WIN)
+#     from a DIFFERENT Google account logged in on the Windows machine.
+#   - Commits ONLY its own channel's files (transcripts + metadata +
+#     index-<channel>.json) — never the combined index.json, never MCC
+#     folders — so pushes can't conflict with the Mac runner's commits.
+#   - workflow_dispatch only. Trigger manually as time permits.
 #
-# CUTOVER (Phase 4): once several manual runs succeed over ~a week,
-#   move the schedule: block from pipeline.yml into this file, leaving
-#   the Mac workflow as workflow_dispatch-only fallback.
-#
-# Windows runner setup expectations:
-#   - Runner installed as a Windows service in C:\actions-runner
-#     (NOT inside the repo folder), labels: [self-hosted, Windows]
-#   - Python 3.11+ on PATH (python.org installer, "Add to PATH" checked)
-#   - Git for Windows installed (provides Git Bash for `shell: bash` below)
-#   - Power settings: never sleep on AC; Windows Update Active Hours set
-#     so auto-reboots avoid run windows.
-#
-# PYTHONUTF8=1 forces UTF-8 for all Python I/O — Windows consoles default
-# to cp1252, which would mangle the Arabic text in transcripts and SRTs.
+# Windows runner setup: service install in C:\actions-runner (NOT under
+# Documents/OneDrive), Python 3.11+ on PATH, Git for Windows (Git Bash),
+# power set to never sleep, Update Active Hours configured.
 
 on:
   workflow_dispatch:
     inputs:
-      channel:
-        description: "Channel handle (leave empty to use YOUTUBE_CHANNELS secret)"
-        required: false
-        default: ""
       max_videos:
-        description: "Max videos per channel (0 = use MAX_VIDEOS_PER_CHANNEL). Keep small (2-5) for validation runs."
+        description: "Max videos per playlist listing (0 = all). Backfill budget still caps fetches at 40/run."
         required: false
-        default: "5"
-      batch_size:
-        description: "Videos per batch"
-        required: false
-        default: "10"
-      batch_pause:
-        description: "Seconds to pause between batches"
-        required: false
-        default: "180"
-      force:
-        description: "Force re-enrich and re-generate SRTs"
-        required: false
-        default: "false"
-        type: boolean
+        default: "0"
+
+env:
+  # Sh. Ali Mashhour's channel (The Mosque Foundation) — the only channel
+  # this workflow is allowed to commit.
+  BACKFILL_CHANNEL_ID: UCXQm5nWl_fhxQwgHnRsPZPg
 
 jobs:
-  run-pipeline:
+  backfill:
     runs-on: [self-hosted, Windows]
-    timeout-minutes: 90
+    timeout-minutes: 120   # backfill pacing is slower by design (300s batch pauses)
     defaults:
       run:
-        shell: bash   # Git Bash — heredocs, printf, and git steps work as on Mac
+        shell: bash   # Git Bash
     env:
-      PYTHONUTF8: "1" # protect Arabic text from cp1252 mangling
+      PYTHONUTF8: "1" # Windows consoles default to cp1252 — protects Arabic text
 
     steps:
       - name: Checkout repository
@@ -67,55 +53,45 @@ jobs:
       - name: Install dependencies
         run: python -m pip install -r pipeline/requirements.txt
 
-      - name: Write YouTube cookies
-        run: |
-          mkdir -p data
-          printf '%s' "$YOUTUBE_COOKIES" > data/cookies.txt
-        env:
-          YOUTUBE_COOKIES: ${{ secrets.YOUTUBE_COOKIES }}
-
-      - name: Create .env from secrets
+      - name: Create .env from secrets (playlists only, no channels, no cookies)
         working-directory: pipeline
         run: |
           cat > .env <<EOF
-          YOUTUBE_CHANNELS=${{ secrets.YOUTUBE_CHANNELS }}
           YOUTUBE_API_KEY=${{ secrets.YOUTUBE_API_KEY }}
           ANTHROPIC_API_KEY=${{ secrets.ANTHROPIC_API_KEY }}
-          TRANSCRIPT_LANG=${{ vars.TRANSCRIPT_LANG || 'en' }}
-          MAX_VIDEOS_PER_CHANNEL=${{ github.event.inputs.max_videos || '5' }}
-          BATCH_SIZE=${{ github.event.inputs.batch_size || '10' }}
-          BATCH_PAUSE=${{ github.event.inputs.batch_pause || '180' }}
+          YOUTUBE_PLAYLISTS=${{ secrets.YOUTUBE_PLAYLISTS }}
+          TRANSCRIPT_LANG=en
+          MAX_VIDEOS_PER_CHANNEL=${{ github.event.inputs.max_videos || '0' }}
           DATA_DIR=../data
-          COOKIES_FILE=../data/cookies.txt
           EOF
 
-      - name: Run pipeline
+      - name: Run backfill
         working-directory: pipeline
-        run: |
-          CHANNEL_FLAG=""
-          if [ -n "${{ github.event.inputs.channel }}" ]; then
-            CHANNEL_FLAG="--channel ${{ github.event.inputs.channel }}"
-          fi
+        run: python run.py --backfill --max ${{ github.event.inputs.max_videos || '0' }}
 
-          FORCE_FLAG=""
-          if [ "${{ github.event.inputs.force }}" = "true" ]; then
-            FORCE_FLAG="--force"
-          fi
-
-          python run.py \
-            $CHANNEL_FLAG \
-            --max ${{ github.event.inputs.max_videos || '5' }} \
-            --batch-size ${{ github.event.inputs.batch_size || '10' }} \
-            --batch-pause ${{ github.event.inputs.batch_pause || '180' }} \
-            $FORCE_FLAG
-
-      - name: Commit updated data
+      - name: Commit this channel's data only
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/transcripts data/metadata
-          git diff --staged --quiet && echo "No changes to commit" || \
-            git commit -m "chore: pipeline run (windows) $(date -u '+%Y-%m-%d %H:%M UTC') [skip ci]"
+
+          # Stage ONLY this channel's files — transcripts, channel metadata,
+          # and its per-channel index. Never combined index.json / MCC files.
+          git add "data/transcripts/$BACKFILL_CHANNEL_ID" \
+                  "data/metadata/$BACKFILL_CHANNEL_ID" \
+                  "data/metadata/index-$BACKFILL_CHANNEL_ID.json"
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "chore: playlist backfill (windows) $(date -u '+%Y-%m-%d %H:%M UTC') [skip ci]"
+
+          # Discard the combined index.json rebuild + any other tracked
+          # modifications so the rebase below starts from a clean tree.
+          git checkout -- .
+
+          # The Mac runner pushes independently — rebase before pushing.
+          git pull --rebase
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -124,6 +100,6 @@ jobs:
         if: failure()
         uses: actions/upload-artifact@v4.6.2
         with:
-          name: pipeline-data-windows-${{ github.run_number }}
+          name: backfill-windows-${{ github.run_number }}
           path: data/
           retention-days: 7

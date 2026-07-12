@@ -124,6 +124,8 @@ jobs:
           git add data/transcripts data/metadata
           git diff --staged --quiet && echo "No changes to commit" || \
             git commit -m "chore: pipeline run $(date -u '+%Y-%m-%d %H:%M UTC') [skip ci]"
+          # The Windows backfill runner pushes independently — rebase first.
+          git pull --rebase
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

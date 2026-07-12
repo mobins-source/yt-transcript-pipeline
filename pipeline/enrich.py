@@ -172,12 +172,23 @@ def enrich_all_channels(force: bool = False) -> None:
 
 
 def _rebuild_index() -> None:
+    """
+    Rebuild the combined index.json AND one index-{channel_id}.json per channel.
+
+    The per-channel files exist so multiple runners (Mac = MCC schedule,
+    Windows = Sh. Ali playlist backfill) never write the same committed file:
+    each runner commits only its own channel's transcripts + per-channel index.
+    The combined index.json remains for the local admin viewer and as a
+    fallback; only the Mac/primary runner commits it.
+    The mcc-khutba site fetches the per-channel files and merges at read time.
+    """
     index_videos = []
     if not config.METADATA_DIR.exists():
         return
     for ch_dir in config.METADATA_DIR.iterdir():
         if not ch_dir.is_dir():
             continue
+        channel_videos = []
         metas = store.load_channel_metadata(ch_dir.name)
         for meta in metas:
             vid_id = meta["video_id"]
@@ -194,10 +205,22 @@ def _rebuild_index() -> None:
                 ):
                     if f in tx:
                         meta[f] = tx[f]
-            index_videos.append(meta)
+            channel_videos.append(meta)
+
+        # Per-channel index — the only index file a secondary runner commits
+        store._write_json(
+            config.METADATA_DIR / f"index-{ch_dir.name}.json",
+            {
+                "channel_id": ch_dir.name,
+                "videos":     channel_videos,
+                "updated_at": datetime.now(timezone.utc).isoformat(),
+            },
+        )
+        index_videos.extend(channel_videos)
 
     store._write_json(store._index_path(), {
         "videos":     index_videos,
         "updated_at": datetime.now(timezone.utc).isoformat(),
     })
-    console.print(f"[dim]Index rebuilt with {len(index_videos)} videos[/dim]")
+    console.print(f"[dim]Index rebuilt with {len(index_videos)} videos "
+                  f"(+ per-channel index files)[/dim]")
