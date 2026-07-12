@@ -59,7 +59,10 @@ on:
 
 jobs:
   run-pipeline:
-    runs-on: self-hosted
+    # Pinned to the Mac by label — a Windows runner is being added for migration
+    # (see pipeline-windows.yml). Without this pin, plain `self-hosted` would
+    # match ANY registered runner and jobs could land on Windows and crash.
+    runs-on: [self-hosted, macOS]
     timeout-minutes: 90   # 2 batches × (10 videos × 5s + 3min pause) ≈ 7min + enrichment
     defaults:
       run:
