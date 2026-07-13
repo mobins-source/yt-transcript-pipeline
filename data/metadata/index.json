@@ -31051,6 +31051,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "Sd2YCknS6oA",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260713",
+      "published_at": "2026-07-13T11:57:31Z",
+      "actual_at": "2026-07-13T11:43:57Z",
+      "duration_seconds": 602,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=Sd2YCknS6oA",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Monday",
+      "time_slot": "Monday-Fajr",
+      "post_time": "2026-07-13T04:43:57",
+      "post_date": "2026-07-13",
+      "month": "July",
+      "month_num": 7,
+      "year": 2026,
+      "month_year": "July 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
+      "hadith_chapter": "Chapter on Invalidators of Wudu",
+      "topic_tags": [
+        "wudu",
+        "hadith",
+        "fiqh",
+        "ritual purity",
+        "anas ibn malik",
+        "invalidators",
+        "islamic jurisprudence",
+        "prophet's sunnah"
+      ],
+      "suggested_title": "Understanding the Invalidators of Wudu: A Hadith Study on Ritual Purity",
+      "catchy_title": "What Breaks Your Wudu? Islamic Fiqh Explained",
+      "summary": "This lecture discusses the invalidators of wudu (ritual ablution) in Islam, using a hadith narrated by Anas ibn Malik about the Prophet Muhammad's companions. The speaker explains how the elder companions would pray Maghrib in the mosque, then wait for Isha prayer while sometimes falling into light sleep, and the Prophet would observe this without requiring them to renew their wudu. The lecture outlines the specific invalidators of wudu: discharge from the private parts, deep sleep (an-nawm al-mustaghriq), loss of consciousness due to intoxication or illness, and touching the private parts with desire. The speaker emphasizes the distinction between light and deep sleep, noting that light sleep alone does not invalidate wudu.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -35655,5 +35698,5 @@
       "has_clean_txt": false
     }
   ],
-  "updated_at": "2026-07-13T08:27:38.383286+00:00"
+  "updated_at": "2026-07-13T17:23:00.450341+00:00"
 }
