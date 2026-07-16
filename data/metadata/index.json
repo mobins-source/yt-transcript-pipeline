@@ -31223,6 +31223,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "sOP46Herc-4",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260716",
+      "published_at": "2026-07-16T12:05:10Z",
+      "actual_at": "2026-07-16T11:44:37Z",
+      "duration_seconds": 1032,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=sOP46Herc-4",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Thursday",
+      "time_slot": "Thursday-Fajr",
+      "post_time": "2026-07-16T04:44:37",
+      "post_date": "2026-07-16",
+      "month": "July",
+      "month_num": 7,
+      "year": 2026,
+      "month_year": "July 2026",
+      "content_type": "General",
+      "hadith_book": null,
+      "hadith_chapter": null,
+      "topic_tags": [
+        "wudu",
+        "ritual ablution",
+        "salah",
+        "tawaf",
+        "quran handling",
+        "islamic jurisprudence",
+        "madhabs",
+        "purity"
+      ],
+      "suggested_title": "What Requires Wudu: Salah, Tawaf, and Handling the Quran",
+      "catchy_title": "What breaks your wudu and what demands it?",
+      "summary": "This lecture discusses the requirements for wudu (ritual ablution) in Islam, specifically focusing on what invalidates wudu and what requires wudu to perform. The instructor explains the five things that invalidate wudu according to Islamic jurisprudence, then transitions to discussing what actions require a person to be in a state of wudu. The three primary actions requiring wudu are: performing salah (prayer), circumambulating the Kaaba (tawaf), and handling the Quran (mus'haf). The lecture emphasizes the consensus of the major Islamic schools of jurisprudence (madhabs) on these requirements and clarifies the definition of what constitutes the Quran when determining whether wudu is necessary.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -35827,5 +35870,5 @@
       "has_clean_txt": false
     }
   ],
-  "updated_at": "2026-07-16T07:31:56.469285+00:00"
+  "updated_at": "2026-07-16T16:41:12.878193+00:00"
 }
