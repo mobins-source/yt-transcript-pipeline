@@ -31524,6 +31524,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "VMLjpCd06Ug",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260721",
+      "published_at": "2026-07-21T12:16:58Z",
+      "actual_at": "2026-07-21T11:57:42Z",
+      "duration_seconds": 869,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=VMLjpCd06Ug",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Tuesday",
+      "time_slot": "Tuesday-Fajr",
+      "post_time": "2026-07-21T04:57:42",
+      "post_date": "2026-07-21",
+      "month": "July",
+      "month_num": 7,
+      "year": 2026,
+      "month_year": "July 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Sahih Muslim",
+      "hadith_chapter": "Purification (Taharah)",
+      "topic_tags": [
+        "wudoo",
+        "ghusl",
+        "ablution",
+        "ritual purification",
+        "taharah",
+        "sunnah",
+        "janaba",
+        "islamic jurisprudence"
+      ],
+      "suggested_title": "The Sunnah of Wudoo and Ghusl: Times, Methods, and Islamic Rulings",
+      "catchy_title": "How did the Prophet make ghusl?",
+      "summary": "This lecture discusses the Islamic rulings on wudoo (ablution) and ghusl (ritual bathing), specifically focusing on occasions when wudoo is preferred rather than obligatory. The speaker distinguishes between three obligatory instances for wudoo (handling the Quran, around the Kaaba, and before prayer) and preferred instances including remembrance of Allah, before sleep, and when in a state of janaba (major impurity). The lecture then explains ghusl in detail, covering its linguistic meaning in Arabic, the minimum requirements for valid ghusl, and the Sunnah method of performing ghusl as narrated from the Prophet Muhammad (peace be upon him) through Aisha.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -36128,5 +36171,5 @@
       "has_clean_txt": false
     }
   ],
-  "updated_at": "2026-07-20T16:44:19.421265+00:00"
+  "updated_at": "2026-07-21T14:50:06.571599+00:00"
 }
