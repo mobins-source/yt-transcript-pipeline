@@ -31567,6 +31567,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "wCt9u9-dBuQ",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260722",
+      "published_at": "2026-07-22T12:15:06Z",
+      "actual_at": "2026-07-22T11:59:17Z",
+      "duration_seconds": 720,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=wCt9u9-dBuQ",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Wednesday",
+      "time_slot": "Wednesday-Fajr",
+      "post_time": "2026-07-22T04:59:17",
+      "post_date": "2026-07-22",
+      "month": "July",
+      "month_num": 7,
+      "year": 2026,
+      "month_year": "July 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
+      "hadith_chapter": "Chapter on Wudoo and Times of Wudoo",
+      "topic_tags": [
+        "wudoo",
+        "ghusl",
+        "ritual purification",
+        "hadith",
+        "janaba",
+        "islamic law",
+        "sunnah",
+        "worship"
+      ],
+      "suggested_title": "Understanding the Relationship Between Ghusl and Wudoo: When Does Full Bathing Count as Purification?",
+      "catchy_title": "Does Swimming Count as Wudoo?",
+      "summary": "This lecture from the Muslim Community Center of Tucson discusses the Islamic rules and etiquette of ritual purification (wudoo and ghusl) as detailed in Al-Wajeez. The speaker clarifies a commonly misunderstood concept regarding the relationship between major hadith (janaba) and minor hadith (lesser impurities), explaining that when a person performs ghusl (full body washing) to remove major hadith, it automatically removes minor hadith as well, making a subsequent wudoo unnecessary. However, the speaker emphasizes an important distinction: ghusl only counts as fulfilling the wudoo requirement when it is performed specifically to remove major hadith with the intention of worship, not merely for personal cleanliness or hygiene reasons.\n\nThe lecture addresses a frequent misconception where people mistakenly believe that any full-body bathing—such as swimming, showering for hygiene, or bathing at the gym—automatically satisfies the wudoo requirement. The speaker provides practical examples and explains that the Prophet Muhammad (peace be upon him) did not perform wudoo after ghusl when the ghusl was done to remove major hadith. The critical distinction is that only water that is applied with the specific intention of removing major hadith counts toward the wudoo requirement; casual bathing for cleanliness does not.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -36171,5 +36214,5 @@
       "has_clean_txt": false
     }
   ],
-  "updated_at": "2026-07-22T07:42:23.108250+00:00"
+  "updated_at": "2026-07-22T16:44:52.404758+00:00"
 }
