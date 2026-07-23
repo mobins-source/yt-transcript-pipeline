@@ -31610,6 +31610,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "rKQBGFGAV_U",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260723",
+      "published_at": "2026-07-23T04:30:37Z",
+      "actual_at": "2026-07-23T04:17:23Z",
+      "duration_seconds": 648,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=rKQBGFGAV_U",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Isha",
+      "day_of_week": "Wednesday",
+      "time_slot": "Wednesday-Isha",
+      "post_time": "2026-07-22T21:17:23",
+      "post_date": "2026-07-22",
+      "month": "July",
+      "month_num": 7,
+      "year": 2026,
+      "month_year": "July 2026",
+      "content_type": "Mixed",
+      "hadith_book": "Riyadul Saliheen",
+      "hadith_chapter": "Book of Knowledge - Chapter on the Virtue of Knowledge",
+      "topic_tags": [
+        "knowledge",
+        "virtue of knowledge",
+        "Quran",
+        "Surah Az-Zumar",
+        "Islamic law",
+        "intention",
+        "learning",
+        "hadith"
+      ],
+      "suggested_title": "The Virtue of Knowledge: Quranic Verses on the Superiority of the Knowledgeable from Riyadh as-Saliheen",
+      "catchy_title": "Does knowledge change everything?",
+      "summary": "This lecture continues the study of Riyadh as-Saliheen's Book of Knowledge, focusing on the virtue of knowledge and those who teach and learn it for Allah's sake. The speaker discusses four select Quranic verses that capture the essence of knowledge's importance, beginning with Surah Taha's verse about asking Allah to increase one's knowledge. The lecture primarily focuses on Surah Az-Zumar verse 9, which rhetorically asks whether those who know and those who do not know are equal, emphasizing through various examples that knowledge fundamentally changes one's status and treatment in Islamic law. The speaker illustrates this principle by explaining how a trained hunting dog, distinguished only by its knowledge, receives different legal treatment than an untrained dog, demonstrating that knowledge alone elevates status even among animals, and therefore far more so among humans.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -36214,5 +36257,5 @@
       "has_clean_txt": false
     }
   ],
-  "updated_at": "2026-07-22T16:44:52.404758+00:00"
+  "updated_at": "2026-07-23T07:44:20.232528+00:00"
 }
