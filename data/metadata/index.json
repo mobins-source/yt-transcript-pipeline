@@ -31739,6 +31739,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "Zrs9xfPHhDs",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260724",
+      "published_at": "2026-07-24T12:21:13Z",
+      "actual_at": "2026-07-24T11:59:56Z",
+      "duration_seconds": 1087,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=Zrs9xfPHhDs",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Friday",
+      "time_slot": "Friday-Fajr",
+      "post_time": "2026-07-24T04:59:56",
+      "post_date": "2026-07-24",
+      "month": "July",
+      "month_num": 7,
+      "year": 2026,
+      "month_year": "July 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Other",
+      "hadith_chapter": null,
+      "topic_tags": [
+        "wudu",
+        "ablution",
+        "salah",
+        "prayer",
+        "sunnah",
+        "ritual purity",
+        "jurisprudence",
+        "islamic practice"
+      ],
+      "suggested_title": "Making Wudu for Each Prayer: From Obligation to Sunnah",
+      "catchy_title": "Why refresh your wudu for every prayer?",
+      "summary": "This lecture discusses the sixth instance in which making wudu (ritual ablution) is preferred according to Islamic jurisprudence, specifically making wudu for each prayer. The speaker explains that while wudu for each prayer was originally obligatory during the early revelation period, it was later relaxed to being highly recommended after the conquest of Mecca. The Prophet Muhammad (peace be upon him) demonstrated this principle by praying all prayers on the same wudu on that day, which surprised his companion Umar. The speaker emphasizes that the Prophet's overwhelming practice was to make fresh wudu for each prayer, establishing this as the preferred sunnah. The lecture also explores the multiple benefits of making wudu for each prayer beyond maintaining ritual purity, including the expiation of sins committed through the body parts, mental preparation for prayer, and ensuring full presence and comprehension during worship.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -36343,5 +36386,5 @@
       "has_clean_txt": false
     }
   ],
-  "updated_at": "2026-07-24T07:41:55.766794+00:00"
+  "updated_at": "2026-07-24T16:57:01.952513+00:00"
 }
