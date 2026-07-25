@@ -30,6 +30,10 @@ on:
         description: "Max videos per playlist listing (0 = all). Backfill budget still caps fetches at 40/run."
         required: false
         default: "0"
+      playlists_override:
+        description: "Comma-separated playlist IDs to process (overrides YOUTUBE_PLAYLISTS secret). Leave empty to use all configured playlists."
+        required: false
+        default: ""
 
 env:
   # Sh. Ali Mashhour's channel (The Mosque Foundation) — the only channel
@@ -56,10 +60,15 @@ jobs:
       - name: Create .env from secrets (playlists only, no channels, no cookies)
         working-directory: pipeline
         run: |
+          # Use playlists_override if provided, otherwise fall back to secret
+          PLAYLISTS="${{ github.event.inputs.playlists_override }}"
+          if [ -z "$PLAYLISTS" ]; then
+            PLAYLISTS="${{ secrets.YOUTUBE_PLAYLISTS }}"
+          fi
           cat > .env <<EOF
           YOUTUBE_API_KEY=${{ secrets.YOUTUBE_API_KEY }}
           ANTHROPIC_API_KEY=${{ secrets.ANTHROPIC_API_KEY }}
-          YOUTUBE_PLAYLISTS=${{ secrets.YOUTUBE_PLAYLISTS }}
+          YOUTUBE_PLAYLISTS=$PLAYLISTS
           TRANSCRIPT_LANG=en
           MAX_VIDEOS_PER_CHANNEL=${{ github.event.inputs.max_videos || '0' }}
           DATA_DIR=../data
