@@ -1,0 +1,126 @@
+name: Validate Pipeline + Site
+
+# Full-stack data integrity validation.
+# Runs on the Windows runner (separate network) — manual trigger only.
+#
+# Job 1 (validate-pipeline): Python checks on local index files + live URLs
+#   - Per-channel index files exist and are under 2MB
+#   - Required site fields present, forbidden heavy fields absent
+#   - Video counts sane, transcript files present
+#   - Combined index untouched (admin viewer safe)
+#   - Live GitHub raw URLs reachable and well-formed
+#
+# Job 2 (validate-site): npm run build on mcc-khutba
+#   - Only runs if Job 1 passes (depends-on)
+#   - Catches any Next.js build errors caused by data changes
+#   - Reports cache warnings (e.g. index over 2MB) even if build passes
+#
+# Failure behavior: fails the job → GitHub emails the repo owner.
+# Both jobs must pass for the run to be green.
+
+on:
+  workflow_dispatch:
+    inputs:
+      local_only:
+        description: "Skip live URL checks (useful if GitHub raw is temporarily slow)"
+        required: false
+        default: "false"
+        type: boolean
+      verbose:
+        description: "Print every check result, not just failures"
+        required: false
+        default: "false"
+        type: boolean
+
+jobs:
+  validate-pipeline:
+    name: Pipeline data integrity
+    runs-on: [self-hosted, Windows]
+    defaults:
+      run:
+        shell: bash
+    env:
+      PYTHONUTF8: "1"
+
+    steps:
+      - name: Checkout pipeline repo
+        uses: actions/checkout@v4.2.2
+        with:
+          # Always fetch fresh from origin so we validate what's actually
+          # on main, not a stale workspace from a previous backfill run.
+          clean: true
+
+      - name: Run validate.py
+        run: |
+          FLAGS=""
+          if [ "${{ github.event.inputs.local_only }}" = "true" ]; then
+            FLAGS="$FLAGS --local"
+          fi
+          if [ "${{ github.event.inputs.verbose }}" = "true" ]; then
+            FLAGS="$FLAGS --verbose"
+          fi
+          python validate.py $FLAGS
+
+  validate-site:
+    name: Site build (npm run build)
+    runs-on: [self-hosted, Windows]
+    needs: validate-pipeline   # only runs if pipeline checks pass
+    defaults:
+      run:
+        shell: bash
+    env:
+      PYTHONUTF8: "1"
+
+    steps:
+      - name: Checkout mcc-khutba repo
+        uses: actions/checkout@v4.2.2
+        with:
+          repository: mobins-source/mcc-khutba
+          token: ${{ secrets.GITHUB_TOKEN }}
+          path: mcc-khutba
+          clean: true
+
+      - name: Check Node.js available
+        run: |
+          if ! command -v node &> /dev/null; then
+            echo "ERROR: Node.js not found on PATH."
+            echo "Install Node.js LTS from https://nodejs.org/ with 'Add to PATH' checked,"
+            echo "then restart the runner service."
+            exit 1
+          fi
+          node --version
+          npm --version
+
+      - name: Install dependencies
+        working-directory: mcc-khutba
+        run: npm ci
+
+      - name: Build site
+        working-directory: mcc-khutba
+        run: |
+          # Capture build output so we can scan it for cache warnings
+          npm run build 2>&1 | tee build_output.txt
+          BUILD_EXIT=${PIPESTATUS[0]}
+
+          # Surface cache warnings as annotations (non-blocking)
+          if grep -q "Failed to set fetch cache" build_output.txt; then
+            echo "::warning::One or more index files exceed Next.js 2MB fetch cache limit."
+            echo "::warning::This means ISR revalidation fetches the index fresh every time."
+            echo "::warning::Consider implementing the slim index to bring files under 2MB."
+            grep "Failed to set fetch cache" build_output.txt | head -5
+          fi
+
+          # Fail the job if the build itself failed
+          if [ $BUILD_EXIT -ne 0 ]; then
+            echo "::error::npm run build failed with exit code $BUILD_EXIT"
+            exit $BUILD_EXIT
+          fi
+
+          echo "Build passed successfully."
+
+      - name: Report page counts
+        working-directory: mcc-khutba
+        run: |
+          # Extract and display the page count from build output for tracking
+          PAGES=$(grep "Generating static pages" build_output.txt | tail -1)
+          echo "Page generation: $PAGES"
