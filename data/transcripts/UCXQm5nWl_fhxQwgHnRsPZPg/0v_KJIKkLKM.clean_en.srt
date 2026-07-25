@@ -1,0 +1,4371 @@
+1
+00:00:40,960 --> 00:00:44,759
+Before we start, I'd to
+
+2
+00:00:45,840 --> 00:00:50,320
+say that I hope that everybody is well
+
+3
+00:00:48,280 --> 00:00:52,240
+and healthy
+
+4
+00:00:50,320 --> 00:00:54,600
+in their respective homes.
+
+5
+00:00:52,240 --> 00:00:57,400
+We are having a brief shutdown during
+
+6
+00:00:54,600 --> 00:01:01,079
+these few days here due to
+
+7
+00:00:57,399 --> 00:01:03,239
+some of the holidays that have
+
+8
+00:01:01,079 --> 00:01:05,280
+come about and
+
+9
+00:01:03,240 --> 00:01:06,799
+it's not really the holidays. It's not
+
+10
+00:01:05,280 --> 00:01:09,359
+that
+
+11
+00:01:06,799 --> 00:01:12,519
+most of the Muslims are
+
+12
+00:01:09,359 --> 00:01:16,200
+celebrating Thanksgiving per se,
+
+13
+00:01:12,519 --> 00:01:19,199
+but it is a time that is used for
+
+14
+00:01:16,200 --> 00:01:22,400
+visitation of family and friends
+
+15
+00:01:19,200 --> 00:01:24,960
+because most people have that time off.
+
+16
+00:01:22,400 --> 00:01:27,560
+So, because of this,
+
+17
+00:01:24,959 --> 00:01:30,039
+we had taken the decision to close the
+
+18
+00:01:27,560 --> 00:01:32,760
+masjid for a couple of weeks just
+
+19
+00:01:30,040 --> 00:01:36,160
+as a precautionary measure for all of
+
+20
+00:01:32,760 --> 00:01:39,080
+our patrons. So,
+
+21
+00:01:36,159 --> 00:01:40,759
+indeed, it seems we're almost a week
+
+22
+00:01:39,079 --> 00:01:42,920
+through and
+
+23
+00:01:40,760 --> 00:01:45,600
+about
+
+24
+00:01:42,920 --> 00:01:49,159
+nine more days left or so. Shall Allah
+
+25
+00:01:45,599 --> 00:01:49,159
+and things will be back to normal.
+
+26
+00:01:50,640 --> 00:01:55,200
+Tonight in sha Allah to Allah in our
+
+27
+00:01:57,079 --> 00:02:02,200
+in our
+
+28
+00:01:59,599 --> 00:02:05,079
+journey through Zad al-Ma'ad fi hadyi
+
+29
+00:02:02,200 --> 00:02:05,799
+khayr al-ibad authored by
+
+30
+00:02:05,799 --> 00:02:11,719
+Shaykh al-Islam Shams al-Din ibn
+
+31
+00:02:08,919 --> 00:02:15,399
+Qayyim al-Jawziyyah rahimahullah
+
+32
+00:02:11,719 --> 00:02:15,400
+we are going to be discussing
+
+33
+00:02:15,520 --> 00:02:19,360
+the
+
+34
+00:02:16,959 --> 00:02:23,080
+issue of the Prophet sallallahu
+
+35
+00:02:19,360 --> 00:02:24,280
+alayhi wasallam and how he would pray at
+
+36
+00:02:23,080 --> 00:02:26,440
+night.
+
+37
+00:02:24,280 --> 00:02:28,000
+How he would pray at night.
+
+38
+00:02:26,439 --> 00:02:29,120
+This is different than the previous
+
+39
+00:02:28,000 --> 00:02:31,039
+chapter.
+
+40
+00:02:29,120 --> 00:02:33,680
+If you'll recall with me, the previous
+
+41
+00:02:31,039 --> 00:02:37,280
+chapter was regarding the Prophet
+
+42
+00:02:33,680 --> 00:02:38,719
+sallallahu alayhi wasallam and al-sunan
+
+43
+00:02:37,280 --> 00:02:40,080
+al-rawatibah.
+
+44
+00:02:38,719 --> 00:02:42,919
+The
+
+45
+00:02:40,080 --> 00:02:44,480
+sunan that are more
+
+46
+00:02:42,919 --> 00:02:45,679
+attached
+
+47
+00:02:44,479 --> 00:02:47,159
+to
+
+48
+00:02:45,680 --> 00:02:49,520
+the prayer
+
+49
+00:02:47,159 --> 00:02:51,879
+the five daily prayers than they are to
+
+50
+00:02:49,520 --> 00:02:54,560
+the time of day or night.
+
+51
+00:02:51,879 --> 00:02:57,639
+These are al-sunan al-mu'akkadah.
+
+52
+00:02:54,560 --> 00:02:59,239
+Al-rawatibah. These are the sunan in
+
+53
+00:02:57,639 --> 00:03:01,199
+which the Prophet sallallahu alayhi
+
+54
+00:02:59,239 --> 00:03:03,400
+wasallam would pray
+
+55
+00:03:01,199 --> 00:03:06,199
+all of the time. Sometimes he would
+
+56
+00:03:03,400 --> 00:03:09,280
+pray a little more. And in travel he
+
+57
+00:03:06,199 --> 00:03:13,119
+would pray less. However, we discussed
+
+58
+00:03:09,280 --> 00:03:16,719
+10 raka'at, 10 units of prayer.
+
+59
+00:03:13,120 --> 00:03:20,439
+And we also discussed the importance
+
+60
+00:03:16,719 --> 00:03:24,400
+of the two raka'at before Fajr and also
+
+61
+00:03:20,439 --> 00:03:27,919
+the one raka'at before after Isha,
+
+62
+00:03:24,400 --> 00:03:29,080
+which is al-witr, witr salah.
+
+63
+00:03:27,919 --> 00:03:30,958
+There are a couple of things that we
+
+64
+00:03:29,080 --> 00:03:34,280
+need to
+
+65
+00:03:30,959 --> 00:03:34,840
+finish up with regards to
+
+66
+00:03:34,840 --> 00:03:38,680
+that topic.
+
+67
+00:03:36,759 --> 00:03:41,840
+Number one,
+
+68
+00:03:38,680 --> 00:03:44,480
+with regards to witr salah.
+
+69
+00:03:41,840 --> 00:03:45,800
+Witr salah, which is essentially one
+
+70
+00:03:44,479 --> 00:03:48,679
+raka'.
+
+71
+00:03:45,800 --> 00:03:53,360
+When we talk about witr,
+
+72
+00:03:48,680 --> 00:03:54,760
+witr in the Arabic language articulates
+
+73
+00:03:53,360 --> 00:03:56,440
+al-fard.
+
+74
+00:03:54,759 --> 00:03:58,359
+It articulates
+
+75
+00:03:56,439 --> 00:03:59,400
+singularity.
+
+76
+00:03:58,360 --> 00:04:02,840
+Right?
+
+77
+00:03:59,400 --> 00:04:04,840
+Allah subhanahu wa ta'ala uses al-witr
+
+78
+00:04:02,840 --> 00:04:10,200
+in the Arabic Quran.
+
+79
+00:04:04,840 --> 00:04:15,240
+In the Quran, excuse me, he uses it
+
+80
+00:04:10,199 --> 00:04:18,839
+as a kind of contrast or antonym to
+
+81
+00:04:15,240 --> 00:04:22,439
+even numbers, which are a shaf'a. So,
+
+82
+00:04:18,839 --> 00:04:23,560
+he says wa shaf'i wal watri.
+
+83
+00:04:22,439 --> 00:04:26,519
+Right?
+
+84
+00:04:23,560 --> 00:04:29,160
+So, what this means is, as the scholars
+
+85
+00:04:26,519 --> 00:04:32,279
+of tafsir, some of them have mentioned,
+
+86
+00:04:29,160 --> 00:04:35,840
+that Allah subhanahu wa ta'ala swears by
+
+87
+00:04:32,279 --> 00:04:38,519
+the even and odd.
+
+88
+00:04:35,839 --> 00:04:42,719
+Right? So, witr,
+
+89
+00:04:38,519 --> 00:04:45,120
+the odd number, right? Even numbers are
+
+90
+00:04:42,720 --> 00:04:48,080
+any number.
+
+91
+00:04:45,120 --> 00:04:50,800
+The odd number,
+
+92
+00:04:48,079 --> 00:04:52,959
+which often times we say even numbers
+
+93
+00:04:50,800 --> 00:04:55,040
+are divisible by two,
+
+94
+00:04:52,959 --> 00:04:56,519
+right?
+
+95
+00:04:55,040 --> 00:04:59,919
+Two equals
+
+96
+00:04:56,519 --> 00:05:02,479
+and odd numbers are singular.
+
+97
+00:04:59,918 --> 00:05:06,479
+The essence of what
+
+98
+00:05:02,480 --> 00:05:09,960
+the odd number is is one extra.
+
+99
+00:05:06,480 --> 00:05:12,640
+It is one. One rak'.
+
+100
+00:05:09,959 --> 00:05:16,120
+And this is why the correct opinion of
+
+101
+00:05:12,639 --> 00:05:16,120
+the scholars of Islam
+
+102
+00:05:16,800 --> 00:05:24,639
+mentions that the minimum for witr salah
+
+103
+00:05:22,040 --> 00:05:26,560
+is one rak'.
+
+104
+00:05:24,639 --> 00:05:28,639
+And this is why sometimes the Prophet
+
+105
+00:05:26,560 --> 00:05:31,160
+sallallahu alaihi wa sallam would pray
+
+106
+00:05:28,639 --> 00:05:32,639
+that one rak' by itself, and sometimes
+
+107
+00:05:31,160 --> 00:05:33,680
+he would pray it
+
+108
+00:05:32,639 --> 00:05:36,079
+with
+
+109
+00:05:33,680 --> 00:05:39,280
+two others, making it three. And
+
+110
+00:05:36,079 --> 00:05:41,680
+sometimes five, and sometimes seven, and
+
+111
+00:05:39,279 --> 00:05:43,359
+sometimes nine. He had prayed it
+
+112
+00:05:41,680 --> 00:05:44,759
+[Arabic recitation]
+
+113
+00:05:43,360 --> 00:05:45,759
+together.
+
+114
+00:05:44,759 --> 00:05:47,240
+Right?
+
+115
+00:05:45,759 --> 00:05:49,719
+So,
+
+116
+00:05:47,240 --> 00:05:51,680
+this one rak',
+
+117
+00:05:49,720 --> 00:05:53,240
+we have evidence of it from the
+
+118
+00:05:51,680 --> 00:05:54,680
+companions
+
+119
+00:05:53,240 --> 00:05:57,480
+on them,
+
+120
+00:05:54,680 --> 00:06:00,120
+that in Sahih al-Bukhari,
+
+121
+00:05:57,480 --> 00:06:02,920
+in the book of Fada'il al-Sahabah,
+
+122
+00:06:00,120 --> 00:06:03,600
+the virtues of the companions,
+
+123
+00:06:03,600 --> 00:06:07,040
+amongst other places throughout Sahih
+
+124
+00:06:05,839 --> 00:06:09,119
+al-Bukhari,
+
+125
+00:06:07,040 --> 00:06:12,920
+Imam al-Bukhari mentions under the
+
+126
+00:06:09,120 --> 00:06:15,000
+heading Muawiyah on them,
+
+127
+00:06:12,920 --> 00:06:17,120
+and in this heading,
+
+128
+00:06:15,000 --> 00:06:21,360
+he mentions a narration in which
+
+129
+00:06:17,120 --> 00:06:25,800
+Muawiyah ibn Abi Sufyan on them,
+
+130
+00:06:21,360 --> 00:06:28,000
+prayed one rak' in the masjid after
+
+131
+00:06:25,800 --> 00:06:30,360
+salah.
+
+132
+00:06:28,000 --> 00:06:32,399
+He prayed Isha, which means he led
+
+133
+00:06:30,360 --> 00:06:35,560
+everybody in Isha,
+
+134
+00:06:32,399 --> 00:06:37,359
+and then he prayed one rak',
+
+135
+00:06:35,560 --> 00:06:39,879
+and then he left.
+
+136
+00:06:37,360 --> 00:06:42,560
+And one of the companions of Ibn Abbas,
+
+137
+00:06:39,879 --> 00:06:46,439
+one of his students, observed
+
+138
+00:06:42,560 --> 00:06:48,280
+Muawiyah doing this. And so he
+
+139
+00:06:46,439 --> 00:06:49,839
+mentioned this to Ibn Abbas, and he
+
+140
+00:06:48,279 --> 00:06:52,119
+said,
+
+141
+00:06:49,839 --> 00:06:53,918
+you know, Muawiyah prayed one rak' on
+
+142
+00:06:52,120 --> 00:06:56,040
+its own, alone.
+
+143
+00:06:53,918 --> 00:07:00,199
+And Ibn Abbas on them
+
+144
+00:06:56,040 --> 00:07:02,680
+said, "Dahu fa innahu faqih."
+
+145
+00:07:00,199 --> 00:07:05,120
+He said, "Leave him.
+
+146
+00:07:02,680 --> 00:07:06,840
+Don't speak ill of him. Don't speak as
+
+147
+00:07:05,120 --> 00:07:07,759
+if this is
+
+148
+00:07:07,759 --> 00:07:14,959
+something that is wrong, because indeed
+
+149
+00:07:11,240 --> 00:07:16,840
+Muawiyah is a jurist. He is a faqih. He
+
+150
+00:07:14,959 --> 00:07:20,319
+is very knowledgeable with regards to
+
+151
+00:07:16,839 --> 00:07:23,839
+the laws of Allah." And so,
+
+152
+00:07:20,319 --> 00:07:25,759
+taken from this and elsewhere, that
+
+153
+00:07:23,839 --> 00:07:27,199
+the witr salah is essentially one
+
+154
+00:07:25,759 --> 00:07:29,480
+rak'.
+
+155
+00:07:27,199 --> 00:07:30,839
+We have this also in a narration in a
+
+156
+00:07:29,480 --> 00:07:33,800
+sunan,
+
+157
+00:07:30,839 --> 00:07:35,719
+in which a man asked the Prophet
+
+158
+00:07:33,800 --> 00:07:38,120
+on him and them
+
+159
+00:07:35,720 --> 00:07:40,760
+about night prayer, meaning how to pray
+
+160
+00:07:38,120 --> 00:07:43,920
+night prayer. He said, "Salat al-layli
+
+161
+00:07:40,759 --> 00:07:47,279
+mathna mathna." He said, "Prayer at
+
+162
+00:07:43,920 --> 00:07:48,360
+night should be performed in units of
+
+163
+00:07:47,279 --> 00:07:49,839
+two."
+
+164
+00:07:48,360 --> 00:07:52,040
+He says, "Prayer at night should be
+
+165
+00:07:49,839 --> 00:07:54,479
+performed in units of
+
+166
+00:07:52,040 --> 00:07:54,480
+two."
+
+167
+00:08:01,839 --> 00:08:05,879
+He said,
+
+168
+00:08:03,240 --> 00:08:08,680
+"And if you fear that Fajr is going to
+
+169
+00:08:05,879 --> 00:08:10,079
+rise while you're still praying, meaning
+
+170
+00:08:08,680 --> 00:08:12,600
+if
+
+171
+00:08:10,079 --> 00:08:16,359
+just before Fajr comes in,
+
+172
+00:08:12,600 --> 00:08:19,120
+pray one rak', and that will make odd
+
+173
+00:08:16,360 --> 00:08:22,199
+all of the the number of prayer that you
+
+174
+00:08:19,120 --> 00:08:24,040
+had throughout that night."
+
+175
+00:08:22,199 --> 00:08:26,199
+And so, the scholars of Islam took from
+
+176
+00:08:24,040 --> 00:08:30,280
+this narration that
+
+177
+00:08:26,199 --> 00:08:31,800
+one rak' is sufficient as witr.
+
+178
+00:08:30,279 --> 00:08:34,439
+And there are different ways that that
+
+179
+00:08:31,800 --> 00:08:36,639
+would be prayed. So, sometimes the
+
+180
+00:08:34,440 --> 00:08:38,320
+Prophet Sallallahu alayhi wasallam would
+
+181
+00:08:36,639 --> 00:08:40,598
+make one rak'.
+
+182
+00:08:38,320 --> 00:08:44,560
+Sometimes he would make three.
+
+183
+00:08:40,599 --> 00:08:46,520
+Now, when makes three rak' in witr,
+
+184
+00:08:44,559 --> 00:08:49,239
+he's going to do them all three with
+
+185
+00:08:46,519 --> 00:08:51,759
+only one tashahhud at the end.
+
+186
+00:08:49,240 --> 00:08:54,720
+Only one tashahhud at the end.
+
+187
+00:08:51,759 --> 00:08:55,960
+So, he is not to make witr Maghrib,
+
+188
+00:08:54,720 --> 00:08:56,920
+where you're going to pray two rak'
+
+189
+00:08:55,960 --> 00:09:00,200
+and then you're going to sit for
+
+190
+00:08:56,919 --> 00:09:03,759
+tashahhud and stand and make another la.
+
+191
+00:09:00,200 --> 00:09:05,839
+There is no first tashahhud in witr. If
+
+192
+00:09:03,759 --> 00:09:08,439
+a person makes three, he prays three
+
+193
+00:09:05,839 --> 00:09:11,160
+consecutively and makes tashahhud only
+
+194
+00:09:08,440 --> 00:09:13,480
+at the end.
+
+195
+00:09:11,159 --> 00:09:16,600
+Likewise, the Prophet Sallallahu alayhi
+
+196
+00:09:13,480 --> 00:09:20,080
+wasallam was narrated to have made five
+
+197
+00:09:16,600 --> 00:09:21,920
+altogether in the same way. Five rak'ahs
+
+198
+00:09:20,080 --> 00:09:25,400
+consecutively
+
+199
+00:09:21,919 --> 00:09:27,599
+and one tashahhud at the very end.
+
+200
+00:09:25,399 --> 00:09:28,959
+Also, Aisha narrates that he had made
+
+201
+00:09:27,600 --> 00:09:31,720
+seven.
+
+202
+00:09:28,960 --> 00:09:36,800
+And when a person makes seven or makes
+
+203
+00:09:31,720 --> 00:09:38,800
+nine rak'ahs, and I know this is kind of
+
+204
+00:09:36,799 --> 00:09:40,879
+kind of strange to some people because a
+
+205
+00:09:38,799 --> 00:09:43,240
+lot of people haven't heard of of these
+
+206
+00:09:40,879 --> 00:09:46,080
+things that I'm mentioning.
+
+207
+00:09:43,240 --> 00:09:49,039
+when he would make seven or nine
+
+208
+00:09:46,080 --> 00:09:51,360
+raka'at as is in a sunan,
+
+209
+00:09:49,039 --> 00:09:54,360
+he would pray
+
+210
+00:09:51,360 --> 00:09:56,480
+six and make tashahhud
+
+211
+00:09:54,360 --> 00:09:58,399
+after the sixth raka', then he would
+
+212
+00:09:56,480 --> 00:10:01,000
+stand up and make another and then make
+
+213
+00:09:58,399 --> 00:10:03,720
+a final tashahhud.
+
+214
+00:10:01,000 --> 00:10:07,799
+The same thing in nine. At eight, he
+
+215
+00:10:03,720 --> 00:10:10,399
+would sit, make tashahhud, stand up, and
+
+216
+00:10:07,799 --> 00:10:11,679
+then he would make tashahhud again in
+
+217
+00:10:10,399 --> 00:10:13,279
+the ninth.
+
+218
+00:10:11,679 --> 00:10:16,639
+This is how the Prophet Sallallahu
+
+219
+00:10:13,279 --> 00:10:18,600
+alayhi wasallam performed witr salah.
+
+220
+00:10:16,639 --> 00:10:21,799
+But it's important for us to know that
+
+221
+00:10:18,600 --> 00:10:23,120
+the essence of witr salah is one
+
+222
+00:10:21,799 --> 00:10:26,559
+raka'.
+
+223
+00:10:23,120 --> 00:10:28,679
+And so, when we are speaking about witr,
+
+224
+00:10:26,559 --> 00:10:30,279
+we are speaking about one raka'.
+
+225
+00:10:28,679 --> 00:10:32,719
+And when we are speaking about sunnatul
+
+226
+00:10:30,279 --> 00:10:33,759
+fajr, we are speaking about two.
+
+227
+00:10:32,720 --> 00:10:37,399
+Right?
+
+228
+00:10:33,759 --> 00:10:37,399
+We are speaking about two.
+
+229
+00:10:38,120 --> 00:10:42,120
+Now,
+
+230
+00:10:39,399 --> 00:10:44,120
+how many can a person pray throughout
+
+231
+00:10:42,120 --> 00:10:45,639
+the night? They can pray as much as they
+
+232
+00:10:44,120 --> 00:10:48,039
+like.
+
+233
+00:10:45,639 --> 00:10:50,759
+However, they should make the finality
+
+234
+00:10:48,039 --> 00:10:52,240
+of their prayer one raka'
+
+235
+00:10:50,759 --> 00:10:54,519
+as the Prophet Sallallahu alayhi
+
+236
+00:10:52,240 --> 00:10:56,680
+wasallam told the companion, "Salatul
+
+237
+00:10:54,519 --> 00:10:59,039
+layli mathna mathna."
+
+238
+00:10:56,679 --> 00:11:02,039
+The prayer at night should be two
+
+239
+00:10:59,039 --> 00:11:03,079
+and you performed in units of two and if
+
+240
+00:11:02,039 --> 00:11:05,838
+you
+
+241
+00:11:03,080 --> 00:11:08,280
+see that fajr is about to
+
+242
+00:11:05,839 --> 00:11:10,440
+come, the break of dawn is about to
+
+243
+00:11:08,279 --> 00:11:12,799
+come, then you should make one raka'
+
+244
+00:11:10,440 --> 00:11:14,360
+and it will make odd what is past.
+
+245
+00:11:12,799 --> 00:11:17,399
+The Prophet Sallallahu alayhi wasallam
+
+246
+00:11:14,360 --> 00:11:21,519
+highly encouraged salatul witr.
+
+247
+00:11:17,399 --> 00:11:23,360
+He encouraged it with both his statement
+
+248
+00:11:21,519 --> 00:11:26,279
+and actions.
+
+249
+00:11:23,360 --> 00:11:27,720
+So, he encouraged it with his statement
+
+250
+00:11:26,279 --> 00:11:29,079
+by saying,
+
+251
+00:11:29,080 --> 00:11:36,960
+"Inna Allaha witrun yuhibbul witra."
+
+252
+00:11:33,919 --> 00:11:36,959
+[Arabic recitation]
+
+253
+00:11:38,960 --> 00:11:44,360
+So, he was narrated to have said, "Allah
+
+254
+00:11:41,200 --> 00:11:47,280
+is witr." Meaning, he is one, and he
+
+255
+00:11:44,360 --> 00:11:48,840
+loves that one raka'
+
+256
+00:11:47,279 --> 00:11:51,079
+at the end of prayer.
+
+257
+00:11:48,840 --> 00:11:54,519
+Likewise, the Prophet Sallallahu alayhi
+
+258
+00:11:51,080 --> 00:11:57,879
+wasallam said in another narration, "Oh,
+
+259
+00:11:54,519 --> 00:12:00,720
+people of the Quran,
+
+260
+00:11:57,879 --> 00:12:02,120
+upon you is witr." Meaning, people of
+
+261
+00:12:00,720 --> 00:12:04,440
+the Quran, those who are praying at
+
+262
+00:12:02,120 --> 00:12:08,600
+night and reciting the words of Allah
+
+263
+00:12:04,440 --> 00:12:08,600
+subhanahu wa ta'ala contemplatively.
+
+264
+00:12:08,799 --> 00:12:14,120
+Another thing that we need to mention is
+
+265
+00:12:11,159 --> 00:12:16,120
+just because witr is encouraged to be
+
+266
+00:12:14,120 --> 00:12:18,399
+the last
+
+267
+00:12:16,120 --> 00:12:21,799
+prayer of the night,
+
+268
+00:12:18,399 --> 00:12:24,039
+doesn't mean that it is wrong to pray
+
+269
+00:12:21,799 --> 00:12:26,879
+after salatul witr.
+
+270
+00:12:24,039 --> 00:12:30,599
+Right? What I mean by this is, let's say
+
+271
+00:12:26,879 --> 00:12:34,799
+a person wishes to wake up after
+
+272
+00:12:30,600 --> 00:12:37,960
+sleeping some hours to pray at night.
+
+273
+00:12:34,799 --> 00:12:40,799
+And this person wishes to wake up after
+
+274
+00:12:37,960 --> 00:12:43,080
+sleeping some hours to pray at night.
+
+275
+00:12:40,799 --> 00:12:44,719
+However, they are afraid that they might
+
+276
+00:12:43,080 --> 00:12:45,960
+not wake up.
+
+277
+00:12:44,720 --> 00:12:48,600
+Okay?
+
+278
+00:12:45,960 --> 00:12:50,839
+So, they do want to pray witr, but they
+
+279
+00:12:48,600 --> 00:12:53,759
+also want to pray at night.
+
+280
+00:12:50,839 --> 00:12:56,240
+A person can pray witr and go to sleep.
+
+281
+00:12:53,759 --> 00:12:59,600
+And if he wakes up, he prays or she
+
+282
+00:12:56,240 --> 00:13:01,919
+prays again. Back to the narration we
+
+283
+00:12:59,600 --> 00:13:03,519
+just learned, salatul layli mathna
+
+284
+00:13:01,919 --> 00:13:06,838
+mathna.
+
+285
+00:13:03,519 --> 00:13:09,439
+Prayer is to be performed two raka' at
+
+286
+00:13:06,839 --> 00:13:12,080
+a time. Right?
+
+287
+00:13:09,440 --> 00:13:14,560
+However, the person does not
+
+288
+00:13:12,080 --> 00:13:16,680
+make witr again. If you've already made
+
+289
+00:13:14,559 --> 00:13:18,879
+witr, you're not going to make it again.
+
+290
+00:13:16,679 --> 00:13:20,639
+There is a narration that states,
+
+291
+00:13:18,879 --> 00:13:22,120
+[Arabic recitation]
+
+292
+00:13:20,639 --> 00:13:24,838
+fi laylah,
+
+293
+00:13:22,120 --> 00:13:26,679
+while the narration itself
+
+294
+00:13:26,679 --> 00:13:31,439
+is differed upon, the meaning is
+
+295
+00:13:28,080 --> 00:13:34,800
+correct, and that is that no witr should
+
+296
+00:13:31,440 --> 00:13:37,040
+be performed twice in one evening. No
+
+297
+00:13:34,799 --> 00:13:38,759
+witr should be performed twice in one
+
+298
+00:13:37,039 --> 00:13:43,480
+evening cuz that defeats the purpose of
+
+299
+00:13:38,759 --> 00:13:45,759
+witr. Now it becomes even, right? And so
+
+300
+00:13:43,480 --> 00:13:47,560
+that is with regards to witr salah. So
+
+301
+00:13:45,759 --> 00:13:49,679
+if a person were to pray witr and then
+
+302
+00:13:47,559 --> 00:13:52,719
+go to sleep and then wake up before fajr
+
+303
+00:13:49,679 --> 00:13:54,639
+and wish to pray again, that is fine.
+
+304
+00:13:52,720 --> 00:13:57,440
+That is fine, but they would not repeat
+
+305
+00:13:54,639 --> 00:14:00,639
+witr salah.
+
+306
+00:13:57,440 --> 00:14:02,520
+Another issue, which is the two rak'
+
+307
+00:14:00,639 --> 00:14:04,679
+of fajr.
+
+308
+00:14:02,519 --> 00:14:06,879
+When should a person pray the two rak'
+
+309
+00:14:04,679 --> 00:14:10,599
+of fajr? If they miss
+
+310
+00:14:06,879 --> 00:14:10,600
+the two rak' of fajr,
+
+311
+00:14:10,679 --> 00:14:15,399
+the answer is
+
+312
+00:14:12,320 --> 00:14:19,160
+it is permissible
+
+313
+00:14:15,399 --> 00:14:21,600
+to pray right after fajr,
+
+314
+00:14:19,159 --> 00:14:25,159
+and it is permissible to wait until the
+
+315
+00:14:21,600 --> 00:14:26,960
+sun rises to pray two rak'.
+
+316
+00:14:25,159 --> 00:14:30,079
+Right?
+
+317
+00:14:26,960 --> 00:14:31,960
+we have this in two narrations. In
+
+318
+00:14:30,080 --> 00:14:34,160
+one narration, the Prophet Sallallahu
+
+319
+00:14:31,960 --> 00:14:36,160
+Alaihi Wasallam saw a man, a companion,
+
+320
+00:14:34,159 --> 00:14:38,000
+praying after fajr.
+
+321
+00:14:36,159 --> 00:14:39,959
+And the asli is that a person does not
+
+322
+00:14:38,000 --> 00:14:42,639
+pray after fajr. After you have made
+
+323
+00:14:39,960 --> 00:14:46,800
+prayer, after you have made fajr salah,
+
+324
+00:14:42,639 --> 00:14:49,960
+you are to not pray until the sun has
+
+325
+00:14:46,799 --> 00:14:49,959
+risen
+
+326
+00:14:50,519 --> 00:14:55,439
+risen about about 15 minutes after sun
+
+327
+00:14:53,360 --> 00:14:58,000
+sunrise.
+
+328
+00:14:55,440 --> 00:14:59,920
+And so
+
+329
+00:14:58,000 --> 00:15:01,799
+he asked this companion what he was
+
+330
+00:14:59,919 --> 00:15:03,959
+praying, and he said, "I missed the two
+
+331
+00:15:01,799 --> 00:15:04,919
+rak' before fajr, so I'm praying them
+
+332
+00:15:03,960 --> 00:15:06,480
+now."
+
+333
+00:15:04,919 --> 00:15:08,120
+The Prophet Sallallahu Alaihi Wasallam
+
+334
+00:15:06,480 --> 00:15:10,120
+did not respond.
+
+335
+00:15:08,120 --> 00:15:13,480
+This is a type of sunnah, which is
+
+336
+00:15:10,120 --> 00:15:15,519
+classified by the scholars as sunnah
+
+337
+00:15:13,480 --> 00:15:17,480
+taqririyyah,
+
+338
+00:15:15,519 --> 00:15:20,838
+which means that the Prophet Sallallahu
+
+339
+00:15:17,480 --> 00:15:22,759
+Alaihi Wasallam affirmed
+
+340
+00:15:20,839 --> 00:15:24,840
+this action. He didn't say, "Don't do
+
+341
+00:15:22,759 --> 00:15:27,039
+this. If it was wrong, he would have
+
+342
+00:15:24,840 --> 00:15:28,800
+said to him do not do this.
+
+343
+00:15:27,039 --> 00:15:31,000
+But when he asked him and the man
+
+344
+00:15:28,799 --> 00:15:34,599
+answered and he said nothing and left
+
+345
+00:15:31,000 --> 00:15:35,600
+him be, this articulates that he
+
+346
+00:15:34,600 --> 00:15:38,560
+he
+
+347
+00:15:35,600 --> 00:15:41,080
+is doing something correct, right?
+
+348
+00:15:38,559 --> 00:15:42,399
+And so, it is permissible to do this or
+
+349
+00:15:41,080 --> 00:15:44,560
+that.
+
+350
+00:15:42,399 --> 00:15:47,600
+What is better? The scholars differ on
+
+351
+00:15:44,559 --> 00:15:50,000
+that. What is better is after the sun
+
+352
+00:15:47,600 --> 00:15:51,800
+has risen because
+
+353
+00:15:50,000 --> 00:15:54,720
+all of these scholars agree that that
+
+354
+00:15:51,799 --> 00:15:57,120
+time is is fine.
+
+355
+00:15:57,360 --> 00:16:02,600
+Likewise,
+
+356
+00:15:58,799 --> 00:16:05,240
+another issue is before Fajr.
+
+357
+00:16:02,600 --> 00:16:06,519
+When a person when the adhan for Fajr is
+
+358
+00:16:05,240 --> 00:16:08,560
+made,
+
+359
+00:16:06,519 --> 00:16:10,120
+the sunnah is that a person make two
+
+360
+00:16:08,559 --> 00:16:12,399
+rak'ahs for
+
+361
+00:16:10,120 --> 00:16:14,480
+sunnat al-Fajr and then make no more
+
+362
+00:16:12,399 --> 00:16:16,159
+salah. And we see this often. People
+
+363
+00:16:14,480 --> 00:16:17,800
+will come to the masjid
+
+364
+00:16:16,159 --> 00:16:20,000
+and when they come to the masjid,
+
+365
+00:16:17,799 --> 00:16:21,959
+they'll start making two rak'ahs, two
+
+366
+00:16:20,000 --> 00:16:23,559
+rak'ahs, two rak'ahs, two rak'ahs as if
+
+367
+00:16:21,960 --> 00:16:27,600
+it is
+
+368
+00:16:23,559 --> 00:16:30,479
+Jumu' or something until the Imam
+
+369
+00:16:27,600 --> 00:16:33,800
+prays. That may be
+
+370
+00:16:30,480 --> 00:16:35,680
+okay for any other prayer, but for Fajr,
+
+371
+00:16:33,799 --> 00:16:37,359
+always the legacy of the Prophet
+
+372
+00:16:35,679 --> 00:16:40,439
+Sallallahu alayhi wa sallam was that two
+
+373
+00:16:37,360 --> 00:16:43,839
+rak'ahs and then wait until Fajr.
+
+374
+00:16:40,440 --> 00:16:46,560
+Wait until the obligatory prayer.
+
+375
+00:16:43,839 --> 00:16:49,800
+Another issue that is very confused,
+
+376
+00:16:46,559 --> 00:16:51,319
+many people are very confused about,
+
+377
+00:16:49,799 --> 00:16:53,199
+is
+
+378
+00:16:51,320 --> 00:16:55,920
+the narration
+
+379
+00:16:53,200 --> 00:16:59,520
+There are a number of narrations about
+
+380
+00:16:55,919 --> 00:17:02,439
+this, but the gist of the collection of
+
+381
+00:16:59,519 --> 00:17:05,759
+meanings in these narrations
+
+382
+00:17:02,440 --> 00:17:09,000
+is that there are three main times when
+
+383
+00:17:05,759 --> 00:17:09,959
+a person is prohibited from praying.
+
+384
+00:17:09,000 --> 00:17:11,759
+Okay?
+
+385
+00:17:09,959 --> 00:17:13,120
+What are these times?
+
+386
+00:17:11,759 --> 00:17:16,559
+Number one,
+
+387
+00:17:13,119 --> 00:17:18,318
+after Fajr salah until the sun has
+
+388
+00:17:16,559 --> 00:17:20,000
+risen.
+
+389
+00:17:18,318 --> 00:17:23,318
+Number two,
+
+390
+00:17:20,000 --> 00:17:26,359
+just before
+
+391
+00:17:23,318 --> 00:17:29,279
+the sun reaches the zenith, the center,
+
+392
+00:17:26,359 --> 00:17:32,439
+exact center of the sky,
+
+393
+00:17:29,279 --> 00:17:35,799
+person is not to pray until it crosses
+
+394
+00:17:32,440 --> 00:17:38,600
+its zenith, right? Which is noon.
+
+395
+00:17:35,799 --> 00:17:41,960
+And the third time is after Asr until
+
+396
+00:17:38,599 --> 00:17:43,159
+the sun sets. These are the three times.
+
+397
+00:17:41,960 --> 00:17:46,480
+Okay?
+
+398
+00:17:43,160 --> 00:17:49,000
+So, if a person has made Salat al-Fajr,
+
+399
+00:17:46,480 --> 00:17:50,400
+they are not to pray
+
+400
+00:17:49,000 --> 00:17:52,519
+as the Prophet Sallallahu alayhi
+
+401
+00:17:50,400 --> 00:17:55,400
+wasallam instructed,
+
+402
+00:17:52,519 --> 00:17:59,559
+until the sun rises
+
+403
+00:17:55,400 --> 00:18:01,640
+about a cubit above the horizon, which
+
+404
+00:17:59,559 --> 00:18:03,319
+again, this is a type of measurement
+
+405
+00:18:01,640 --> 00:18:05,440
+that was used in the time of the Prophet
+
+406
+00:18:03,319 --> 00:18:07,200
+Sallallahu alayhi wasallam. They didn't
+
+407
+00:18:05,440 --> 00:18:10,200
+have clocks, they didn't have watches,
+
+408
+00:18:07,200 --> 00:18:13,920
+right? and he said, "Nahnu ummatun
+
+409
+00:18:10,200 --> 00:18:16,039
+ummiyyah, la naktabu wa la nahsab." So,
+
+410
+00:18:13,920 --> 00:18:19,960
+when
+
+411
+00:18:16,039 --> 00:18:22,319
+he says about a cubit or about a lance
+
+412
+00:18:19,960 --> 00:18:25,720
+length above the horizon, what's meant
+
+413
+00:18:22,319 --> 00:18:29,200
+by that is about 10 to 15 minutes,
+
+414
+00:18:25,720 --> 00:18:32,319
+right? Once the sun starts rising,
+
+415
+00:18:29,200 --> 00:18:36,000
+once it once we see the the top of the
+
+416
+00:18:32,319 --> 00:18:37,879
+actual sphere of the sun, once we see
+
+417
+00:18:36,000 --> 00:18:42,359
+that up until
+
+418
+00:18:37,880 --> 00:18:45,640
+it rises a a degree clearly, distinctly
+
+419
+00:18:42,359 --> 00:18:47,240
+above the horizon, okay?
+
+420
+00:18:45,640 --> 00:18:49,280
+Which if you're in an urban environment,
+
+421
+00:18:47,240 --> 00:18:51,400
+if you're in a city, it's very difficult
+
+422
+00:18:49,279 --> 00:18:53,799
+to see that.
+
+423
+00:18:51,400 --> 00:18:56,240
+This is about a lance length. The
+
+424
+00:18:53,799 --> 00:18:59,039
+scholars, the modern scholars of fiqh
+
+425
+00:18:56,240 --> 00:19:00,279
+have mentioned that to be about 10 to 15
+
+426
+00:18:59,039 --> 00:19:04,159
+minutes.
+
+427
+00:19:00,279 --> 00:19:06,200
+Roughly about 10 to 15 minutes.
+
+428
+00:19:04,160 --> 00:19:07,600
+Okay?
+
+429
+00:19:06,200 --> 00:19:08,720
+Tayyib.
+
+430
+00:19:08,720 --> 00:19:14,600
+we are not to pray until it has risen
+
+431
+00:19:10,799 --> 00:19:17,039
+that high up. Also, when the sun is
+
+432
+00:19:14,599 --> 00:19:20,480
+at its zenith until it crosses over,
+
+433
+00:19:17,039 --> 00:19:23,319
+which is about about 10 minutes as well.
+
+434
+00:19:20,480 --> 00:19:26,160
+Likewise, when this after Asr until the
+
+435
+00:19:23,319 --> 00:19:28,839
+sun has set, until the disc of the sun
+
+436
+00:19:26,160 --> 00:19:31,519
+is completely gone, meaning until Fajr
+
+437
+00:19:28,839 --> 00:19:35,599
+until Maghrib is in.
+
+438
+00:19:31,519 --> 00:19:37,160
+These times are prohibited for optional
+
+439
+00:19:35,599 --> 00:19:38,559
+prayer.
+
+440
+00:19:37,160 --> 00:19:41,360
+Okay?
+
+441
+00:19:38,559 --> 00:19:44,960
+Not obligatory prayer. We get this
+
+442
+00:19:41,359 --> 00:19:47,119
+question very often and I can see how
+
+443
+00:19:44,960 --> 00:19:49,680
+someone may be confused. As a matter of
+
+444
+00:19:47,119 --> 00:19:52,039
+fact, I may even admit that many, many,
+
+445
+00:19:49,680 --> 00:19:54,200
+many years ago before I'd even began
+
+446
+00:19:52,039 --> 00:19:57,440
+studying, I as well was confused about
+
+447
+00:19:54,200 --> 00:19:59,920
+this issue. And that is that many people
+
+448
+00:19:57,440 --> 00:20:03,080
+will wake up
+
+449
+00:19:59,920 --> 00:20:06,279
+let's say they had accidentally slept
+
+450
+00:20:03,079 --> 00:20:09,599
+through the alarm or or whatever and
+
+451
+00:20:06,279 --> 00:20:12,879
+they wake up as the sun is rising.
+
+452
+00:20:09,599 --> 00:20:14,959
+Right? They haven't prayed Fajr.
+
+453
+00:20:12,880 --> 00:20:18,480
+Many people will do what?
+
+454
+00:20:14,960 --> 00:20:21,039
+They will wait until the sun rises above
+
+455
+00:20:18,480 --> 00:20:23,360
+the horizon and then pray based on the
+
+456
+00:20:21,039 --> 00:20:27,480
+narration that we just mentioned. And
+
+457
+00:20:23,359 --> 00:20:31,079
+that is incorrect application of that
+
+458
+00:20:27,480 --> 00:20:34,720
+narration. That narration is speaking
+
+459
+00:20:31,079 --> 00:20:36,839
+about optional prayers. Right? Person
+
+460
+00:20:34,720 --> 00:20:38,920
+prays Fajr
+
+461
+00:20:36,839 --> 00:20:40,639
+on time and now they just want to keep
+
+462
+00:20:38,920 --> 00:20:43,000
+praying and keep praying until the sun
+
+463
+00:20:40,640 --> 00:20:44,840
+rises. This is impermissible. And the
+
+464
+00:20:43,000 --> 00:20:46,839
+reason that this is impermissible, the
+
+465
+00:20:44,839 --> 00:20:47,879
+Prophet Sallallahu alaihi wasallam tells
+
+466
+00:20:46,839 --> 00:20:51,039
+us
+
+467
+00:20:47,880 --> 00:20:52,960
+that this is when traditionally
+
+468
+00:20:52,960 --> 00:20:57,519
+many pagan cultures would pray to the
+
+469
+00:20:56,160 --> 00:21:00,040
+sun
+
+470
+00:20:57,519 --> 00:21:03,440
+when it is rising and when it is when it
+
+471
+00:21:00,039 --> 00:21:05,039
+is setting. Right?
+
+472
+00:21:03,440 --> 00:21:08,080
+When it is rising and when it is
+
+473
+00:21:05,039 --> 00:21:10,359
+setting. These are the times when pagan
+
+474
+00:21:08,079 --> 00:21:12,199
+cultures would worship their various
+
+475
+00:21:10,359 --> 00:21:15,559
+celestial bodies, whether that be the
+
+476
+00:21:12,200 --> 00:21:17,480
+sun or the moon or what have you, right?
+
+477
+00:21:15,559 --> 00:21:20,759
+And we notice this in the Quran, we see
+
+478
+00:21:17,480 --> 00:21:23,000
+that in Surat Al-An'am for instance,
+
+479
+00:21:20,759 --> 00:21:25,319
+Ibrahim Alaihis Salaam
+
+480
+00:21:23,000 --> 00:21:29,079
+Allah mentions that when he is debating
+
+481
+00:21:25,319 --> 00:21:31,720
+his people about the worship of the star
+
+482
+00:21:29,079 --> 00:21:34,279
+and then after that the moon and then
+
+483
+00:21:31,720 --> 00:21:36,039
+after that it's not really a star, it
+
+484
+00:21:34,279 --> 00:21:38,879
+was
+
+485
+00:21:36,039 --> 00:21:41,680
+a planet, but a celestial body
+
+486
+00:21:38,880 --> 00:21:44,960
+and then the moon and then the sun,
+
+487
+00:21:41,680 --> 00:21:48,080
+right? We see that this debate was
+
+488
+00:21:44,960 --> 00:21:49,120
+sparked once this thing
+
+489
+00:21:49,119 --> 00:21:53,879
+rose that night or that day. So, he says
+
+490
+00:21:59,079 --> 00:22:01,599
+right?
+
+491
+00:22:01,599 --> 00:22:30,640
+[Silence]
+
+492
+00:22:30,640 --> 00:22:35,320
+And so,
+
+493
+00:22:32,759 --> 00:22:38,680
+Allah mentions in Surat Al-An'am that
+
+494
+00:22:35,319 --> 00:22:41,679
+when the night came upon Ibrahim and he
+
+495
+00:22:38,680 --> 00:22:45,400
+was debating his people and
+
+496
+00:22:41,680 --> 00:22:49,920
+then he saw a star or a celestial body,
+
+497
+00:22:45,400 --> 00:22:53,240
+a planet rise and he said rhetorically,
+
+498
+00:22:49,920 --> 00:22:56,880
+right? He said rhetorically,
+
+499
+00:22:53,240 --> 00:23:00,559
+"This is my Lord." And then when it
+
+500
+00:22:56,880 --> 00:23:03,560
+had passed, he said, "I do not or I
+
+501
+00:23:00,559 --> 00:23:06,119
+do not desire as a God one who changes
+
+502
+00:23:03,559 --> 00:23:09,399
+and comes into existence and then
+
+503
+00:23:06,119 --> 00:23:11,839
+and then goes and fades into obscurity.
+
+504
+00:23:09,400 --> 00:23:15,920
+Likewise, when the moon
+
+505
+00:23:11,839 --> 00:23:19,839
+rise, when the sun rise, he said. So, we
+
+506
+00:23:15,920 --> 00:23:22,759
+understand from this that the pagan
+
+507
+00:23:19,839 --> 00:23:26,919
+cultures would often
+
+508
+00:23:22,759 --> 00:23:29,879
+stage their worship of the sun, of
+
+509
+00:23:26,920 --> 00:23:32,880
+the moon, of the stars, of the planets.
+
+510
+00:23:29,880 --> 00:23:34,320
+They would do this when they would rise.
+
+511
+00:23:32,880 --> 00:23:37,680
+When they because it to them it was a
+
+512
+00:23:34,319 --> 00:23:40,039
+kind of arrival. And also when it would
+
+513
+00:23:37,680 --> 00:23:41,799
+set, right?
+
+514
+00:23:40,039 --> 00:23:44,000
+And
+
+515
+00:23:41,799 --> 00:23:46,240
+this is why
+
+516
+00:23:44,000 --> 00:23:47,680
+the Prophet Sallallahu alaihi wasallam
+
+517
+00:23:46,240 --> 00:23:51,200
+said
+
+518
+00:23:47,680 --> 00:23:53,759
+if the sun is rising, do not pray until
+
+519
+00:23:51,200 --> 00:23:56,400
+it is such and such above the horizon
+
+520
+00:23:53,759 --> 00:23:58,000
+because it rises between the two horns
+
+521
+00:23:56,400 --> 00:23:59,800
+of a shaitan.
+
+522
+00:23:58,000 --> 00:24:02,279
+And he says in another
+
+523
+00:23:59,799 --> 00:24:05,839
+that it sets when it sets between the
+
+524
+00:24:02,279 --> 00:24:08,000
+two horns of a shaitan, right? Of the
+
+525
+00:24:05,839 --> 00:24:10,319
+devil. And what does this mean? This
+
+526
+00:24:08,000 --> 00:24:13,359
+means that this is the time frame in
+
+527
+00:24:10,319 --> 00:24:17,679
+which the worship of these things was
+
+528
+00:24:13,359 --> 00:24:20,399
+most lucrative and most he was Iblis
+
+529
+00:24:17,680 --> 00:24:22,600
+was most able to trick humanity into
+
+530
+00:24:20,400 --> 00:24:25,640
+these things. So,
+
+531
+00:24:22,599 --> 00:24:28,439
+this is only for optional prayer. This
+
+532
+00:24:25,640 --> 00:24:31,280
+is not for obligatory prayer and this is
+
+533
+00:24:28,440 --> 00:24:32,759
+not for prayer that has a reason, a
+
+534
+00:24:31,279 --> 00:24:35,359
+cause,
+
+535
+00:24:32,759 --> 00:24:37,119
+whether that be an event
+
+536
+00:24:35,359 --> 00:24:39,279
+or a place
+
+537
+00:24:37,119 --> 00:24:42,319
+or a time.
+
+538
+00:24:39,279 --> 00:24:44,399
+What we mean is salawat
+
+539
+00:24:42,319 --> 00:24:46,240
+dhawat asbab,
+
+540
+00:24:44,400 --> 00:24:49,640
+meaning that
+
+541
+00:24:46,240 --> 00:24:53,759
+prayers that have a cause, right? They
+
+542
+00:24:49,640 --> 00:24:55,759
+are linked to a certain time or place or
+
+543
+00:24:53,759 --> 00:24:56,879
+they are linked to an event. What does
+
+544
+00:24:55,759 --> 00:25:00,240
+that mean?
+
+545
+00:24:56,880 --> 00:25:01,560
+This This prohibition also excludes
+
+546
+00:25:00,240 --> 00:25:03,920
+these things.
+
+547
+00:25:01,559 --> 00:25:07,720
+So, for example, prayer that is
+
+548
+00:25:03,920 --> 00:25:09,840
+connected to an event such as al-kusuf
+
+549
+00:25:07,720 --> 00:25:12,680
+or al-khusuf, which is the eclipse
+
+550
+00:25:09,839 --> 00:25:16,199
+prayer. Let's say an eclipse takes place
+
+551
+00:25:12,680 --> 00:25:18,759
+after Asr, an eclipse takes place after
+
+552
+00:25:16,200 --> 00:25:21,360
+Fajr. Does a person pray the prayer of
+
+553
+00:25:18,759 --> 00:25:22,920
+eclipse? Yes, this narration does not
+
+554
+00:25:21,359 --> 00:25:24,399
+apply to that.
+
+555
+00:25:22,920 --> 00:25:26,840
+Likewise,
+
+556
+00:25:24,400 --> 00:25:29,680
+a particular place tahiyatul
+
+557
+00:25:26,839 --> 00:25:31,639
+masjid. A person comes into the masjid,
+
+558
+00:25:29,680 --> 00:25:32,880
+right? And
+
+559
+00:25:32,880 --> 00:25:37,840
+you know, they are to pray before they
+
+560
+00:25:34,559 --> 00:25:40,519
+sit down. They are to pray before they
+
+561
+00:25:37,839 --> 00:25:42,079
+before they sit down. meaning that
+
+562
+00:25:40,519 --> 00:25:44,879
+once they come into the masjid, the
+
+563
+00:25:42,079 --> 00:25:46,720
+masjid is owed two raka' to
+
+564
+00:25:44,880 --> 00:25:50,600
+articulate that I have entered a place
+
+565
+00:25:46,720 --> 00:25:51,799
+of of sanctity, a place of And so,
+
+566
+00:25:50,599 --> 00:25:54,480
+this
+
+567
+00:25:51,799 --> 00:25:56,240
+this is excluded from that prohibition.
+
+568
+00:25:54,480 --> 00:25:59,880
+That a person So, a person who comes in
+
+569
+00:25:56,240 --> 00:26:01,400
+after Asr, they pray two raka', right?
+
+570
+00:25:59,880 --> 00:26:02,640
+Likewise,
+
+571
+00:26:02,640 --> 00:26:07,800
+an event. What does that mean?
+
+572
+00:26:05,200 --> 00:26:10,680
+Connected to an event
+
+573
+00:26:07,799 --> 00:26:12,480
+such as or connected to a particular
+
+574
+00:26:10,680 --> 00:26:15,960
+time such as
+
+575
+00:26:12,480 --> 00:26:18,319
+a person commonly makes two raka'
+
+576
+00:26:15,960 --> 00:26:20,240
+after wudu. This is known as sunnatul
+
+577
+00:26:18,319 --> 00:26:22,319
+wudu. The Prophet Sallallahu Alaihi
+
+578
+00:26:20,240 --> 00:26:24,120
+Wasallam encouraged this.
+
+579
+00:26:22,319 --> 00:26:26,480
+That when a person makes wudu, that they
+
+580
+00:26:24,119 --> 00:26:29,079
+make two raka', right?
+
+581
+00:26:26,480 --> 00:26:32,000
+This does not apply to the
+
+582
+00:26:29,079 --> 00:26:33,159
+prohibition. Likewise,
+
+583
+00:26:33,160 --> 00:26:38,600
+salatul istikhara. You have to make a
+
+584
+00:26:35,799 --> 00:26:41,200
+decision right now, and you don't have
+
+585
+00:26:38,599 --> 00:26:43,839
+time to wait until after Maghrib. Can
+
+586
+00:26:41,200 --> 00:26:46,480
+you make salatul istikhara? Yes. Can you
+
+587
+00:26:43,839 --> 00:26:50,279
+make salatul tawbah? Yes. Etcetera,
+
+588
+00:26:46,480 --> 00:26:52,200
+etcetera, right? So, these are excluded
+
+589
+00:26:50,279 --> 00:26:54,879
+from this narration. This narration is
+
+590
+00:26:52,200 --> 00:26:57,720
+speaking only about choosing those
+
+591
+00:26:54,880 --> 00:27:00,600
+particular times to make additional
+
+592
+00:26:57,720 --> 00:27:03,000
+voluntary prayer that that in the
+
+593
+00:27:00,599 --> 00:27:05,719
+collective consciousness of the Muslims
+
+594
+00:27:03,000 --> 00:27:09,079
+will lead further down the road, perhaps
+
+595
+00:27:05,720 --> 00:27:11,799
+even generations away, will lead to
+
+596
+00:27:09,079 --> 00:27:14,240
+people becoming misguided with regards
+
+597
+00:27:11,799 --> 00:27:17,960
+to the purpose of that prayer. We see
+
+598
+00:27:14,240 --> 00:27:19,279
+this often. Right? We see that a person
+
+599
+00:27:17,960 --> 00:27:22,559
+will
+
+600
+00:27:19,279 --> 00:27:25,960
+they're they're for example, in
+
+601
+00:27:22,559 --> 00:27:29,399
+certain madhahib, that it is
+
+602
+00:27:25,960 --> 00:27:33,120
+prohibited for a person to pray
+
+603
+00:27:29,400 --> 00:27:34,560
+after Asr even
+
+604
+00:27:33,119 --> 00:27:37,000
+even
+
+605
+00:27:34,559 --> 00:27:38,240
+if it is tahiyatul masjid. So, what
+
+606
+00:27:37,000 --> 00:27:39,920
+happens?
+
+607
+00:27:38,240 --> 00:27:42,960
+And there are some mosques this.
+
+608
+00:27:39,920 --> 00:27:45,960
+You'll go inside and before Maghrib,
+
+609
+00:27:42,960 --> 00:27:48,240
+about 10 or 15 minutes before Maghrib,
+
+610
+00:27:45,960 --> 00:27:50,519
+you'll go inside, you'll see everybody
+
+611
+00:27:48,240 --> 00:27:52,000
+is waiting for Maghrib, but nobody is
+
+612
+00:27:50,519 --> 00:27:54,000
+sitting down. They're either pacing
+
+613
+00:27:52,000 --> 00:27:56,119
+around or standing. Everyone is
+
+614
+00:27:54,000 --> 00:27:58,400
+standing.
+
+615
+00:27:56,119 --> 00:28:01,199
+Nobody's sitting down.
+
+616
+00:27:58,400 --> 00:28:03,240
+Why are they standing? Because the
+
+617
+00:28:01,200 --> 00:28:07,840
+Prophet, sallallahu alayhi wasallam,
+
+618
+00:28:03,240 --> 00:28:10,319
+prohibited that a person sit down before
+
+619
+00:28:07,839 --> 00:28:13,559
+making tahiyatul masjid, but at the same
+
+620
+00:28:10,319 --> 00:28:16,240
+time he also prohibited that a person
+
+621
+00:28:13,559 --> 00:28:17,919
+that a person pray after Asr. So,
+
+622
+00:28:16,240 --> 00:28:21,079
+they're all walking around or they're
+
+623
+00:28:17,920 --> 00:28:23,279
+standing there waiting for Asr.
+
+624
+00:28:21,079 --> 00:28:25,639
+And now this leads us to a whole other
+
+625
+00:28:23,279 --> 00:28:28,519
+conundrum, and that is that no
+
+626
+00:28:25,640 --> 00:28:30,440
+narrations mention that the companions
+
+627
+00:28:28,519 --> 00:28:32,079
+would all be standing up in the masjid
+
+628
+00:28:30,440 --> 00:28:33,480
+waiting for Maghrib.
+
+629
+00:28:32,079 --> 00:28:35,119
+Right?
+
+630
+00:28:33,480 --> 00:28:37,920
+Likewise,
+
+631
+00:28:35,119 --> 00:28:40,799
+the idea that
+
+632
+00:28:37,920 --> 00:28:44,039
+you you can the idea that the narration
+
+633
+00:28:40,799 --> 00:28:46,119
+is that literal, meaning that do not sit
+
+634
+00:28:44,039 --> 00:28:48,599
+down until you pray,
+
+635
+00:28:46,119 --> 00:28:51,599
+even if you do not sit down until you
+
+636
+00:28:48,599 --> 00:28:53,719
+pray, it's not meaning that a person is
+
+637
+00:28:51,599 --> 00:28:55,799
+prohibited from sitting.
+
+638
+00:28:53,720 --> 00:28:58,200
+It means that a person is
+
+639
+00:28:55,799 --> 00:29:00,200
+obligated to pray.
+
+640
+00:28:58,200 --> 00:29:03,720
+That's the meaning of the narration.
+
+641
+00:29:00,200 --> 00:29:06,519
+Okay, people misconstrue this that this
+
+642
+00:29:03,720 --> 00:29:06,519
+narration
+
+643
+00:29:13,960 --> 00:29:17,720
+The prophet
+
+644
+00:29:15,039 --> 00:29:20,839
+Muhammad said, "If any of you comes to
+
+645
+00:29:17,720 --> 00:29:25,360
+the masjid, then he is not to sit until
+
+646
+00:29:20,839 --> 00:29:28,399
+he prays two raka. Is this narration
+
+647
+00:29:25,359 --> 00:29:30,959
+an obligation to pray two raka, or is it
+
+648
+00:29:28,400 --> 00:29:33,000
+a prohibition from sitting?"
+
+649
+00:29:30,960 --> 00:29:34,960
+That's the question.
+
+650
+00:29:33,000 --> 00:29:36,359
+Because if it is a prohibition of
+
+651
+00:29:34,960 --> 00:29:38,120
+sitting,
+
+652
+00:29:36,359 --> 00:29:40,039
+then I guess, yeah.
+
+653
+00:29:38,119 --> 00:29:43,000
+But that's not what is intended by the
+
+654
+00:29:40,039 --> 00:29:43,879
+narration. How do we know this? Well,
+
+655
+00:29:43,000 --> 00:29:46,519
+the
+
+656
+00:29:43,880 --> 00:29:49,440
+the story behind this narration is a man
+
+657
+00:29:46,519 --> 00:29:50,839
+came into the masjid as Jabir narrates,
+
+658
+00:29:49,440 --> 00:29:53,759
+while the prophet
+
+659
+00:29:50,839 --> 00:29:55,679
+Muhammad was giving khutbah.
+
+660
+00:29:53,759 --> 00:29:58,160
+And he sat down
+
+661
+00:29:55,680 --> 00:30:00,200
+during the khutbah. The prophet Muhammad
+
+662
+00:29:58,160 --> 00:30:01,519
+stopped his
+
+663
+00:30:00,200 --> 00:30:05,960
+train of thought that he was speaking
+
+664
+00:30:01,519 --> 00:30:05,960
+about, and he asked the companion,
+
+665
+00:30:05,960 --> 00:30:27,279
+[Silence]
+
+666
+00:30:27,279 --> 00:30:31,440
+He said,
+
+667
+00:30:28,720 --> 00:30:33,440
+He saw the man sat down. He directed his
+
+668
+00:30:31,440 --> 00:30:34,920
+attention to the man, paused his
+
+669
+00:30:33,440 --> 00:30:37,559
+narrative in the khutbah, and he said,
+
+670
+00:30:34,920 --> 00:30:39,320
+"Did you pray two raka?" The man said,
+
+671
+00:30:37,559 --> 00:30:41,480
+"No." He said,
+
+672
+00:30:39,319 --> 00:30:44,399
+"Pray two raka. Stand back up and pray
+
+673
+00:30:41,480 --> 00:30:46,960
+two raka." The man had already sat.
+
+674
+00:30:44,400 --> 00:30:49,200
+And then he said to the companions,
+
+675
+00:30:46,960 --> 00:30:51,400
+"If any of you comes to the masjid while
+
+676
+00:30:49,200 --> 00:30:53,279
+the khatib, the Imam on Jumu', is
+
+677
+00:30:51,400 --> 00:30:55,960
+giving khutbah,
+
+678
+00:30:53,279 --> 00:30:58,319
+then you are to not sit until you pray
+
+679
+00:30:55,960 --> 00:31:00,600
+two raka', and you are to make those
+
+680
+00:30:58,319 --> 00:31:02,119
+two raka' brief." Now,
+
+681
+00:31:00,599 --> 00:31:04,279
+the point here is that the man had
+
+682
+00:31:02,119 --> 00:31:05,519
+already sat down,
+
+683
+00:31:04,279 --> 00:31:08,680
+right?
+
+684
+00:31:05,519 --> 00:31:10,759
+But he commanded him to stand up
+
+685
+00:31:08,680 --> 00:31:12,360
+and pray those two raka'. So, we
+
+686
+00:31:10,759 --> 00:31:15,720
+understand that the issue is not a
+
+687
+00:31:12,359 --> 00:31:19,079
+prohibition of sitting as much as it is
+
+688
+00:31:15,720 --> 00:31:21,079
+an obligation to pray those two raka'.
+
+689
+00:31:19,079 --> 00:31:22,960
+So, if I come to the masjid and I say,
+
+690
+00:31:21,079 --> 00:31:25,039
+"Well, I can hang out in the masjid as
+
+691
+00:31:22,960 --> 00:31:27,480
+long as I but I just cannot sit
+
+692
+00:31:25,039 --> 00:31:29,799
+down." This is
+
+693
+00:31:27,480 --> 00:31:32,880
+in a way a misunderstanding of the
+
+694
+00:31:29,799 --> 00:31:34,519
+spirit of the narration.
+
+695
+00:31:32,880 --> 00:31:36,200
+So, these are a few things that we
+
+696
+00:31:34,519 --> 00:31:40,160
+wanted to mention.
+
+697
+00:31:36,200 --> 00:31:42,400
+these are things that many people
+
+698
+00:31:40,160 --> 00:31:44,279
+Many people are unclear about with
+
+699
+00:31:42,400 --> 00:31:46,160
+regards to some of these narrations. And
+
+700
+00:31:44,279 --> 00:31:48,440
+as we always say,
+
+701
+00:31:46,160 --> 00:31:51,120
+and I will repeat it all of the time
+
+702
+00:31:48,440 --> 00:31:54,200
+because I really hope that even if just
+
+703
+00:31:51,119 --> 00:31:57,439
+one person listens to this every week
+
+704
+00:31:54,200 --> 00:31:59,759
+and learns, if you can learn
+
+705
+00:31:57,440 --> 00:32:01,160
+anything, that I hope that this is one
+
+706
+00:31:59,759 --> 00:32:03,440
+of the things that you will learn. And
+
+707
+00:32:01,160 --> 00:32:05,759
+that is
+
+708
+00:32:03,440 --> 00:32:08,320
+a little bit of knowledge
+
+709
+00:32:05,759 --> 00:32:10,720
+or incomplete knowledge is more
+
+710
+00:32:08,319 --> 00:32:11,759
+dangerous than ignorance.
+
+711
+00:32:10,720 --> 00:32:14,200
+Right?
+
+712
+00:32:11,759 --> 00:32:17,160
+We say this all the time.
+
+713
+00:32:14,200 --> 00:32:19,600
+And that is the true enemy of knowledge
+
+714
+00:32:17,160 --> 00:32:21,800
+is not ignorance. The true enemy of
+
+715
+00:32:19,599 --> 00:32:24,119
+knowledge is the illusion of knowledge,
+
+716
+00:32:21,799 --> 00:32:27,559
+thinking that you know something.
+
+717
+00:32:24,119 --> 00:32:27,559
+And you know,
+
+718
+00:32:29,640 --> 00:32:34,840
+if we look at the world around us,
+
+719
+00:32:31,480 --> 00:32:38,360
+misinformation is everywhere, okay? And
+
+720
+00:32:34,839 --> 00:32:40,000
+the truth is very, very hard to find and
+
+721
+00:32:38,359 --> 00:32:42,240
+it is very precious.
+
+722
+00:32:40,000 --> 00:32:44,839
+Very difficult to find.
+
+723
+00:32:42,240 --> 00:32:48,799
+During this time because there's spent
+
+724
+00:32:44,839 --> 00:32:51,279
+so much data or so much nonsense poured
+
+725
+00:32:48,799 --> 00:32:55,159
+into the consciousness of humanity now
+
+726
+00:32:51,279 --> 00:32:57,639
+that we we can't even we're exhausted.
+
+727
+00:32:55,160 --> 00:33:00,000
+But the point is is that
+
+728
+00:32:57,640 --> 00:33:02,440
+one of the issues and this could be
+
+729
+00:33:00,000 --> 00:33:04,160
+positive, it could be negative.
+
+730
+00:33:02,440 --> 00:33:05,680
+I view it personally as being more
+
+731
+00:33:04,160 --> 00:33:10,519
+negative.
+
+732
+00:33:05,680 --> 00:33:12,600
+and that is the
+
+733
+00:33:10,519 --> 00:33:14,879
+the printing press
+
+734
+00:33:12,599 --> 00:33:18,559
+that is new to the Muslim ummah
+
+735
+00:33:14,880 --> 00:33:20,440
+with regards to religious works, okay?
+
+736
+00:33:18,559 --> 00:33:24,399
+Religious works.
+
+737
+00:33:20,440 --> 00:33:27,759
+And that is that about 150 years ago or
+
+738
+00:33:24,400 --> 00:33:31,280
+so when the printing press first became
+
+739
+00:33:27,759 --> 00:33:34,000
+mainstream in Muslim countries
+
+740
+00:33:31,279 --> 00:33:37,359
+the scholars of Islam and this is an
+
+741
+00:33:34,000 --> 00:33:40,359
+official fatwa of Azhar at the time
+
+742
+00:33:37,359 --> 00:33:40,359
+prohibited
+
+743
+00:33:41,519 --> 00:33:47,639
+that any books be printed
+
+744
+00:33:45,839 --> 00:33:51,000
+except for
+
+745
+00:33:47,640 --> 00:33:52,960
+some books on history and some books on
+
+746
+00:33:51,000 --> 00:33:56,319
+grammar. That was it.
+
+747
+00:33:52,960 --> 00:33:58,799
+They prohibited emphatically
+
+748
+00:33:56,319 --> 00:34:01,480
+the printing of the Quran
+
+749
+00:33:58,799 --> 00:34:03,279
+the printing of the narrations, the
+
+750
+00:34:01,480 --> 00:34:06,120
+sunan of the prophet salallahu alaihi
+
+751
+00:34:03,279 --> 00:34:08,398
+wasallam and the printing of other books
+
+752
+00:34:06,119 --> 00:34:09,638
+such as books of fiqh and books of law
+
+753
+00:34:08,398 --> 00:34:11,000
+etc.
+
+754
+00:34:09,639 --> 00:34:13,440
+Now a person might look at that and say,
+
+755
+00:34:11,000 --> 00:34:14,840
+"Why? Why are you preventing knowledge?"
+
+756
+00:34:13,440 --> 00:34:17,079
+We say, "No."
+
+757
+00:34:14,840 --> 00:34:18,200
+The reason for that was twofold. Number
+
+758
+00:34:17,079 --> 00:34:20,719
+one
+
+759
+00:34:18,199 --> 00:34:23,759
+they feared
+
+760
+00:34:20,719 --> 00:34:26,559
+that this knowledge would be unleashed
+
+761
+00:34:23,760 --> 00:34:28,480
+amongst the population
+
+762
+00:34:26,559 --> 00:34:30,480
+people would be literate in the sense
+
+763
+00:34:28,480 --> 00:34:33,240
+that they can read
+
+764
+00:34:30,480 --> 00:34:35,240
+but illiterate with regards to Islamic
+
+765
+00:34:33,239 --> 00:34:37,000
+sciences. You see, if you want to learn
+
+766
+00:34:35,239 --> 00:34:39,519
+these things before, you have to go
+
+767
+00:34:37,000 --> 00:34:42,440
+through a process of scholarship and
+
+768
+00:34:39,519 --> 00:34:44,719
+apprenticeship to learn properly from
+
+769
+00:34:42,440 --> 00:34:48,480
+the proper sources.
+
+770
+00:34:44,719 --> 00:34:50,878
+Right? And so, what ends up happening is
+
+771
+00:34:48,480 --> 00:34:52,719
+people read and they're not qualified to
+
+772
+00:34:50,878 --> 00:34:54,440
+read these things and they read things
+
+773
+00:34:52,719 --> 00:34:56,678
+that they're not ready for and things
+
+774
+00:34:54,440 --> 00:34:58,960
+that they haven't understood properly
+
+775
+00:34:56,679 --> 00:35:01,840
+and they apply their own
+
+776
+00:34:58,960 --> 00:35:03,800
+ideas to it or their own circumstances
+
+777
+00:35:01,840 --> 00:35:06,440
+to it. And this is where mistakes come
+
+778
+00:35:03,800 --> 00:35:07,720
+from. And this is the root of true
+
+779
+00:35:06,440 --> 00:35:09,880
+ignorance.
+
+780
+00:35:07,719 --> 00:35:11,639
+Okay? Because now
+
+781
+00:35:09,880 --> 00:35:13,440
+instead of having people who say, "Well,
+
+782
+00:35:11,639 --> 00:35:15,239
+we're not scholars. We don't know. Teach
+
+783
+00:35:13,440 --> 00:35:18,360
+us." Now, we have a people saying,
+
+784
+00:35:15,239 --> 00:35:20,039
+"We're scholars. You guys are not. We
+
+785
+00:35:18,360 --> 00:35:22,280
+know what we're talking about. You do
+
+786
+00:35:20,039 --> 00:35:24,279
+not." And then suspicion and all this
+
+787
+00:35:22,280 --> 00:35:26,480
+other thing comes into play.
+
+788
+00:35:24,280 --> 00:35:29,080
+There is a narration. It's been graded
+
+789
+00:35:26,480 --> 00:35:31,000
+authentic by some scholars of Islam on
+
+790
+00:35:29,079 --> 00:35:33,119
+the authority of Omar ibn al-Khattab.
+
+791
+00:35:31,000 --> 00:35:35,679
+And it could just be the words of Omar.
+
+792
+00:35:33,119 --> 00:35:38,239
+Either way, it's meaning is correct.
+
+793
+00:35:35,679 --> 00:35:41,799
+He said, "Sallallahu alaihi wasallam,
+
+794
+00:35:38,239 --> 00:35:45,599
+aqwa fuma aqwa ala ummati
+
+795
+00:35:41,800 --> 00:35:48,800
+munafiq alim al-lisan."
+
+796
+00:35:45,599 --> 00:35:51,239
+He said, "The thing I fear most
+
+797
+00:35:48,800 --> 00:35:54,320
+over my ummah,
+
+798
+00:35:51,239 --> 00:35:57,000
+for my people, my followers, my nation,
+
+799
+00:35:54,320 --> 00:35:59,880
+is a hypocrite who has a knowledgeable
+
+800
+00:35:57,000 --> 00:36:02,039
+tongue, knowledgeable vocabulary." This
+
+801
+00:35:59,880 --> 00:36:03,760
+is the most dangerous thing.
+
+802
+00:36:02,039 --> 00:36:05,519
+And what does this mean? This means that
+
+803
+00:36:03,760 --> 00:36:07,800
+a person is teaching the Quran and
+
+804
+00:36:05,519 --> 00:36:10,119
+Sunnah and they do not believe it. They
+
+805
+00:36:07,800 --> 00:36:13,120
+do not follow it. They do not adhere to
+
+806
+00:36:10,119 --> 00:36:15,440
+it. And that has many levels.
+
+807
+00:36:13,119 --> 00:36:18,719
+But, it is very dangerous for a person
+
+808
+00:36:15,440 --> 00:36:21,480
+to have lots of
+
+809
+00:36:18,719 --> 00:36:24,239
+quirky ideas from all over the place and
+
+810
+00:36:21,480 --> 00:36:26,800
+then just put it into play. This has
+
+811
+00:36:24,239 --> 00:36:28,959
+never been the way that serious
+
+812
+00:36:26,800 --> 00:36:31,039
+disciplines were practiced. A person
+
+813
+00:36:28,960 --> 00:36:33,559
+cannot just pick up a bunch of random
+
+814
+00:36:31,039 --> 00:36:35,960
+books and start reading and become a
+
+815
+00:36:33,559 --> 00:36:38,279
+doctor. That's not how that works. We as
+
+816
+00:36:35,960 --> 00:36:41,199
+a society agree that this person is not
+
+817
+00:36:38,280 --> 00:36:43,760
+a doctor, not until they learn from
+
+818
+00:36:41,199 --> 00:36:47,639
+other doctors, right? And it is no
+
+819
+00:36:43,760 --> 00:36:49,440
+difference with regards to Islamic
+
+820
+00:36:47,639 --> 00:36:52,559
+scholarship. As a matter of fact, it is
+
+821
+00:36:49,440 --> 00:36:54,760
+more strict. And so
+
+822
+00:36:52,559 --> 00:36:57,559
+the first reason why the scholars
+
+823
+00:36:54,760 --> 00:37:01,080
+initially prohibited the printing press
+
+824
+00:36:57,559 --> 00:37:03,599
+is number one that people would be
+
+825
+00:37:01,079 --> 00:37:05,759
+saturated with information and
+
+826
+00:37:03,599 --> 00:37:07,880
+misunderstand it, and that has clearly
+
+827
+00:37:05,760 --> 00:37:09,200
+happened, right? And that has led to the
+
+828
+00:37:07,880 --> 00:37:10,519
+downfall
+
+829
+00:37:09,199 --> 00:37:13,279
+of
+
+830
+00:37:10,519 --> 00:37:15,559
+many of the Muslims and Muslim
+
+831
+00:37:13,280 --> 00:37:16,880
+nations have collapsed simply because of
+
+832
+00:37:15,559 --> 00:37:19,559
+this reason.
+
+833
+00:37:16,880 --> 00:37:20,760
+The second reason though is that it
+
+834
+00:37:19,559 --> 00:37:23,279
+would be
+
+835
+00:37:20,760 --> 00:37:27,920
+easy
+
+836
+00:37:23,280 --> 00:37:29,720
+or easier for people to manipulate
+
+837
+00:37:27,920 --> 00:37:33,000
+the books that they are printing. And
+
+838
+00:37:29,719 --> 00:37:36,639
+this did happen, and it even happened
+
+839
+00:37:33,000 --> 00:37:38,320
+a few instances with the Quran.
+
+840
+00:37:36,639 --> 00:37:40,519
+And this is actually
+
+841
+00:37:38,320 --> 00:37:44,280
+one of the reasons that
+
+842
+00:37:40,519 --> 00:37:47,440
+Al-Hussary, rahimahullah, in Egypt, he
+
+843
+00:37:44,280 --> 00:37:49,600
+is the person to first record the entire
+
+844
+00:37:47,440 --> 00:37:51,639
+mushaf recited
+
+845
+00:37:49,599 --> 00:37:54,239
+on audio. He's the first person to do
+
+846
+00:37:51,639 --> 00:37:57,359
+that. Why did he do that? it's
+
+847
+00:37:54,239 --> 00:37:59,959
+mentioned that he had come to America,
+
+848
+00:37:57,360 --> 00:38:02,039
+and he was in a masjid in America, one
+
+849
+00:37:59,960 --> 00:38:03,840
+of the American cities back when they
+
+850
+00:38:02,039 --> 00:38:06,199
+had many scholars that would pass
+
+851
+00:38:03,840 --> 00:38:08,760
+through America and and come and visit
+
+852
+00:38:06,199 --> 00:38:12,759
+with with the Muslim communities, and he
+
+853
+00:38:08,760 --> 00:38:16,200
+had found a collection of masahif that
+
+854
+00:38:12,760 --> 00:38:19,840
+had mistakes in them.
+
+855
+00:38:16,199 --> 00:38:22,319
+And he had actually, well, the rumor
+
+856
+00:38:19,840 --> 00:38:23,920
+has it is that these were printed by
+
+857
+00:38:22,320 --> 00:38:27,480
+a particular country. The point The
+
+858
+00:38:23,920 --> 00:38:29,680
+point is is that these were
+
+859
+00:38:27,480 --> 00:38:31,400
+These were misprints inside in the
+
+860
+00:38:29,679 --> 00:38:34,159
+Quran.
+
+861
+00:38:31,400 --> 00:38:38,320
+And so al-Husari decided to go back and
+
+862
+00:38:34,159 --> 00:38:41,199
+to completely record
+
+863
+00:38:38,320 --> 00:38:42,880
+the recitation of the Quran from its
+
+864
+00:38:41,199 --> 00:38:44,960
+beginning to end
+
+865
+00:38:42,880 --> 00:38:47,720
+as a way of preserving it. And
+
+866
+00:38:44,960 --> 00:38:51,320
+alhamdulillah, since the printing press
+
+867
+00:38:47,719 --> 00:38:54,239
+has become so widespread,
+
+868
+00:38:51,320 --> 00:38:55,519
+it has been perfected with regards to
+
+869
+00:38:54,239 --> 00:38:56,679
+the Quran.
+
+870
+00:38:55,519 --> 00:38:59,239
+And
+
+871
+00:38:56,679 --> 00:39:00,839
+each mushaf is vetted very well.
+
+872
+00:38:59,239 --> 00:39:03,359
+However,
+
+873
+00:39:00,840 --> 00:39:05,400
+this is not the case with regards to
+
+874
+00:39:03,360 --> 00:39:06,840
+other books. Other books have been
+
+875
+00:39:05,400 --> 00:39:09,160
+changed. They have been altered. They
+
+876
+00:39:06,840 --> 00:39:11,039
+have been manipulated. Parts have been
+
+877
+00:39:09,159 --> 00:39:13,399
+removed from these books
+
+878
+00:39:11,039 --> 00:39:15,759
+because when the printing press was
+
+879
+00:39:13,400 --> 00:39:18,880
+first utilized, it was overseen by
+
+880
+00:39:15,760 --> 00:39:22,120
+scholars who would No book would be
+
+881
+00:39:18,880 --> 00:39:24,800
+taken from handwriting into the printing
+
+882
+00:39:22,119 --> 00:39:26,839
+press unless a scholar himself is the
+
+883
+00:39:24,800 --> 00:39:29,240
+one who did that process, which is
+
+884
+00:39:26,840 --> 00:39:30,920
+called a tahqiq, right?
+
+885
+00:39:29,239 --> 00:39:32,559
+But now,
+
+886
+00:39:32,559 --> 00:39:36,639
+there are numerous companies and they're
+
+887
+00:39:34,719 --> 00:39:38,599
+just printing stuff.
+
+888
+00:39:36,639 --> 00:39:40,119
+Stuff that should never be printed.
+
+889
+00:39:38,599 --> 00:39:42,119
+Stuff that people have no business
+
+890
+00:39:40,119 --> 00:39:45,359
+reading. And
+
+891
+00:39:42,119 --> 00:39:47,920
+then we had the translation era, where
+
+892
+00:39:45,360 --> 00:39:52,559
+this big campaign
+
+893
+00:39:47,920 --> 00:39:55,400
+to translate everything, right? And
+
+894
+00:39:52,559 --> 00:39:58,559
+there's a lot of money in this. And so,
+
+895
+00:39:55,400 --> 00:39:59,680
+a lot of books were translated.
+
+896
+00:39:58,559 --> 00:40:04,559
+And
+
+897
+00:39:59,679 --> 00:40:06,159
+these books are not books that every
+
+898
+00:40:04,559 --> 00:40:08,559
+Tom, Dick, and Harry should be
+
+899
+00:40:06,159 --> 00:40:11,239
+reading, as the saying goes.
+
+900
+00:40:08,559 --> 00:40:13,279
+This is books that can be easily
+
+901
+00:40:11,239 --> 00:40:15,879
+misunderstood, especially when taken
+
+902
+00:40:13,280 --> 00:40:17,720
+into another language. Languages are not
+
+903
+00:40:15,880 --> 00:40:20,400
+just a different way of saying the same
+
+904
+00:40:17,719 --> 00:40:23,159
+thing. Languages are a representation of
+
+905
+00:40:20,400 --> 00:40:24,160
+an entire culture, an entire thought,
+
+906
+00:40:23,159 --> 00:40:26,519
+right?
+
+907
+00:40:24,159 --> 00:40:27,920
+And so, linguists understand that each
+
+908
+00:40:26,519 --> 00:40:30,759
+language
+
+909
+00:40:27,920 --> 00:40:33,000
+has in it different connotations, even
+
+910
+00:40:30,760 --> 00:40:34,800
+the sounds that that language makes. And
+
+911
+00:40:33,000 --> 00:40:37,480
+so, what happens is when we take a book
+
+912
+00:40:34,800 --> 00:40:40,000
+Sunan Abi Dawud
+
+913
+00:40:37,480 --> 00:40:42,119
+or we take a book Sahih al-Bukhari,
+
+914
+00:40:40,000 --> 00:40:44,239
+these are very complex books. They're
+
+915
+00:40:42,119 --> 00:40:47,599
+not easy to read. And this is why
+
+916
+00:40:44,239 --> 00:40:49,199
+scholars historically throughout the
+
+917
+00:40:47,599 --> 00:40:50,719
+throughout the
+
+918
+00:40:49,199 --> 00:40:54,239
+centuries
+
+919
+00:40:50,719 --> 00:40:56,559
+have condensed these books, summarized
+
+920
+00:40:54,239 --> 00:40:58,679
+these books, abridged these books for
+
+921
+00:40:56,559 --> 00:41:01,079
+the common folk to read,
+
+922
+00:40:58,679 --> 00:41:04,279
+right? Sahih al-Bukhari has many
+
+923
+00:41:01,079 --> 00:41:07,079
+summaries. Sahih Muslim, Sunan Abi
+
+924
+00:41:04,280 --> 00:41:09,960
+Dawud, Ibn al-Qayyim is one of them who
+
+925
+00:41:07,079 --> 00:41:12,960
+actually summarized Sunan Abi Dawud,
+
+926
+00:41:09,960 --> 00:41:15,480
+right? Riyadh as-Salihin is a result
+
+927
+00:41:12,960 --> 00:41:18,280
+of that, the 40 narrations, and and many
+
+928
+00:41:15,480 --> 00:41:21,000
+other books, okay? This effort is
+
+929
+00:41:18,280 --> 00:41:23,720
+because scholars understand how these
+
+930
+00:41:21,000 --> 00:41:26,320
+books can be so easily misunderstood,
+
+931
+00:41:23,719 --> 00:41:29,879
+misinterpreted. And we have that now,
+
+932
+00:41:26,320 --> 00:41:32,120
+right? So, we have Sahih al-Bukhari
+
+933
+00:41:29,880 --> 00:41:33,559
+translated verbatim,
+
+934
+00:41:32,119 --> 00:41:35,599
+okay?
+
+935
+00:41:33,559 --> 00:41:38,519
+We're not given any introduction into
+
+936
+00:41:35,599 --> 00:41:41,079
+how to understand Sahih al-Bukhari, the
+
+937
+00:41:38,519 --> 00:41:43,079
+time, the place, the era, how he
+
+938
+00:41:41,079 --> 00:41:45,400
+constructed his book. It took him 17
+
+939
+00:41:43,079 --> 00:41:46,759
+years to write his book, Sahih
+
+940
+00:41:45,400 --> 00:41:50,280
+al-Bukhari,
+
+941
+00:41:46,760 --> 00:41:53,440
+right? He did it extremely meticulously.
+
+942
+00:41:50,280 --> 00:41:55,720
+That is his life's work. And so, now we
+
+943
+00:41:53,440 --> 00:41:58,320
+have it in in a language, it's been
+
+944
+00:41:55,719 --> 00:41:59,719
+translated, which is a problem because
+
+945
+00:41:58,320 --> 00:42:02,440
+now
+
+946
+00:41:59,719 --> 00:42:05,439
+it we have more than one person involved
+
+947
+00:42:02,440 --> 00:42:07,440
+in the process of conveying these ideas.
+
+948
+00:42:05,440 --> 00:42:10,280
+We have narrations which al-Bukhari
+
+949
+00:42:07,440 --> 00:42:14,079
+very, very specifically
+
+950
+00:42:10,280 --> 00:42:16,480
+chose and summarized and length and it's
+
+951
+00:42:14,079 --> 00:42:18,119
+a it's an extremely complicated book,
+
+952
+00:42:16,480 --> 00:42:20,760
+Sahih al-Bukhari.
+
+953
+00:42:18,119 --> 00:42:23,440
+And this is why it took so many years
+
+954
+00:42:20,760 --> 00:42:27,600
+for Sahih al-Bukhari to be properly
+
+955
+00:42:23,440 --> 00:42:28,240
+explained in its entirety. Right?
+
+956
+00:42:28,239 --> 00:42:33,039
+in in the way that it is today with with
+
+957
+00:42:30,239 --> 00:42:35,159
+books Fath al-Bari. And so
+
+958
+00:42:33,039 --> 00:42:37,920
+Sahih al-Bukhari is one of those books
+
+959
+00:42:35,159 --> 00:42:39,199
+that scholars have dedicated their lives
+
+960
+00:42:37,920 --> 00:42:42,119
+to.
+
+961
+00:42:39,199 --> 00:42:45,759
+Right? Such as al-Yunini. He He
+
+962
+00:42:42,119 --> 00:42:47,400
+dedicated his life's work to Sahih
+
+963
+00:42:45,760 --> 00:42:49,440
+al-Bukhari.
+
+964
+00:42:47,400 --> 00:42:50,960
+That's all That is the main thing he is
+
+965
+00:42:49,440 --> 00:42:54,440
+known for.
+
+966
+00:42:50,960 --> 00:42:56,599
+Right? And he spent all of his time on
+
+967
+00:42:54,440 --> 00:42:58,360
+Sahih al-Bukhari all of his life
+
+968
+00:42:56,599 --> 00:43:00,519
+collecting its different copies and
+
+969
+00:42:58,360 --> 00:43:02,640
+comparing and contrasting and getting
+
+970
+00:43:00,519 --> 00:43:04,519
+different Right? And so then we
+
+971
+00:43:02,639 --> 00:43:07,519
+translate it. We're not sure of the
+
+972
+00:43:04,519 --> 00:43:09,119
+qualifications of the translator.
+
+973
+00:43:07,519 --> 00:43:10,639
+And we're not saying that the translator
+
+974
+00:43:09,119 --> 00:43:12,519
+is not
+
+975
+00:43:10,639 --> 00:43:14,799
+a person who is fluent in Arabic and
+
+976
+00:43:12,519 --> 00:43:18,039
+English. That's only part of it.
+
+977
+00:43:14,800 --> 00:43:20,680
+also the translator has to know what
+
+978
+00:43:18,039 --> 00:43:21,800
+the author intended when he translates.
+
+979
+00:43:20,679 --> 00:43:23,879
+Right?
+
+980
+00:43:21,800 --> 00:43:25,519
+Have to know the context. Why the author
+
+981
+00:43:23,880 --> 00:43:29,200
+did this. What They have to be able to
+
+982
+00:43:25,519 --> 00:43:31,559
+see all of those you know nuances.
+
+983
+00:43:29,199 --> 00:43:34,879
+They translate it and then it gets
+
+984
+00:43:31,559 --> 00:43:38,279
+shipped across the world to a place like
+
+985
+00:43:34,880 --> 00:43:40,559
+America or elsewhere where we have
+
+986
+00:43:38,280 --> 00:43:42,240
+We could not be more radically different
+
+987
+00:43:40,559 --> 00:43:44,480
+than the than
+
+988
+00:43:42,239 --> 00:43:46,959
+al-Imam al-Bukhari in our culture in our
+
+989
+00:43:44,480 --> 00:43:49,679
+ways. Right? Or than the Prophet
+
+990
+00:43:46,960 --> 00:43:51,280
+Sallallahu alayhi wasallam. And there
+
+991
+00:43:49,679 --> 00:43:53,839
+are narrations that everybody
+
+992
+00:43:51,280 --> 00:43:55,240
+understands in Sahih al-Bukhari.
+
+993
+00:43:53,840 --> 00:43:56,920
+But then there are other things that are
+
+994
+00:43:55,239 --> 00:43:58,239
+confusing.
+
+995
+00:43:56,920 --> 00:44:00,920
+And then we have people who are
+
+996
+00:43:58,239 --> 00:44:03,239
+under-qualified who have not or people
+
+997
+00:44:00,920 --> 00:44:04,880
+that have
+
+998
+00:44:03,239 --> 00:44:07,639
+tell you the truth they just they
+
+999
+00:44:04,880 --> 00:44:10,400
+have ulterior motives. Right?
+
+1000
+00:44:07,639 --> 00:44:12,159
+And they start to pick things out. What
+
+1001
+00:44:10,400 --> 00:44:14,200
+is this? What is that? What does this
+
+1002
+00:44:12,159 --> 00:44:16,119
+mean? What does that mean? Maybe a woman
+
+1003
+00:44:14,199 --> 00:44:19,039
+can marry more than one husband. See,
+
+1004
+00:44:16,119 --> 00:44:22,039
+here's in Sahih al-Bukhari. Maybe
+
+1005
+00:44:19,039 --> 00:44:24,119
+homosexuality is okay. Here's in Sahih
+
+1006
+00:44:22,039 --> 00:44:26,039
+al-Bukhari. All of them everybody uses
+
+1007
+00:44:24,119 --> 00:44:29,599
+Sahih al-Bukhari.
+
+1008
+00:44:26,039 --> 00:44:32,119
+Right? Everybody uses the Quran
+
+1009
+00:44:29,599 --> 00:44:34,360
+to articulate their argument. Anybody
+
+1010
+00:44:32,119 --> 00:44:36,839
+can understand the Quran. Anybody can
+
+1011
+00:44:34,360 --> 00:44:39,120
+understand the Sunnah. It's the The
+
+1012
+00:44:36,840 --> 00:44:42,440
+point isn't understanding it. The point
+
+1013
+00:44:39,119 --> 00:44:44,519
+is understanding the Quran and Sunnah in
+
+1014
+00:44:42,440 --> 00:44:46,800
+the way that Allah and His Messenger
+
+1015
+00:44:44,519 --> 00:44:49,880
+intended. That's That's only a group of
+
+1016
+00:44:46,800 --> 00:44:51,000
+people understand it that way.
+
+1017
+00:44:49,880 --> 00:44:53,920
+Right?
+
+1018
+00:44:51,000 --> 00:44:55,639
+But unfortunately, a lot of this has to
+
+1019
+00:44:53,920 --> 00:44:57,480
+do with political things as well
+
+1020
+00:44:55,639 --> 00:44:58,960
+throughout the centuries and knowledge
+
+1021
+00:44:57,480 --> 00:45:00,760
+is power.
+
+1022
+00:44:58,960 --> 00:45:02,960
+And so unfortunately, what has happened
+
+1023
+00:45:00,760 --> 00:45:06,360
+is we have
+
+1024
+00:45:02,960 --> 00:45:08,960
+regressed. We have We have more
+
+1025
+00:45:06,360 --> 00:45:10,599
+information, but we haven't digested it.
+
+1026
+00:45:08,960 --> 00:45:13,119
+So, we don't have any knowledge. We have
+
+1027
+00:45:10,599 --> 00:45:15,039
+a bunch of information, no knowledge.
+
+1028
+00:45:13,119 --> 00:45:18,960
+And everybody
+
+1029
+00:45:15,039 --> 00:45:21,320
+is got this idea, you know, from I don't
+
+1030
+00:45:18,960 --> 00:45:23,800
+know, watching Disney or or watching
+
+1031
+00:45:21,320 --> 00:45:25,480
+movies or something that I'm the hero of
+
+1032
+00:45:23,800 --> 00:45:27,440
+the movie here and I'm going to I'm
+
+1033
+00:45:25,480 --> 00:45:29,800
+going to I'm going to bring Sahih
+
+1034
+00:45:27,440 --> 00:45:31,840
+al-Bukhari to America or to the to the
+
+1035
+00:45:29,800 --> 00:45:33,680
+Muslims. Everybody was doing it wrong
+
+1036
+00:45:31,840 --> 00:45:35,680
+before me. I'm going to bring it
+
+1037
+00:45:33,679 --> 00:45:38,879
+correctly. And that's
+
+1038
+00:45:35,679 --> 00:45:42,039
+the first mistake. Scholarship in Islam,
+
+1039
+00:45:38,880 --> 00:45:43,680
+leadership in Islam has nothing to do
+
+1040
+00:45:42,039 --> 00:45:47,239
+with
+
+1041
+00:45:43,679 --> 00:45:49,599
+being the chosen one, being the one who
+
+1042
+00:45:47,239 --> 00:45:51,799
+does it different or does it right after
+
+1043
+00:45:49,599 --> 00:45:54,199
+everybody has done it wrong. No.
+
+1044
+00:45:51,800 --> 00:45:56,680
+It's exactly the opposite.
+
+1045
+00:45:54,199 --> 00:46:00,119
+Scholarship in Islam is
+
+1046
+00:45:56,679 --> 00:46:01,359
+I am going to try my best to make my
+
+1047
+00:46:00,119 --> 00:46:03,119
+brick
+
+1048
+00:46:01,360 --> 00:46:05,640
+and lay it into the temple of Allah
+
+1049
+00:46:03,119 --> 00:46:08,719
+Subhana Wa Ta'ala or the the the
+
+1050
+00:46:05,639 --> 00:46:11,239
+structure of of Islam. That's that's my
+
+1051
+00:46:08,719 --> 00:46:13,879
+mission as a scholar. It's not to be
+
+1052
+00:46:11,239 --> 00:46:16,439
+different or to be famous or to be the
+
+1053
+00:46:13,880 --> 00:46:18,360
+one. It's it's just for me to carry on
+
+1054
+00:46:16,440 --> 00:46:20,720
+the legacy
+
+1055
+00:46:18,360 --> 00:46:23,840
+and to leave it as I was given it.
+
+1056
+00:46:20,719 --> 00:46:26,239
+That's it. That's my only job.
+
+1057
+00:46:23,840 --> 00:46:27,519
+Right? To explain it as it was explained
+
+1058
+00:46:26,239 --> 00:46:29,759
+to me.
+
+1059
+00:46:27,519 --> 00:46:32,159
+and so
+
+1060
+00:46:29,760 --> 00:46:33,840
+we have people saying all kinds of crazy
+
+1061
+00:46:32,159 --> 00:46:35,559
+things now and they're using Sahih
+
+1062
+00:46:33,840 --> 00:46:37,800
+al-Bukhari to do it. They're using Sahih
+
+1063
+00:46:35,559 --> 00:46:39,079
+Muslim to do it. They're using the Quran
+
+1064
+00:46:37,800 --> 00:46:41,280
+to do it.
+
+1065
+00:46:39,079 --> 00:46:43,639
+Bringing into put bringing into question
+
+1066
+00:46:41,280 --> 00:46:46,240
+things that are
+
+1067
+00:46:43,639 --> 00:46:48,400
+that are not open to debate and they
+
+1068
+00:46:46,239 --> 00:46:50,279
+have never been open to debate in the
+
+1069
+00:46:48,400 --> 00:46:52,039
+history of Islam.
+
+1070
+00:46:50,280 --> 00:46:55,120
+things that
+
+1071
+00:46:52,039 --> 00:46:56,880
+malum min al-din bi al-darura. These are
+
+1072
+00:46:55,119 --> 00:47:00,960
+issues that
+
+1073
+00:46:56,880 --> 00:47:02,599
+are are are self-evident as it were,
+
+1074
+00:47:00,960 --> 00:47:05,079
+right?
+
+1075
+00:47:02,599 --> 00:47:08,400
+Yet we're trying to reinvent the wheel
+
+1076
+00:47:05,079 --> 00:47:10,960
+now and anytime a people
+
+1077
+00:47:08,400 --> 00:47:13,440
+try to start at zero and go up and
+
+1078
+00:47:10,960 --> 00:47:15,280
+dismiss everything that has come before
+
+1079
+00:47:13,440 --> 00:47:18,480
+them and dismiss their
+
+1080
+00:47:15,280 --> 00:47:21,280
+forefathers in this way
+
+1081
+00:47:18,480 --> 00:47:23,599
+as Shaykh al-Islam Rahimahullah says,
+
+1082
+00:47:21,280 --> 00:47:25,040
+they will always they will always they
+
+1083
+00:47:23,599 --> 00:47:27,319
+will never
+
+1084
+00:47:25,039 --> 00:47:28,440
+proceed. They will never excel. They
+
+1085
+00:47:27,320 --> 00:47:30,640
+will never
+
+1086
+00:47:28,440 --> 00:47:33,960
+go forward because every generation's
+
+1087
+00:47:30,639 --> 00:47:35,039
+always setting it back to zero.
+
+1088
+00:47:33,960 --> 00:47:37,400
+So
+
+1089
+00:47:35,039 --> 00:47:39,719
+next week inshallah Ta'ala, we will
+
+1090
+00:47:37,400 --> 00:47:41,440
+discuss the way that the Prophet
+
+1091
+00:47:39,719 --> 00:47:43,559
+Sallallahu Alaihi Wasallam made Qiyam
+
+1092
+00:47:41,440 --> 00:47:45,720
+al-Layl. thank you for joining us
+
+1093
+00:47:43,559 --> 00:47:49,359
+[Arabic recitation]
