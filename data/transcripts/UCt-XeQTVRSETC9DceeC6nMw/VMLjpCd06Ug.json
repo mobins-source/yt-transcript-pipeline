@@ -1044,7 +1044,7 @@
   "suggested_title": "The Sunnah of Wudoo and Ghusl: Times, Methods, and Islamic Rulings",
   "catchy_title": "How did the Prophet make ghusl?",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Muslim",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Purification (Taharah)",
   "topic_tags": [
     "wudoo",
@@ -1056,5 +1056,6 @@
     "janaba",
     "islamic jurisprudence"
   ],
-  "srt_status": "pending"
+  "srt_status": "pending",
+  "manually_reviewed": true
 }

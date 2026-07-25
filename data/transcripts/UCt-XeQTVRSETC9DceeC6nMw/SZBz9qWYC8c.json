@@ -1073,8 +1073,8 @@
   "summary": "This lecture from the Muslim Community Center of Tucson discusses the Islamic definition of knowledge (ilm) as presented in the Quran and Sunnah. The speaker explains that true knowledge is not merely memorization or entertainment, but rather the combination of understanding, memorization, and practical implementation of knowledge about Allah, the Prophet Muhammad, and Islam with supporting evidence. The lecture emphasizes that repetition is essential for learning and contrasts Islamic knowledge with mere information or facts. The speaker also addresses how scholars are recognized, arguing that only other scholars can properly identify a true scholar, just as only pilots can recognize other pilots.",
   "suggested_title": "Understanding True Knowledge in Islam: Definition, Implementation, and Recognition of Scholars",
   "catchy_title": "What makes someone truly knowledgeable in Islam?",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "knowledge",
@@ -1086,5 +1086,6 @@
     "memorization",
     "understanding"
   ],
-  "srt_status": "pending"
+  "srt_status": "pending",
+  "manually_reviewed": true
 }

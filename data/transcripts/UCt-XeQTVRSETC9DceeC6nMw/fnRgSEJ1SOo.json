@@ -883,7 +883,7 @@
   "suggested_title": "The Dunya is Distant from Allah: Understanding the Prophet's Teaching on Worldly Life",
   "catchy_title": "What is really far from Allah?",
   "content_type": "Hadith",
-  "hadith_book": "Other",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "dunya",
@@ -895,5 +895,6 @@
     "abu hurairah",
     "islamic wisdom"
   ],
-  "srt_status": "pending"
+  "srt_status": "pending",
+  "manually_reviewed": true
 }

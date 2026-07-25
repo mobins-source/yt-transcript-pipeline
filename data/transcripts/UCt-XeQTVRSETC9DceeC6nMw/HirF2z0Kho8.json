@@ -1475,8 +1475,8 @@
   "summary": "This lecture discusses the invalidators of wudu (ritual ablution) in Islamic jurisprudence, with a primary focus on deep sleep versus light sleep. The speaker explains that sleep itself does not directly invalidate wudu; rather, it is an indirect invalidator because a person loses awareness of bodily changes during deep sleep. The distinguishing factor between light and deep sleep is awareness—light sleep maintains awareness of changes to one's body or surroundings, while deep sleep involves complete loss of this awareness. The speaker uses examples from the Sunnah, including the Prophet Muhammad's practice of sleeping with wudu and making wudu or tayammum before sleep, emphasizing that sleep is described as a minor death and the soul requires spiritual purity during this state.",
   "suggested_title": "Understanding Deep Sleep and Light Sleep in Relation to the Validity of Wudu",
   "catchy_title": "When Does Sleep Break Your Wudu?",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "wudu",
@@ -1488,5 +1488,6 @@
     "islamic jurisprudence",
     "prophetic sunnah"
   ],
-  "srt_status": "pending"
+  "srt_status": "pending",
+  "manually_reviewed": true
 }

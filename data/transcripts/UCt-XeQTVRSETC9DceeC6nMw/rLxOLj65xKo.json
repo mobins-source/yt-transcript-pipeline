@@ -1415,8 +1415,8 @@
   "summary": "This lecture from the Muslim Community Center of Tucson discusses the virtue and importance of knowledge in Islam, focusing on Surah Al-Mujadilah verse 11, which states that Allah raises those who believe and those who have been given knowledge in levels of esteem. The speaker explains that knowledge is a prerequisite for valid opinions and actions, and that true knowledge must be based on the Quran, Sunnah, and understanding of the companions. The lecture emphasizes that while all believers are brothers in faith, there are practical differences in esteem and status among people, with scholars of knowledge occupying the highest rank because they cannot be corrupted or infiltrated through superficial means.\n\nThe speaker uses grammatical analysis of the Quranic verse to show how Allah specifically mentions those with knowledge separately to emphasize their special status. He contrasts the integrity of knowledge-based communities with institutions that rely on symbols and external trappings, using the example of someone infiltrating a papal conclave by wearing a cardinal's outfit. The lecture concludes with the principle that people of knowledge are recognized by their substantive understanding rather than symbols, and that true judgment comes from intentions and actions, not appearances.",
   "suggested_title": "The Virtue of Knowledge in Islam and the Status of Scholars",
   "catchy_title": "Why Knowledge Elevates You Above Everyone",
-  "content_type": "Quran",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "knowledge",
@@ -1428,5 +1428,6 @@
     "integrity",
     "intentions"
   ],
-  "srt_status": "pending"
+  "srt_status": "pending",
+  "manually_reviewed": true
 }

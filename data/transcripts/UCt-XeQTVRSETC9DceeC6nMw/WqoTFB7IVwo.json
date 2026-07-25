@@ -1205,7 +1205,7 @@
   "suggested_title": "The Fourth Invalidator of Wudoo: Touching the Private Parts - Scholarly Analysis and Legal Reasoning",
   "catchy_title": "Does Touching Invalidate Your Wudoo?",
   "content_type": "Hadith",
-  "hadith_book": null,
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "wudoo",
@@ -1217,5 +1217,6 @@
     "scholarly disagreement",
     "legal principles"
   ],
-  "srt_status": "pending"
+  "srt_status": "pending",
+  "manually_reviewed": true
 }

@@ -1305,7 +1305,7 @@
   "suggested_title": "The Three Principles of Transmitting Prophetic Knowledge and Avoiding False Attribution",
   "catchy_title": "Who Can Teach Islam? The Prophet's Three Essential Rules",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "hadith authentication",
@@ -1317,5 +1317,6 @@
     "islamic scholarship",
     "hadith methodology"
   ],
-  "srt_status": "pending"
+  "srt_status": "pending",
+  "manually_reviewed": true
 }

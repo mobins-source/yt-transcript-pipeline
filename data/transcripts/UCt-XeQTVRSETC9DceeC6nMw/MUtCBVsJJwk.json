@@ -1310,8 +1310,8 @@
   "summary": "This session from the Muslim Community Center of Tucson focuses on the critical importance of knowledge combined with action in Islam. The speaker emphasizes that good intentions alone are insufficient for salvation; knowledge must be paired with implementation. Using various analogies—such as knowing the way to Phoenix but choosing not to go, or heading in the wrong direction with good intentions—the speaker illustrates the three categories of people mentioned in Surah Al-Fatiha: those upon whom Allah's grace rests (knowledge + action), those who incur Allah's anger (knowledge without action), and the misguided (action without knowledge). The speaker stresses that this is not optional material but critical knowledge necessary for Muslims to navigate the afterlife and leave a positive legacy for future generations.",
   "suggested_title": "Knowledge Must Be Coupled with Action: Understanding Surah Al-Fatiha's Three Paths",
   "catchy_title": "Why Good Intentions Aren't Enough",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Riyadul Saliheen",
   "hadith_chapter": null,
   "topic_tags": [
     "knowledge and action",
@@ -1323,5 +1323,6 @@
     "taqwa",
     "spiritual guidance"
   ],
-  "srt_status": "pending"
+  "srt_status": "pending",
+  "manually_reviewed": true
 }

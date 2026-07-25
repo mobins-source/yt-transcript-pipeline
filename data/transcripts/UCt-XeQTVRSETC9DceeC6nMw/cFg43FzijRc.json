@@ -621,7 +621,7 @@
   "suggested_title": "Book of Purification: Ablution Before Sleep and Bedtime Supplications",
   "catchy_title": "What to do before sleep in Islam",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Bukhari",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Book of Purification (Kitab al-Taharah) - Chapter on Recommended Ablution",
   "topic_tags": [
     "wudu",
@@ -633,5 +633,6 @@
     "Islamic etiquette",
     "fiqh"
   ],
-  "srt_status": "pending"
+  "srt_status": "pending",
+  "manually_reviewed": true
 }

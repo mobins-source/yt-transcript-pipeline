@@ -1295,7 +1295,7 @@
   "suggested_title": "Making Wudu for Each Prayer: From Obligation to Sunnah",
   "catchy_title": "Why refresh your wudu for every prayer?",
   "content_type": "Hadith",
-  "hadith_book": "Other",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "wudu",
@@ -1307,5 +1307,6 @@
     "jurisprudence",
     "islamic practice"
   ],
-  "srt_status": "pending"
+  "srt_status": "pending",
+  "manually_reviewed": true
 }

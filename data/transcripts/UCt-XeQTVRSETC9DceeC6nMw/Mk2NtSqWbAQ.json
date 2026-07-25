@@ -1184,8 +1184,8 @@
   "summary": "This lecture discusses the second invalidator of wudu (ritual ablution) in Islam, specifically deep sleep. The speaker explains that deep sleep breaks wudu regardless of a person's posture, distinguishing it from light sleep where the person remains aware of their surroundings. Using relatable examples, such as someone sleeping through the adhan during Jumu'ah prayer, the speaker emphasizes the importance of recognizing when wudu is invalidated. The lecture also addresses contemporary issues affecting prayer quality, including cell phone use during salah and the misuse of Islamic terminology influenced by Western concepts, urging Muslims to maintain proper Islamic language and understanding based on the Quran and Sunnah.",
   "suggested_title": "Deep Sleep as an Invalidator of Wudu: Understanding the Second Condition",
   "catchy_title": "Does Deep Sleep Break Your Wudu?",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "wudu",
@@ -1197,5 +1197,6 @@
     "spiritual discipline",
     "hadith"
   ],
-  "srt_status": "pending"
+  "srt_status": "pending",
+  "manually_reviewed": true
 }

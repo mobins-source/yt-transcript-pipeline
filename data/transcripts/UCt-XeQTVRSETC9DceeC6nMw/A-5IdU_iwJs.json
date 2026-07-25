@@ -718,7 +718,7 @@
   "suggested_title": "The Book of Purification: Wudoo During Janaba and Its Proper Interpretation",
   "catchy_title": "Why Make Wudoo After Intimate Relations?",
   "content_type": "Hadith",
-  "hadith_book": "Sahih Muslim",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": "Book of Purification (Kitab al-Tahara)",
   "topic_tags": [
     "wudoo",
@@ -730,5 +730,6 @@
     "ritual ablution",
     "islamic jurisprudence"
   ],
-  "srt_status": "pending"
+  "srt_status": "pending",
+  "manually_reviewed": true
 }

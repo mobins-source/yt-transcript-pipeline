@@ -1340,7 +1340,7 @@
   "suggested_title": "The Fifth Invalidator of Wudoo: Understanding the Ruling on Camel Meat",
   "catchy_title": "Why Does Eating Camel Meat Break Your Wudoo?",
   "content_type": "Hadith",
-  "hadith_book": null,
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "wudoo",
@@ -1352,5 +1352,6 @@
     "companions",
     "abrogation"
   ],
-  "srt_status": "pending"
+  "srt_status": "pending",
+  "manually_reviewed": true
 }

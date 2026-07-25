@@ -1279,8 +1279,8 @@
   "summary": "This lecture discusses the requirements for wudu (ritual ablution) in Islam, specifically focusing on what invalidates wudu and what requires wudu to perform. The instructor explains the five things that invalidate wudu according to Islamic jurisprudence, then transitions to discussing what actions require a person to be in a state of wudu. The three primary actions requiring wudu are: performing salah (prayer), circumambulating the Kaaba (tawaf), and handling the Quran (mus'haf). The lecture emphasizes the consensus of the major Islamic schools of jurisprudence (madhabs) on these requirements and clarifies the definition of what constitutes the Quran when determining whether wudu is necessary.",
   "suggested_title": "What Requires Wudu: Salah, Tawaf, and Handling the Quran",
   "catchy_title": "What breaks your wudu and what demands it?",
-  "content_type": "General",
-  "hadith_book": null,
+  "content_type": "Hadith",
+  "hadith_book": "Al-Wajeez",
   "hadith_chapter": null,
   "topic_tags": [
     "wudu",
@@ -1292,5 +1292,6 @@
     "madhabs",
     "purity"
   ],
-  "srt_status": "pending"
+  "srt_status": "pending",
+  "manually_reviewed": true
 }
