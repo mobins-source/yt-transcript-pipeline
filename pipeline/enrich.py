@@ -171,6 +171,36 @@ def enrich_all_channels(force: bool = False) -> None:
     _rebuild_index()
 
 
+# Fields written to per-channel index files (fetched by the site at build/ISR time).
+# Must stay under Next.js's 2MB fetch cache limit per channel.
+# The combined index.json retains ALL fields for the local admin viewer.
+#
+# Key omissions vs the transcript JSON:
+#   - channel_name, published_at, upload_date, view_count, srt_status
+#     are not read by any site component
+#   - summary is truncated to SLIM_SUMMARY_MAX chars — cards only show
+#     a short preview; full summary is fetched from the transcript JSON
+#     on the detail page. This alone saves ~350KB on the MCC index.
+_SLIM_FIELDS = {
+    "video_id", "title", "channel_id", "url",
+    "post_date", "post_time", "year", "month", "month_num", "month_year",
+    "actual_at", "time_of_day", "time_slot", "day_of_week",
+    "content_type", "hadith_book", "hadith_chapter",
+    "has_transcript", "has_clean_srt", "has_clean_txt",
+    "catchy_title", "suggested_title", "topic_tags",
+    "duration_seconds", "playlist_id", "playlist_title",
+    "summary",  # truncated below
+}
+_SLIM_SUMMARY_MAX = 300  # chars; full summary always available in transcript JSON
+
+
+def _slim_for_site(video: dict) -> dict:
+    """Return a site-facing slim copy of a video dict for per-channel index files."""
+    out = {k: v for k, v in video.items() if k in _SLIM_FIELDS}
+    if out.get("summary") and len(out["summary"]) > _SLIM_SUMMARY_MAX:
+        out["summary"] = out["summary"][:_SLIM_SUMMARY_MAX]
+    return out
+
 def _rebuild_index() -> None:
     """
     Rebuild the combined index.json AND one index-{channel_id}.json per channel.
@@ -207,12 +237,13 @@ def _rebuild_index() -> None:
                         meta[f] = tx[f]
             channel_videos.append(meta)
 
-        # Per-channel index — the only index file a secondary runner commits
+        # Per-channel index — slim copy for the site (under Next.js 2MB cache limit).
+        # Combined index.json retains ALL fields for the local admin viewer.
         store._write_json(
             config.METADATA_DIR / f"index-{ch_dir.name}.json",
             {
                 "channel_id": ch_dir.name,
-                "videos":     channel_videos,
+                "videos":     [_slim_for_site(v) for v in channel_videos],
                 "updated_at": datetime.now(timezone.utc).isoformat(),
             },
         )
