@@ -1,0 +1,49 @@
+{
+  "video_id": "29fvR9yrmkc",
+  "language": "ms",
+  "is_generated": false,
+  "clean_text": "Alhamdulillah. Muhammad.",
+  "word_count": 2,
+  "read_time_minutes": 0.0,
+  "paragraphs": [
+    "Alhamdulillah. Muhammad."
+  ],
+  "segments": [
+    {
+      "text": "Alhamdulillah.",
+      "start": 2.035,
+      "duration": 3.002
+    },
+    {
+      "text": "Muhammad",
+      "start": 9.542,
+      "duration": 3.036
+    }
+  ],
+  "transcript_status": "available",
+  "actual_at": "2023-05-24T18:17:17Z",
+  "post_time": "2023-05-24T11:17:17",
+  "post_date": "2023-05-24",
+  "month": "May",
+  "month_num": 5,
+  "year": 2023,
+  "month_year": "May 2023",
+  "time_of_day": "Fajr",
+  "day_of_week": "Wednesday",
+  "time_slot": "Wednesday-Fajr",
+  "summary": "This session continues the ongoing study of Zadul-Ma'ad (Provisions for the Hereafter), a classical Islamic text that covers the life, teachings, and practices of Prophet Muhammad (peace be upon him). Part 107 of this series led by Sheikh Ali Mashhour provides detailed Islamic guidance and scholarly commentary on the provisions and practices necessary for success in the hereafter. The lecture maintains the educational format of examining prophetic traditions and their practical applications for Muslim life.",
+  "suggested_title": "Zadul-Ma'ad (Provisions for the Hereafter) - Part 107 with Sheikh Ali Mashhour",
+  "catchy_title": "Provisions for the Hereafter continues",
+  "content_type": "General",
+  "hadith_book": null,
+  "hadith_chapter": null,
+  "topic_tags": [
+    "zadul-maad",
+    "sheikh ali mashhour",
+    "prophetic teachings",
+    "islamic guidance",
+    "hereafter",
+    "sunnah"
+  ],
+  "srt_status": "pending"
+}
