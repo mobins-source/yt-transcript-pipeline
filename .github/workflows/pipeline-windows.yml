@@ -91,7 +91,15 @@ jobs:
           git checkout -- .
 
           # The Mac runner pushes independently — rebase before pushing.
-          git pull --rebase
+          # If the per-channel index conflicts (two Windows runs in quick
+          # succession), take theirs and re-stage ours on top — the index
+          # is derived data and will be regenerated on the next run anyway.
+          if ! git pull --rebase; then
+            echo "Rebase conflict detected — auto-resolving per-channel index"
+            git checkout --theirs "data/metadata/index-${BACKFILL_CHANNEL_ID}.json"
+            git add "data/metadata/index-${BACKFILL_CHANNEL_ID}.json"
+            GIT_EDITOR=true git rebase --continue
+          fi
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
