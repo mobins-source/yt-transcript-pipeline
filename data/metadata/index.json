@@ -31910,6 +31910,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "HcqOMAcitbM",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260727",
+      "published_at": "2026-07-27T04:36:25Z",
+      "actual_at": "2026-07-27T04:13:58Z",
+      "duration_seconds": 1150,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=HcqOMAcitbM",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Isha",
+      "day_of_week": "Sunday",
+      "time_slot": "Sunday-Isha",
+      "post_time": "2026-07-26T21:13:58",
+      "post_date": "2026-07-26",
+      "month": "July",
+      "month_num": 7,
+      "year": 2026,
+      "month_year": "July 2026",
+      "content_type": "General",
+      "hadith_book": null,
+      "hadith_chapter": null,
+      "topic_tags": [
+        "companions of the prophet",
+        "muawiyah ibn abi sufyan",
+        "ali ibn abi talib",
+        "uthman ibn affan",
+        "islamic history",
+        "ahlus sunnah",
+        "abdullah ibn saba",
+        "early islamic caliphate"
+      ],
+      "suggested_title": "Understanding the Disputes Among the Companions: The Case of Muawiyah and Ali",
+      "catchy_title": "Why Muslims shouldn't judge the companions' disagreements",
+      "summary": "This lecture discusses the historical disputes between the companions of the Prophet Muhammad, particularly focusing on Muawiyah ibn Abi Sufyan and his disagreements with Ali ibn Abi Talib following the murder of Caliph Uthman ibn Affan. The speaker explains that these companions had different approaches to addressing Uthman's assassination—Muawiyah wanted immediate execution of the perpetrators while Ali believed this would destabilize the newly-formed caliphate. The lecturer emphasizes the Islamic scholarly position (Ahlus Sunnah) that Muslims should not judge or debate these internal disputes among the companions, as they are all considered righteous and will be forgiven. The speaker also discusses Abdullah ibn Saba, a Jewish infiltrator who radicalized young Muslims and is credited as the spiritual grandfather of both the Khawarij and Rafidah (Shia) movements.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -40190,5 +40233,5 @@
       "has_clean_txt": false
     }
   ],
-  "updated_at": "2026-07-26T22:03:05.080046+00:00"
+  "updated_at": "2026-07-27T08:46:42.879972+00:00"
 }
