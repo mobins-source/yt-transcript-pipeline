@@ -31953,6 +31953,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "eDT6l5ppnEI",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260727",
+      "published_at": "2026-07-27T12:10:49Z",
+      "actual_at": "2026-07-27T11:57:41Z",
+      "duration_seconds": 652,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=eDT6l5ppnEI",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Monday",
+      "time_slot": "Monday-Fajr",
+      "post_time": "2026-07-27T04:57:41",
+      "post_date": "2026-07-27",
+      "month": "July",
+      "month_num": 7,
+      "year": 2026,
+      "month_year": "July 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
+      "hadith_chapter": "Chapters regarding Wudu - Instances in which it is preferred that a person make wudu",
+      "topic_tags": [
+        "wudu",
+        "ablution",
+        "sunnah",
+        "al-wajeez",
+        "ritual purity",
+        "janazah",
+        "hadith",
+        "islamic jurisprudence"
+      ],
+      "suggested_title": "Al-Wajeez Chapter on Preferred Instances of Wudu - Nine Recommended Occasions",
+      "catchy_title": "When is it Sunnah to Make Wudu?",
+      "summary": "This lecture covers the ninth chapter from Al-Wajeez regarding the instances in which it is preferred (mustahabb) for a person to perform wudu (ritual ablution). The instructor reviews nine instances where wudu is recommended: dhikr (remembrance of Allah), eating food cooked on open flame, consumption during janabah (ritual impurity), before every session of salat (prayer), after breaking wudu, after vomiting, before listening to Quran, at the start of bathing, and after carrying or bathing a deceased body (janazah). The lecture emphasizes the distinction between obligatory instances of wudu (salat, touching the Quran, tawaf) and preferred instances. For the final instance regarding janazah, the instructor harmonizes two seemingly contradictory hadith narrations to conclude that making wudu after carrying a body and ghusl after bathing one are preferred rather than obligatory practices.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -40233,5 +40276,5 @@
       "has_clean_txt": false
     }
   ],
-  "updated_at": "2026-07-27T08:46:42.879972+00:00"
+  "updated_at": "2026-07-27T17:07:33.164432+00:00"
 }
