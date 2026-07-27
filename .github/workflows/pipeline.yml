@@ -122,11 +122,49 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/transcripts data/metadata
-          git diff --staged --quiet && echo "No changes to commit" || \
-            git commit -m "chore: pipeline run $(date -u '+%Y-%m-%d %H:%M UTC') [skip ci]"
-          # The Windows backfill runner pushes independently — rebase first.
-          git pull --rebase
-          git push
+          git diff --staged --quiet && echo "No changes to commit" && exit 0
+          git commit -m "chore: pipeline run $(date -u '+%Y-%m-%d %H:%M UTC') [skip ci]"
+
+          # Rebase before push — the Windows backfill runner and occasional
+          # concurrent scheduled runs push independently, so conflicts can occur
+          # on index files (derived data — always safe to regenerate) and on
+          # transcript JSONs (add/add: both runs fetched the same new video).
+          MAX_ATTEMPTS=3
+          ATTEMPT=0
+          until git push; do
+            ATTEMPT=$((ATTEMPT + 1))
+            if [ $ATTEMPT -ge $MAX_ATTEMPTS ]; then
+              echo "::error::Failed to push after $MAX_ATTEMPTS attempts"
+              exit 1
+            fi
+            echo "Push rejected — rebasing (attempt $ATTEMPT/$MAX_ATTEMPTS)"
+            git fetch origin main
+
+            # Rebase our commit on top of the latest remote
+            if ! git rebase origin/main; then
+              echo "Rebase conflict — auto-resolving derived files"
+
+              # Index files are always derived — take remote version
+              # (ours will be regenerated on the next pipeline run)
+              git diff --name-only --diff-filter=U | grep 'data/metadata/' | while read f; do
+                git checkout --theirs "$f"
+                git add "$f"
+              done
+
+              # Transcript JSON conflicts: for add/add take ours (we just
+              # enriched them); for modify/modify take ours for the same reason
+              git diff --name-only --diff-filter=U | grep 'data/transcripts/' | while read f; do
+                git checkout --ours "$f"
+                git add "$f"
+              done
+
+              GIT_EDITOR=true git rebase --continue || {
+                echo "::error::Could not auto-resolve rebase conflict"
+                git rebase --abort
+                exit 1
+              }
+            fi
+          done
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
