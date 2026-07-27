@@ -100,16 +100,32 @@ jobs:
           git checkout -- .
 
           # The Mac runner pushes independently — rebase before pushing.
-          # If the per-channel index conflicts (two Windows runs in quick
-          # succession), take theirs and re-stage ours on top — the index
-          # is derived data and will be regenerated on the next run anyway.
-          if ! git pull --rebase; then
-            echo "Rebase conflict detected — auto-resolving per-channel index"
-            git checkout --theirs "data/metadata/index-${BACKFILL_CHANNEL_ID}.json"
-            git add "data/metadata/index-${BACKFILL_CHANNEL_ID}.json"
-            GIT_EDITOR=true git rebase --continue
-          fi
-          git push
+          # Use same retry loop as Mac workflow for robustness.
+          MAX_ATTEMPTS=3
+          ATTEMPT=0
+          until git push; do
+            ATTEMPT=$((ATTEMPT + 1))
+            if [ $ATTEMPT -ge $MAX_ATTEMPTS ]; then
+              echo "::error::Failed to push after $MAX_ATTEMPTS attempts"
+              exit 1
+            fi
+            echo "Push rejected — rebasing (attempt $ATTEMPT/$MAX_ATTEMPTS)"
+            git fetch origin main
+            if ! git rebase origin/main; then
+              echo "Rebase conflict detected — auto-resolving index files"
+              git diff --name-only --diff-filter=U | grep 'data/metadata/' | while read f; do
+                git checkout --theirs "$f" && git add "$f"
+              done
+              git diff --name-only --diff-filter=U | grep 'data/transcripts/' | while read f; do
+                git checkout --ours "$f" && git add "$f"
+              done
+              GIT_EDITOR=true git rebase --continue || {
+                echo "::error::Could not auto-resolve rebase conflict"
+                git rebase --abort
+                exit 1
+              }
+            fi
+          done
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
