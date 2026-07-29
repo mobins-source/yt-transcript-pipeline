@@ -32039,6 +32039,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "JuuRu7XyTl4",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260729",
+      "published_at": "2026-07-29T12:17:09Z",
+      "actual_at": "2026-07-29T11:55:48Z",
+      "duration_seconds": 1063,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=JuuRu7XyTl4",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Wednesday",
+      "time_slot": "Wednesday-Fajr",
+      "post_time": "2026-07-29T04:55:48",
+      "post_date": "2026-07-29",
+      "month": "July",
+      "month_num": 7,
+      "year": 2026,
+      "month_year": "July 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Sahih Muslim",
+      "hadith_chapter": "Chapter on the rulings of wiping over footwear during wudu",
+      "topic_tags": [
+        "wudu",
+        "footwear",
+        "khuffs",
+        "quran interpretation",
+        "hadith narration",
+        "hanafi school",
+        "jarir ibn abdillah",
+        "surah al-maaidah"
+      ],
+      "suggested_title": "Wiping Over Footwear in Wudu: Quranic Evidence and Prophetic Practice",
+      "catchy_title": "Why the Prophet wiped his leather boots during wudu",
+      "summary": "This lecture discusses the rulings regarding wiping over footwear (khuffs) during wudu as an alternative to washing the feet. The speaker analyzes the statement of al-Hasan al-Basri transmitted through al-Nawawi's commentary on Sahih Muslim, along with the critical narration of Jarir ibn Abdillah al-Bajali, a companion who accepted Islam late and witnessed the Prophet performing wudu with wiped footwear. The speaker explains why this narration is significant for establishing the Hanafi school's position on this practice and addresses the Quranic basis in Surah al-Ma'idah, which contains two legitimate recitations—one indicating washing the feet and another indicating wiping over footwear.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -40553,5 +40596,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-07-29T07:51:59.767201+00:00"
+  "updated_at": "2026-07-29T16:38:45.243895+00:00"
 }
