@@ -1,0 +1,68 @@
+{
+  "video_id": "VRgVkC35ow4",
+  "language": "en",
+  "is_generated": false,
+  "clean_text": "Important that we give and it has to be before Eid. Inshallah. So, tomorrow morning is this is our last opportunity to give in.",
+  "word_count": 24,
+  "read_time_minutes": 0.1,
+  "paragraphs": [
+    "Important that we give and it has to be before Eid. Inshallah. So, tomorrow morning is this is our last opportunity to give in."
+  ],
+  "segments": [
+    {
+      "text": "important that we give and it",
+      "start": 631.831,
+      "duration": 6.439
+    },
+    {
+      "text": "has to be before Eid.",
+      "start": 635.568,
+      "duration": 5.371
+    },
+    {
+      "text": "Inshallah. So, tomorrow morning",
+      "start": 638.337,
+      "duration": 5.339
+    },
+    {
+      "text": "is this is our last opportunity",
+      "start": 641.006,
+      "duration": 5.839
+    },
+    {
+      "text": "to give",
+      "start": 643.743,
+      "duration": 3.102
+    },
+    {
+      "text": "in",
+      "start": 663.229,
+      "duration": 2.969
+    }
+  ],
+  "transcript_status": "available",
+  "actual_at": "2023-04-21T03:58:55Z",
+  "post_time": "2023-04-20T20:58:55",
+  "post_date": "2023-04-20",
+  "month": "April",
+  "month_num": 4,
+  "year": 2023,
+  "month_year": "April 2023",
+  "time_of_day": "Isha",
+  "day_of_week": "Thursday",
+  "time_slot": "Thursday-Isha",
+  "summary": "This brief segment from Episode 29 of Ramadan Daily Tafseer with Sheikh Ali Mashhour addresses the importance of giving Zakat al-Fitr before Eid al-Fitr. The speaker emphasizes that tomorrow morning represents the final opportunity for viewers to give their Zakat al-Fitr before the Eid prayer, urging the community not to miss this deadline.",
+  "suggested_title": "Zakat al-Fitr: Final Reminder Before Eid",
+  "catchy_title": "Last chance for Zakat al-Fitr before Eid",
+  "content_type": "General",
+  "hadith_book": null,
+  "hadith_chapter": null,
+  "topic_tags": [
+    "zakat al-fitr",
+    "ramadan",
+    "eid",
+    "giving",
+    "islamic obligations"
+  ],
+  "srt_status": "pending"
+}
