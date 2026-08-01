@@ -1,0 +1,156 @@
+name: YouTube Transcript Pipeline (Windows)
+
+# Windows equivalent of pipeline.yml — runs on the Windows self-hosted runner
+# on a DIFFERENT network/IP than the Mac, giving MCC Tucson an independent
+# YouTube request budget.
+#
+# KEY DIFFERENCES from the Mac pipeline:
+#   - No cookies. The Windows machine is on a separate residential network
+#     with no block history. Anonymous fetching works here.
+#     NEVER point this workflow at the YOUTUBE_COOKIES secret — using the
+#     same session cookies from two different IPs simultaneously can
+#     invalidate the session for BOTH machines.
+#   - Uses Git Bash (shell: bash) instead of arch -arm64
+#   - Uses `python` / `pip` instead of `python3` / `pip3`
+#   - PYTHONUTF8=1 protects Arabic text from cp1252 mangling on Windows
+#
+# SCOPE: MCC Tucson channel ONLY (same as Mac pipeline).
+# Both runners fetch the same channel independently — whichever runs first
+# picks up new videos; the other skips them as already available.
+# The conflict resolution retry loop handles the occasional race condition.
+#
+# COOKIE REFRESH NOTE: No cookies needed here. If YouTube starts blocking
+# anonymous requests from this IP, either:
+#   a) The IP reputation has degraded — try a VPN or different network
+#   b) Export cookies from a browser logged into a DIFFERENT Google account
+#      (not the same account used on the Mac) and store as YOUTUBE_COOKIES_WIN
+
+on:
+  schedule:
+    - cron: "47 15 * * *"   # 15:47 UTC = 08:47 MST daily (30min after Mac run to avoid race)
+    - cron: "47 5 * * *"    # 05:47 UTC = 22:47 MST daily
+    - cron: "47 21 * * 5"   # 21:47 UTC = 14:47 MST Friday
+    - cron: "47 1 * * 6"    # 01:47 UTC Saturday = 18:47 MST Friday
+
+  workflow_dispatch:
+    inputs:
+      channel:
+        description: "Channel handle (leave empty to use YOUTUBE_CHANNELS secret)"
+        required: false
+        default: ""
+      max_videos:
+        description: "Max videos per channel (0 = use MAX_VIDEOS_PER_CHANNEL)"
+        required: false
+        default: "20"
+      batch_size:
+        description: "Videos per batch"
+        required: false
+        default: "10"
+      batch_pause:
+        description: "Seconds to pause between batches"
+        required: false
+        default: "180"
+      force:
+        description: "Force re-enrich and re-generate SRTs"
+        required: false
+        default: "false"
+        type: boolean
+
+jobs:
+  run-pipeline:
+    runs-on: [self-hosted, Windows]
+    timeout-minutes: 90
+    defaults:
+      run:
+        shell: bash   # Git Bash
+    env:
+      PYTHONUTF8: "1"   # Protect Arabic text from Windows cp1252 encoding
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4.2.2
+
+      - name: Install dependencies
+        run: python -m pip install -r pipeline/requirements.txt
+
+      - name: Create .env from secrets (no cookies)
+        working-directory: pipeline
+        run: |
+          cat > .env <<EOF
+          YOUTUBE_CHANNELS=${{ secrets.YOUTUBE_CHANNELS }}
+          YOUTUBE_API_KEY=${{ secrets.YOUTUBE_API_KEY }}
+          ANTHROPIC_API_KEY=${{ secrets.ANTHROPIC_API_KEY }}
+          TRANSCRIPT_LANG=${{ vars.TRANSCRIPT_LANG || 'en' }}
+          MAX_VIDEOS_PER_CHANNEL=${{ github.event.inputs.max_videos || '20' }}
+          BATCH_SIZE=${{ github.event.inputs.batch_size || '10' }}
+          BATCH_PAUSE=${{ github.event.inputs.batch_pause || '180' }}
+          DATA_DIR=../data
+          EOF
+
+      - name: Run pipeline
+        working-directory: pipeline
+        run: |
+          CHANNEL_FLAG=""
+          if [ -n "${{ github.event.inputs.channel }}" ]; then
+            CHANNEL_FLAG="--channel ${{ github.event.inputs.channel }}"
+          fi
+
+          FORCE_FLAG=""
+          if [ "${{ github.event.inputs.force }}" = "true" ]; then
+            FORCE_FLAG="--force"
+          fi
+
+          python run.py \
+            $CHANNEL_FLAG \
+            --max ${{ github.event.inputs.max_videos || '20' }} \
+            --batch-size ${{ github.event.inputs.batch_size || '10' }} \
+            --batch-pause ${{ github.event.inputs.batch_pause || '180' }} \
+            $FORCE_FLAG
+
+      - name: Commit updated data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/transcripts data/metadata
+          git diff --staged --quiet && echo "No changes to commit" && exit 0
+          git commit -m "chore: pipeline run (windows) $(date -u '+%Y-%m-%d %H:%M UTC') [skip ci]"
+
+          # Same retry loop as Mac workflow — both runners push to main
+          # independently so conflicts can occur on index files and transcripts.
+          MAX_ATTEMPTS=3
+          ATTEMPT=0
+          until git push; do
+            ATTEMPT=$((ATTEMPT + 1))
+            if [ $ATTEMPT -ge $MAX_ATTEMPTS ]; then
+              echo "::error::Failed to push after $MAX_ATTEMPTS attempts"
+              exit 1
+            fi
+            echo "Push rejected — rebasing (attempt $ATTEMPT/$MAX_ATTEMPTS)"
+            git fetch origin main
+            if ! git rebase origin/main; then
+              echo "Rebase conflict — auto-resolving derived files"
+              git diff --name-only --diff-filter=U | grep 'data/metadata/' | while read f; do
+                git checkout --theirs "$f"
+                git add "$f"
+              done
+              git diff --name-only --diff-filter=U | grep 'data/transcripts/' | while read f; do
+                git checkout --ours "$f"
+                git add "$f"
+              done
+              GIT_EDITOR=true git rebase --continue || {
+                echo "::error::Could not auto-resolve rebase conflict"
+                git rebase --abort
+                exit 1
+              }
+            fi
+          done
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload data artifact on failure
+        if: failure()
+        uses: actions/upload-artifact@v4.6.2
+        with:
+          name: pipeline-data-windows-${{ github.run_number }}
+          path: data/
+          retention-days: 7
