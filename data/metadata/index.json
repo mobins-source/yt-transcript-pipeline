@@ -32129,8 +32129,8 @@
       "title": "Muslim Community Center Of Tucson",
       "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
       "channel_name": "Muslim Comminity Center of Tucson",
-      "upload_date": "20260731",
-      "published_at": "2026-07-31T20:43:36Z",
+      "upload_date": "20260801",
+      "published_at": "2026-08-01T08:47:50Z",
       "actual_at": "2026-07-31T20:02:17Z",
       "duration_seconds": 2479,
       "view_count": null,
@@ -32157,6 +32157,49 @@
       "has_transcript": true,
       "has_clean_srt": false,
       "has_clean_txt": false
+    },
+    {
+      "video_id": "T9JP8poFR_I",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260801",
+      "published_at": "2026-08-01T12:31:05Z",
+      "actual_at": "2026-08-01T12:12:29Z",
+      "duration_seconds": 862,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=T9JP8poFR_I",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Saturday",
+      "time_slot": "Saturday-Fajr",
+      "post_time": "2026-08-01T05:12:29",
+      "post_date": "2026-08-01",
+      "month": "August",
+      "month_num": 8,
+      "year": 2026,
+      "month_year": "August 2026",
+      "content_type": "General",
+      "hadith_book": null,
+      "hadith_chapter": null,
+      "topic_tags": [
+        "ablution",
+        "wudu",
+        "footwear",
+        "khuffain",
+        "fiqh",
+        "sunnah",
+        "ritual purity",
+        "companions"
+      ],
+      "suggested_title": "Conditions for Wiping Over Footwear in Ablution: Understanding Al-Masah Alal Khuffain",
+      "catchy_title": "Can you really wipe over your shoes in wudu?",
+      "summary": "This lecture continues a discussion on al-masah alal khuffain (wiping over footwear during ablution). The speaker explains the conditions and technical requirements for this practice, focusing on the foundational rule that footwear must be put on after completing a full ablution with washed feet. Using the example of Al-Mughirah ibn Shu'bah, a companion who served the Prophet, the speaker illustrates how the Prophet practiced this Sunnah. The lecture clarifies misconceptions about what types of footwear qualify for wiping, explaining that while the classical scholars debated specific criteria, the principle applies to various materials and styles worn over the feet, not just traditional leather khuffain (hard leather shoes).",
+      "srt_status": "pending"
     },
     {
       "video_id": "-JCfAqCl2iw",
@@ -42846,5 +42889,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-08-01T07:52:49.474140+00:00"
+  "updated_at": "2026-08-01T16:12:49.488335+00:00"
 }
