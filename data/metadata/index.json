@@ -32245,6 +32245,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "0OoEAGfvIA4",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260802",
+      "published_at": "2026-08-02T12:29:19Z",
+      "actual_at": "2026-08-02T12:13:28Z",
+      "duration_seconds": 805,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=0OoEAGfvIA4",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Sunday",
+      "time_slot": "Sunday-Fajr",
+      "post_time": "2026-08-02T05:13:28",
+      "post_date": "2026-08-02",
+      "month": "August",
+      "month_num": 8,
+      "year": 2026,
+      "month_year": "August 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Sahih Muslim",
+      "hadith_chapter": "Purification (Taharah)",
+      "topic_tags": [
+        "wudoo",
+        "ablution",
+        "wiping over footwear",
+        "purification",
+        "hadith",
+        "islamic jurisprudence",
+        "fiqh",
+        "time limits"
+      ],
+      "suggested_title": "The Conditions and Time Limits for Wiping Over Footwear in Wudoo",
+      "catchy_title": "When Does the Wiping Timer Really Start?",
+      "summary": "This lecture discusses the conditions and rulings for wiping over footwear (socks or shoes) as a substitute for washing the feet during wudoo (ablution). The speaker explains the time limits for this practice: 24 hours for a resident and three days and nights for a traveler. Importantly, the timer begins when a person first wipes over the footwear to perform wudoo, not when the footwear is initially put on or when wudoo is broken. The speaker clarifies through detailed examples how the wiping period works separately from the wudoo itself, emphasizing that once the wiping period expires, a person must remove the footwear and wash their feet. The lecture also covers the proper method and location of wiping, referencing the practice of the Prophet Muhammad (peace be upon him) who wiped over the top of the footwear rather than the bottom, establishing that this is a divinely ordained practice beyond human logic.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -42932,5 +42975,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-08-02T07:52:35.450186+00:00"
+  "updated_at": "2026-08-02T16:12:05.572773+00:00"
 }
