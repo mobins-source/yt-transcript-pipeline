@@ -32202,6 +32202,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "5CkYiGqFVuI",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260802",
+      "published_at": "2026-08-02T04:23:47Z",
+      "actual_at": "2026-08-02T04:02:52Z",
+      "duration_seconds": 1121,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=5CkYiGqFVuI",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Isha",
+      "day_of_week": "Saturday",
+      "time_slot": "Saturday-Isha",
+      "post_time": "2026-08-01T21:02:52",
+      "post_date": "2026-08-01",
+      "month": "August",
+      "month_num": 8,
+      "year": 2026,
+      "month_year": "August 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Other",
+      "hadith_chapter": null,
+      "topic_tags": [
+        "envy",
+        "knowledge",
+        "charity",
+        "wealth",
+        "sunnah",
+        "companions",
+        "hikma",
+        "spending for allah"
+      ],
+      "suggested_title": "Two Types of People Worthy of Envy: Knowledge and Charitable Spending in Islam",
+      "catchy_title": "Who deserves your envy in Islam?",
+      "summary": "This lecture discusses a hadith about the two types of people worthy of envy in Islam: those who possess knowledge of the Quran and Sunnah and implement it, and those who have wealth and spend it generously for the sake of Allah. The speaker emphasizes that this type of envy is positive—wishing to have what others possess—rather than destructive jealousy. The lecture explores the concept of hikma (wisdom) as deep understanding of Islamic texts and their implementation, explaining that the Sunnah represents the Prophet's prophetic understanding of the Quran. The speaker illustrates through historical examples of Sahaba (companions) how they spent their entire wealth for Allah's sake, contrasting their commitment with modern Muslims' reluctance to make similar sacrifices. The talk challenges contemporary attitudes toward extreme generosity in deen versus worldly matters.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -42889,5 +42932,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-08-02T00:14:01.123836+00:00"
+  "updated_at": "2026-08-02T07:40:50.532648+00:00"
 }
