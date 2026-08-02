@@ -769,7 +769,7 @@
       "actual_at": "2026-05-29T04:17:48Z",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -820,7 +820,7 @@
       "actual_at": "2026-05-28T11:47:59Z",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -1517,7 +1517,7 @@
       "actual_at": "2026-05-15T20:42:28Z",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -4830,7 +4830,7 @@
       "url": "https://www.youtube.com/watch?v=gOqadW9Nbo0",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -6931,7 +6931,7 @@
       "url": "https://www.youtube.com/watch?v=TSfl9w0a6So",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -6944,7 +6944,7 @@
       "url": "https://www.youtube.com/watch?v=pZm3Y2AUeL0",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -8820,7 +8820,7 @@
       "url": "https://www.youtube.com/watch?v=hPULDzgkKXg",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -9213,7 +9213,7 @@
       "url": "https://www.youtube.com/watch?v=3jsQf0FF130",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -9302,7 +9302,7 @@
       "url": "https://www.youtube.com/watch?v=7Bpool4aLyo",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -10035,7 +10035,7 @@
       "url": "https://www.youtube.com/watch?v=-vPg7o81Sks",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -11336,7 +11336,7 @@
       "url": "https://www.youtube.com/watch?v=Ac6BxNSQP2o",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -11539,7 +11539,7 @@
       "url": "https://www.youtube.com/watch?v=R_Sfk_IQDD8",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -12918,7 +12918,7 @@
       "url": "https://www.youtube.com/watch?v=jehzq2l34DQ",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -14755,7 +14755,7 @@
       "url": "https://www.youtube.com/watch?v=p5OAau0eVZM",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -17653,7 +17653,7 @@
       "url": "https://www.youtube.com/watch?v=TPx0ERfeXKo",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -17666,7 +17666,7 @@
       "url": "https://www.youtube.com/watch?v=WfzgXf6oyzQ",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -17679,7 +17679,7 @@
       "url": "https://www.youtube.com/watch?v=8h3LBEw8nV8",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -17692,7 +17692,7 @@
       "url": "https://www.youtube.com/watch?v=hAJhCNx6l2Q",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -17705,7 +17705,7 @@
       "url": "https://www.youtube.com/watch?v=jy0onOj6lY8",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -17718,7 +17718,7 @@
       "url": "https://www.youtube.com/watch?v=i6PNGPQx6mY",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -18107,7 +18107,7 @@
       "url": "https://www.youtube.com/watch?v=EHVSV4CNh8o",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -18610,7 +18610,7 @@
       "url": "https://www.youtube.com/watch?v=pHSm5iVjLZc",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -18623,7 +18623,7 @@
       "url": "https://www.youtube.com/watch?v=fIzC-xH7oiE",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -18674,7 +18674,7 @@
       "url": "https://www.youtube.com/watch?v=cgt3a9qpsHQ",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -18801,7 +18801,7 @@
       "url": "https://www.youtube.com/watch?v=uBdUGGSfRO8",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -18928,7 +18928,7 @@
       "url": "https://www.youtube.com/watch?v=Rf59VkY2ESE",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -18941,7 +18941,7 @@
       "url": "https://www.youtube.com/watch?v=BIfTCiW_MoE",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -19711,7 +19711,7 @@
       "url": "https://www.youtube.com/watch?v=9XRITQFXAbY",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -20324,7 +20324,7 @@
       "url": "https://www.youtube.com/watch?v=7bf5K9xL-9k",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -20337,7 +20337,7 @@
       "url": "https://www.youtube.com/watch?v=KoJsTsjbIy0",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -20424,7 +20424,7 @@
       "url": "https://www.youtube.com/watch?v=rbA-I4at6IQ",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -20437,7 +20437,7 @@
       "url": "https://www.youtube.com/watch?v=LpzpQfavYik",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -20525,7 +20525,7 @@
       "url": "https://www.youtube.com/watch?v=E811Hz48Gbs",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -20576,7 +20576,7 @@
       "url": "https://www.youtube.com/watch?v=JSSpdRkvaUQ",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -21345,7 +21345,7 @@
       "url": "https://www.youtube.com/watch?v=B8AlIXLPj6U",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -21510,7 +21510,7 @@
       "url": "https://www.youtube.com/watch?v=YEWBxmjNIuw",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -21675,7 +21675,7 @@
       "url": "https://www.youtube.com/watch?v=mlsxkYKvFJo",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -21688,7 +21688,7 @@
       "url": "https://www.youtube.com/watch?v=z2dFtYOHEMc",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -21701,7 +21701,7 @@
       "url": "https://www.youtube.com/watch?v=E5ACDie3vDA",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -22167,7 +22167,7 @@
       "url": "https://www.youtube.com/watch?v=4yg039nOG6A",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -23530,7 +23530,7 @@
       "url": "https://www.youtube.com/watch?v=KcRMYaP_hO4",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -23874,7 +23874,7 @@
       "url": "https://www.youtube.com/watch?v=GdXZbzG1oDM",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -24179,7 +24179,7 @@
       "url": "https://www.youtube.com/watch?v=m9kFnh3qpIQ",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -24499,7 +24499,7 @@
       "url": "https://www.youtube.com/watch?v=ZJNBzNWD9wY",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -24626,7 +24626,7 @@
       "url": "https://www.youtube.com/watch?v=1SOmKeLlwMQ",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -24639,7 +24639,7 @@
       "url": "https://www.youtube.com/watch?v=S2TqwTyUa9U",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -24690,7 +24690,7 @@
       "url": "https://www.youtube.com/watch?v=A3PsAoVXTIk",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -24817,7 +24817,7 @@
       "url": "https://www.youtube.com/watch?v=WMtkOTQBaqY",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -24868,7 +24868,7 @@
       "url": "https://www.youtube.com/watch?v=GWviT-gzXLY",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -24993,7 +24993,7 @@
       "url": "https://www.youtube.com/watch?v=yTtMKTLD8s4",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -25531,7 +25531,7 @@
       "url": "https://www.youtube.com/watch?v=tkTVVi6me-Q",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -25686,7 +25686,7 @@
       "url": "https://www.youtube.com/watch?v=G6vEEFVx1-I",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
     },
@@ -28277,8 +28277,33 @@
       "playlist_id": "",
       "playlist_title": "",
       "has_transcript": true,
-      "has_clean_srt": false,
-      "has_clean_txt": false
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Zuhr",
+      "day_of_week": "Friday",
+      "time_slot": "Jumaa Khutba",
+      "post_time": "2026-07-31T13:02:17",
+      "post_date": "2026-07-31",
+      "month": "July",
+      "month_num": 7,
+      "year": 2026,
+      "month_year": "July 2026",
+      "content_type": "Mixed",
+      "hadith_book": null,
+      "hadith_chapter": null,
+      "topic_tags": [
+        "jihad",
+        "surah ali imran",
+        "faith commitment",
+        "defense of islam",
+        "doubts in faith",
+        "quran study",
+        "khutbah",
+        "community development"
+      ],
+      "suggested_title": "Defending Islam Through Knowledge and Speech: A Khutbah on Jihad and Commitment to Faith",
+      "catchy_title": "Why Hesitation Kills Your Faith",
+      "summary": "This video contains a Friday sermon (khutbah) from the Muslim Community Center of Tucson that focuses on Surah Ali Imran and the concept of jihad in Islam. The speaker explains that jihad has two types: intellectual and spiritual struggle through knowledge and speech (al-jihad bil qawli wal lisan), "
     },
     {
       "video_id": "goQLPOCfIZA",
@@ -28290,46 +28315,71 @@
       "playlist_id": "",
       "playlist_title": "",
       "has_transcript": true,
-      "has_clean_srt": false,
-      "has_clean_txt": false
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Isha",
+      "day_of_week": "Friday",
+      "time_slot": "Friday-Isha",
+      "post_time": "2026-07-31T21:16:38",
+      "post_date": "2026-07-31",
+      "month": "July",
+      "month_num": 7,
+      "year": 2026,
+      "month_year": "July 2026",
+      "content_type": "General",
+      "hadith_book": null,
+      "hadith_chapter": null,
+      "topic_tags": [
+        "commitment to faith",
+        "complete submission",
+        "prayer presence",
+        "charity and wealth",
+        "fasting",
+        "spiritual mediocrity",
+        "trust in allah",
+        "islamic practice"
+      ],
+      "suggested_title": "Embracing Islam Completely: Rejecting Half-Measures in Faith and Charity",
+      "catchy_title": "Why Mediocrity in Islam Leads Nowhere",
+      "summary": "This sermon emphasizes the Islamic principle of committing fully to one's faith without hesitation or half-measures. The speaker uses numerous examples of incomplete religious practice—arriving late to Jumu'ah prayer, reciting Quran while mentally distracted, fasting only by abstaining from food but"
     },
     {
-      "video_id": "T9JP8poFR_I",
+      "video_id": "0OoEAGfvIA4",
       "title": "Muslim Community Center Of Tucson",
       "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
-      "actual_at": "2026-08-01T12:12:29Z",
-      "duration_seconds": 862,
-      "url": "https://www.youtube.com/watch?v=T9JP8poFR_I",
+      "actual_at": "2026-08-02T12:13:28Z",
+      "duration_seconds": 805,
+      "url": "https://www.youtube.com/watch?v=0OoEAGfvIA4",
       "playlist_id": "",
       "playlist_title": "",
       "has_transcript": true,
       "has_clean_srt": true,
       "has_clean_txt": true,
       "time_of_day": "Fajr",
-      "day_of_week": "Saturday",
-      "time_slot": "Saturday-Fajr",
-      "post_time": "2026-08-01T05:12:29",
-      "post_date": "2026-08-01",
+      "day_of_week": "Sunday",
+      "time_slot": "Sunday-Fajr",
+      "post_time": "2026-08-02T05:13:28",
+      "post_date": "2026-08-02",
       "month": "August",
       "month_num": 8,
       "year": 2026,
       "month_year": "August 2026",
       "content_type": "General",
-      "hadith_book": null,
+      "hadith_book": "Sahih Muslim",
       "hadith_chapter": null,
       "topic_tags": [
-        "ablution",
         "wudu",
+        "ritual ablution",
         "footwear",
-        "khuffain",
+        "wiping",
+        "time limits",
+        "traveler",
         "fiqh",
-        "sunnah",
-        "ritual purity",
-        "companions"
+        "purification"
       ],
-      "suggested_title": "Conditions for Wiping Over Footwear in Ablution: Understanding Al-Masah Alal Khuffain",
-      "catchy_title": "Can you really wipe over your shoes in wudu?",
-      "summary": "This lecture continues a discussion on al-masah alal khuffain (wiping over footwear during ablution). The speaker explains the conditions and technical requirements for this practice, focusing on the foundational rule that footwear must be put on after completing a full ablution with washed feet. Us"
+      "suggested_title": "The Rules and Conditions of Wiping Over Footwear in Wudu",
+      "catchy_title": "When does the 24-hour wiping timer actually start?",
+      "summary": "This lecture discusses the Islamic jurisprudential rules and conditions governing wiping over footwear (socks or shoes) as a valid substitute for washing the feet during wudu (ritual ablution). The speaker clarifies several key points: footwear must be put on after performing complete wudu with wash"
     },
     {
       "video_id": "5CkYiGqFVuI",
@@ -28353,60 +28403,60 @@
       "year": 2026,
       "month_year": "August 2026",
       "content_type": "Hadith",
-      "hadith_book": "Other",
-      "hadith_chapter": null,
+      "hadith_book": "Riyadul Saliheen",
+      "hadith_chapter": "Book of Knowledge (Kitab al-Ilm), Chapter on the Virtue of Knowledge",
       "topic_tags": [
-        "envy",
-        "knowledge",
-        "charity",
-        "wealth",
-        "sunnah",
-        "companions",
-        "hikma",
-        "spending for allah"
+        "knowledge and wisdom",
+        "charity and wealth",
+        "companion examples",
+        "spiritual sacrifice",
+        "hikmah",
+        "envy in islam",
+        "generous giving",
+        "trust in allah"
       ],
-      "suggested_title": "Two Types of People Worthy of Envy: Knowledge and Charitable Spending in Islam",
+      "suggested_title": "Two Types of People Worthy of Emulation: Knowledge and Charitable Wealth",
       "catchy_title": "Who deserves your envy in Islam?",
-      "summary": "This lecture discusses a hadith about the two types of people worthy of envy in Islam: those who possess knowledge of the Quran and Sunnah and implement it, and those who have wealth and spend it generously for the sake of Allah. The speaker emphasizes that this type of envy is positive—wishing to h"
+      "summary": "This lecture discusses a hadith from Riyadul Saliheen regarding two types of people worthy of emulation and positive envy. The speaker explains that the Prophet Muhammad taught there are only two categories of people deserving of this aspiration: those who possess knowledge of the Quran and Sunnah a"
     },
     {
-      "video_id": "0OoEAGfvIA4",
+      "video_id": "T9JP8poFR_I",
       "title": "Muslim Community Center Of Tucson",
       "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
-      "actual_at": "2026-08-02T12:13:28Z",
-      "duration_seconds": 805,
-      "url": "https://www.youtube.com/watch?v=0OoEAGfvIA4",
+      "actual_at": "2026-08-01T12:12:29Z",
+      "duration_seconds": 862,
+      "url": "https://www.youtube.com/watch?v=T9JP8poFR_I",
       "playlist_id": "",
       "playlist_title": "",
       "has_transcript": true,
       "has_clean_srt": true,
       "has_clean_txt": true,
       "time_of_day": "Fajr",
-      "day_of_week": "Sunday",
-      "time_slot": "Sunday-Fajr",
-      "post_time": "2026-08-02T05:13:28",
-      "post_date": "2026-08-02",
+      "day_of_week": "Saturday",
+      "time_slot": "Saturday-Fajr",
+      "post_time": "2026-08-01T05:12:29",
+      "post_date": "2026-08-01",
       "month": "August",
       "month_num": 8,
       "year": 2026,
       "month_year": "August 2026",
       "content_type": "Hadith",
-      "hadith_book": "Sahih Muslim",
-      "hadith_chapter": "Purification (Taharah)",
+      "hadith_book": "Other",
+      "hadith_chapter": null,
       "topic_tags": [
-        "wudoo",
+        "wudu",
         "ablution",
-        "wiping over footwear",
-        "purification",
-        "hadith",
-        "islamic jurisprudence",
-        "fiqh",
-        "time limits"
+        "khuffain",
+        "footwear",
+        "prophet's sunnah",
+        "al-mughirah ibn shu'bah",
+        "fiqh rulings",
+        "islamic jurisprudence"
       ],
-      "suggested_title": "The Conditions and Time Limits for Wiping Over Footwear in Wudoo",
-      "catchy_title": "When Does the Wiping Timer Really Start?",
-      "summary": "This lecture discusses the conditions and rulings for wiping over footwear (socks or shoes) as a substitute for washing the feet during wudoo (ablution). The speaker explains the time limits for this practice: 24 hours for a resident and three days and nights for a traveler. Importantly, the timer b"
+      "suggested_title": "Understanding Al-Masah Alal Khuffain: Conditions and Rulings on Wiping Over Footwear",
+      "catchy_title": "How do you properly wipe over your footwear?",
+      "summary": "This lecture continues the discussion on al-masah alal khuffain (wiping over footwear during ablution). The speaker explains the technical rulings and conditions necessary for this practice, emphasizing that footwear must be put on after completing full ablution and washing the feet. The lecture inc"
     }
   ],
-  "updated_at": "2026-08-02T16:39:28.355908+00:00"
+  "updated_at": "2026-08-02T17:27:27.649259+00:00"
 }

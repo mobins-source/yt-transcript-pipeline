@@ -218,14 +218,10 @@ def check_local(r: Results) -> None:
             r.warn(f"Per-channel index has 0 videos: {ch_name}")
             continue
 
-        # Check required fields — only on fully enriched videos.
-        # has_transcript=True can be set on stub files (transcript_status=unavailable)
-        # that were never actually enriched. Use post_date as a proxy for
-        # enrichment completion since it's only set after successful enrichment.
-        enriched = [
-            v for v in videos
-            if v.get("has_transcript") and v.get("post_date")
-        ]
+        # Check required fields on videos with has_transcript=True.
+        # Now that _rebuild_index correctly sets has_transcript based on
+        # STATUS_AVAILABLE (not file existence), this filter is reliable.
+        enriched = [v for v in videos if v.get("has_transcript")]
         if not enriched:
             r.warn(f"No enriched videos to field-check: {ch_name}")
             continue
@@ -299,9 +295,7 @@ def check_local(r: Results) -> None:
             continue
         missing_tx = []
         for v in data.get("videos", []):
-            # Only check videos that are fully enriched (have post_date)
-            # Stub files (transcript_status=unavailable) legitimately lack segments
-            if v.get("has_transcript") and v.get("post_date"):
+            if v.get("has_transcript"):
                 tx_file = tx_dir / f"{v['video_id']}.json"
                 if not tx_file.exists():
                     missing_tx.append(v["video_id"])

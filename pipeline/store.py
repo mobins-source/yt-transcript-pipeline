@@ -27,6 +27,10 @@ STATUS_PERMANENT   = "permanently_unavailable"
 # Exception class names that mean a transcript will NEVER exist for this video
 # (uploader disabled captions, video is private/deleted/etc). Retrying these
 # wastes the request budget — they're marked permanent on first occurrence.
+#
+# NOTE: "NoTranscript" is deliberately excluded — it means captions weren't
+# ready yet at fetch time (common for fresh livestreams). These are transient
+# and should be retried until MAX_TRANSIENT_RETRIES is reached.
 PERMANENT_FAILURE_REASONS = {
     "TranscriptsDisabled",
     "VideoUnplayable",

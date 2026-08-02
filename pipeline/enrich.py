@@ -222,7 +222,12 @@ def _rebuild_index() -> None:
         metas = store.load_channel_metadata(ch_dir.name)
         for meta in metas:
             vid_id = meta["video_id"]
-            meta["has_transcript"] = store.transcript_exists(ch_dir.name, vid_id)
+            # has_transcript = True only when transcript was successfully fetched
+            # (STATUS_AVAILABLE). Stub files (unavailable/never_tried) must NOT
+            # set this to True — it causes false positives in validate.py and
+            # on the site (detail pages show empty transcript).
+            tx_status = store.get_transcript_status(ch_dir.name, vid_id)
+            meta["has_transcript"] = (tx_status == store.STATUS_AVAILABLE)
             meta["has_clean_srt"]  = store.srt_exists(ch_dir.name, vid_id)
             meta["has_clean_txt"]  = store.clean_txt_exists(ch_dir.name, vid_id)
             tx = store.load_transcript(ch_dir.name, vid_id)
