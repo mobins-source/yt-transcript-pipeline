@@ -28276,34 +28276,9 @@
       "url": "https://www.youtube.com/watch?v=0KN37zVAjjU",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": true,
-      "has_clean_txt": true,
-      "time_of_day": "Zuhr",
-      "day_of_week": "Friday",
-      "time_slot": "Jumaa Khutba",
-      "post_time": "2026-07-31T13:02:17",
-      "post_date": "2026-07-31",
-      "month": "July",
-      "month_num": 7,
-      "year": 2026,
-      "month_year": "July 2026",
-      "content_type": "Mixed",
-      "hadith_book": null,
-      "hadith_chapter": null,
-      "topic_tags": [
-        "jihad",
-        "surah ali imran",
-        "faith commitment",
-        "defense of islam",
-        "doubts in faith",
-        "quran study",
-        "khutbah",
-        "community development"
-      ],
-      "suggested_title": "Defending Islam Through Knowledge and Speech: A Khutbah on Jihad and Commitment to Faith",
-      "catchy_title": "Why Hesitation Kills Your Faith",
-      "summary": "This video contains a Friday sermon (khutbah) from the Muslim Community Center of Tucson that focuses on Surah Ali Imran and the concept of jihad in Islam. The speaker explains that jihad has two types: intellectual and spiritual struggle through knowledge and speech (al-jihad bil qawli wal lisan), "
+      "has_clean_txt": true
     },
     {
       "video_id": "goQLPOCfIZA",
@@ -28314,34 +28289,9 @@
       "url": "https://www.youtube.com/watch?v=goQLPOCfIZA",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": true,
+      "has_transcript": false,
       "has_clean_srt": true,
-      "has_clean_txt": true,
-      "time_of_day": "Isha",
-      "day_of_week": "Friday",
-      "time_slot": "Friday-Isha",
-      "post_time": "2026-07-31T21:16:38",
-      "post_date": "2026-07-31",
-      "month": "July",
-      "month_num": 7,
-      "year": 2026,
-      "month_year": "July 2026",
-      "content_type": "General",
-      "hadith_book": null,
-      "hadith_chapter": null,
-      "topic_tags": [
-        "commitment to faith",
-        "complete submission",
-        "prayer presence",
-        "charity and wealth",
-        "fasting",
-        "spiritual mediocrity",
-        "trust in allah",
-        "islamic practice"
-      ],
-      "suggested_title": "Embracing Islam Completely: Rejecting Half-Measures in Faith and Charity",
-      "catchy_title": "Why Mediocrity in Islam Leads Nowhere",
-      "summary": "This sermon emphasizes the Islamic principle of committing fully to one's faith without hesitation or half-measures. The speaker uses numerous examples of incomplete religious practice—arriving late to Jumu'ah prayer, reciting Quran while mentally distracted, fasting only by abstaining from food but"
+      "has_clean_txt": true
     },
     {
       "video_id": "0OoEAGfvIA4",
@@ -28364,22 +28314,22 @@
       "month_num": 8,
       "year": 2026,
       "month_year": "August 2026",
-      "content_type": "General",
+      "content_type": "Hadith",
       "hadith_book": "Sahih Muslim",
-      "hadith_chapter": null,
+      "hadith_chapter": "Purification (Taharah)",
       "topic_tags": [
-        "wudu",
-        "ritual ablution",
-        "footwear",
-        "wiping",
-        "time limits",
-        "traveler",
+        "wudoo",
+        "ablution",
+        "wiping over footwear",
+        "purification",
+        "hadith",
+        "islamic jurisprudence",
         "fiqh",
-        "purification"
+        "time limits"
       ],
-      "suggested_title": "The Rules and Conditions of Wiping Over Footwear in Wudu",
-      "catchy_title": "When does the 24-hour wiping timer actually start?",
-      "summary": "This lecture discusses the Islamic jurisprudential rules and conditions governing wiping over footwear (socks or shoes) as a valid substitute for washing the feet during wudu (ritual ablution). The speaker clarifies several key points: footwear must be put on after performing complete wudu with wash"
+      "suggested_title": "The Conditions and Time Limits for Wiping Over Footwear in Wudoo",
+      "catchy_title": "When Does the Wiping Timer Really Start?",
+      "summary": "This lecture discusses the conditions and rulings for wiping over footwear (socks or shoes) as a substitute for washing the feet during wudoo (ablution). The speaker explains the time limits for this practice: 24 hours for a resident and three days and nights for a traveler. Importantly, the timer b"
     },
     {
       "video_id": "5CkYiGqFVuI",
@@ -28403,21 +28353,21 @@
       "year": 2026,
       "month_year": "August 2026",
       "content_type": "Hadith",
-      "hadith_book": "Riyadul Saliheen",
-      "hadith_chapter": "Book of Knowledge (Kitab al-Ilm), Chapter on the Virtue of Knowledge",
+      "hadith_book": "Other",
+      "hadith_chapter": null,
       "topic_tags": [
-        "knowledge and wisdom",
-        "charity and wealth",
-        "companion examples",
-        "spiritual sacrifice",
-        "hikmah",
-        "envy in islam",
-        "generous giving",
-        "trust in allah"
+        "envy",
+        "knowledge",
+        "charity",
+        "wealth",
+        "sunnah",
+        "companions",
+        "hikma",
+        "spending for allah"
       ],
-      "suggested_title": "Two Types of People Worthy of Emulation: Knowledge and Charitable Wealth",
+      "suggested_title": "Two Types of People Worthy of Envy: Knowledge and Charitable Spending in Islam",
       "catchy_title": "Who deserves your envy in Islam?",
-      "summary": "This lecture discusses a hadith from Riyadul Saliheen regarding two types of people worthy of emulation and positive envy. The speaker explains that the Prophet Muhammad taught there are only two categories of people deserving of this aspiration: those who possess knowledge of the Quran and Sunnah a"
+      "summary": "This lecture discusses a hadith about the two types of people worthy of envy in Islam: those who possess knowledge of the Quran and Sunnah and implement it, and those who have wealth and spend it generously for the sake of Allah. The speaker emphasizes that this type of envy is positive—wishing to h"
     },
     {
       "video_id": "T9JP8poFR_I",
@@ -28440,23 +28390,23 @@
       "month_num": 8,
       "year": 2026,
       "month_year": "August 2026",
-      "content_type": "Hadith",
-      "hadith_book": "Other",
+      "content_type": "General",
+      "hadith_book": null,
       "hadith_chapter": null,
       "topic_tags": [
-        "wudu",
         "ablution",
-        "khuffain",
+        "wudu",
         "footwear",
-        "prophet's sunnah",
-        "al-mughirah ibn shu'bah",
-        "fiqh rulings",
-        "islamic jurisprudence"
+        "khuffain",
+        "fiqh",
+        "sunnah",
+        "ritual purity",
+        "companions"
       ],
-      "suggested_title": "Understanding Al-Masah Alal Khuffain: Conditions and Rulings on Wiping Over Footwear",
-      "catchy_title": "How do you properly wipe over your footwear?",
-      "summary": "This lecture continues the discussion on al-masah alal khuffain (wiping over footwear during ablution). The speaker explains the technical rulings and conditions necessary for this practice, emphasizing that footwear must be put on after completing full ablution and washing the feet. The lecture inc"
+      "suggested_title": "Conditions for Wiping Over Footwear in Ablution: Understanding Al-Masah Alal Khuffain",
+      "catchy_title": "Can you really wipe over your shoes in wudu?",
+      "summary": "This lecture continues a discussion on al-masah alal khuffain (wiping over footwear during ablution). The speaker explains the conditions and technical requirements for this practice, focusing on the foundational rule that footwear must be put on after completing a full ablution with washed feet. Us"
     }
   ],
-  "updated_at": "2026-08-02T17:27:27.649259+00:00"
+  "updated_at": "2026-08-03T08:41:12.560994+00:00"
 }
