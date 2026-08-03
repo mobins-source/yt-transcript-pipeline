@@ -32288,6 +32288,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "gfu1Sooawl4",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260803",
+      "published_at": "2026-08-03T12:33:13Z",
+      "actual_at": "2026-08-03T12:12:28Z",
+      "duration_seconds": 862,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=gfu1Sooawl4",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Monday",
+      "time_slot": "Monday-Fajr",
+      "post_time": "2026-08-03T05:12:28",
+      "post_date": "2026-08-03",
+      "month": "August",
+      "month_num": 8,
+      "year": 2026,
+      "month_year": "August 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Other",
+      "hadith_chapter": null,
+      "topic_tags": [
+        "wudu",
+        "footwear",
+        "hadith",
+        "prophetic sunnah",
+        "fiqh",
+        "ablution",
+        "companions",
+        "islamic jurisprudence"
+      ],
+      "suggested_title": "The Prophet's Practice on Wiping Over Footwear: Material and Style Distinctions",
+      "catchy_title": "Does the Type of Footwear Matter for Wudu?",
+      "summary": "This lecture discusses the Islamic jurisprudence of wiping over footwear during wudu (ablution), specifically addressing whether the material and style of footwear matters. The speaker explains that based on prophetic traditions and companion practices, there is no distinction made regarding the type of footwear—whether socks (jawrab), shoes (na'al), or leather boots (khuff)—as long as they cover the majority of the foot. The lecturer emphasizes that the focus is on understanding the actual practice of Prophet Muhammad and his companions rather than the various scholarly opinions that developed later across different Islamic schools of jurisprudence (madhahib).",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -42975,5 +43018,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-08-03T08:50:51.871961+00:00"
+  "updated_at": "2026-08-03T17:20:51.952992+00:00"
 }
