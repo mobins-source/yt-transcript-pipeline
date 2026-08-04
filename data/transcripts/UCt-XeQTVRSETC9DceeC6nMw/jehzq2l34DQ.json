@@ -1,5 +1,6 @@
 {
   "video_id": "jehzq2l34DQ",
   "transcript_status": "unavailable",
-  "transcript_retry_count": 3
+  "transcript_retry_count": 4,
+  "unavailable_reason": "NoTranscript"
 }

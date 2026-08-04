@@ -4955,7 +4955,7 @@
       "upload_date": "20260317",
       "published_at": "2026-03-17T18:30:27Z",
       "actual_at": "2026-03-17T03:00:48Z",
-      "duration_seconds": 8179,
+      "duration_seconds": 8180,
       "view_count": null,
       "url": "https://www.youtube.com/watch?v=qFhZCOHEroA",
       "playlist_id": "",
@@ -5702,7 +5702,7 @@
       "upload_date": "20260308",
       "published_at": "2026-03-08T17:45:10Z",
       "actual_at": "2026-03-08T02:59:43Z",
-      "duration_seconds": 7280,
+      "duration_seconds": 7281,
       "view_count": null,
       "url": "https://www.youtube.com/watch?v=XUb7BPrtKIY",
       "playlist_id": "",
@@ -32137,9 +32137,32 @@
       "url": "https://www.youtube.com/watch?v=0KN37zVAjjU",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": false,
+      "has_transcript": true,
       "has_clean_srt": true,
-      "has_clean_txt": true
+      "has_clean_txt": true,
+      "time_of_day": "Zuhr",
+      "day_of_week": "Friday",
+      "time_slot": "Jumaa Khutba",
+      "post_time": "2026-07-31T13:02:17",
+      "post_date": "2026-07-31",
+      "month": "July",
+      "month_num": 7,
+      "year": 2026,
+      "month_year": "July 2026",
+      "content_type": "Quran",
+      "hadith_book": null,
+      "hadith_chapter": null,
+      "topic_tags": [
+        "surah ali imran",
+        "jihad",
+        "islamic commitment",
+        "doubt and faith",
+        "quran interpretation",
+        "community announcement"
+      ],
+      "suggested_title": "Surah Ali Imran: Understanding Jihad and Full Commitment to Islam",
+      "catchy_title": "Why Hesitation Kills Your Faith",
+      "summary": "Sh. Ali Mashhour delivers a comprehensive lecture on Surah Ali Imran, focusing on the concept of Jihad as presented in the Quran. He explains that Jihad encompasses two primary forms: defending truth through knowledge, speech, and the tongue (al-jihad bil qawli wal lisan), and physical defense when necessary (al-jihad bis sayfi). Sh. Ali Mashhour emphasizes that every Muslim bears responsibility for defending their religion according to their capacity, and warns against hesitation and doubt (shubha) that can gradually erode one's commitment to Islam. He uses vivid examples, such as the lion and gazelle, to illustrate how hesitation weakens resolve, and urges the community to commit fully to Islam without wavering. The lecture concludes with an announcement about the Muslim Community Center's acquisition of additional property to expand Rahmah Academy."
     },
     {
       "video_id": "goQLPOCfIZA",
@@ -32154,9 +32177,34 @@
       "url": "https://www.youtube.com/watch?v=goQLPOCfIZA",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": false,
+      "has_transcript": true,
       "has_clean_srt": true,
-      "has_clean_txt": true
+      "has_clean_txt": true,
+      "time_of_day": "Isha",
+      "day_of_week": "Friday",
+      "time_slot": "Friday-Isha",
+      "post_time": "2026-07-31T21:16:38",
+      "post_date": "2026-07-31",
+      "month": "July",
+      "month_num": 7,
+      "year": 2026,
+      "month_year": "July 2026",
+      "content_type": "General",
+      "hadith_book": null,
+      "hadith_chapter": null,
+      "topic_tags": [
+        "commitment",
+        "presence",
+        "intention",
+        "charity",
+        "salah",
+        "Islamic practice",
+        "mediocrity",
+        "trust in Allah"
+      ],
+      "suggested_title": "The Danger of Half Measures: Embracing Full Commitment in Islam",
+      "catchy_title": "Why Half Measures Destroy Everything",
+      "summary": "Sh. Ali Mashhour delivers a powerful reminder about the importance of full commitment and presence in Islamic practice, drawing on the principle of entering into Islam entirely and wholeheartedly. He illustrates how Muslims often engage in 'half measures'—attending prayers but checking phones, fasting physically while remaining spiritually absent, or assuming good of others only partially due to fear. Sh. Ali Mashhour emphasizes that actions performed without sincere presence and consciousness yield minimal reward, as the Prophet teaches that one is only rewarded for what they are consciously present for. He warns against mediocrity, stating that just as humans and history forget the mediocre, so too does Allah reward those who commit fully."
     },
     {
       "video_id": "0OoEAGfvIA4",
@@ -43018,5 +43066,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-08-04T05:22:27.040665+00:00"
+  "updated_at": "2026-08-04T05:44:12.495943+00:00"
 }
