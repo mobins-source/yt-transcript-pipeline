@@ -84,12 +84,12 @@ Rules:
 - hadith_book must be null if no specific book is discussed
 - catchy_title must NOT contain quotation marks"""
 
-
-def enrich_with_ai(video_id: str, title: str, transcript_text: str, api_key: str) -> dict:
+def enrich_with_ai(video_id: str, title: str, transcript_text: str, api_key: str, speaker: str = "") -> dict:
     client   = anthropic.Anthropic(api_key=api_key)
     words    = transcript_text.split()
     excerpt  = " ".join(words[:3000]) + ("… [truncated]" if len(words) > 3000 else "")
-    user_msg = f"Video title: {title}\n\nTranscript:\n{excerpt}"
+    speaker_line = f"\nSpeaker: {speaker}\nIMPORTANT: In the summary, refer to the speaker by name ({speaker}), not as 'The speaker' or 'The imam'.\n" if speaker else ""
+    user_msg = f"Video title: {title}{speaker_line}\n\nTranscript:\n{excerpt}"
     try:
         response = client.messages.create(
             model=_MODEL, max_tokens=1000, system=_SYSTEM_PROMPT,
@@ -119,12 +119,21 @@ def enrich_transcript(channel_id: str, video_meta: dict, force: bool = False) ->
         published_at = video_meta.get("published_at", ""),
     )
     tx.update(time_fields)
+
+    # Determine speaker context
+    post_date = time_fields.get("post_date", "")
+    speaker = ""
+    if channel_id == "UCt-XeQTVRSETC9DceeC6nMw" and post_date >= "2026-04-01":
+        speaker = "Sh. Ali Mashhour"
+   
+    
     if config.ANTHROPIC_API_KEY:
         tx.update(enrich_with_ai(
             video_id        = video_id,
             title           = video_meta.get("title", ""),
             transcript_text = tx.get("clean_text", ""),
             api_key         = config.ANTHROPIC_API_KEY,
+            speaker         = speaker,
         ))
     else:
         console.print("[yellow]⚠ ANTHROPIC_API_KEY not set — skipping AI enrichment[/yellow]")
