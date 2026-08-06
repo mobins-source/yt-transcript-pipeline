@@ -32464,6 +32464,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "3KAUu8caz7w",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260806",
+      "published_at": "2026-08-06T04:17:11Z",
+      "actual_at": "2026-08-06T03:59:29Z",
+      "duration_seconds": 864,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=3KAUu8caz7w",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Isha",
+      "day_of_week": "Wednesday",
+      "time_slot": "Wednesday-Isha",
+      "post_time": "2026-08-05T20:59:29",
+      "post_date": "2026-08-05",
+      "month": "August",
+      "month_num": 8,
+      "year": 2026,
+      "month_year": "August 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
+      "hadith_chapter": "Chapter on the Virtue of Knowledge (Ilm) — Teaching and Learning for Allah's Sake",
+      "topic_tags": [
+        "hadith",
+        "islamic knowledge",
+        "ilm",
+        "abu musa al-ashari",
+        "divine guidance",
+        "quran and sunnah",
+        "spiritual development",
+        "character types"
+      ],
+      "suggested_title": "The Parable of Rain and Three Types of People: Understanding Divine Knowledge",
+      "catchy_title": "Three Types of Hearts—Which One Are You?",
+      "summary": "Sh. Ali Mashhour delivers a lecture based on Riyadul Saliheen, specifically from the chapter on the virtue of knowledge ('Ilm) as taught and learned for Allah's sake. He presents a famous hadith from Abu Musa al-Ash'ari in which the Prophet Muhammad (peace be upon him) uses the parable of rain falling on different types of land to illustrate three categories of people in relation to divine guidance and knowledge. Sh. Ali Mashhour explains how the first type of land represents those who understand the religion deeply, implement it, and teach others. The second type represents those who may not fully grasp the knowledge but are trustworthy and preserve it for others to benefit from. The third type, which is blameworthy, represents those who reject guidance and neither understand nor preserve the knowledge of Allah's religion.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -43151,5 +43194,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-08-05T17:12:56.482517+00:00"
+  "updated_at": "2026-08-06T07:48:44.571991+00:00"
 }
