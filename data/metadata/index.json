@@ -32507,6 +32507,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "whrYmZnbfDA",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260806",
+      "published_at": "2026-08-06T12:32:56Z",
+      "actual_at": "2026-08-06T12:14:48Z",
+      "duration_seconds": 854,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=whrYmZnbfDA",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Thursday",
+      "time_slot": "Thursday-Fajr",
+      "post_time": "2026-08-06T05:14:48",
+      "post_date": "2026-08-06",
+      "month": "August",
+      "month_num": 8,
+      "year": 2026,
+      "month_year": "August 2026",
+      "content_type": "General",
+      "hadith_book": "Sahih Muslim",
+      "hadith_chapter": null,
+      "topic_tags": [
+        "ghusl",
+        "ritual bathing",
+        "purification",
+        "Islamic jurisprudence",
+        "fiqh",
+        "hadath",
+        "janabah",
+        "Islamic practice"
+      ],
+      "suggested_title": "Islamic Jurisprudence on Ghusl (Ritual Bathing): Understanding the Obligations and States of Impurity",
+      "catchy_title": "What makes ritual bathing obligatory in Islam?",
+      "summary": "Sh. Ali Mashhour discusses the Islamic jurisprudence of ghusl (ritual bathing), one of the two main forms of purification in Islam alongside wudu. He explains that the class has completed chapters on various aspects of purification including types of water, vessels, and wudu practices, and is now moving into the detailed study of ghusl. Sh. Ali Mashhour emphasizes that bathing is a fundamental hallmark (sha'air) of Islam, mentioned in the Quran and Hadith, and is obligatory in specific circumstances known as mujibat al-ghusl. He introduces the first obligatory cause of ghusl: al-janabah (major ritual impurity caused by sexual discharge), which constitutes a major state of impurity (hadath akbar) requiring full body bathing, unlike minor impurity which requires only wudu.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -43194,5 +43237,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-08-06T08:06:40.732797+00:00"
+  "updated_at": "2026-08-07T06:17:31.117340+00:00"
 }
