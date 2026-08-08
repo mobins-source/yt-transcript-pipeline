@@ -32597,10 +32597,10 @@
       "title": "Muslim Community Center Of Tucson",
       "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
       "channel_name": "Muslim Comminity Center of Tucson",
-      "upload_date": "20260807",
-      "published_at": "2026-08-07T20:46:28Z",
+      "upload_date": "20260808",
+      "published_at": "2026-08-08T08:52:49Z",
       "actual_at": "2026-08-07T20:01:49Z",
-      "duration_seconds": 2679,
+      "duration_seconds": 2682,
       "view_count": null,
       "url": "https://www.youtube.com/watch?v=shD26YYDM7s",
       "playlist_id": "",
@@ -32608,6 +32608,49 @@
       "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
+    },
+    {
+      "video_id": "EDPcsmmsMG4",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260808",
+      "published_at": "2026-08-08T12:37:39Z",
+      "actual_at": "2026-08-08T12:14:34Z",
+      "duration_seconds": 1057,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=EDPcsmmsMG4",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Saturday",
+      "time_slot": "Saturday-Fajr",
+      "post_time": "2026-08-08T05:14:34",
+      "post_date": "2026-08-08",
+      "month": "August",
+      "month_num": 8,
+      "year": 2026,
+      "month_year": "August 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
+      "hadith_chapter": "Chapter of Bathing (Ghusl)",
+      "topic_tags": [
+        "ghusl",
+        "bathing",
+        "janaba",
+        "ritual purity",
+        "islamic jurisprudence",
+        "wet dreams",
+        "intercourse",
+        "fiqh"
+      ],
+      "suggested_title": "Understanding Bathing Obligations: Janaba and the Conditions of Ghusl in Islamic Law",
+      "catchy_title": "When Does Bathing Become Obligatory in Islam?",
+      "summary": "Sh. Ali Mashhour continues his discussion of Al-Wajeez, focusing on the chapter of bathing (ghusl) and the five instances in which bathing is obligatory. He provides detailed explanations of janaba (sexual impurity), covering the first two instances: sperm expulsion during wet dreams or sexual climax, and intercourse between spouses. Sh. Ali Mashhour clarifies the scholarly definitions of semen in Islamic jurisprudence, distinguishing between semen expelled during sexual climax (which obligates bathing) and other physical fluids. He explains that the bare minimum of intercourse that necessitates ghusl is the entry of the head of the penis into the vagina, regardless of whether climax occurs, and addresses common misconceptions about when repeated bathing is required.",
+      "srt_status": "pending"
     },
     {
       "video_id": "-JCfAqCl2iw",
@@ -43297,5 +43340,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-08-08T06:24:24.376293+00:00"
+  "updated_at": "2026-08-08T15:45:21.633965+00:00"
 }
