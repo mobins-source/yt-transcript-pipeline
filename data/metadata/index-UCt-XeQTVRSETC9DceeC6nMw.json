@@ -28763,8 +28763,21 @@
       "title": "Muslim Community Center Of Tucson",
       "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
       "actual_at": "2026-08-09T04:01:37Z",
-      "duration_seconds": 0,
+      "duration_seconds": 1345,
       "url": "https://www.youtube.com/watch?v=T0DEuqONZ0I",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": false,
+      "has_clean_srt": false,
+      "has_clean_txt": false
+    },
+    {
+      "video_id": "s8iNXVNms4A",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "actual_at": "2026-08-09T12:13:51Z",
+      "duration_seconds": 997,
+      "url": "https://www.youtube.com/watch?v=s8iNXVNms4A",
       "playlist_id": "",
       "playlist_title": "",
       "has_transcript": false,
@@ -28772,5 +28785,5 @@
       "has_clean_txt": false
     }
   ],
-  "updated_at": "2026-08-09T06:28:22.055505+00:00"
+  "updated_at": "2026-08-09T16:19:01.994690+00:00"
 }
