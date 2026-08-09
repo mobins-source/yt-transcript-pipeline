@@ -32605,9 +32605,35 @@
       "url": "https://www.youtube.com/watch?v=shD26YYDM7s",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": false,
-      "has_clean_srt": false,
-      "has_clean_txt": false
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Zuhr",
+      "day_of_week": "Friday",
+      "time_slot": "Jumaa Khutba",
+      "post_time": "2026-08-07T13:01:49",
+      "post_date": "2026-08-07",
+      "month": "August",
+      "month_num": 8,
+      "year": 2026,
+      "month_year": "August 2026",
+      "content_type": "General",
+      "hadith_book": null,
+      "hadith_chapter": null,
+      "topic_tags": [
+        "death",
+        "mortality",
+        "quran",
+        "remembrance",
+        "akhirah",
+        "worldly life",
+        "dunya",
+        "spiritual wisdom"
+      ],
+      "suggested_title": "The Remembrance of Death: Transforming Life Through Islamic Perspective",
+      "catchy_title": "Why remembering death changes everything",
+      "summary": "Sh. Ali Mashhour delivers a powerful sermon on the remembrance of death and its significance in Islamic life. He emphasizes that death is an appointed time known only to Allah, and that every person has a predetermined moment of death that cannot be delayed. Sh. Ali Mashhour uses vivid imagery, including the Quranic metaphor of the intoxication of death, to illustrate how the reality of mortality should transform our perspective on worldly attachments and priorities. He references the Prophet Muhammad's practice of frequently remembering death and uses the analogy of a traveler resting briefly under a tree to describe the temporary nature of this life compared to eternity.",
+      "srt_status": "pending"
     },
     {
       "video_id": "EDPcsmmsMG4",
@@ -43340,5 +43366,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-08-08T16:12:20.327682+00:00"
+  "updated_at": "2026-08-09T00:05:17.929186+00:00"
 }
