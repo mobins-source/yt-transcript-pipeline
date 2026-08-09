@@ -27,9 +27,8 @@ name: YouTube Transcript Pipeline (Windows)
 
 on:
   schedule:
-    - cron: "47 15 * * *"   # 15:47 UTC = 08:47 MST daily (30min after Mac run to avoid race)
+    - cron: "47 15 * * *"   # 15:47 UTC = 08:47 MST daily 
     - cron: "47 5 * * *"    # 05:47 UTC = 22:47 MST daily
-    - cron: "47 21 * * 5"   # 21:47 UTC = 14:47 MST Friday
     - cron: "47 1 * * 6"    # 01:47 UTC Saturday = 18:47 MST Friday
 
   workflow_dispatch:
