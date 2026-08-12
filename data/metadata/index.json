@@ -32892,6 +32892,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "_yfaBRESFWI",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260812",
+      "published_at": "2026-08-12T12:36:56Z",
+      "actual_at": "2026-08-12T12:14:03Z",
+      "duration_seconds": 1046,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=_yfaBRESFWI",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Wednesday",
+      "time_slot": "Wednesday-Fajr",
+      "post_time": "2026-08-12T05:14:03",
+      "post_date": "2026-08-12",
+      "month": "August",
+      "month_num": 8,
+      "year": 2026,
+      "month_year": "August 2026",
+      "content_type": "Mixed",
+      "hadith_book": null,
+      "hadith_chapter": null,
+      "topic_tags": [
+        "ghusl",
+        "hadith methodology",
+        "fiqh",
+        "narration chains",
+        "marriage in islam",
+        "sunnah",
+        "ritual purification",
+        "islamic family"
+      ],
+      "suggested_title": "The Methodology of Hadith Presentation and the Pillars of Ghusl",
+      "catchy_title": "How Classical Scholars Cited Hadith and Built Fiqh",
+      "summary": "Sh. Ali Mashhour discusses the methodology of hadith compilation and presentation, particularly regarding ghusl (ritual bathing). He explains two classical approaches scholars use when citing narrations: presenting each narration separately with its chain (used by early scholars) versus combining multiple narrations into a comprehensive description (used by later scholars), known as 'majaz hadith.' Sh. Ali Mashhour clarifies why the book being studied follows the classical method of separate citations. He then establishes the pillars of ghusl as intention and washing the entire body with water, including the mouth and nose, noting that making wudu before ghusl is recommended but not obligatory. The lecture then transitions into a broader discussion about marriage, remarriage, and family building in Islam, addressing contemporary Western concepts of soulmates by referencing the Prophet's marriages and the Islamic emphasis on producing righteous generations for the ummah.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -43579,5 +43622,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-08-12T06:58:42.294944+00:00"
+  "updated_at": "2026-08-12T16:40:30.534925+00:00"
 }
