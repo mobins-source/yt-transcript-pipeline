@@ -32935,6 +32935,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "aod21-mvCK8",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260813",
+      "published_at": "2026-08-13T04:12:51Z",
+      "actual_at": "2026-08-13T04:00:59Z",
+      "duration_seconds": 578,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=aod21-mvCK8",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Isha",
+      "day_of_week": "Wednesday",
+      "time_slot": "Wednesday-Isha",
+      "post_time": "2026-08-12T21:00:59",
+      "post_date": "2026-08-12",
+      "month": "August",
+      "month_num": 8,
+      "year": 2026,
+      "month_year": "August 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
+      "hadith_chapter": "Book of Knowledge - Chapter on the Virtue of Knowledge, Learning and Teaching for the Sake of Allah",
+      "topic_tags": [
+        "seeking knowledge",
+        "hadith",
+        "path to paradise",
+        "riyadul saliheen",
+        "day of judgment",
+        "deeds over lineage",
+        "islamic learning",
+        "quran study"
+      ],
+      "suggested_title": "The Path to Paradise Through Seeking Knowledge - Hadith from Riyadul Saliheen",
+      "catchy_title": "Does seeking knowledge guarantee Paradise?",
+      "summary": "Sh. Ali Mashhour presents a lesson from Riyadul Saliheen by Imam al-Nawawi, focusing on the virtues of seeking and teaching knowledge for the sake of Allah. He discusses a hadith from Abu Hurairah in Sahih Muslim where the Prophet Muhammad (peace be upon him) explains that whoever seeks knowledge is on a direct path to paradise. Sh. Ali Mashhour emphasizes that the act of seeking knowledge itself is rewarded, regardless of how quickly one learns. He also highlights the collective blessings when Muslims gather to study and recite the Quran together, including the descent of mercy, tranquility, and the presence of angels. The lecture concludes with a discussion on the Day of Judgment, explaining that lineage and nobility will not benefit one on that day—only righteous deeds will matter.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -43622,5 +43665,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-08-12T16:40:30.534925+00:00"
+  "updated_at": "2026-08-13T07:02:27.007930+00:00"
 }
