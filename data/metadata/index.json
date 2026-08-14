@@ -33064,6 +33064,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "d2jI8u4f_VM",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260814",
+      "published_at": "2026-08-14T12:42:28Z",
+      "actual_at": "2026-08-14T12:13:14Z",
+      "duration_seconds": 868,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=d2jI8u4f_VM",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Friday",
+      "time_slot": "Friday-Fajr",
+      "post_time": "2026-08-14T05:13:14",
+      "post_date": "2026-08-14",
+      "month": "August",
+      "month_num": 8,
+      "year": 2026,
+      "month_year": "August 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Other",
+      "hadith_chapter": "Book of Purification - Chapters on Ghusl (Bathing)",
+      "topic_tags": [
+        "ghusl",
+        "purification",
+        "janabah",
+        "menstruation",
+        "islamic law",
+        "women's fiqh",
+        "hadith",
+        "ritual bathing"
+      ],
+      "suggested_title": "Ghusl Purification: Understanding the Difference Between Janabah and Menstrual Bathing",
+      "catchy_title": "Must women remove their braids for ghusl?",
+      "summary": "Sh. Ali Mashhour continues his detailed analysis of the book of purification, specifically addressing the rulings of ghusl (ritual bathing). He clarifies an important misconception: women are not obligated to remove their braids when performing ghusl after janabah (sexual impurity), though they must do so for ghusl after menstruation. Sh. Ali Mashhour supports this with authenticated narrations from the Prophet's companions, including Salamah and Asma, explaining the wisdom behind this distinction—that post-menstrual ghusl is more stringent and involves additional cleansing agents and procedures. He emphasizes that this ruling applies equally to both men and women regarding janabah ghusl, though the post-menstrual ghusl has stricter requirements.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -43751,5 +43794,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-08-14T06:59:09.699459+00:00"
+  "updated_at": "2026-08-14T16:36:27.282150+00:00"
 }
