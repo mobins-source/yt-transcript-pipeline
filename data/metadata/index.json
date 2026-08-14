@@ -33021,6 +33021,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "YeZA9-T5rbk",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260814",
+      "published_at": "2026-08-14T04:23:26Z",
+      "actual_at": "2026-08-14T04:01:03Z",
+      "duration_seconds": 960,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=YeZA9-T5rbk",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Isha",
+      "day_of_week": "Thursday",
+      "time_slot": "Thursday-Isha",
+      "post_time": "2026-08-13T21:01:03",
+      "post_date": "2026-08-13",
+      "month": "August",
+      "month_num": 8,
+      "year": 2026,
+      "month_year": "August 2026",
+      "content_type": "Mixed",
+      "hadith_book": null,
+      "hadith_chapter": null,
+      "topic_tags": [
+        "quran and sunnah",
+        "islamic jurisprudence",
+        "prophet muhammad",
+        "hadith interpretation",
+        "jihad",
+        "knowledge-seeking",
+        "islamic guidance",
+        "quranic understanding"
+      ],
+      "suggested_title": "The Three Relationships Between the Quran and Sunnah: Understanding Islamic Guidance",
+      "catchy_title": "How the Sunnah Completes the Quran",
+      "summary": "Sh. Ali Mashhour discusses the relationship between the Quran and the Sunnah (the teachings and practices of the Prophet Muhammad), explaining that the Sunnah relates to the Quranic teachings in three fundamental ways: by echoing or repeating what is in the Quran, by expounding upon and specifying what is mentioned generally in the Quran, and by providing rulings and guidance that are not explicitly mentioned in the Quran. He emphasizes the critical importance of understanding the Sunnah alongside the Quran through detailed examples, such as how the Sunnah specifies the punishment for theft and prohibits eating domestic donkey meat. Sh. Ali Mashhour stresses that attempting to understand the Quran without deep knowledge of the Sunnah is dangerous, and he illustrates how knowledge-seeking is considered a form of jihad according to the Sunnah, demonstrating the interconnected nature of these two foundational sources of Islamic guidance.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -43708,5 +43751,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-08-13T16:39:18.147853+00:00"
+  "updated_at": "2026-08-14T06:59:09.699459+00:00"
 }
