@@ -29141,13 +29141,38 @@
       "title": "Muslim Community Center Of Tucson",
       "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
       "actual_at": "2026-08-14T20:03:24Z",
-      "duration_seconds": 2455,
+      "duration_seconds": 2427,
       "url": "https://www.youtube.com/watch?v=hY3OAS1A9SI",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": false,
-      "has_clean_srt": false,
-      "has_clean_txt": false
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Zuhr",
+      "day_of_week": "Friday",
+      "time_slot": "Jumaa Khutba",
+      "post_time": "2026-08-14T13:03:24",
+      "post_date": "2026-08-14",
+      "month": "August",
+      "month_num": 8,
+      "year": 2026,
+      "month_year": "August 2026",
+      "content_type": "Quran",
+      "hadith_book": "Jami al-Tirmidhi",
+      "hadith_chapter": null,
+      "topic_tags": [
+        "surah al-asr",
+        "transience of dunya",
+        "righteous deeds",
+        "pursuit of knowledge",
+        "Islamic legacy",
+        "faith and patience",
+        "temporal decay",
+        "eternal life"
+      ],
+      "suggested_title": "Understanding Surah Al-Asr: The Path to Eternal Success Beyond Worldly Loss",
+      "catchy_title": "Why Everything You Own Will Crumble",
+      "summary": "Sh. Ali Mashhour delivers a comprehensive Islamic lecture centered on Surah Al-Asr (Chapter 103), emphasizing the eternal loss of humanity except those who combine faith, righteous deeds, enjoining truth, and patience. Sh. Ali Mashhour begins with the traditional Islamic opening and establishes the "
     },
     {
       "video_id": "xUgVBCfxKrQ",
@@ -29188,5 +29213,5 @@
       "summary": "Sh. Ali Mashhour discusses a hadith from Sahih Muslim about the three ways a person's deeds continue after death: through ongoing charity, beneficial knowledge, and righteous children who make dua. He emphasizes that life is a precious blessing and that when a person dies, all their deeds cease exce"
     }
   ],
-  "updated_at": "2026-08-15T05:59:56.218323+00:00"
+  "updated_at": "2026-08-15T11:10:24.627915+00:00"
 }
