@@ -29148,7 +29148,45 @@
       "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
+    },
+    {
+      "video_id": "xUgVBCfxKrQ",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "actual_at": "2026-08-15T03:58:18Z",
+      "duration_seconds": 646,
+      "url": "https://www.youtube.com/watch?v=xUgVBCfxKrQ",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Isha",
+      "day_of_week": "Friday",
+      "time_slot": "Friday-Isha",
+      "post_time": "2026-08-14T20:58:18",
+      "post_date": "2026-08-14",
+      "month": "August",
+      "month_num": 8,
+      "year": 2026,
+      "month_year": "August 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Sahih Muslim",
+      "hadith_chapter": null,
+      "topic_tags": [
+        "afterlife",
+        "deeds",
+        "charity",
+        "knowledge",
+        "righteous children",
+        "dua",
+        "islamic perspective",
+        "legacy"
+      ],
+      "suggested_title": "The Three Ways Deeds Continue After Death: A Hadith on Legacy and Righteous Children",
+      "catchy_title": "How do good deeds continue after we die?",
+      "summary": "Sh. Ali Mashhour discusses a hadith from Sahih Muslim about the three ways a person's deeds continue after death: through ongoing charity, beneficial knowledge, and righteous children who make dua. He emphasizes that life is a precious blessing and that when a person dies, all their deeds cease exce"
     }
   ],
-  "updated_at": "2026-08-15T02:38:18.327702+00:00"
+  "updated_at": "2026-08-15T05:59:56.218323+00:00"
 }
