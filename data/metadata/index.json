@@ -33235,6 +33235,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "c0fU3fU5bgA",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260816",
+      "published_at": "2026-08-16T04:17:17Z",
+      "actual_at": "2026-08-16T03:59:19Z",
+      "duration_seconds": 849,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=c0fU3fU5bgA",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Isha",
+      "day_of_week": "Saturday",
+      "time_slot": "Saturday-Isha",
+      "post_time": "2026-08-15T20:59:19",
+      "post_date": "2026-08-15",
+      "month": "August",
+      "month_num": 8,
+      "year": 2026,
+      "month_year": "August 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
+      "hadith_chapter": "Book of Knowledge",
+      "topic_tags": [
+        "hadith",
+        "human nature",
+        "islamic teachings",
+        "knowledge seeking",
+        "natural inclinations",
+        "quran",
+        "sunnah",
+        "paradise"
+      ],
+      "suggested_title": "Harnessing Human Nature: How Islamic Commands Redirect Natural Human Drives",
+      "catchy_title": "Why Islam Never Suppresses Your Nature",
+      "summary": "Sh. Ali Mashhour delivers a lecture on a hadith from the book of knowledge discussing how no believer will be satisfied until they reach paradise. He explains how Allah's commands work in harmony with human nature rather than against it, using the concept of redirecting natural human drives and inclinations toward productive ends. Sh. Ali Mashhour emphasizes that Islam harnesses human nature through proper channels—such as knowledge, jihad, marriage, and worship—rather than suppressing it, and warns against attempting to unnaturally dam up natural human forces, as this leads to destructive outcomes. He addresses modern misconceptions about gender roles and fulfillment, arguing that trying to change Allah's design of human nature will ultimately backfire.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -43922,5 +43965,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-08-15T16:00:16.648855+00:00"
+  "updated_at": "2026-08-16T06:00:36.281415+00:00"
 }
