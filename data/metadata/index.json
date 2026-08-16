@@ -33278,6 +33278,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "p5RpQ1OBjgU",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260816",
+      "published_at": "2026-08-16T12:36:58Z",
+      "actual_at": "2026-08-16T12:13:33Z",
+      "duration_seconds": 978,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=p5RpQ1OBjgU",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Sunday",
+      "time_slot": "Sunday-Fajr",
+      "post_time": "2026-08-16T05:13:33",
+      "post_date": "2026-08-16",
+      "month": "August",
+      "month_num": 8,
+      "year": 2026,
+      "month_year": "August 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
+      "hadith_chapter": "Book of Purification - Chapter on Preferred Instances of Bathing",
+      "topic_tags": [
+        "purification",
+        "ghusl",
+        "wudu",
+        "abnormal bleeding",
+        "joining prayers",
+        "menstruation",
+        "fiqh",
+        "hadith"
+      ],
+      "suggested_title": "Abnormal Bleeding, Ghusl and Wudu, and the Rules of Joining Prayers",
+      "catchy_title": "When Can Muslims Join Their Daily Prayers?",
+      "summary": "Sh. Ali Mashhour continues his analysis of Al-Wajeez, focusing on the third preferred instance for bathing in Islamic jurisprudence. He discusses the case of a woman experiencing abnormal bleeding after her menstrual cycle has ended, explaining that she should perform wudu for each prayer at minimum, with ghusl being preferable. Sh. Ali Mashhour then addresses a hadith narration about a woman with this condition, using it as a springboard to explain the Islamic rules regarding joining prayers (jama'a). He clarifies that joining prayers during times of hardship involves praying one prayer at the end of its time and another at the beginning of the next prayer's time, and explains how travelers and those experiencing illness may join their daily prayers according to Islamic jurisprudence.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -43965,5 +44008,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-08-16T06:00:36.281415+00:00"
+  "updated_at": "2026-08-16T16:00:31.660434+00:00"
 }
