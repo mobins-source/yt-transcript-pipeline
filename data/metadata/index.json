@@ -33321,6 +33321,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "mSHry934hIg",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260817",
+      "published_at": "2026-08-17T12:30:25Z",
+      "actual_at": "2026-08-17T12:12:32Z",
+      "duration_seconds": 708,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=mSHry934hIg",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Monday",
+      "time_slot": "Monday-Fajr",
+      "post_time": "2026-08-17T05:12:32",
+      "post_date": "2026-08-17",
+      "month": "August",
+      "month_num": 8,
+      "year": 2026,
+      "month_year": "August 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
+      "hadith_chapter": "Book of Purification",
+      "topic_tags": [
+        "purification",
+        "bathing",
+        "sunnah",
+        "hadith",
+        "islamic law",
+        "prophet's example",
+        "ritual washing",
+        "spirituality"
+      ],
+      "suggested_title": "Bathing After Unconsciousness: Islamic Purification Practices and the Prophet's Final Days",
+      "catchy_title": "Why did the Prophet bathe during his final illness?",
+      "summary": "Sh. Ali Mashhour continues his detailed explanation of the book of purification from al-Wajeez, focusing on the preferred occasions for bathing in Islamic practice. He discusses the third instance: bathing after experiencing unconsciousness. Sh. Ali Mashhour provides a profound historical narration from Aisha about the Prophet Muhammad's final illness, when he repeatedly lost consciousness while attempting to lead prayer. Each time he regained consciousness, he would request water and bathe before attempting to rise again. This detailed account illustrates the Sunnah of bathing after unconsciousness, which scholars believe serves both a physical purpose of reviving the person and a spiritual purpose of following the Prophet's example.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -44008,5 +44051,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-08-17T06:04:43.689333+00:00"
+  "updated_at": "2026-08-17T16:02:34.044918+00:00"
 }
