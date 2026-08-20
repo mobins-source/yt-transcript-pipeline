@@ -29406,14 +29406,39 @@
       "title": "Muslim Community Center Of Tucson",
       "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
       "actual_at": "2026-08-19T12:14:23Z",
-      "duration_seconds": 2789,
+      "duration_seconds": 2792,
       "url": "https://www.youtube.com/watch?v=U_5zJDVR-LI",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": false,
-      "has_clean_srt": false,
-      "has_clean_txt": false
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Wednesday",
+      "time_slot": "Wednesday-Fajr",
+      "post_time": "2026-08-19T05:14:23",
+      "post_date": "2026-08-19",
+      "month": "August",
+      "month_num": 8,
+      "year": 2026,
+      "month_year": "August 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
+      "hadith_chapter": "Chapter on Types of Ghusl (Ritual Bathing)",
+      "topic_tags": [
+        "ghusl",
+        "ritual bathing",
+        "islamic jurisprudence",
+        "non-muslim relatives",
+        "burial practices",
+        "fiqh",
+        "prophet muhammad",
+        "abu talib"
+      ],
+      "suggested_title": "Ghusl After Burying a Non-Muslim: Islamic Jurisprudence on a Rare Scenario",
+      "catchy_title": "When must a Muslim bathe after burying a disbeliever?",
+      "summary": "Sh. Ali Mashhour discusses the fourth type of ghusl (ritual bathing) that is preferred in Islamic jurisprudence: bathing after burying a disbeliever. This is an extremely rare and obscure scenario that occurs only when a Muslim is directly responsible for physically burying a non-Muslim relative due"
     }
   ],
-  "updated_at": "2026-08-19T16:12:15.043047+00:00"
+  "updated_at": "2026-08-20T06:02:34.666616+00:00"
 }
