@@ -33493,6 +33493,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "fvBgSPp4m3I",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260821",
+      "published_at": "2026-08-21T12:32:05Z",
+      "actual_at": "2026-08-21T12:12:42Z",
+      "duration_seconds": 990,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=fvBgSPp4m3I",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Friday",
+      "time_slot": "Friday-Fajr",
+      "post_time": "2026-08-21T05:12:42",
+      "post_date": "2026-08-21",
+      "month": "August",
+      "month_num": 8,
+      "year": 2026,
+      "month_year": "August 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Sahih Bukhari",
+      "hadith_chapter": "Chapter on Bathing (Ghusl)",
+      "topic_tags": [
+        "ghusl",
+        "ritual bathing",
+        "hajj",
+        "umrah",
+        "ihram",
+        "hadith",
+        "islamic practices",
+        "misconceptions"
+      ],
+      "suggested_title": "Preferred Instances of Ritual Bathing: Ghusl After Deceased Care and Before Ihram",
+      "catchy_title": "Bathing Before Hajj: Separating Sunnah From Common Misconceptions",
+      "summary": "Sh. Ali Mashhour continues his discussion on ritual bathing (ghusl) in Islam, focusing on the preferred instances when bathing is encouraged. He explains the sixth and seventh preferred occasions: bathing after participating in the ritual washing of a deceased Muslim, and bathing before entering the state of ihram for Hajj or Umrah. Sh. Ali Mashhour addresses common misconceptions about Umrah practices, such as the fabricated practice of praying two rakahs after donning ihram, and clarifies that bathing is permissible while in ihram using non-perfumed soap. He emphasizes that many misconceptions arise from the convergence of large numbers of people during Hajj and Umrah and the rarity of these pilgrimages in people's lifetimes.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -44180,5 +44223,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-08-21T06:03:47.259635+00:00"
+  "updated_at": "2026-08-21T16:14:09.159463+00:00"
 }
