@@ -33767,6 +33767,49 @@
       "has_clean_txt": false
     },
     {
+      "video_id": "z0ihlJtp2ks",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260824",
+      "published_at": "2026-08-24T12:58:45Z",
+      "actual_at": "2026-08-24T12:28:40Z",
+      "duration_seconds": 770,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=z0ihlJtp2ks",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Monday",
+      "time_slot": "Monday-Fajr",
+      "post_time": "2026-08-24T05:28:40",
+      "post_date": "2026-08-24",
+      "month": "August",
+      "month_num": 8,
+      "year": 2026,
+      "month_year": "August 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Other",
+      "hadith_chapter": null,
+      "topic_tags": [
+        "knowledge",
+        "ignorance",
+        "purification",
+        "tayammum",
+        "scholarly expertise",
+        "janaba",
+        "Islamic jurisprudence",
+        "hadith"
+      ],
+      "suggested_title": "Knowledge, Ignorance, and the Limits of Understanding: Lessons from a Hadith on Purification",
+      "catchy_title": "When You Don't Know, Ask Allah",
+      "summary": "Sh. Ali Mashhour discusses a hadith narration about a man injured in the head who fell into a state of ritual impurity (janaba) and sought advice from his traveling companions about whether he could perform tayammum (dry ablution) instead of full bathing due to his injury. Sh. Ali Mashhour uses this incident to teach an important lesson about the nature of knowledge: true knowledge encompasses not only facts and evidence, but also understanding one's own limitations. He explains that the companions who advised the injured man to bathe despite his condition were not among the scholars and lacked the specialized knowledge needed to address unique circumstances that deviate from normal rulings. Sh. Ali Mashhour emphasizes that when one doesn't have knowledge of an answer, the proper response is to ask someone with expertise rather than provide guidance based on incomplete understanding.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -44454,5 +44497,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-08-24T06:23:56.127653+00:00"
+  "updated_at": "2026-08-24T16:18:24.755741+00:00"
 }
