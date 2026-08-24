@@ -29672,8 +29672,45 @@
       "title": "Muslim Community Center Of Tucson",
       "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
       "actual_at": "2026-08-23T12:27:44Z",
-      "duration_seconds": 1220,
+      "duration_seconds": 1225,
       "url": "https://www.youtube.com/watch?v=QtOkhQ1VZ7o",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Sunday",
+      "time_slot": "Sunday-Fajr",
+      "post_time": "2026-08-23T05:27:44",
+      "post_date": "2026-08-23",
+      "month": "August",
+      "month_num": 8,
+      "year": 2026,
+      "month_year": "August 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
+      "hadith_chapter": "Book of Purification - Tayammum (Purification with Dust)",
+      "topic_tags": [
+        "tayammum",
+        "purification",
+        "hadith",
+        "islamic jurisprudence",
+        "scholarly knowledge",
+        "companions",
+        "ablution"
+      ],
+      "suggested_title": "Purification with Dust (Tayammum) and the Boundaries of Religious Knowledge",
+      "catchy_title": "When Knowledge Becomes Dangerous",
+      "summary": "Sh. Ali Mashhour continues his explanation of Al-Wajeez in the book of purification, focusing on the Islamic practice of tayammum (purification with dust) when water is unavailable or inaccessible. He discusses the conditions under which tayammum is permissible and obligatory, citing Quranic verses "
+    },
+    {
+      "video_id": "39S_7BmhdLM",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "actual_at": "2026-08-24T03:43:19Z",
+      "duration_seconds": 1208,
+      "url": "https://www.youtube.com/watch?v=39S_7BmhdLM",
       "playlist_id": "",
       "playlist_title": "",
       "has_transcript": false,
@@ -29681,5 +29718,5 @@
       "has_clean_txt": false
     }
   ],
-  "updated_at": "2026-08-23T16:01:12.734969+00:00"
+  "updated_at": "2026-08-24T06:23:55.476361+00:00"
 }
