@@ -29709,13 +29709,38 @@
       "title": "Muslim Community Center Of Tucson",
       "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
       "actual_at": "2026-08-24T03:43:19Z",
-      "duration_seconds": 1208,
+      "duration_seconds": 1211,
       "url": "https://www.youtube.com/watch?v=39S_7BmhdLM",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": false,
-      "has_clean_srt": false,
-      "has_clean_txt": false
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Isha",
+      "day_of_week": "Sunday",
+      "time_slot": "Sunday-Isha",
+      "post_time": "2026-08-23T20:43:19",
+      "post_date": "2026-08-23",
+      "month": "August",
+      "month_num": 8,
+      "year": 2026,
+      "month_year": "August 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Other",
+      "hadith_chapter": null,
+      "topic_tags": [
+        "intercession",
+        "day of judgment",
+        "divine love",
+        "prophet muhammad",
+        "abraham",
+        "khalil",
+        "spiritual development",
+        "moderation"
+      ],
+      "suggested_title": "The Great Intercession and the Nature of Divine Love: Lessons from the Day of Judgment",
+      "catchy_title": "Can Allah's love be forced or earned?",
+      "summary": "Sh. Ali Mashhour continues his discussion of a prophetic narration about the Day of Judgment, specifically addressing the concept of intercession (shafaa'ah). He explains how the Prophet Muhammad (peace be upon him) will be granted the greatest honor of interceding on behalf of all of humanity, a un"
     },
     {
       "video_id": "z0ihlJtp2ks",
@@ -29756,5 +29781,5 @@
       "summary": "Sh. Ali Mashhour discusses a hadith narration about a man injured in the head who fell into a state of ritual impurity (janaba) and sought advice from his traveling companions about whether he could perform tayammum (dry ablution) instead of full bathing due to his injury. Sh. Ali Mashhour uses this"
     }
   ],
-  "updated_at": "2026-08-24T16:18:24.131206+00:00"
+  "updated_at": "2026-08-25T06:03:46.553383+00:00"
 }
