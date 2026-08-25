@@ -33836,6 +33836,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "Z6t9EhYo7E0",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260825",
+      "published_at": "2026-08-25T12:49:27Z",
+      "actual_at": "2026-08-25T12:28:48Z",
+      "duration_seconds": 1024,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=Z6t9EhYo7E0",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Tuesday",
+      "time_slot": "Tuesday-Fajr",
+      "post_time": "2026-08-25T05:28:48",
+      "post_date": "2026-08-25",
+      "month": "August",
+      "month_num": 8,
+      "year": 2026,
+      "month_year": "August 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Other",
+      "hadith_chapter": "Book of Purification - Chapters on permissible instances of tayammum",
+      "topic_tags": [
+        "tayammum",
+        "janaba",
+        "ritual purity",
+        "hadith",
+        "islamic jurisprudence",
+        "ablution",
+        "prayer conditions",
+        "quranic principles"
+      ],
+      "suggested_title": "Tayammum and Janaba: Understanding Islamic Purification Through Hadith",
+      "catchy_title": "Can you pray while ritually impure?",
+      "summary": "Sh. Ali Mashhour discusses a hadith from the book of purification regarding the permissibility of tayammum (dry ablution). He narrates the story of a military expedition where a commander fell asleep and experienced a wet dream during extremely cold weather. Unable to bathe due to the harsh conditions, the commander performed tayammum and led the troops in prayer. When reporting this to the Prophet Muhammad, the commander cited Quranic verse 29 about not harming oneself, and the Prophet responded with an approving smile. Sh. Ali Mashhour uses this incident to clarify an important Islamic principle: tayammum temporarily lifts the ruling implications of janaba (ritual impurity) but does not completely remove the state of janaba, so one must still perform ghusl (full ablution) when water becomes available.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -44523,5 +44566,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-08-25T06:03:47.198080+00:00"
+  "updated_at": "2026-08-25T16:20:26.522613+00:00"
 }
