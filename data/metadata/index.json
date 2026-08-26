@@ -33879,6 +33879,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "wYqFwJDQQIs",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260826",
+      "published_at": "2026-08-26T15:15:23Z",
+      "actual_at": "2026-08-26T12:27:57Z",
+      "duration_seconds": 1109,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=wYqFwJDQQIs",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Wednesday",
+      "time_slot": "Wednesday-Fajr",
+      "post_time": "2026-08-26T05:27:57",
+      "post_date": "2026-08-26",
+      "month": "August",
+      "month_num": 8,
+      "year": 2026,
+      "month_year": "August 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Sahih Bukhari",
+      "hadith_chapter": "Book of Purification",
+      "topic_tags": [
+        "tayammum",
+        "ablution",
+        "purification",
+        "salah",
+        "islamic jurisprudence",
+        "hadith",
+        "wudhu alternatives",
+        "practical islam"
+      ],
+      "suggested_title": "Understanding Tayammum: Islamic Dry Ablution Rules and Misconceptions",
+      "catchy_title": "When Water Isn't Available: The True Meaning of Tayammum",
+      "summary": "Sh. Ali Mashhour discusses the Islamic jurisprudence of tayammum (dry ablution) as an alternative to water for ritual purification before prayer. He explains the three instances that permit tayammum: lack of water, inability to use water due to physical illness, and environmental conditions preventing water access. Sh. Ali Mashhour clarifies common misconceptions about tayammum, emphasizing that it can be performed using any naturally occurring dust, dirt, sand, or particles on surfaces—not exclusively dirt—and that the Prophet Muhammad and his companions frequently used tayammum during their travels through the desert without carrying dirt with them. He provides evidence from hadith collections and scholarly sources showing that tayammum is permissible using various surfaces like walls, rocks, and even dust in modern environments like airplanes and hospitals.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -44566,5 +44609,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-08-26T06:04:50.877372+00:00"
+  "updated_at": "2026-08-26T16:40:16.346240+00:00"
 }
