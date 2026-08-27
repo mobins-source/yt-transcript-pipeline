@@ -33922,6 +33922,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "Pjm1vwr_PF0",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260827",
+      "published_at": "2026-08-27T12:50:04Z",
+      "actual_at": "2026-08-27T12:26:44Z",
+      "duration_seconds": 597,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=Pjm1vwr_PF0",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Thursday",
+      "time_slot": "Thursday-Fajr",
+      "post_time": "2026-08-27T05:26:44",
+      "post_date": "2026-08-27",
+      "month": "August",
+      "month_num": 8,
+      "year": 2026,
+      "month_year": "August 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Other",
+      "hadith_chapter": "Book of Purification - Chapters on Tayammum",
+      "topic_tags": [
+        "tayammum",
+        "purification",
+        "ablution",
+        "janaba",
+        "fiqh",
+        "hadith",
+        "wudoo",
+        "islamic jurisprudence"
+      ],
+      "suggested_title": "Tayammum (Dry Ablution): Method, Rules, and When It Replaces Wudoo",
+      "catchy_title": "When There's No Water: The Complete Guide to Tayammum",
+      "summary": "Sh. Ali Mashhour continues his lecture on the book of purification, specifically focusing on the rules and procedure of tayammum (dry ablution) when water is unavailable. He explains the hadith where a companion fell into janaba (sexual impurity) without access to water and used tayammum instead. Sh. Ali Mashhour details the proper method: striking the ground once, blowing into the hands to remove debris, and wiping the face and hands. He clarifies that tayammum takes the place of wudoo (regular ablution) and follows the same invalidation rules, requiring renewal only when wudoo would be broken or water becomes available again.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -44609,5 +44652,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-08-26T16:40:16.346240+00:00"
+  "updated_at": "2026-08-27T16:49:58.151168+00:00"
 }
