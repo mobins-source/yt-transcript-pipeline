@@ -29975,14 +29975,38 @@
       "title": "Muslim Community Center Of Tucson",
       "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
       "actual_at": "2026-08-28T20:01:07Z",
-      "duration_seconds": 2527,
+      "duration_seconds": 2530,
       "url": "https://www.youtube.com/watch?v=8JQyz3OjITQ",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": false,
-      "has_clean_srt": false,
-      "has_clean_txt": false
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Zuhr",
+      "day_of_week": "Friday",
+      "time_slot": "Jumaa Khutba",
+      "post_time": "2026-08-28T13:01:07",
+      "post_date": "2026-08-28",
+      "month": "August",
+      "month_num": 8,
+      "year": 2026,
+      "month_year": "August 2026",
+      "content_type": "General",
+      "hadith_book": null,
+      "hadith_chapter": null,
+      "topic_tags": [
+        "thumamah",
+        "divine providence",
+        "mercy",
+        "enemies of islam",
+        "prophet muhammad",
+        "conversion to islam",
+        "faith journey"
+      ],
+      "suggested_title": "The Story of Thumamah: From Enemy to Believer - A Lesson in Divine Providence",
+      "catchy_title": "When Your Worst Enemy Becomes Your Greatest Ally",
+      "summary": "Sh. Ali Mashhour delivers a sermon on divine providence and planning, using the story of Thumamah ibn Uthal as a central example. Thumamah was a leader of Banu Hanifah who initially opposed the Prophet Muhammad and attempted to assassinate him, but was captured and brought to Medina. After three day"
     }
   ],
-  "updated_at": "2026-08-29T08:18:56.015882+00:00"
+  "updated_at": "2026-08-29T11:47:27.650165+00:00"
 }
