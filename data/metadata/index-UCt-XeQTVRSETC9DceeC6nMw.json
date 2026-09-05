@@ -30142,19 +30142,20 @@
       "year": 2026,
       "month_year": "September 2026",
       "content_type": "General",
-      "hadith_book": "Sahih Bukhari",
-      "hadith_chapter": "Book of Salah",
+      "hadith_book": "Other",
+      "hadith_chapter": null,
       "topic_tags": [
         "salah",
-        "five pillars",
+        "five pillars of islam",
         "islamic obligations",
-        "prayer",
-        "islam",
-        "fiqh"
+        "fiqh",
+        "hadith",
+        "shahada",
+        "personal obligations"
       ],
-      "suggested_title": "The Position and Importance of Salah in Islam",
-      "catchy_title": "Why Prayer is Islam's Most Critical Pillar",
-      "summary": "Sh. Ali Mashhour continues his discussion on the book of Salah, explaining that the author takes a deliberate detour to discuss the importance of prayer in Islam rather than just presenting legal rulings. Sh. Ali Mashhour explains that Islam is built upon five pillars, with Salah being one of them a"
+      "suggested_title": "The Critical Position of Salah in Islam and the Five Pillars",
+      "catchy_title": "Why Salah Stands Apart Among Islamic Duties",
+      "summary": "Sh. Ali Mashhour continues teaching from a fiqh book focused on Salah (prayer), explaining why the author takes a detour to discuss the importance of Salah in Islam before covering rulings. Sh. Ali Mashhour discusses the five pillars of Islam as defined by the Prophet Muhammad, using an analogy to e"
     },
     {
       "video_id": "2nFyMsSHeT4",
@@ -30186,14 +30187,13 @@
         "khadijah",
         "prophet muhammad",
         "revelation",
-        "cave of hira",
-        "companions",
+        "family roles",
         "islamic history",
-        "women's roles"
+        "gender roles"
       ],
-      "suggested_title": "The Essential Roles of Women in Islamic History: From Aisha to Khadijah",
-      "catchy_title": "Why Women's Roles Matter in Islam",
-      "summary": "Sh. Ali Mashhour delivers a Friday khutbah (sermon) focusing on the pivotal roles of women in Islamic history, particularly highlighting the example of Aisha (may Allah be pleased with her) and other women companions. Sh. Ali Mashhour discusses how the Prophet Muhammad (peace be upon him) received t"
+      "suggested_title": "The Essential Roles of Women in Islamic History: Mothers, Sisters, and Wives of the Prophets",
+      "catchy_title": "Supporting the Prophets: Women's Roles in Divine Missions",
+      "summary": "Sh. Ali Mashhour delivers a comprehensive lecture on the roles and contributions of women in Islam, with particular emphasis on the wives and female family members of the Prophet Muhammad (peace be upon him) and other messengers. The lecture centers on Aisha (may Allah be pleased with her) and discu"
     },
     {
       "video_id": "KLP9yso7KeI",
@@ -30216,23 +30216,23 @@
       "month_num": 9,
       "year": 2026,
       "month_year": "September 2026",
-      "content_type": "Hadith",
+      "content_type": "Mixed",
       "hadith_book": "Other",
       "hadith_chapter": null,
       "topic_tags": [
         "salah",
         "five daily prayers",
+        "purification",
         "isra",
-        "takbir",
-        "taslim",
         "islamic jurisprudence",
-        "fiqh",
-        "prayer fundamentals"
+        "prayer obligations",
+        "takbir",
+        "taslim"
       ],
-      "suggested_title": "Understanding the Book of Salah: Definition, History, and Reward",
-      "catchy_title": "Five Prayers, Fifty Rewards—Here's Why",
-      "summary": "Sh. Ali Mashhour begins a detailed study of the book of Salah (prayer) from a classical Islamic jurisprudence text, transitioning from the completed study of purification (wudu). He explains the linguistic and Islamic definitions of salah as a set of specific statements and actions initiated by Takb"
+      "suggested_title": "The Book of Salah: Definition, History, and the Five Daily Prayers",
+      "catchy_title": "From 50 Prayers to 5: The Night That Changed Prayer Forever",
+      "summary": "Sh. Ali Mashhour begins teaching the book of Salah (prayer) from Alwis, transitioning from the completed book on purification. He explains the linguistic and Islamic definitions of salah as a set of specific statements and actions initiated with Takbir (Allahu Akbar) and concluded with Taslim. Sh. A"
     }
   ],
-  "updated_at": "2026-09-05T15:21:47.172668+00:00"
+  "updated_at": "2026-09-05T17:42:44.026321+00:00"
 }
