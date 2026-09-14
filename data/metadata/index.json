@@ -34881,6 +34881,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "005R7kdBc7Y",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260914",
+      "published_at": "2026-09-14T03:43:32Z",
+      "actual_at": "2026-09-14T03:14:54Z",
+      "duration_seconds": 739,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=005R7kdBc7Y",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Isha",
+      "day_of_week": "Sunday",
+      "time_slot": "Sunday-Isha",
+      "post_time": "2026-09-13T20:14:54",
+      "post_date": "2026-09-13",
+      "month": "September",
+      "month_num": 9,
+      "year": 2026,
+      "month_year": "September 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Sahih Bukhari",
+      "hadith_chapter": "Narrations of Abdullah ibn Abbas regarding the Kaaba reconstruction",
+      "topic_tags": [
+        "prophet ibrahim",
+        "prophet ismail",
+        "kaaba",
+        "gratitude",
+        "contentment",
+        "supplications",
+        "mecca",
+        "hadith"
+      ],
+      "suggested_title": "The Story of Prophet Ibrahim's Visits to Ismail: Lessons on Gratitude and Divine Blessing",
+      "catchy_title": "What makes a wife worthy of a prophet's son?",
+      "summary": "Sh. Ali Mashhour continues discussing the narration of Abdullah ibn Abbas regarding the reconstruction of the Kaaba, focusing on Prophet Ibrahim's visits to his son Ismail in Mecca. Sh. Ali Mashhour clarifies that Ibrahim regularly visited Ismail and his mother despite leaving them in Mecca when Ismail was an infant, contrary to common misunderstandings. The lecture details Ibrahim's encounter with Ismail's first wife, who complained about their difficult living conditions, leading Ibrahim to command Ismail to divorce her. When Ibrahim later visited and found Ismail had remarried, the second wife demonstrated contentment and gratitude to Allah, praising their sustenance of meat and water. Sh. Ali Mashhour emphasizes that Ibrahim made dua (supplication) for blessing in their meat and water, a blessing that continues to be evident in Mecca to this day.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -45568,5 +45611,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-09-13T18:22:13.420213+00:00"
+  "updated_at": "2026-09-14T10:58:59.483752+00:00"
 }
