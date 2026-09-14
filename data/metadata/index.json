@@ -34924,6 +34924,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "2_WZ7LlK1OM",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260914",
+      "published_at": "2026-09-14T12:59:49Z",
+      "actual_at": "2026-09-14T12:43:09Z",
+      "duration_seconds": 769,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=2_WZ7LlK1OM",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Monday",
+      "time_slot": "Monday-Fajr",
+      "post_time": "2026-09-14T05:43:09",
+      "post_date": "2026-09-14",
+      "month": "September",
+      "month_num": 9,
+      "year": 2026,
+      "month_year": "September 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
+      "hadith_chapter": "Book of Prayer - Chapters on Prayer Timings",
+      "topic_tags": [
+        "prayer timings",
+        "five daily prayers",
+        "jabir narration",
+        "al-bukhari",
+        "islamic jurisprudence",
+        "fiqh",
+        "hadith",
+        "salah"
+      ],
+      "suggested_title": "Prayer Timings According to the Narration of Jabir and Imam al-Bukhari's Commentary",
+      "catchy_title": "When Should You Pray Each Salah?",
+      "summary": "Sh. Ali Mashhour continues his study of prayer timings from the book Al-Wajeez, focusing on the narration of Jabir regarding the five daily prayers. He explains the scholarly difference of opinion on whether the narration of Jabir describes the bare minimum times for prayer validity or the optimal and acceptable times. Sh. Ali Mashhour then presents Imam al-Bukhari's commentary on this narration, detailing the specific start and end times for each of the five prayers: Dhuhr, Asr, Maghrib, Isha, and Fajr, with reference to authentic narrations from Sahih Muslim. The lecture establishes the framework for understanding prayer timings in Islamic jurisprudence.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -45611,5 +45654,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-09-14T10:58:59.483752+00:00"
+  "updated_at": "2026-09-14T19:57:29.276478+00:00"
 }
