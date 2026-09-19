@@ -35181,6 +35181,40 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "y14wM0_xDl8",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260919",
+      "published_at": "2026-09-19T03:46:13Z",
+      "actual_at": "2026-09-19T03:18:20Z",
+      "duration_seconds": 1672,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=y14wM0_xDl8",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": false,
+      "has_clean_srt": false,
+      "has_clean_txt": false
+    },
+    {
+      "video_id": "BnF4MWv3Q4w",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260918",
+      "published_at": "2026-09-18T20:45:25Z",
+      "actual_at": "2026-09-18T20:01:53Z",
+      "duration_seconds": 2612,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=BnF4MWv3Q4w",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": false,
+      "has_clean_srt": false,
+      "has_clean_txt": false
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -45868,5 +45902,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-09-18T18:39:04.379466+00:00"
+  "updated_at": "2026-09-19T06:38:27.109288+00:00"
 }
