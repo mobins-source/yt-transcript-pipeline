@@ -1,6 +1,6 @@
 {
   "video_id": "BnF4MWv3Q4w",
   "transcript_status": "unavailable",
-  "transcript_retry_count": 1,
-  "unavailable_reason": "NoTranscript"
+  "transcript_retry_count": 2,
+  "unavailable_reason": "IPBlocked"
 }
