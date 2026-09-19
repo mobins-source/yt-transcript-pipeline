@@ -153,3 +153,7 @@ jobs:
           name: pipeline-data-windows-${{ github.run_number }}
           path: data/
           retention-days: 7
+
+      - name: Trigger Vercel redeploy
+        if: success()
+        run: curl -X POST "${{ secrets.VERCEL_DEPLOY_HOOK }}"
