@@ -35310,6 +35310,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "2-5yUfp3DCc",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260920",
+      "published_at": "2026-09-20T03:28:59Z",
+      "actual_at": "2026-09-20T03:16:00Z",
+      "duration_seconds": 639,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=2-5yUfp3DCc",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Isha",
+      "day_of_week": "Saturday",
+      "time_slot": "Saturday-Isha",
+      "post_time": "2026-09-19T20:16:00",
+      "post_date": "2026-09-19",
+      "month": "September",
+      "month_num": 9,
+      "year": 2026,
+      "month_year": "September 2026",
+      "content_type": "Quran",
+      "hadith_book": null,
+      "hadith_chapter": null,
+      "topic_tags": [
+        "kaaba",
+        "prophet ibrahim",
+        "prophet ishmael",
+        "maqam ibrahim",
+        "quran stories",
+        "islamic history",
+        "construction",
+        "dua"
+      ],
+      "suggested_title": "The Rebuilding of the Kaaba: Ibrahim and Ishmael's Divine Task",
+      "catchy_title": "When Father and Son Built the House of Allah",
+      "summary": "Sh. Ali Mashhour continues the story of the Kaaba's reconstruction as narrated by Abdullah ibn Abbas. He describes how Prophet Ibrahim (peace be upon him) returned to Mecca for the third time to rebuild the Kaaba with the help of his son Ishmael, who had grown into a young man. Sh. Ali Mashhour explains the significance of the location where the Kaaba was to be built, detailing how Ibrahim and Ishmael worked together to construct the structure, with Ishmael bringing stones to his father. He describes the Maqam Ibrahim—the stone upon which Prophet Ibrahim stood while building the Kaaba, whose footprints are miraculously preserved and visible behind glass in the Kaaba today. Throughout the reconstruction, Ibrahim and Ishmael made dua with each stone, saying 'Our Lord, accept from us. Indeed, you are the All-Hearing, the All-Knowing.'",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -45997,5 +46040,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-09-19T18:14:17.054154+00:00"
+  "updated_at": "2026-09-20T10:06:23.637892+00:00"
 }
