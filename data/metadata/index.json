@@ -35396,6 +35396,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "Ov-4u0HLRWs",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260921",
+      "published_at": "2026-09-21T13:02:42Z",
+      "actual_at": "2026-09-21T12:44:18Z",
+      "duration_seconds": 866,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=Ov-4u0HLRWs",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Monday",
+      "time_slot": "Monday-Fajr",
+      "post_time": "2026-09-21T05:44:18",
+      "post_date": "2026-09-21",
+      "month": "September",
+      "month_num": 9,
+      "year": 2026,
+      "month_year": "September 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Other",
+      "hadith_chapter": "Book of Prayer - Chapters on Prayer Timings",
+      "topic_tags": [
+        "fajr prayer",
+        "prayer timing",
+        "ghalas",
+        "hadith",
+        "quranic recitation",
+        "sunnah",
+        "islamic jurisprudence",
+        "angels"
+      ],
+      "suggested_title": "The Optimal Timing of Fajr Prayer: Understanding Ghalas and the Prophet's Practice",
+      "catchy_title": "Why did the Prophet pray Fajr in complete darkness?",
+      "summary": "Sh. Ali Mashhour discusses the optimal timing for Fajr prayer within the book of prayer, explaining the distinction between valid prayer times and the preferred time for performance. He establishes that while Fajr is valid from the break of dawn until sunrise, the Prophet Muhammad (peace be upon him) consistently performed it at the very beginning of its time, referred to as 'Ghalas.' Sh. Ali Mashhour supports this with evidence from narrations about women attending Fajr in such darkness that they couldn't be recognized, combined with the lengthy Quranic recitations the Prophet typically performed during this prayer, demonstrating that Fajr prayers occurred in near-total darkness just as dawn broke.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -46083,5 +46126,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-09-21T11:06:21.560810+00:00"
+  "updated_at": "2026-09-21T20:08:20.248034+00:00"
 }
