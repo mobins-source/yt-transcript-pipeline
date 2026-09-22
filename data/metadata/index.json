@@ -35439,6 +35439,48 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "jGn21-Mzcow",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260922",
+      "published_at": "2026-09-22T12:59:46Z",
+      "actual_at": "2026-09-22T12:43:17Z",
+      "duration_seconds": 764,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=jGn21-Mzcow",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Tuesday",
+      "time_slot": "Tuesday-Fajr",
+      "post_time": "2026-09-22T05:43:17",
+      "post_date": "2026-09-22",
+      "month": "September",
+      "month_num": 9,
+      "year": 2026,
+      "month_year": "September 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Sahih Bukhari",
+      "hadith_chapter": "Book of Salah - Timings of Prayer",
+      "topic_tags": [
+        "prayer timing",
+        "salah validity",
+        "rakah",
+        "islamic law",
+        "fajr prayer",
+        "mercies of allah",
+        "hadith"
+      ],
+      "suggested_title": "The Minimum Requirements for Prayer Validity: Understanding Prayer Timing Rules",
+      "catchy_title": "Catch the First Rakah, Keep Your Prayer Valid",
+      "summary": "Sh. Ali Mashhour discusses the minimum requirements for a valid prayer according to Islamic law, focusing on the least amount of time needed to be considered as having prayed on time. He explains that while the general principle would require an entire prayer to be completed within its designated time window, Allah has granted mercy by allowing a prayer to be valid if a person catches at least the first rakah (unit) within the prayer's time—even if the remaining rakahs are completed after the time has ended. Sh. Ali Mashhour illustrates this with practical examples, such as Fajr prayer, and explains how this ruling applies to all five obligatory prayers and other time-specific prayers. He emphasizes that this is an immense blessing from Allah, as the majority of the prayer may occur outside its designated time, yet it remains valid because the minimum (first rakah) was performed during the correct time.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -46126,5 +46168,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-09-22T10:19:56.140116+00:00"
+  "updated_at": "2026-09-22T19:15:55.249428+00:00"
 }
