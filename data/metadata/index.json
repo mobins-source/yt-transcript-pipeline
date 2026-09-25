@@ -35524,6 +35524,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "dYUZfWlEerw",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260925",
+      "published_at": "2026-09-25T12:59:13Z",
+      "actual_at": "2026-09-25T12:42:46Z",
+      "duration_seconds": 835,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=dYUZfWlEerw",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Friday",
+      "time_slot": "Friday-Fajr",
+      "post_time": "2026-09-25T05:42:46",
+      "post_date": "2026-09-25",
+      "month": "September",
+      "month_num": 9,
+      "year": 2026,
+      "month_year": "September 2026",
+      "content_type": "General",
+      "hadith_book": null,
+      "hadith_chapter": null,
+      "topic_tags": [
+        "prayer times",
+        "missed prayers",
+        "islamic jurisprudence",
+        "salah",
+        "prayer etiquette",
+        "companions",
+        "fiqh",
+        "daily obligations"
+      ],
+      "suggested_title": "Prayer Times: Making Up Missed Prayers and the Three Prohibited Times for Prayer",
+      "catchy_title": "When Can't Muslims Pray?",
+      "summary": "Sh. Ali Mashhour continues a discussion on prayer timings and obligations. He emphasizes that a person who misses prayer due to legitimate excuses must make it up as soon as possible, citing the Prophet's teaching that there is no substitute for prayer. He illustrates this with the example of Abdullah ibn Anees, a companion who prayed while walking toward a dangerous situation, demonstrating that prayer can be performed in virtually any circumstance. Sh. Ali Mashhour then transitions to a new chapter discussing the three times during a 24-hour period when prayer and burial of the dead are prohibited: at sunrise (approximately 15 minutes after the sun first appears), at zenith/noon (approximately 15 minutes around the exact midpoint), and at sunset (approximately 15 minutes before the sun completely disappears). He clarifies common misconceptions about these prohibitions and their scope.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -46211,5 +46254,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-09-25T10:33:57.490894+00:00"
+  "updated_at": "2026-09-25T19:35:27.234715+00:00"
 }
