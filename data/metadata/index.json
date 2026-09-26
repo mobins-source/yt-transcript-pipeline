@@ -35653,6 +35653,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "qfDUT-_Kra8",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260926",
+      "published_at": "2026-09-26T13:18:05Z",
+      "actual_at": "2026-09-26T12:57:30Z",
+      "duration_seconds": 805,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=qfDUT-_Kra8",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Saturday",
+      "time_slot": "Saturday-Fajr",
+      "post_time": "2026-09-26T05:57:30",
+      "post_date": "2026-09-26",
+      "month": "September",
+      "month_num": 9,
+      "year": 2026,
+      "month_year": "September 2026",
+      "content_type": "General",
+      "hadith_book": "Other",
+      "hadith_chapter": null,
+      "topic_tags": [
+        "times of prayer",
+        "prohibited times",
+        "sunrise",
+        "noon",
+        "sunset",
+        "burial",
+        "hadith",
+        "prayer rulings"
+      ],
+      "suggested_title": "The Three Prohibited Times for Prayer and Burial",
+      "catchy_title": "When Is Prayer Forbidden?",
+      "summary": "Sh. Ali Mashhour continues his discussion on the book of prayer, specifically focusing on the times when it is impermissible to pray. He begins by establishing a logical principle about exceptions: that the exception is always less than the general rule, meaning prayer is permissible at most times except during specific prohibited times. Sh. Ali Mashhour then explains that according to the narration of Uqbah ibn Amir, the Prophet Muhammad prohibited prayer during three specific times of day. He emphasizes the difference between what is impermissible versus what is merely inconvenient or inappropriate, using the example of burying the dead at night, which is permissible though uncommon in modern practice.\n\nSh. Ali Mashhour details the three prohibited times: approximately 15 minutes after sunrise, approximately 15 minutes before noon (Zuhr), and approximately 15 minutes before sunset (Maghrib). He provides context for each prohibition, explaining the astronomical positions of the sun and why these times were designated as inappropriate for prayer. Sh. Ali Mashhour clarifies that outside these three windows, prayer and burial are permissible at any time of day or night, and notes that a complete discussion of funeral rites will be covered in the dedicated book of funerals later in the study.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -46340,5 +46383,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-09-26T10:15:49.439801+00:00"
+  "updated_at": "2026-09-26T18:44:52.405100+00:00"
 }
