@@ -35738,6 +35738,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "u_1q0EyvJOM",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260927",
+      "published_at": "2026-09-27T13:19:21Z",
+      "actual_at": "2026-09-27T12:58:22Z",
+      "duration_seconds": 772,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=u_1q0EyvJOM",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Sunday",
+      "time_slot": "Sunday-Fajr",
+      "post_time": "2026-09-27T05:58:22",
+      "post_date": "2026-09-27",
+      "month": "September",
+      "month_num": 9,
+      "year": 2026,
+      "month_year": "September 2026",
+      "content_type": "Hadith",
+      "hadith_book": null,
+      "hadith_chapter": null,
+      "topic_tags": [
+        "prayer times",
+        "optional prayer",
+        "obligatory prayer",
+        "missed prayers",
+        "prohibited times",
+        "sunrise and sunset",
+        "hadith",
+        "islamic jurisprudence"
+      ],
+      "suggested_title": "The Times Prayer is Prohibited and the Importance of Making Up Missed Obligatory Prayers",
+      "catchy_title": "Can You Pray During Sunrise?",
+      "summary": "Sh. Ali Mashhour discusses the Islamic rulings on prayer times, specifically addressing the three times when optional prayers are prohibited: sunrise, sunset, and midday. He clarifies that these prohibitions do not apply to obligatory prayers, particularly when someone has missed a prayer due to sleep or forgetfulness. Sh. Ali Mashhour emphasizes that a person who has missed an obligatory prayer must make it up immediately upon remembering, regardless of the time of day. He then introduces a hadith from the companion Absah, explaining the Prophet's prohibition against praying during sunrise and sunset, relating it to the pre-Islamic practice of sun worship in Jahiliyyah. The reasoning behind this prohibition is to avoid any outward appearance of resemblance to sun worshippers, even though the Muslim's intention differs.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -46425,5 +46468,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-09-27T10:44:50.971078+00:00"
+  "updated_at": "2026-09-27T19:19:35.456395+00:00"
 }
