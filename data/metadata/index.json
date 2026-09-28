@@ -35781,6 +35781,48 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "45m2d6tVFcg",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260928",
+      "published_at": "2026-09-28T13:16:52Z",
+      "actual_at": "2026-09-28T12:57:27Z",
+      "duration_seconds": 734,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=45m2d6tVFcg",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Monday",
+      "time_slot": "Monday-Fajr",
+      "post_time": "2026-09-28T05:57:27",
+      "post_date": "2026-09-28",
+      "month": "September",
+      "month_num": 9,
+      "year": 2026,
+      "month_year": "September 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Sahih Muslim",
+      "hadith_chapter": "Book of Prayer (Salah)",
+      "topic_tags": [
+        "prayer timings",
+        "salah",
+        "hadith",
+        "sun worship",
+        "prohibited times",
+        "islamic law",
+        "worship of allah"
+      ],
+      "suggested_title": "Prayer Timings in Islam and the Prohibition of Praying at Sunrise, Zenith, and Sunset",
+      "catchy_title": "When Should Muslims Refrain from Praying?",
+      "summary": "Sh. Ali Mashhour delivers a detailed explanation of prayer timings based on a hadith from Sahih Muslim narrated by Absah. The lecture covers the specific times when Muslims should and should not pray throughout the day, including the prohibition against praying at sunrise, when the sun is at zenith, and at sunset. Sh. Ali Mashhour explains that these prohibitions are rooted in the pre-Islamic practice of sun worship, where disbelievers would prostrate to the sun during its rising and setting. He clarifies that the phrase 'between two horns of a devil' refers to anything that distracts from the worship of Allah, illustrated through an anecdote about a man obsessed with pigeons who neglected his prayers.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -46468,5 +46510,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-09-28T11:59:24.605930+00:00"
+  "updated_at": "2026-09-28T21:24:13.804422+00:00"
 }
