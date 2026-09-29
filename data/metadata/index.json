@@ -35823,6 +35823,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "daimPFis21c",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260929",
+      "published_at": "2026-09-29T13:21:24Z",
+      "actual_at": "2026-09-29T12:58:52Z",
+      "duration_seconds": 901,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=daimPFis21c",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Tuesday",
+      "time_slot": "Tuesday-Fajr",
+      "post_time": "2026-09-29T05:58:52",
+      "post_date": "2026-09-29",
+      "month": "September",
+      "month_num": 9,
+      "year": 2026,
+      "month_year": "September 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Other",
+      "hadith_chapter": "Chapter on Prayer Timings and Jumu'ah",
+      "topic_tags": [
+        "jumu'ah",
+        "prayer timings",
+        "hadith",
+        "friday prayer",
+        "attentiveness",
+        "sincerity",
+        "islamic conduct",
+        "reward"
+      ],
+      "suggested_title": "The Conditions and Rewards of Jumu'ah Prayer: Attentiveness and Sincerity",
+      "catchy_title": "Are you losing your Jumu'ah reward?",
+      "summary": "Sh. Ali Mashhour continues his analysis of prayer timings from Islamic jurisprudence texts, specifically discussing the three prohibited times for optional prayers (after Fajr, around noon, and before Maghrib). He explains important exemptions to these general prohibitions, particularly focusing on the time just before Jumu'ah (Friday prayer). Sh. Ali Mashhour emphasizes the significance of Jumu'ah through a detailed hadith about the conditions necessary to receive complete forgiveness of sins between one Friday and the next, including ritual bathing, applying perfume, arriving early without disturbing others, praying voluntarily, and most critically, listening attentively to the imam without distractions. He passionately addresses how modern distractions like phone use during the khutbah invalidate this reward, cautioning that even minor actions during this sacred time result in losing the week's worth of forgiven sins.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -46510,5 +46553,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-09-29T11:34:26.540914+00:00"
+  "updated_at": "2026-09-29T20:15:15.912233+00:00"
 }
