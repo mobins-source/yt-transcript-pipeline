@@ -35866,6 +35866,48 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "1IsAtSAPgAw",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20260930",
+      "published_at": "2026-09-30T13:18:25Z",
+      "actual_at": "2026-09-30T12:57:34Z",
+      "duration_seconds": 829,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=1IsAtSAPgAw",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Wednesday",
+      "time_slot": "Wednesday-Fajr",
+      "post_time": "2026-09-30T05:57:34",
+      "post_date": "2026-09-30",
+      "month": "September",
+      "month_num": 9,
+      "year": 2026,
+      "month_year": "September 2026",
+      "content_type": "General",
+      "hadith_book": null,
+      "hadith_chapter": null,
+      "topic_tags": [
+        "optional prayer",
+        "prayer times",
+        "Islamic jurisprudence",
+        "exemptions",
+        "fiqh",
+        "salah",
+        "prohibited times"
+      ],
+      "suggested_title": "Optional Prayers: Understanding Exemptions from Prohibited Prayer Times",
+      "catchy_title": "When Can You Prayer During Prohibited Times?",
+      "summary": "Sh. Ali Mashhour continues his lesson on the times when optional prayers are prohibited, focusing on the exemptions from the general prohibition rules. He explains that optional prayers can be divided into two categories: general optional prayers (not tied to any specific time, place, or occasion) and specific optional prayers that are connected to a particular time, place, or occasion. Sh. Ali Mashhour emphasizes that specific optional prayers—those tied to a time, place, or event—are exempt from the prohibition of praying during certain times of day. He provides several examples, including prayers in the mosque and prayers before Jumu'ah, and clarifies that if someone deliberately attempts to circumvent Islamic rulings by artificially creating situations to pray during prohibited times, this does not qualify for the exemption.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -46553,5 +46595,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-09-30T11:21:35.538883+00:00"
+  "updated_at": "2026-09-30T20:20:07.960637+00:00"
 }
