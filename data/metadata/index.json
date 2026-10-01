@@ -35908,6 +35908,48 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "0nv3MZo_qGo",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20261001",
+      "published_at": "2026-10-01T13:16:56Z",
+      "actual_at": "2026-10-01T12:58:26Z",
+      "duration_seconds": 556,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=0nv3MZo_qGo",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Thursday",
+      "time_slot": "Thursday-Fajr",
+      "post_time": "2026-10-01T05:58:26",
+      "post_date": "2026-10-01",
+      "month": "October",
+      "month_num": 10,
+      "year": 2026,
+      "month_year": "October 2026",
+      "content_type": "General",
+      "hadith_book": null,
+      "hadith_chapter": null,
+      "topic_tags": [
+        "salah",
+        "jumu'ah",
+        "prayer times",
+        "optional prayer",
+        "prohibited times",
+        "islamic law",
+        "fiqh"
+      ],
+      "suggested_title": "Exemptions to Prohibited Prayer Times: Optional Prayers Before Jumu'ah",
+      "catchy_title": "When Can You Pray Before Jumu'ah?",
+      "summary": "Sh. Ali Mashhour discusses the exemptions to prohibited times of prayer in Islam, specifically focusing on optional prayers that are connected to specific times, places, or occasions. He explains that while it is generally forbidden to pray during certain times of the day (after Fajr until sunrise, before Dhuhr, before Maghrib, and after Asr), optional prayers made before Jumu'ah are exempt from these restrictions. Sh. Ali Mashhour clarifies that during Jumu'ah preparation, Muslims may continue making optional prayers in sets of two until the Imam ascends the minbar, at which point optional prayer stops. He also addresses common misconceptions about when speech becomes prohibited during Jumu'ah, noting that silence is required when the Imam begins the khutbah, not when the adhan is called.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -46595,5 +46637,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-10-01T11:48:17.189342+00:00"
+  "updated_at": "2026-10-01T20:34:34.337694+00:00"
 }
