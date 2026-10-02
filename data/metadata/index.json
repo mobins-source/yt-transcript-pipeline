@@ -35950,6 +35950,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "1dUpDOu-WsE",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20261002",
+      "published_at": "2026-10-02T02:59:15Z",
+      "actual_at": "2026-10-02T02:45:33Z",
+      "duration_seconds": 672,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=1dUpDOu-WsE",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Isha",
+      "day_of_week": "Thursday",
+      "time_slot": "Thursday-Isha",
+      "post_time": "2026-10-01T19:45:33",
+      "post_date": "2026-10-01",
+      "month": "October",
+      "month_num": 10,
+      "year": 2026,
+      "month_year": "October 2026",
+      "content_type": "Quran",
+      "hadith_book": "Sahih Muslim",
+      "hadith_chapter": "The Prophet's constant seeking of forgiveness in prayer",
+      "topic_tags": [
+        "forgiveness",
+        "quran",
+        "surah an-nas",
+        "surah al-kafiroon",
+        "islamic identity",
+        "dawa",
+        "repentance",
+        "quranic exegesis"
+      ],
+      "suggested_title": "The Power of Islamic Distinction: Why Islam Spreads Through Difference, Not Similarity",
+      "catchy_title": "What Actually Draws People to Islam?",
+      "summary": "Sh. Ali Mashhour continues his discussion on seeking forgiveness from Allah by analyzing the final verses revealed in Surah An-Nas and Surah Al-Kafiroon. He explains how Allah instructs the Prophet to glorify His perfection before seeking forgiveness, illustrating the profound distance between Allah's absolute perfection and human imperfection. Sh. Ali Mashhour notes that Surah An-Nas was revealed just weeks before the Prophet's death, and the Prophet thereafter made seeking forgiveness a constant part of every prayer. The lecture emphasizes the strategic placement of Surah Al-Kafiroon immediately before Surah An-Nas, demonstrating that Islam's appeal lies not in conforming to other religions but in its bold distinctiveness and moral clarity.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -46637,5 +46680,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-10-01T20:34:34.337694+00:00"
+  "updated_at": "2026-10-02T11:21:31.008895+00:00"
 }
