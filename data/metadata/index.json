@@ -35993,6 +35993,66 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "kHDARcwdCEU",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20261002",
+      "published_at": "2026-10-02T20:01:44Z",
+      "actual_at": "2026-10-02T20:01:44Z",
+      "duration_seconds": 0,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=kHDARcwdCEU",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": false,
+      "has_clean_srt": false,
+      "has_clean_txt": false
+    },
+    {
+      "video_id": "CkPonbC9M7I",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20261002",
+      "published_at": "2026-10-02T13:18:55Z",
+      "actual_at": "2026-10-02T12:59:15Z",
+      "duration_seconds": 751,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=CkPonbC9M7I",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Friday",
+      "time_slot": "Friday-Fajr",
+      "post_time": "2026-10-02T05:59:15",
+      "post_date": "2026-10-02",
+      "month": "October",
+      "month_num": 10,
+      "year": 2026,
+      "month_year": "October 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Other",
+      "hadith_chapter": "Book of Prayer - Timings of Prayer and Prohibitions",
+      "topic_tags": [
+        "prayer timings",
+        "prohibited times",
+        "masjid etiquette",
+        "optional prayers",
+        "hadith interpretation",
+        "islamic jurisprudence",
+        "prayer exemptions",
+        "sacred spaces"
+      ],
+      "suggested_title": "Understanding Exceptions to Prayer Time Prohibitions: Place-Based Prayers and the Masjid",
+      "catchy_title": "Why Don't We Pray Twice After Entering the Masjid?",
+      "summary": "Sh. Ali Mashhour continues his discussion on the timings of prayer and the three prohibited times for optional prayers, focusing on exceptions to these prohibitions. He explains that optional prayers specified by time, place, or occasion are exempt from general prohibitions. The lecture centers on prayers tied to specific places, particularly the two rakah prayer upon entering the masjid. Sh. Ali Mashhour clarifies a common misconception about this prayer through logical reasoning with the congregation, explaining that this prayer doesn't need to be made separately if one has already prayed an obligatory prayer. He emphasizes that the spirit of this ruling is to show respect for the masjid as a sacred space by praying before sitting. He also addresses practical confusion in some masajid where people avoid sitting or praying due to misunderstanding the prohibitions, and mentions that Mecca is another place-based exception where prayers can be made at any time.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -46680,5 +46740,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-10-02T11:21:31.008895+00:00"
+  "updated_at": "2026-10-02T20:10:45.017005+00:00"
 }
