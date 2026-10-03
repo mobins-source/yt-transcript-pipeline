@@ -31764,8 +31764,45 @@
       "title": "Muslim Community Center Of Tucson",
       "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
       "actual_at": "2026-10-03T02:46:23Z",
-      "duration_seconds": 1316,
+      "duration_seconds": 1319,
       "url": "https://www.youtube.com/watch?v=VsrhlP9iiJg",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Isha",
+      "day_of_week": "Friday",
+      "time_slot": "Friday-Isha",
+      "post_time": "2026-10-02T19:46:23",
+      "post_date": "2026-10-02",
+      "month": "October",
+      "month_num": 10,
+      "year": 2026,
+      "month_year": "October 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Sahih Muslim",
+      "hadith_chapter": "Hadith of Jibril (Gabriel)",
+      "topic_tags": [
+        "six pillars of iman",
+        "messengers and prophets",
+        "islamic books",
+        "day of judgment",
+        "hadith of jibril",
+        "youth education",
+        "islamic faith"
+      ],
+      "suggested_title": "The Six Pillars of Iman: Messengers, Books, Prophets, and the Day of Judgment",
+      "catchy_title": "What's the difference between prophets and messengers?",
+      "summary": "Sh. Ali Mashhour continues teaching the youth about the Hadith of Jibril, specifically focusing on the six pillars of Iman (Islamic faith). He covers belief in Allah, angels, books, and prophets, explaining that there are 315 messengers and 124,000 prophets, with key differences between the two role"
+    },
+    {
+      "video_id": "HUy1hXCC7f8",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "actual_at": "2026-10-03T12:58:45Z",
+      "duration_seconds": 3777,
+      "url": "https://www.youtube.com/watch?v=HUy1hXCC7f8",
       "playlist_id": "",
       "playlist_title": "",
       "has_transcript": false,
@@ -31773,5 +31810,5 @@
       "has_clean_txt": false
     }
   ],
-  "updated_at": "2026-10-03T10:37:18.171099+00:00"
+  "updated_at": "2026-10-03T18:51:03.662518+00:00"
 }
