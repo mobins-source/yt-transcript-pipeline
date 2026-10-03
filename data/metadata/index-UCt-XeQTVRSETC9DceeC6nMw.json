@@ -31688,13 +31688,38 @@
       "title": "Muslim Community Center Of Tucson",
       "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
       "actual_at": "2026-10-02T20:01:44Z",
-      "duration_seconds": 2582,
+      "duration_seconds": 2586,
       "url": "https://www.youtube.com/watch?v=kHDARcwdCEU",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": false,
-      "has_clean_srt": false,
-      "has_clean_txt": false
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Zuhr",
+      "day_of_week": "Friday",
+      "time_slot": "Jumaa Khutba",
+      "post_time": "2026-10-02T13:01:44",
+      "post_date": "2026-10-02",
+      "month": "October",
+      "month_num": 10,
+      "year": 2026,
+      "month_year": "October 2026",
+      "content_type": "Mixed",
+      "hadith_book": "Sahih Muslim",
+      "hadith_chapter": "On Prayer (Salah) and the Reciprocal Relationship Between Servant and Lord",
+      "topic_tags": [
+        "allah's attributes",
+        "quran",
+        "hadith",
+        "salah",
+        "prayer",
+        "shaytan",
+        "divine mercy",
+        "misconceptions"
+      ],
+      "suggested_title": "Allah Responds: Dispelling Cynical Whispers and Understanding Divine Mercy",
+      "catchy_title": "Does Allah Really Respond When You Call?",
+      "summary": "Sh. Ali Mashhour delivers a comprehensive Islamic lecture addressing misconceptions about Allah's nature and character. He emphasizes that Allah is responsive, merciful, and engaged with His creation, countering the cynical whispers of Shaytan that lead people to develop distorted beliefs about Alla"
     },
     {
       "video_id": "CkPonbC9M7I",
@@ -31748,5 +31773,5 @@
       "has_clean_txt": false
     }
   ],
-  "updated_at": "2026-10-03T07:06:43.766118+00:00"
+  "updated_at": "2026-10-03T10:37:18.171099+00:00"
 }
