@@ -35998,9 +35998,9 @@
       "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
       "channel_name": "Muslim Comminity Center of Tucson",
       "upload_date": "20261002",
-      "published_at": "2026-10-02T20:01:44Z",
+      "published_at": "2026-10-02T20:44:47Z",
       "actual_at": "2026-10-02T20:01:44Z",
-      "duration_seconds": 0,
+      "duration_seconds": 2582,
       "view_count": null,
       "url": "https://www.youtube.com/watch?v=kHDARcwdCEU",
       "playlist_id": "",
@@ -36051,6 +36051,23 @@
       "catchy_title": "Why Don't We Pray Twice After Entering the Masjid?",
       "summary": "Sh. Ali Mashhour continues his discussion on the timings of prayer and the three prohibited times for optional prayers, focusing on exceptions to these prohibitions. He explains that optional prayers specified by time, place, or occasion are exempt from general prohibitions. The lecture centers on prayers tied to specific places, particularly the two rakah prayer upon entering the masjid. Sh. Ali Mashhour clarifies a common misconception about this prayer through logical reasoning with the congregation, explaining that this prayer doesn't need to be made separately if one has already prayed an obligatory prayer. He emphasizes that the spirit of this ruling is to show respect for the masjid as a sacred space by praying before sitting. He also addresses practical confusion in some masajid where people avoid sitting or praying due to misunderstanding the prohibitions, and mentions that Mecca is another place-based exception where prayers can be made at any time.",
       "srt_status": "pending"
+    },
+    {
+      "video_id": "VsrhlP9iiJg",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20261003",
+      "published_at": "2026-10-03T03:08:20Z",
+      "actual_at": "2026-10-03T02:46:23Z",
+      "duration_seconds": 1316,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=VsrhlP9iiJg",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": false,
+      "has_clean_srt": false,
+      "has_clean_txt": false
     },
     {
       "video_id": "-JCfAqCl2iw",
@@ -46740,5 +46757,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-10-02T20:10:45.017005+00:00"
+  "updated_at": "2026-10-03T07:06:44.706376+00:00"
 }
