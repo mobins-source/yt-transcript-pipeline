@@ -36207,6 +36207,48 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "Q73AIPUuzLA",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20261004",
+      "published_at": "2026-10-04T13:18:27Z",
+      "actual_at": "2026-10-04T12:58:56Z",
+      "duration_seconds": 921,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=Q73AIPUuzLA",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Sunday",
+      "time_slot": "Sunday-Fajr",
+      "post_time": "2026-10-04T05:58:56",
+      "post_date": "2026-10-04",
+      "month": "October",
+      "month_num": 10,
+      "year": 2026,
+      "month_year": "October 2026",
+      "content_type": "General",
+      "hadith_book": null,
+      "hadith_chapter": null,
+      "topic_tags": [
+        "knowledge",
+        "humility",
+        "prayer times",
+        "learning",
+        "islamic etiquette",
+        "compounded ignorance",
+        "spiritual development"
+      ],
+      "suggested_title": "The Greatest Enemy to Knowledge: Humility and Continuous Learning in Islam",
+      "catchy_title": "Why Knowing You Don't Know Matters Most",
+      "summary": "Sh. Ali Mashhour continues his discussion of prayer times from Aliz, specifically focusing on prohibited times for prayer and exceptions to these prohibitions. He then transitions into a profound teaching about the nature of knowledge and learning. Sh. Ali Mashhour emphasizes that the greatest enemy to knowledge is not ignorance itself, but 'compounded ignorance'—when a person is ignorant of something yet convinced they already know it. He illustrates this through examples from Islamic history, including the story of Ibn Abbi, a great companion of Ibn Abbas, who would listen to narrations with humility even if he had heard them before, demonstrating proper etiquette toward the Prophet's teachings.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -46894,5 +46936,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-10-04T11:17:45.043443+00:00"
+  "updated_at": "2026-10-04T18:49:00.052466+00:00"
 }
