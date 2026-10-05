@@ -36249,6 +36249,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "NlecV8CUi20",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20261005",
+      "published_at": "2026-10-05T13:31:24Z",
+      "actual_at": "2026-10-05T12:59:24Z",
+      "duration_seconds": 650,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=NlecV8CUi20",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Monday",
+      "time_slot": "Monday-Fajr",
+      "post_time": "2026-10-05T05:59:24",
+      "post_date": "2026-10-05",
+      "month": "October",
+      "month_num": 10,
+      "year": 2026,
+      "month_year": "October 2026",
+      "content_type": "General",
+      "hadith_book": null,
+      "hadith_chapter": null,
+      "topic_tags": [
+        "prayer times",
+        "fiqh",
+        "sunnah",
+        "wudu",
+        "Islamic jurisprudence",
+        "makeup prayer",
+        "knowledge",
+        "exceptions"
+      ],
+      "suggested_title": "Exceptions to Prohibited Prayer Times in Islamic Jurisprudence",
+      "catchy_title": "Why Half-Knowledge Creates Full Problems",
+      "summary": "Sh. Ali Mashhour continues his discussion on the Islamic jurisprudence of prayer times, specifically focusing on prohibited times for optional prayer and the exceptions to these prohibitions. He explains that while general optional prayers are prohibited during three specific times of day, there are important exceptions including prayers specific to a time, place, or occasion, as well as makeup prayers (qada). Sh. Ali Mashhour illustrates this with the example of Bilal's consistent practice of making wudu followed by prayer at all hours, which the Prophet affirmed. The lecture emphasizes the critical importance of learning both rules and their exceptions, warning against partial knowledge which creates confusion and misunderstanding.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -46936,5 +46979,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-10-05T12:39:27.602314+00:00"
+  "updated_at": "2026-10-05T22:12:48.742570+00:00"
 }
