@@ -36316,6 +36316,21 @@
       "month_num": 10,
       "year": 2026,
       "month_year": "October 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Sunan Abu Dawud",
+      "hadith_chapter": "Book of Salah - Timings of Prayer",
+      "topic_tags": [
+        "fajr prayer",
+        "prayer timings",
+        "sunnah prayers",
+        "prohibited times",
+        "hadith",
+        "islamic jurisprudence",
+        "salah etiquette"
+      ],
+      "suggested_title": "The Prohibited Times for Prayer: Fajr Adhan to Obligation",
+      "catchy_title": "What prayers are forbidden between Fajr Adhan and Fajr?",
+      "summary": "Sh. Ali Mashhour continues the discussion of prayer timings from the book of Salah, focusing on a lesser-known Sunnah regarding prohibited times for optional prayers. He explains that after the Adhan of Fajr and before the obligatory Fajr prayer, the only permissible prayers are two Rak'ahs of Sunnah—no other optional prayers should be performed during this window. Sh. Ali Mashhour illustrates this with the example of a typical prayer schedule (5:15 AM Adhan to 5:45 AM prayer time) and clarifies that this rule applies whether one is waiting at home or in the mosque. He also discusses the concept of 'Mawla' (freed slave and spiritual allegiance) in the context of Islamic narrations and presents hadith evidence from Abu Dawood and others supporting this prohibition, while noting that the reward structure for slaves in Islam is significant.",
       "srt_status": "pending"
     },
     {
@@ -47006,5 +47021,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-10-06T20:35:35.851537+00:00"
+  "updated_at": "2026-10-07T12:00:17.628196+00:00"
 }
