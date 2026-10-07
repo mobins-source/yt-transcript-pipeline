@@ -36334,6 +36334,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "KYJLcl1py0k",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20261007",
+      "published_at": "2026-10-07T13:17:09Z",
+      "actual_at": "2026-10-07T12:56:08Z",
+      "duration_seconds": 945,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=KYJLcl1py0k",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Wednesday",
+      "time_slot": "Wednesday-Fajr",
+      "post_time": "2026-10-07T05:56:08",
+      "post_date": "2026-10-07",
+      "month": "October",
+      "month_num": 10,
+      "year": 2026,
+      "month_year": "October 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Other",
+      "hadith_chapter": null,
+      "topic_tags": [
+        "optional prayers",
+        "adhan",
+        "congregational prayer",
+        "fiqh",
+        "salah timing",
+        "prayer etiquette",
+        "prophetic narrations",
+        "Islamic rulings"
+      ],
+      "suggested_title": "The Prohibition of Optional Prayers After the Call to Prayer",
+      "catchy_title": "When the Adhan Calls, Stop Your Prayer",
+      "summary": "Sh. Ali Mashhour continues his discussion on the laws of prayer, specifically addressing the prohibition of optional prayers after the call to prayer has been announced. He explains that when the adhan is called, a person must immediately cease any optional prayer and join the obligatory congregation prayer. Sh. Ali Mashhour emphasizes that the majority of scholars agree that if someone has already begun an optional prayer when the adhan is called, they must break their prayer immediately to join the obligatory prayer, as this is the clearest interpretation of the prophetic narration. He refutes common misunderstandings, such as making taslim in the middle of prayer to exit or joining the congregational prayer late by waiting until the imam goes into ruku.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -47021,5 +47064,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-10-07T12:00:17.628196+00:00"
+  "updated_at": "2026-10-07T20:49:38.938155+00:00"
 }
