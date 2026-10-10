@@ -36468,9 +36468,9 @@
       "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
       "channel_name": "Muslim Comminity Center of Tucson",
       "upload_date": "20261009",
-      "published_at": "2026-10-09T20:01:04Z",
+      "published_at": "2026-10-09T20:41:41Z",
       "actual_at": "2026-10-09T20:01:04Z",
-      "duration_seconds": 0,
+      "duration_seconds": 2436,
       "view_count": null,
       "url": "https://www.youtube.com/watch?v=mKaeN8_Thzw",
       "playlist_id": "",
@@ -36521,6 +36521,23 @@
       "catchy_title": "Where Can't You Pray? Three Forbidden Places",
       "summary": "Sh. Ali Mashhour continues his discussion on the book of prayer, specifically addressing places where it is impermissible to pray. He explains that while the entire earth is permissible for prayer (unlike previous nations who were restricted to specific places), there are a few exceptions. Sh. Ali Mashhour discusses three prohibited locations: gravesites and cemeteries (based on hadith from Jundab and others in Sahih Bukhari and Muslim where the Prophet forbade taking graves as places of worship), bathhouses (hammam), and emphasizes the importance of understanding classical Arabic terminology to avoid misinterpretation of religious rulings. He uses examples of how modern Arabic has changed the meaning of ancient words, potentially causing misunderstandings of prophetic traditions.",
       "srt_status": "pending"
+    },
+    {
+      "video_id": "b2zf87fVaQs",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20261010",
+      "published_at": "2026-10-10T03:14:07Z",
+      "actual_at": "2026-10-10T02:46:18Z",
+      "duration_seconds": 1669,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=b2zf87fVaQs",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": false,
+      "has_clean_srt": false,
+      "has_clean_txt": false
     },
     {
       "video_id": "-JCfAqCl2iw",
@@ -47210,5 +47227,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-10-09T20:21:23.801423+00:00"
+  "updated_at": "2026-10-10T07:45:14.074745+00:00"
 }
