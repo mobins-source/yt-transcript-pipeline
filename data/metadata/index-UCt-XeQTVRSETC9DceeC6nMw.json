@@ -32103,13 +32103,38 @@
       "title": "Muslim Community Center Of Tucson",
       "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
       "actual_at": "2026-10-09T20:01:04Z",
-      "duration_seconds": 2436,
+      "duration_seconds": 2440,
       "url": "https://www.youtube.com/watch?v=mKaeN8_Thzw",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": false,
-      "has_clean_srt": false,
-      "has_clean_txt": false
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Zuhr",
+      "day_of_week": "Friday",
+      "time_slot": "Jumaa Khutba",
+      "post_time": "2026-10-09T13:01:04",
+      "post_date": "2026-10-09",
+      "month": "October",
+      "month_num": 10,
+      "year": 2026,
+      "month_year": "October 2026",
+      "content_type": "General",
+      "hadith_book": "Sahih Bukhari",
+      "hadith_chapter": null,
+      "topic_tags": [
+        "tawheed",
+        "monotheism",
+        "prophets",
+        "quran",
+        "worship",
+        "shirk",
+        "islamic message",
+        "messenger Muhammad"
+      ],
+      "suggested_title": "The Message of All Prophets: Understanding Tawheed and Worship of Allah Alone",
+      "catchy_title": "Why Did the Meccans Reject the Prophet's Message?",
+      "summary": "Sh. Ali Mashhour delivers a comprehensive lecture on the core message of Islam, focusing on the concept of Tawheed (monotheism) and the principle of worshiping Allah alone without partners. He explains that while the people of Quraysh and previous nations believed in Allah's existence, they corrupte"
     },
     {
       "video_id": "aKhCFDvChUQ",
@@ -32163,5 +32188,5 @@
       "has_clean_txt": false
     }
   ],
-  "updated_at": "2026-10-10T07:45:13.140840+00:00"
+  "updated_at": "2026-10-10T11:22:43.555771+00:00"
 }
