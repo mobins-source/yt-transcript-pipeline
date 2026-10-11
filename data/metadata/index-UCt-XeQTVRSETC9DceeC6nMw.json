@@ -32261,7 +32261,20 @@
       "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
+    },
+    {
+      "video_id": "AhAlz9MYys0",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "actual_at": "2026-10-11T12:57:30Z",
+      "duration_seconds": 842,
+      "url": "https://www.youtube.com/watch?v=AhAlz9MYys0",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": false,
+      "has_clean_srt": false,
+      "has_clean_txt": false
     }
   ],
-  "updated_at": "2026-10-11T11:36:29.904012+00:00"
+  "updated_at": "2026-10-11T19:45:05.476672+00:00"
 }
