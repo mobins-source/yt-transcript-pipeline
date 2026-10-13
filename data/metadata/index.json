@@ -36754,6 +36754,48 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "DqqWbBzk_7M",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20261013",
+      "published_at": "2026-10-13T13:09:23Z",
+      "actual_at": "2026-10-13T12:57:27Z",
+      "duration_seconds": 627,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=DqqWbBzk_7M",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Tuesday",
+      "time_slot": "Tuesday-Fajr",
+      "post_time": "2026-10-13T05:57:27",
+      "post_date": "2026-10-13",
+      "month": "October",
+      "month_num": 10,
+      "year": 2026,
+      "month_year": "October 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Sahih Bukhari",
+      "hadith_chapter": "Book of Adaman",
+      "topic_tags": [
+        "adhan",
+        "muezzin",
+        "virtues",
+        "islamic warfare",
+        "day of judgment",
+        "call to prayer",
+        "identity"
+      ],
+      "suggested_title": "The Adhan as a Sign of Islamic Identity: Virtues of the Muezzin",
+      "catchy_title": "Why the Muezzin Has the Longest Neck on Judgment Day",
+      "summary": "Sh. Ali Mashhour continues his discussion from the book of Adaman, analyzing a hadith narrated by Bukhari and Muslim on the authority of Anas regarding the Prophet's military campaigns. The hadith describes how the Prophet would wait outside villages until morning to listen for the Adhan (call to prayer) for Fajr—if heard, he would move on; if not, he would consider the settlement an enemy position. Sh. Ali Mashhour contextualizes this within the geopolitical realities of 7th century Arabia, explaining that towns and villages necessarily aligned with either Quraysh or the Muslims due to trade routes, supply chains, and strategic necessities. The Adhan served as an identifier of Muslim allegiance and identity. He then transitions to discussing the virtues of those who call the Adhan (Muezzins), citing a hadith from Muslim that the Muezzins will have \"the longest necks\" on the Day of Judgment—an Arabic idiom meaning they will have the greatest reward. Sh. Ali Mashhour explains that this honor reflects the Muezzin's role in calling people to prayer and serving as a guide to righteousness, supported by Quranic verse 41:33 about those who call to Allah with righteous deeds.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -47441,5 +47483,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-10-13T12:57:18.626247+00:00"
+  "updated_at": "2026-10-13T20:50:36.667437+00:00"
 }
