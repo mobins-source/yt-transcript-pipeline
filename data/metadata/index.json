@@ -36839,6 +36839,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "V4umtJz7ulc",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20261015",
+      "published_at": "2026-10-15T02:56:35Z",
+      "actual_at": "2026-10-15T02:45:09Z",
+      "duration_seconds": 406,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=V4umtJz7ulc",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Isha",
+      "day_of_week": "Wednesday",
+      "time_slot": "Wednesday-Isha",
+      "post_time": "2026-10-14T19:45:09",
+      "post_date": "2026-10-14",
+      "month": "October",
+      "month_num": 10,
+      "year": 2026,
+      "month_year": "October 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
+      "hadith_chapter": "Chapter on Repentance and Seeking Forgiveness",
+      "topic_tags": [
+        "repentance",
+        "forgiveness",
+        "supplication",
+        "istighfar",
+        "hadith",
+        "prophetic practice",
+        "allah's mercy",
+        "spiritual discipline"
+      ],
+      "suggested_title": "The Practice of Seeking Forgiveness: Hadiths from Riyadul Saliheen",
+      "catchy_title": "Repentance 100 Times in One Sitting",
+      "summary": "Sh. Ali Mashhour presents Islamic teachings on repentance and seeking forgiveness from Riyadul Saliheen, Al-Nawawi's collection. He discusses a hadith from Ibn Umar about the Prophet Muhammad (peace be upon him) reciting the supplication 'My Lord, forgive me and accept my repentance, for You are the Oft-Returning, the Merciful' up to 100 times in a single gathering, as reported by Abu Dawood and Al-Tirmidhi. Sh. Ali Mashhour also shares another hadith from Ibn Abbas emphasizing that whoever persistently seeks forgiveness from Allah will receive relief from distress, worry, and provision from unexpected sources.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -47526,5 +47569,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-10-14T19:44:36.710729+00:00"
+  "updated_at": "2026-10-15T10:18:06.302765+00:00"
 }
