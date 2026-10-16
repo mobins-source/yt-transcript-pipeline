@@ -36942,6 +36942,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "0SJh6Uy_W0c",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20261016",
+      "published_at": "2026-10-16T13:20:05Z",
+      "actual_at": "2026-10-16T12:58:56Z",
+      "duration_seconds": 938,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=0SJh6Uy_W0c",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Friday",
+      "time_slot": "Friday-Fajr",
+      "post_time": "2026-10-16T05:58:56",
+      "post_date": "2026-10-16",
+      "month": "October",
+      "month_num": 10,
+      "year": 2026,
+      "month_year": "October 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Other",
+      "hadith_chapter": "Book of Prayer - Chapters on Adhan",
+      "topic_tags": [
+        "adhan",
+        "call to prayer",
+        "hadith methodology",
+        "sunnah",
+        "islamic jurisprudence",
+        "medina tradition",
+        "mecca tradition",
+        "companions"
+      ],
+      "suggested_title": "The Structure and Variations of the Adhan: Medina and Mecca Traditions",
+      "catchy_title": "How do scholars know where to pause in the Adhan?",
+      "summary": "Sh. Ali Mashhour continues his detailed analysis of the book of prayer, specifically focusing on the chapters regarding the Adhan (Islamic call to prayer). He discusses how scholars of hadith and Islamic jurisprudence have determined the exact structure and pauses of the Adhan by counting statements, tracing this methodology back to the time of the companions. Sh. Ali Mashhour explains the most common Adhan structure used in Medina (consisting of 12 phrases with specific pauses) and contrasts it with the Adhan of Abu Mahzura from Mecca, which includes a unique practice called 'tir' where certain portions are recited in a lower voice. He addresses scholarly differences of opinion regarding separating each statement of the Shahada and clarifies the distinction between what is permissible versus what constitutes the Sunnah practice.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -47629,5 +47672,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-10-16T10:06:32.835575+00:00"
+  "updated_at": "2026-10-16T19:03:12.536672+00:00"
 }
