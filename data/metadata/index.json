@@ -37028,6 +37028,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "bRoFfWhrxVI",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20261017",
+      "published_at": "2026-10-17T14:07:31Z",
+      "actual_at": "2026-10-17T12:57:39Z",
+      "duration_seconds": 1002,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=bRoFfWhrxVI",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Saturday",
+      "time_slot": "Saturday-Fajr",
+      "post_time": "2026-10-17T05:57:39",
+      "post_date": "2026-10-17",
+      "month": "October",
+      "month_num": 10,
+      "year": 2026,
+      "month_year": "October 2026",
+      "content_type": "Hadith",
+      "hadith_book": null,
+      "hadith_chapter": null,
+      "topic_tags": [
+        "adhan",
+        "sunnah",
+        "muezzin",
+        "fajr prayer",
+        "madhabs",
+        "islamic jurisprudence",
+        "ramadan",
+        "dawn prayer"
+      ],
+      "suggested_title": "The Adhan in Islamic Practice: Historical Variations and Jurisprudential Preferences",
+      "catchy_title": "Why did the Prophet have four muezzins?",
+      "summary": "Sh. Ali Mashhour discusses the historical and jurisprudential aspects of the Adhan (Islamic call to prayer) in Islamic tradition. He explains that the Prophet Muhammad had four muezzins across three locations (one in Mecca and two in Medina), each making the Adhan with slight variations that all constitute part of the Sunnah. Sh. Ali Mashhour clarifies that the different schools of Islamic jurisprudence (madhabs) chose different versions of the Adhan as their preferred practice, not because other versions were incorrect, but based on various criteria such as frequency of practice or regional preference. He emphasizes that scholarly differences should not be portrayed as right versus wrong, but rather as preferences within the framework of Sunnah. The lecture then transitions to discussing the dual Adhan system for Fajr prayer, explaining why two calls were established during the Prophet's time and how Abdullah ibn Umm Maktum, despite being blind, would make the second Adhan at the actual time of dawn.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -47715,5 +47758,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-10-17T09:40:19.506389+00:00"
+  "updated_at": "2026-10-17T17:58:42.221617+00:00"
 }
