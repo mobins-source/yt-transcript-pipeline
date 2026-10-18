@@ -37114,6 +37114,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "rXzQrenFoI8",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20261018",
+      "published_at": "2026-10-18T13:40:07Z",
+      "actual_at": "2026-10-18T12:59:14Z",
+      "duration_seconds": 897,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=rXzQrenFoI8",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Sunday",
+      "time_slot": "Sunday-Fajr",
+      "post_time": "2026-10-18T05:59:14",
+      "post_date": "2026-10-18",
+      "month": "October",
+      "month_num": 10,
+      "year": 2026,
+      "month_year": "October 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Other",
+      "hadith_chapter": null,
+      "topic_tags": [
+        "adhan",
+        "fajr",
+        "tawheed",
+        "islamic jurisprudence",
+        "prophet's sunnah",
+        "fiqh differences",
+        "madhabs",
+        "madinah"
+      ],
+      "suggested_title": "The Correct Timing of Tawheed in the Fajr Adhan: First or Second Call",
+      "catchy_title": "When Should We Say Prayer is Better Than Sleep?",
+      "summary": "Sh. Ali Mashhour discusses the issue of when Tawheed (the phrase 'prayer is better than sleep') should be recited during the Fajr Adhan. He explains the historical context of the two Adhans in Medina during the Prophet's time - the first Adhan by Bilal before dawn as a service to the community, and the second by Ibn Umm Maktum at actual dawn when prayer becomes obligatory. Sh. Ali Mashhour clarifies that the Tawheed belongs in the first Adhan because its purpose is to wake people from sleep, while the second Adhan's function is to announce the actual time of prayer. He presents evidence from Islamic jurisprudence, including statements from Ibn Al-Qayyim and the companion Umar, establishing that Tawheed is part of the first Adhan.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -47801,5 +47844,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-10-18T09:53:46.557004+00:00"
+  "updated_at": "2026-10-18T18:17:43.706722+00:00"
 }
