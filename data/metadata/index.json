@@ -37071,6 +37071,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "tDU7hYLFp0w",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20261018",
+      "published_at": "2026-10-18T03:00:17Z",
+      "actual_at": "2026-10-18T02:45:50Z",
+      "duration_seconds": 769,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=tDU7hYLFp0w",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Isha",
+      "day_of_week": "Saturday",
+      "time_slot": "Saturday-Isha",
+      "post_time": "2026-10-17T19:45:50",
+      "post_date": "2026-10-17",
+      "month": "October",
+      "month_num": 10,
+      "year": 2026,
+      "month_year": "October 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Riyadul Saliheen",
+      "hadith_chapter": "Book of Istighfar",
+      "topic_tags": [
+        "istighfar",
+        "forgiveness",
+        "supplication",
+        "riyadul saliheen",
+        "prophetic sunnah",
+        "humility",
+        "spiritual keys",
+        "paradise"
+      ],
+      "suggested_title": "Sayyid al-Istighfar: The Greatest Supplication for Forgiveness",
+      "catchy_title": "The Code to Allah's Forgiveness",
+      "summary": "Sh. Ali Mashhour continues teaching from the Book of Istighfar (Seeking Forgiveness) in Riyadh as-Saliheen by al-Hafiz ibn Sharaf an-Nawawi. He explains that each narration in this collection is like a key unlocking deeper doors to Allah's pleasure and forgiveness. Sh. Ali Mashhour emphasizes the humility of the early scholars, citing Ata ibn Abi Rabah's approach to knowledge, and stresses that forgiveness from Allah requires specific knowledge and practice from the Quran and Sunnah—it cannot be attained accidentally. The lecture focuses on Sayyid al-Istighfar (the greatest form of seeking forgiveness), a comprehensive supplication taught by the Prophet Muhammad that guarantees paradise for those who recite it with conviction before death.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -47758,5 +47801,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-10-17T17:58:42.221617+00:00"
+  "updated_at": "2026-10-18T09:53:46.557004+00:00"
 }
