@@ -37200,6 +37200,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "QlenDUxJByU",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20261019",
+      "published_at": "2026-10-19T13:13:49Z",
+      "actual_at": "2026-10-19T12:58:52Z",
+      "duration_seconds": 794,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=QlenDUxJByU",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Monday",
+      "time_slot": "Monday-Fajr",
+      "post_time": "2026-10-19T05:58:52",
+      "post_date": "2026-10-19",
+      "month": "October",
+      "month_num": 10,
+      "year": 2026,
+      "month_year": "October 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Other",
+      "hadith_chapter": null,
+      "topic_tags": [
+        "adhan",
+        "salah timing",
+        "fiqh",
+        "prophet's sunnah",
+        "prayer rulings",
+        "islamic jurisprudence",
+        "tawheed",
+        "masjid practices"
+      ],
+      "suggested_title": "The Timing of Adhan: Catering to Prayer Time or Prayer Performance",
+      "catchy_title": "Should Adhan Follow the Clock or the Prayer?",
+      "summary": "Sh. Ali Mashhour continues his discussion on the rulings of Adhan in the book of Salah. He explains the two primary functions of Adhan: informing people of the time for prayer and announcing when Salah is about to be performed. Sh. Ali Mashhour clarifies that when these two functions conflict—such as when the time for prayer comes in early but Salah will be performed much later—the Adhan should primarily cater to the Salah rather than the time of prayer. He illustrates this principle with examples from the Prophet's practices during travel, where the Adhan was made around the time of actual prayer performance rather than strictly at the beginning of prayer time. Sh. Ali Mashhour emphasizes that while ideally both functions should be served simultaneously, the primary purpose of Adhan is to signal the upcoming Salah gathering.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -47887,5 +47930,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-10-19T11:15:59.147534+00:00"
+  "updated_at": "2026-10-19T20:44:15.054210+00:00"
 }
