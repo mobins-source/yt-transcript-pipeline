@@ -37157,6 +37157,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "bxe8RhWCIdo",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20261019",
+      "published_at": "2026-10-19T03:00:34Z",
+      "actual_at": "2026-10-19T02:42:52Z",
+      "duration_seconds": 892,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=bxe8RhWCIdo",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Isha",
+      "day_of_week": "Sunday",
+      "time_slot": "Sunday-Isha",
+      "post_time": "2026-10-18T19:42:52",
+      "post_date": "2026-10-18",
+      "month": "October",
+      "month_num": 10,
+      "year": 2026,
+      "month_year": "October 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Sahih Muslim",
+      "hadith_chapter": "Book of Dhikr (Remembrance), Post-Prayer Supplications",
+      "topic_tags": [
+        "dhikr",
+        "post-prayer",
+        "asmaul-husna",
+        "as-salam",
+        "sunnah",
+        "prayer",
+        "hadith",
+        "presence of heart"
+      ],
+      "suggested_title": "The Prophet's Post-Prayer Dhikr: Understanding As-Salam and Seeking Allah's Protection",
+      "catchy_title": "What the Prophet said after every prayer",
+      "summary": "Sh. Ali Mashhour discusses the post-prayer dhikr (remembrance of Allah) narrated in Sahih Muslim, focusing on the Prophet Muhammad's practice of saying specific phrases upon completing the five daily obligatory prayers. Sh. Ali Mashhour explains the meaning of 'As-Salam' (The Perfect One) as one of Allah's names and how it relates to seeking Allah's protection and acknowledging His perfection. Sh. Ali Mashhour emphasizes that these supplications should be recited with full presence of heart and mind, not merely as empty words, and explains how consistent practice of this sunnah can transform one's relationship with Allah.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -47844,5 +47887,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-10-18T18:17:43.706722+00:00"
+  "updated_at": "2026-10-19T11:15:59.147534+00:00"
 }
