@@ -37243,6 +37243,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "xrraz_AOTwc",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20261020",
+      "published_at": "2026-10-20T13:39:42Z",
+      "actual_at": "2026-10-20T12:59:41Z",
+      "duration_seconds": 1054,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=xrraz_AOTwc",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Tuesday",
+      "time_slot": "Tuesday-Fajr",
+      "post_time": "2026-10-20T05:59:41",
+      "post_date": "2026-10-20",
+      "month": "October",
+      "month_num": 10,
+      "year": 2026,
+      "month_year": "October 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Sahih Bukhari",
+      "hadith_chapter": "Book of Adhan (Call to Prayer)",
+      "topic_tags": [
+        "adhan",
+        "call to prayer",
+        "sunnah practice",
+        "bilal",
+        "pronunciation",
+        "islamic method",
+        "muadhin",
+        "ibn taymiyyah"
+      ],
+      "suggested_title": "The Proper Method and Technique of Making the Adhan: Grammar, Pronunciation, and Sunnah Practice",
+      "catchy_title": "How to Make the Adhan Correctly",
+      "summary": "Sh. Ali Mashhour delivers a detailed lecture on the proper methodology and technique of making the Adhan (Islamic call to prayer). He addresses common grammatical and pronunciation mistakes made by people attempting to perform the Adhan, including proper emphasis on Arabic letters and correct enunciation of the testimonies. Sh. Ali Mashhour explains the Sunnah method of placing fingers in the ears and thumbs on the earlobes while making the call, a practice traced back to Bilal and endorsed by Ibn Taymiyyah, emphasizing how this technique helps amplify the Adhan's reach. He discusses the practical benefits of these methods, including allowing the Mu'adhin to hear themselves properly to avoid voice strain, and clarifies that these practices remain relevant even with modern microphones used in indoor prayer spaces.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -47930,5 +47973,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-10-20T10:25:09.757339+00:00"
+  "updated_at": "2026-10-20T19:39:02.598060+00:00"
 }
