@@ -37286,6 +37286,48 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "qjz-n9m7yjk",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20261021",
+      "published_at": "2026-10-21T13:17:16Z",
+      "actual_at": "2026-10-21T12:57:06Z",
+      "duration_seconds": 683,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=qjz-n9m7yjk",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Wednesday",
+      "time_slot": "Wednesday-Fajr",
+      "post_time": "2026-10-21T05:57:06",
+      "post_date": "2026-10-21",
+      "month": "October",
+      "month_num": 10,
+      "year": 2026,
+      "month_year": "October 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Other",
+      "hadith_chapter": null,
+      "topic_tags": [
+        "adhan",
+        "iqamah",
+        "hadith",
+        "call to prayer",
+        "etiquette",
+        "duas",
+        "islamic jurisprudence"
+      ],
+      "suggested_title": "The Etiquette of Responding to the Adhan and Iqamah",
+      "catchy_title": "What to Say When You Hear the Call to Prayer",
+      "summary": "Sh. Ali Mashhour discusses the Islamic rulings and recommended practices when hearing the Adhan (call to prayer) and Iqamah (second call to prayer). He explains the hadith from Abu Said al-Khudri where the Prophet Muhammad instructed believers to repeat the words of the Muezzin (caller to prayer). Sh. Ali Mashhour addresses the specific responses for different parts of the Adhan and Iqamah, including the proper use of Tahleel (La ilaha illallah) and Hawqala (La hawla wa la quwwata illa billah), while noting scholarly differences of opinion on these practices.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -47973,5 +48015,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-10-21T10:35:18.574388+00:00"
+  "updated_at": "2026-10-21T19:41:01.832172+00:00"
 }
