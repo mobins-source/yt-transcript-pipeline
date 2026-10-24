@@ -37547,17 +37547,43 @@
       "title": "Muslim Community Center Of Tucson",
       "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
       "channel_name": "Muslim Comminity Center of Tucson",
-      "upload_date": "20261023",
-      "published_at": "2026-10-23T20:44:25Z",
+      "upload_date": "20261024",
+      "published_at": "2026-10-24T08:49:54Z",
       "actual_at": "2026-10-23T20:01:54Z",
-      "duration_seconds": 2551,
+      "duration_seconds": 2554,
       "view_count": null,
       "url": "https://www.youtube.com/watch?v=pmnxEUMN8rk",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": false,
-      "has_clean_srt": false,
-      "has_clean_txt": false
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Zuhr",
+      "day_of_week": "Friday",
+      "time_slot": "Jumaa Khutba",
+      "post_time": "2026-10-23T13:01:54",
+      "post_date": "2026-10-23",
+      "month": "October",
+      "month_num": 10,
+      "year": 2026,
+      "month_year": "October 2026",
+      "content_type": "Quran",
+      "hadith_book": "Other",
+      "hadith_chapter": null,
+      "topic_tags": [
+        "wudoo",
+        "ablution",
+        "footwear",
+        "khuff",
+        "purity",
+        "salah",
+        "quran",
+        "sunnah"
+      ],
+      "suggested_title": "Wiping Over Footwear in Wudoo: Rules, Rulings, and Mercy from Allah",
+      "catchy_title": "Why We Wipe Our Shoes, Not Our Feet",
+      "summary": "Sh. Ali Mashhour delivers a detailed lecture on the Islamic practice of wudoo (ablution), specifically focusing on the rulings and etiquette of wiping over footwear. He explains that wiping over socks, shoes, or leather coverings (khuff) is a mercy from Allah mentioned in Surah Al-Ma'idah (verse 6) and is unanimously agreed upon by Islamic scholars. Sh. Ali Mashhour clarifies the historical context, distinguishing between the strict requirement of making fresh wudoo before each prayer in early Islam and the later relaxation of this rule, which was replaced with the strong encouragement to brush teeth. He describes the proper method of wiping—placing wet hands over the tops of the feet once after completing ablution—and explains the time limits: 24 hours for non-travelers and three days and nights for travelers. Sh. Ali Mashhour emphasizes that this practice is a spiritual purification beyond physical cleaning, citing examples from the Prophet's practice and scholars' writings on the effects of wudoo on the soul.",
+      "srt_status": "pending"
     },
     {
       "video_id": "-JCfAqCl2iw",
@@ -48247,5 +48273,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-10-24T06:28:45.035010+00:00"
+  "updated_at": "2026-10-24T09:47:43.263365+00:00"
 }
