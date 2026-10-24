@@ -37499,6 +37499,67 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "LnkUpwz0qg8",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20261024",
+      "published_at": "2026-10-24T03:25:02Z",
+      "actual_at": "2026-10-24T02:44:48Z",
+      "duration_seconds": 2113,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=LnkUpwz0qg8",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Isha",
+      "day_of_week": "Friday",
+      "time_slot": "Friday-Isha",
+      "post_time": "2026-10-23T19:44:48",
+      "post_date": "2026-10-23",
+      "month": "October",
+      "month_num": 10,
+      "year": 2026,
+      "month_year": "October 2026",
+      "content_type": "General",
+      "hadith_book": null,
+      "hadith_chapter": null,
+      "topic_tags": [
+        "ihsan",
+        "pillars of islam",
+        "children's education",
+        "islamic practice",
+        "divine accountability",
+        "angels",
+        "fitra",
+        "worship",
+        "moral development"
+      ],
+      "suggested_title": "Understanding Ihsan: Worshipping Allah as if You Can See Him - Lesson for Children",
+      "catchy_title": "Worship as if Allah is watching—because He is",
+      "summary": "Sh. Ali Mashhour delivers an engaging lesson to children about the concept of Ihsan (Islamic excellence), the third level of Islamic practice after Islam and Iman. He uses interactive teaching methods, asking children to recall previous lessons about the Five Pillars of Islam and Six Pillars of Iman. Sh. Ali Mashhour explains that Ihsan means to worship Allah as if you can see Him, or at minimum, knowing that Allah sees you always. He emphasizes this through discussions about the sophistication of the human body (eyes, taste, hands, brain, heart), the presence of eight angels constantly with each person, and divine protection. Sh. Ali Mashhour helps children understand that Allah gave us these incredible abilities and protections so we would be accountable for our actions and motivated to practice worship perfectly.",
+      "srt_status": "pending"
+    },
+    {
+      "video_id": "pmnxEUMN8rk",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20261023",
+      "published_at": "2026-10-23T20:44:25Z",
+      "actual_at": "2026-10-23T20:01:54Z",
+      "duration_seconds": 2551,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=pmnxEUMN8rk",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": false,
+      "has_clean_srt": false,
+      "has_clean_txt": false
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -48186,5 +48247,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-10-23T19:34:14.189105+00:00"
+  "updated_at": "2026-10-24T06:28:45.035010+00:00"
 }
