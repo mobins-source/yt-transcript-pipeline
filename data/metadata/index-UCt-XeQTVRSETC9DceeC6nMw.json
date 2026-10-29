@@ -33161,7 +33161,46 @@
       "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
+    },
+    {
+      "video_id": "4oCwiFRr4vQ",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "actual_at": "2026-10-29T03:36:19Z",
+      "duration_seconds": 271,
+      "url": "https://www.youtube.com/watch?v=4oCwiFRr4vQ",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": false,
+      "has_clean_srt": false,
+      "has_clean_txt": false
+    },
+    {
+      "video_id": "QIdYljpKXxA",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "actual_at": "2026-10-29T03:30:26Z",
+      "duration_seconds": 56,
+      "url": "https://www.youtube.com/watch?v=QIdYljpKXxA",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": false,
+      "has_clean_srt": false,
+      "has_clean_txt": false
+    },
+    {
+      "video_id": "y6HYK1RNq2c",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "actual_at": "2026-10-29T02:46:05Z",
+      "duration_seconds": 148,
+      "url": "https://www.youtube.com/watch?v=y6HYK1RNq2c",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": false,
+      "has_clean_srt": false,
+      "has_clean_txt": false
     }
   ],
-  "updated_at": "2026-10-28T20:35:47.887276+00:00"
+  "updated_at": "2026-10-29T11:45:35.148569+00:00"
 }
