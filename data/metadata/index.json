@@ -37936,6 +37936,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "ytCxyn-l8DE",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20261031",
+      "published_at": "2026-10-31T15:59:40Z",
+      "actual_at": "2026-10-31T13:13:57Z",
+      "duration_seconds": 1142,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=ytCxyn-l8DE",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Saturday",
+      "time_slot": "Saturday-Fajr",
+      "post_time": "2026-10-31T06:13:57",
+      "post_date": "2026-10-31",
+      "month": "October",
+      "month_num": 10,
+      "year": 2026,
+      "month_year": "October 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Other",
+      "hadith_chapter": "Conditions of Prayer",
+      "topic_tags": [
+        "conditions of salah",
+        "purification",
+        "najasa",
+        "prayer validity",
+        "fiqh rulings",
+        "intention",
+        "qibla direction",
+        "Islamic jurisprudence"
+      ],
+      "suggested_title": "The Conditions of Salah: Purifying from Filth and Its Jurisprudential Rulings",
+      "catchy_title": "Why Filth Doesn't Invalidate Your Prayer",
+      "summary": "Sh. Ali Mashhour continues his detailed discussion on the conditions of prayer (salah), specifically focusing on the third condition: purifying one's clothing, body, and place of prayer. He explains that unlike other conditions of prayer which require intention to be valid acts of worship, purifying oneself from filth (najasa) is not an independent act of worship and therefore does not require intention. This distinction means that if a person realizes after completing their prayer that there was filth present, they do not need to repeat their prayer. Sh. Ali Mashhour illustrates this principle with the example of the Prophet (peace be upon him) removing his shoes during prayer when he discovered filth on them, yet continuing his prayer without repeating it.\n\nSh. Ali Mashhour further discusses two exceptions among the nine conditions of prayer where this ruling applies: the presence of filth and the direction of the qibla. He addresses complex scenarios, such as when removing an article of clothing to eliminate filth would violate the condition of covering one's body. In such cases, Sh. Ali Mashhour clarifies that the person should continue their prayer, as ignorance and forgetfulness are treated similarly in Islamic jurisprudence, and the prayer remains valid.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -48623,5 +48666,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-10-31T11:15:05.650995+00:00"
+  "updated_at": "2026-10-31T19:35:13.807703+00:00"
 }
