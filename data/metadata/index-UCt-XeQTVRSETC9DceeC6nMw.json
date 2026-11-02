@@ -33448,14 +33448,39 @@
       "title": "Muslim Community Center Of Tucson",
       "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
       "actual_at": "2026-11-02T13:13:48Z",
-      "duration_seconds": 915,
+      "duration_seconds": 919,
       "url": "https://www.youtube.com/watch?v=mgCD8JTbHag",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": false,
-      "has_clean_srt": false,
-      "has_clean_txt": false
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Monday",
+      "time_slot": "Monday-Fajr",
+      "post_time": "2026-11-02T06:13:48",
+      "post_date": "2026-11-02",
+      "month": "November",
+      "month_num": 11,
+      "year": 2026,
+      "month_year": "November 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Sahih Bukhari",
+      "hadith_chapter": "Book of Salah - Conditions of Salah",
+      "topic_tags": [
+        "awrah",
+        "salah requirements",
+        "male covering",
+        "prayer conditions",
+        "hadith",
+        "fiqh",
+        "Islamic jurisprudence",
+        "clothing in prayer"
+      ],
+      "suggested_title": "The Conditions of Salah: Male Awrah and Proper Covering During Prayer",
+      "catchy_title": "What Must Men Cover in Prayer?",
+      "summary": "Sh. Ali Mashhour continues his discussion of the conditions of salah, specifically focusing on the fourth condition regarding mandatory body coverage during prayer. He explains the distinction between covering requirements in salah versus in public, and provides detailed guidance on male awrah (priv"
     }
   ],
-  "updated_at": "2026-11-02T13:50:50.584636+00:00"
+  "updated_at": "2026-11-02T23:14:19.010195+00:00"
 }

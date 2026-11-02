@@ -38027,16 +38027,42 @@
       "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
       "channel_name": "Muslim Comminity Center of Tucson",
       "upload_date": "20261102",
-      "published_at": "2026-11-02T13:29:04Z",
+      "published_at": "2026-11-02T15:09:00Z",
       "actual_at": "2026-11-02T13:13:48Z",
-      "duration_seconds": 915,
+      "duration_seconds": 919,
       "view_count": null,
       "url": "https://www.youtube.com/watch?v=mgCD8JTbHag",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": false,
-      "has_clean_srt": false,
-      "has_clean_txt": false
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Monday",
+      "time_slot": "Monday-Fajr",
+      "post_time": "2026-11-02T06:13:48",
+      "post_date": "2026-11-02",
+      "month": "November",
+      "month_num": 11,
+      "year": 2026,
+      "month_year": "November 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Sahih Bukhari",
+      "hadith_chapter": "Book of Salah - Conditions of Salah",
+      "topic_tags": [
+        "awrah",
+        "salah requirements",
+        "male covering",
+        "prayer conditions",
+        "hadith",
+        "fiqh",
+        "Islamic jurisprudence",
+        "clothing in prayer"
+      ],
+      "suggested_title": "The Conditions of Salah: Male Awrah and Proper Covering During Prayer",
+      "catchy_title": "What Must Men Cover in Prayer?",
+      "summary": "Sh. Ali Mashhour continues his discussion of the conditions of salah, specifically focusing on the fourth condition regarding mandatory body coverage during prayer. He explains the distinction between covering requirements in salah versus in public, and provides detailed guidance on male awrah (private parts). According to Islamic jurisprudence, men must cover from the navel to the knees (inclusive) with clothing that is neither tight nor transparent. Sh. Ali Mashhour emphasizes that seeing skin color through fabric invalidates the prayer. Additionally, he introduces the often-overlooked requirement that both shoulders must be covered, citing a hadith from Sahih Bukhari. He addresses common mistakes, such as t-shirts that expose the back during sujud or white thobes worn without undergarments.",
+      "srt_status": "pending"
     },
     {
       "video_id": "-JCfAqCl2iw",
@@ -48726,5 +48752,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-11-02T13:50:52.063866+00:00"
+  "updated_at": "2026-11-02T23:14:19.936550+00:00"
 }
