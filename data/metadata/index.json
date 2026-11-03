@@ -38065,6 +38065,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "3Q0Q7GlsUPo",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20261103",
+      "published_at": "2026-11-03T13:36:50Z",
+      "actual_at": "2026-11-03T13:14:21Z",
+      "duration_seconds": 985,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=3Q0Q7GlsUPo",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Tuesday",
+      "time_slot": "Tuesday-Fajr",
+      "post_time": "2026-11-03T06:14:21",
+      "post_date": "2026-11-03",
+      "month": "November",
+      "month_num": 11,
+      "year": 2026,
+      "month_year": "November 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Sahih Bukhari",
+      "hadith_chapter": null,
+      "topic_tags": [
+        "awrah",
+        "dress code",
+        "ihram",
+        "hajj",
+        "umrah",
+        "prayer etiquette",
+        "Islamic jurisprudence",
+        "hadith"
+      ],
+      "suggested_title": "The Proper Dress Code for Prayer and the Historical Context of Ihram During Hajj",
+      "catchy_title": "Why You're Wearing Your Ihram Wrong",
+      "summary": "Sh. Ali Mashhour discusses the proper Islamic dress code for prayer (awrah) for men, clarifying a common misconception about how the ihram should be worn during Hajj and Umrah. He explains that according to hadith in Sahih Bukhari and Sahih Muslim, a man must cover from above the navel to below the knee and both shoulders during prayer. Sh. Ali Mashhour then provides historical context about the practice of draping the ihram over one shoulder, tracing it back to the conquest of Mecca when Muslims displayed the ihram this way for the first three circumambulations of the Kaaba as a symbol of strength and victory. He emphasizes that this specific draping was meant only for those three laps as a commemoration, not as a fixed way of dress, and that wearing the ihram this way throughout Hajj or Umrah is a widespread mistake. Sh. Ali Mashhour also addresses media misconceptions about how the Prophet and Companions dressed, correcting inaccurate depictions in historical films.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -48752,5 +48795,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-11-03T13:00:01.775418+00:00"
+  "updated_at": "2026-11-03T21:17:33.872169+00:00"
 }
