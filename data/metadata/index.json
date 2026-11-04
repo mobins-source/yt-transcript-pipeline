@@ -38113,16 +38113,42 @@
       "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
       "channel_name": "Muslim Comminity Center of Tucson",
       "upload_date": "20261104",
-      "published_at": "2026-11-04T13:13:41Z",
+      "published_at": "2026-11-04T13:36:59Z",
       "actual_at": "2026-11-04T13:13:41Z",
-      "duration_seconds": 0,
+      "duration_seconds": 892,
       "view_count": null,
       "url": "https://www.youtube.com/watch?v=ccM5O0jpLkw",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": false,
-      "has_clean_srt": false,
-      "has_clean_txt": false
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Wednesday",
+      "time_slot": "Wednesday-Fajr",
+      "post_time": "2026-11-04T06:13:41",
+      "post_date": "2026-11-04",
+      "month": "November",
+      "month_num": 11,
+      "year": 2026,
+      "month_year": "November 2026",
+      "content_type": "General",
+      "hadith_book": null,
+      "hadith_chapter": null,
+      "topic_tags": [
+        "awrah",
+        "modesty",
+        "Islamic dress",
+        "prayer requirements",
+        "fiqh",
+        "female hijab",
+        "tawaf",
+        "Islamic jurisprudence"
+      ],
+      "suggested_title": "Islamic Rules of Modesty (Awrah) in Prayer and Worship",
+      "catchy_title": "What Must Be Covered in Prayer?",
+      "summary": "Sh. Ali Mashhour provides a detailed Islamic jurisprudential analysis of the rules of covering (awrah) for both men and women during prayer and other Islamic activities. He explains that a man's awrah extends from the navel to below the knees, including both shoulders, while a woman must cover her entire body except for her face and hands during prayer. Sh. Ali Mashhour references scholarly consensus and specific narrations from the Prophet's companions, particularly addressing the difference between covering requirements in private prayer versus public settings like Tawaf around the Kaaba. He discusses the conditions for proper covering, including that garments must not be transparent and must not reveal skin color underneath.",
+      "srt_status": "pending"
     },
     {
       "video_id": "-JCfAqCl2iw",
@@ -48812,5 +48838,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-11-04T13:16:13.495110+00:00"
+  "updated_at": "2026-11-04T21:33:15.763395+00:00"
 }

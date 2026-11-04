@@ -33524,14 +33524,39 @@
       "title": "Muslim Community Center Of Tucson",
       "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
       "actual_at": "2026-11-04T13:13:41Z",
-      "duration_seconds": 0,
+      "duration_seconds": 892,
       "url": "https://www.youtube.com/watch?v=ccM5O0jpLkw",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": false,
-      "has_clean_srt": false,
-      "has_clean_txt": false
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Wednesday",
+      "time_slot": "Wednesday-Fajr",
+      "post_time": "2026-11-04T06:13:41",
+      "post_date": "2026-11-04",
+      "month": "November",
+      "month_num": 11,
+      "year": 2026,
+      "month_year": "November 2026",
+      "content_type": "General",
+      "hadith_book": null,
+      "hadith_chapter": null,
+      "topic_tags": [
+        "awrah",
+        "modesty",
+        "Islamic dress",
+        "prayer requirements",
+        "fiqh",
+        "female hijab",
+        "tawaf",
+        "Islamic jurisprudence"
+      ],
+      "suggested_title": "Islamic Rules of Modesty (Awrah) in Prayer and Worship",
+      "catchy_title": "What Must Be Covered in Prayer?",
+      "summary": "Sh. Ali Mashhour provides a detailed Islamic jurisprudential analysis of the rules of covering (awrah) for both men and women during prayer and other Islamic activities. He explains that a man's awrah extends from the navel to below the knees, including both shoulders, while a woman must cover her e"
     }
   ],
-  "updated_at": "2026-11-04T13:16:12.784459+00:00"
+  "updated_at": "2026-11-04T21:33:15.069966+00:00"
 }
