@@ -38151,6 +38151,66 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "F1gl5hIZnlY",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20261105",
+      "published_at": "2026-11-05T13:15:20Z",
+      "actual_at": "2026-11-05T13:15:20Z",
+      "duration_seconds": 0,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=F1gl5hIZnlY",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": false,
+      "has_clean_srt": false,
+      "has_clean_txt": false
+    },
+    {
+      "video_id": "rJbu-M4VMMg",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20261105",
+      "published_at": "2026-11-05T03:14:29Z",
+      "actual_at": "2026-11-05T02:42:32Z",
+      "duration_seconds": 876,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=rJbu-M4VMMg",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Isha",
+      "day_of_week": "Wednesday",
+      "time_slot": "Wednesday-Isha",
+      "post_time": "2026-11-04T19:42:32",
+      "post_date": "2026-11-04",
+      "month": "November",
+      "month_num": 11,
+      "year": 2026,
+      "month_year": "November 2026",
+      "content_type": "Quran",
+      "hadith_book": null,
+      "hadith_chapter": null,
+      "topic_tags": [
+        "paradise",
+        "quran interpretation",
+        "linguistic analysis",
+        "believers",
+        "righteousness",
+        "spiritual bliss",
+        "afterlife",
+        "quranic grammar"
+      ],
+      "suggested_title": "Understanding Paradise: Linguistic Analysis of Quranic Descriptions of Bliss and the Righteous",
+      "catchy_title": "What Does Paradise Really Mean in the Quran?",
+      "summary": "Sh. Ali Mashhour continues his study of the final chapter of a hadith collection dedicated to descriptions of paradise. He provides a detailed linguistic and theological analysis of Quranic verses describing believers in a state of bliss (naim). Sh. Ali Mashhour explains the grammatical significance of how Allah uses present tense to describe future certainty, clarifies that believers experience spiritual bliss even before the hereafter, and provides etymological insights into the term 'abrar' (the righteous). He then categorizes the inhabitants of paradise into three groups: the people of the right, the people of the left, and those closest to Allah, noting that most Quranic descriptions of paradise refer to its lower levels, as the highest levels transcend ordinary description.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -48838,5 +48898,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-11-04T21:33:15.763395+00:00"
+  "updated_at": "2026-11-05T13:29:49.062937+00:00"
 }
