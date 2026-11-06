@@ -38242,16 +38242,42 @@
       "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
       "channel_name": "Muslim Comminity Center of Tucson",
       "upload_date": "20261106",
-      "published_at": "2026-11-06T13:13:53Z",
-      "actual_at": "2026-11-06T13:13:59Z",
-      "duration_seconds": 0,
+      "published_at": "2026-11-06T13:33:42Z",
+      "actual_at": "2026-11-06T13:14:03Z",
+      "duration_seconds": 896,
       "view_count": null,
       "url": "https://www.youtube.com/watch?v=CoFk9FzqkkM",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": false,
-      "has_clean_srt": false,
-      "has_clean_txt": false
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Friday",
+      "time_slot": "Friday-Fajr",
+      "post_time": "2026-11-06T06:14:03",
+      "post_date": "2026-11-06",
+      "month": "November",
+      "month_num": 11,
+      "year": 2026,
+      "month_year": "November 2026",
+      "content_type": "General",
+      "hadith_book": null,
+      "hadith_chapter": null,
+      "topic_tags": [
+        "islamic dress code",
+        "awrah",
+        "hijab",
+        "salah conditions",
+        "modesty",
+        "fiqh",
+        "imitation of disbelievers",
+        "islamic jurisprudence"
+      ],
+      "suggested_title": "Islamic Dress Code: Eight Scholarly Conditions for Covering the Awrah",
+      "catchy_title": "How Muslims Should Dress: Five Conditions Explained",
+      "summary": "Sh. Ali Mashhour continues teaching about the conditions of salah, specifically focusing on the rules of covering the 'awrah (private parts) in Islamic dress. He outlines eight scholarly conditions for Islamic dress for both men and women, covering requirements such as complete body coverage, appropriate fit and opacity, and the prohibition of imitating disbelievers or immoral people. Sh. Ali Mashhour emphasizes that clothing cannot be specific to non-Muslims or those of bad character—whether in the garment itself, its color, or how it is worn—and illustrates this principle with examples ranging from religious symbols to tattoos and gang-related clothing styles. He stresses that Muslims must deliberately differentiate themselves through their appearance, and this applies even to private settings.",
+      "srt_status": "pending"
     },
     {
       "video_id": "TFnKq1WPyKs",
@@ -38295,6 +38321,23 @@
       "catchy_title": "What Do the Righteous See in Paradise?",
       "summary": "Sh. Ali Mashhour provides a detailed Quranic exegesis of verses 22-28 from Surah Al-Mutaffifin, focusing on vivid descriptions of paradise. He explains how the righteous will be seated upon luxurious, elevated couches from which they will view Allah, their faces radiating the bliss of this sight. Sh. Ali Mashhour emphasizes the contrast between paradise dwellers who are permitted to see Allah and the people of hellfire who are veiled from Him. He then elaborates on the gifts granted to the inhabitants of paradise, particularly the sealed nectar—a drink of pure, essence-refined fruits—whose seal is made of musk, signifying that even the seal itself is a source of pleasure.",
       "srt_status": "pending"
+    },
+    {
+      "video_id": "FT0yauJnui4",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20261106",
+      "published_at": "2026-11-06T20:44:42Z",
+      "actual_at": "2026-11-06T20:01:44Z",
+      "duration_seconds": 0,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=FT0yauJnui4",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": false,
+      "has_clean_srt": false,
+      "has_clean_txt": false
     },
     {
       "video_id": "-JCfAqCl2iw",
@@ -48984,5 +49027,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-11-06T13:14:50.340097+00:00"
+  "updated_at": "2026-11-06T21:06:19.805674+00:00"
 }
