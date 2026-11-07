@@ -33714,13 +33714,38 @@
       "title": "Muslim Community Center Of Tucson",
       "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
       "actual_at": "2026-11-06T20:01:44Z",
-      "duration_seconds": 2577,
+      "duration_seconds": 2579,
       "url": "https://www.youtube.com/watch?v=FT0yauJnui4",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": false,
-      "has_clean_srt": false,
-      "has_clean_txt": false
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Zuhr",
+      "day_of_week": "Friday",
+      "time_slot": "Jumaa Khutba",
+      "post_time": "2026-11-06T13:01:44",
+      "post_date": "2026-11-06",
+      "month": "November",
+      "month_num": 11,
+      "year": 2026,
+      "month_year": "November 2026",
+      "content_type": "Mixed",
+      "hadith_book": "Other",
+      "hadith_chapter": null,
+      "topic_tags": [
+        "islamic brotherhood",
+        "unity",
+        "division",
+        "quran and sunnah",
+        "sectarianism",
+        "community",
+        "gossip",
+        "muslim identity"
+      ],
+      "suggested_title": "The Precious Gift of Islamic Brotherhood: Unity, Discord, and the Rope of Allah",
+      "catchy_title": "Why Your Muslim Brotherhood Cannot Be Taken for Granted",
+      "summary": "Sh. Ali Mashhour delivers a comprehensive lecture on the Islamic concept of brotherhood (ukhuwwa) among believers, emphasizing that Muslim brotherhood is an exclusive bond ordained by Allah and grounded in the Quran and Sunnah. He explains that believers are interdependent like bricks in a wall or a"
     },
     {
       "video_id": "cjkXTP0OCLM",
@@ -33736,5 +33761,5 @@
       "has_clean_txt": false
     }
   ],
-  "updated_at": "2026-11-07T07:47:18.932958+00:00"
+  "updated_at": "2026-11-07T11:55:45.172620+00:00"
 }
