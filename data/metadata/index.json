@@ -38452,6 +38452,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "3e7xFv4BLKU",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20261108",
+      "published_at": "2026-11-08T03:27:22Z",
+      "actual_at": "2026-11-08T02:46:21Z",
+      "duration_seconds": 1077,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=3e7xFv4BLKU",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Isha",
+      "day_of_week": "Saturday",
+      "time_slot": "Saturday-Isha",
+      "post_time": "2026-11-07T19:46:21",
+      "post_date": "2026-11-07",
+      "month": "November",
+      "month_num": 11,
+      "year": 2026,
+      "month_year": "November 2026",
+      "content_type": "Quran",
+      "hadith_book": "Sahih Muslim",
+      "hadith_chapter": null,
+      "topic_tags": [
+        "paradise",
+        "quran exegesis",
+        "tafsir",
+        "afterlife",
+        "believers",
+        "tasnim river",
+        "quranic descriptions",
+        "hadith"
+      ],
+      "suggested_title": "Understanding Paradise: Quranic Descriptions of the Believers' Reward",
+      "catchy_title": "What does paradise truly taste like?",
+      "summary": "Sh. Ali Mashhour delivers a detailed Quranic exegesis on paradise, focusing on Quran verses 22-28 from the final chapter of a Quranic text. He explains that the descriptions provided in the Quran depict the lower levels of paradise, as the higher levels transcend human comprehension. Sh. Ali Mashhour elaborates on the blessings awaiting believers, including luxurious furnishings, sealed wine (al-raheeq), and water from the river Tasnim. He emphasizes that the aftertaste of paradise's wine is musk, distinguishing it from earthly beverages, and explains that while Tasnim originates from the highest levels of paradise, it flows down to lower levels where believers drink from it.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -49139,5 +49182,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-11-07T19:40:30.290066+00:00"
+  "updated_at": "2026-11-08T12:12:10.468073+00:00"
 }
