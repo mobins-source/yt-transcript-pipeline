@@ -38495,6 +38495,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "bPHT689PUFM",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20261108",
+      "published_at": "2026-11-08T13:38:06Z",
+      "actual_at": "2026-11-08T13:15:11Z",
+      "duration_seconds": 1050,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=bPHT689PUFM",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Sunday",
+      "time_slot": "Sunday-Fajr",
+      "post_time": "2026-11-08T06:15:11",
+      "post_date": "2026-11-08",
+      "month": "November",
+      "month_num": 11,
+      "year": 2026,
+      "month_year": "November 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Other",
+      "hadith_chapter": "Narrations regarding hijab, modesty, and the prohibition of libas",
+      "topic_tags": [
+        "hijab",
+        "libas",
+        "modesty",
+        "women's dress",
+        "men's dress",
+        "islamic dress code",
+        "hadith",
+        "major sins"
+      ],
+      "suggested_title": "The Seventh and Eighth Conditions of Hijab: Avoiding Excessive Distinction and Perfume in Public",
+      "catchy_title": "Why Your Clothes Shouldn't Make You Famous",
+      "summary": "Sh. Ali Mashhour continues his lecture on the conditions of hijab by discussing the final two of eight conditions. The seventh condition applies to both men and women: clothing should not constitute 'libas,' which refers to garments that are so distinctly different from what the community wears that a person becomes identifiable by that clothing alone. Sh. Ali Mashhour explains that wearing libas is a major sin in Islam, using examples like someone wearing cowboy attire or exotic fur coats to an Islamic gathering. He clarifies that uniforms specific to professions (police, military, scholars) are exceptions since they are standard within their fields. The eighth and final condition is specific to women: they must not wear perfume or scented products in public, as this attracts attention from non-mahram men and invalidates prayer. Sh. Ali Mashhour supports this with an authentic narration from Abu Hurairah about a woman who came to pray wearing perfume and was instructed to bathe before her prayer would be accepted.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -49182,5 +49225,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-11-08T12:12:10.468073+00:00"
+  "updated_at": "2026-11-08T20:00:01.132989+00:00"
 }
