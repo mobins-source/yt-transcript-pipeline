@@ -38624,6 +38624,48 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "e09PMqAQr3E",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20261110",
+      "published_at": "2026-11-10T13:31:32Z",
+      "actual_at": "2026-11-10T13:13:36Z",
+      "duration_seconds": 941,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=e09PMqAQr3E",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Tuesday",
+      "time_slot": "Tuesday-Fajr",
+      "post_time": "2026-11-10T06:13:36",
+      "post_date": "2026-11-10",
+      "month": "November",
+      "month_num": 11,
+      "year": 2026,
+      "month_year": "November 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Other",
+      "hadith_chapter": "Conditions of Salah - Qibla Direction",
+      "topic_tags": [
+        "qibla direction",
+        "salah conditions",
+        "fiqh",
+        "hadith",
+        "Islamic jurisprudence",
+        "worship",
+        "prayer guidelines"
+      ],
+      "suggested_title": "Understanding the Qibla Direction in Prayer: Approximation vs. Precision",
+      "catchy_title": "Why Your Masjid's Qibla Direction Doesn't Need to Be Perfect",
+      "summary": "Sh. Ali Mashhour continues his discussion on the conditions of salah, specifically focusing on the fifth condition regarding the direction toward the Kaaba (Qibla). He explains the scholarly differences in interpreting what 'direction' means—some scholars requiring exact precision while the majority understanding it as approximate direction. Sh. Ali Mashhour clarifies that approximately 45 degrees off in either direction is acceptable, and shares his experience with Muslims who obsess over minor directional discrepancies in masjids. He uses Quranic and prophetic narrations to demonstrate that the Prophet (peace be upon him) taught companions approximate directions (east-west guidelines) rather than precise calculations, emphasizing that Islam is a religion accessible to all people regardless of their mathematical or astronomical knowledge.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -49311,5 +49353,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-11-09T23:52:04.235860+00:00"
+  "updated_at": "2026-11-10T13:46:29.456667+00:00"
 }
