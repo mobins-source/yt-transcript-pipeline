@@ -38714,16 +38714,42 @@
       "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
       "channel_name": "Muslim Comminity Center of Tucson",
       "upload_date": "20261112",
-      "published_at": "2026-11-12T13:27:45Z",
+      "published_at": "2026-11-12T14:10:50Z",
       "actual_at": "2026-11-12T13:14:20Z",
-      "duration_seconds": 805,
+      "duration_seconds": 810,
       "view_count": null,
       "url": "https://www.youtube.com/watch?v=ZBKHSKPYvFo",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": false,
-      "has_clean_srt": false,
-      "has_clean_txt": false
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Thursday",
+      "time_slot": "Thursday-Fajr",
+      "post_time": "2026-11-12T06:14:20",
+      "post_date": "2026-11-12",
+      "month": "November",
+      "month_num": 11,
+      "year": 2026,
+      "month_year": "November 2026",
+      "content_type": "Mixed",
+      "hadith_book": "Al-Wajeez",
+      "hadith_chapter": "Book of Prayer (Conditions of Salah)",
+      "topic_tags": [
+        "intention",
+        "niyyah",
+        "salah conditions",
+        "islamic jurisprudence",
+        "fiqh",
+        "prayer",
+        "misconceptions",
+        "madhabs"
+      ],
+      "suggested_title": "The Sixth Condition of Salah: Understanding the Intention (Niyyah) Without Misconception",
+      "catchy_title": "Must You Say Your Intention Before Prayer?",
+      "summary": "Sh. Ali Mashhour continues his detailed analysis of the conditions of salah using the book Al-Wajeez. In this session, he addresses the sixth and final condition discussed by the author: intention (niyyah). Sh. Ali Mashhour clarifies a widespread misconception that Muslims must verbally pronounce their intention before prayer. He explains that intention is a natural, internal act of the heart that occurs before any action, and that verbalizing it is neither required nor supported by Islamic scholarship. He demonstrates the logical absurdity of pronouncing intentions and notes that none of the four major Islamic schools (madhabs) require this practice, nor did the Prophet Muhammad or his companions ever do so.",
+      "srt_status": "pending"
     },
     {
       "video_id": "-JCfAqCl2iw",
@@ -49413,5 +49439,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-11-12T13:59:03.073829+00:00"
+  "updated_at": "2026-11-12T23:57:43.560211+00:00"
 }

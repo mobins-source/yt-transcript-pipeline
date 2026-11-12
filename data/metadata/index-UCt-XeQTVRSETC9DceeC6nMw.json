@@ -34055,14 +34055,39 @@
       "title": "Muslim Community Center Of Tucson",
       "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
       "actual_at": "2026-11-12T13:14:20Z",
-      "duration_seconds": 805,
+      "duration_seconds": 810,
       "url": "https://www.youtube.com/watch?v=ZBKHSKPYvFo",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": false,
-      "has_clean_srt": false,
-      "has_clean_txt": false
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Thursday",
+      "time_slot": "Thursday-Fajr",
+      "post_time": "2026-11-12T06:14:20",
+      "post_date": "2026-11-12",
+      "month": "November",
+      "month_num": 11,
+      "year": 2026,
+      "month_year": "November 2026",
+      "content_type": "Mixed",
+      "hadith_book": "Al-Wajeez",
+      "hadith_chapter": "Book of Prayer (Conditions of Salah)",
+      "topic_tags": [
+        "intention",
+        "niyyah",
+        "salah conditions",
+        "islamic jurisprudence",
+        "fiqh",
+        "prayer",
+        "misconceptions",
+        "madhabs"
+      ],
+      "suggested_title": "The Sixth Condition of Salah: Understanding the Intention (Niyyah) Without Misconception",
+      "catchy_title": "Must You Say Your Intention Before Prayer?",
+      "summary": "Sh. Ali Mashhour continues his detailed analysis of the conditions of salah using the book Al-Wajeez. In this session, he addresses the sixth and final condition discussed by the author: intention (niyyah). Sh. Ali Mashhour clarifies a widespread misconception that Muslims must verbally pronounce th"
     }
   ],
-  "updated_at": "2026-11-12T13:59:02.319937+00:00"
+  "updated_at": "2026-11-12T23:57:42.629836+00:00"
 }
