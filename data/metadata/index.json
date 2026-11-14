@@ -38854,6 +38854,23 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "K7uTiKn5V6U",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20261114",
+      "published_at": "2026-11-14T03:10:06Z",
+      "actual_at": "2026-11-14T02:44:58Z",
+      "duration_seconds": 1507,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=K7uTiKn5V6U",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": false,
+      "has_clean_srt": false,
+      "has_clean_txt": false
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -49541,5 +49558,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-11-13T21:41:20.762706+00:00"
+  "updated_at": "2026-11-14T08:00:58.357112+00:00"
 }
