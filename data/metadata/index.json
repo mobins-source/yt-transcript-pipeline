@@ -38756,17 +38756,43 @@
       "title": "Muslim Community Center Of Tucson",
       "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
       "channel_name": "Muslim Comminity Center of Tucson",
-      "upload_date": "20261113",
-      "published_at": "2026-11-13T20:46:38Z",
+      "upload_date": "20261114",
+      "published_at": "2026-11-14T08:51:47Z",
       "actual_at": "2026-11-13T20:01:38Z",
-      "duration_seconds": 2700,
+      "duration_seconds": 2704,
       "view_count": null,
       "url": "https://www.youtube.com/watch?v=CMtndG_IdkU",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": false,
-      "has_clean_srt": false,
-      "has_clean_txt": false
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Zuhr",
+      "day_of_week": "Friday",
+      "time_slot": "Jumaa Khutba",
+      "post_time": "2026-11-13T13:01:38",
+      "post_date": "2026-11-13",
+      "month": "November",
+      "month_num": 11,
+      "year": 2026,
+      "month_year": "November 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Sahih Muslim",
+      "hadith_chapter": "Hadith on good thoughts of Allah at time of death",
+      "topic_tags": [
+        "husn al-dhann",
+        "good thoughts",
+        "hope in allah",
+        "fear of allah",
+        "deathbed",
+        "courage",
+        "trust",
+        "cynicism"
+      ],
+      "suggested_title": "Good Thoughts of Allah: Balance Between Hope and Fear in Faith",
+      "catchy_title": "Why cynicism is cowardice and courage is trusting Allah",
+      "summary": "Sh. Ali Mashhour delivers a khutbah on the Islamic concept of having good thoughts and estimations of Allah (husn al-dhann), drawing from a hadith narrated in Sahih Muslim about the Prophet Muhammad's advice given three days before his death. He illustrates this concept through the story of a dying companion who expressed both hope in Allah's mercy and fear of his own sins, explaining that this balance of hope and fear is the essence of making a good estimate of Allah. Sh. Ali Mashhour emphasizes that this is not about blind optimism but requires tremendous spiritual courage and trust in Allah, and he contrasts this with cynicism and negative thinking, which he describes as products of cowardice and fear rather than truthfulness. The sermon concludes with announcements about the Rahma Academy's growth to 107 enrolled students and a fundraising appeal for Arizona tax credits.",
+      "srt_status": "pending"
     },
     {
       "video_id": "a36cDRNGCsM",
@@ -49558,5 +49584,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-11-14T08:00:58.357112+00:00"
+  "updated_at": "2026-11-14T12:30:37.511201+00:00"
 }
