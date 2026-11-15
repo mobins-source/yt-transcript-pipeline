@@ -39008,6 +39008,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "imyTPUpGELI",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20261115",
+      "published_at": "2026-11-15T13:46:31Z",
+      "actual_at": "2026-11-15T13:15:11Z",
+      "duration_seconds": 922,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=imyTPUpGELI",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Sunday",
+      "time_slot": "Sunday-Fajr",
+      "post_time": "2026-11-15T06:15:11",
+      "post_date": "2026-11-15",
+      "month": "November",
+      "month_num": 11,
+      "year": 2026,
+      "month_year": "November 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Sahih Bukhari",
+      "hadith_chapter": "Description of the Prophet's Prayer",
+      "topic_tags": [
+        "salah",
+        "hadith",
+        "prayer positions",
+        "takbir",
+        "hand placement",
+        "sunnah",
+        "islamic jurisprudence",
+        "fiqh"
+      ],
+      "suggested_title": "The Prophet's Method of Prayer: Hand Positions and Takbir in Salah",
+      "catchy_title": "How did the Prophet truly raise his hands?",
+      "summary": "Sh. Ali Mashhour continues his detailed analysis of the Prophet Muhammad's (peace be upon him) description of prayer, focusing on the physical positions and movements during salah. He explains how the Prophet would raise his hands with takbir, detailing the variations in height (shoulder or ear level) and timing (before, during, or after saying Allahu Akbar), all of which are considered authentic. The lecture then covers the placement of the right hand over the left hand, discussing the various narrations about hand positioning on the body (chest, navel, or below) and concluding that while all these positions have weak individual chains of narration, they collectively demonstrate that multiple positions were practiced, making them all acceptable.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -49695,5 +49738,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-11-15T12:57:47.626439+00:00"
+  "updated_at": "2026-11-15T20:36:31.063476+00:00"
 }
