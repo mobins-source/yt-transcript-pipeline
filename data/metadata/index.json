@@ -39154,6 +39154,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "fNKi4L7THmE",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20261118",
+      "published_at": "2026-11-18T13:40:20Z",
+      "actual_at": "2026-11-18T13:14:58Z",
+      "duration_seconds": 970,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=fNKi4L7THmE",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Wednesday",
+      "time_slot": "Wednesday-Fajr",
+      "post_time": "2026-11-18T06:14:58",
+      "post_date": "2026-11-18",
+      "month": "November",
+      "month_num": 11,
+      "year": 2026,
+      "month_year": "November 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Sahih Bukhari",
+      "hadith_chapter": "Prayer and its description",
+      "topic_tags": [
+        "salah",
+        "sunnah",
+        "quran recitation",
+        "amen",
+        "ittiba",
+        "companions",
+        "prophet's example",
+        "community practice"
+      ],
+      "suggested_title": "The Prophet's Prayer Methodology: Recitation, Congregation, and Implementing the Sunnah",
+      "catchy_title": "Why Real Change Starts With Your Salah",
+      "summary": "Sh. Ali Mashhour continues his detailed explanation of the Prophet Muhammad's (peace be upon him) prayer methodology, focusing on the recitation of Surah Al-Fatihah and the subsequent chapter in salah. He discusses how the Prophet would recite verses separately, the importance of saying 'Amen' in congregation, and how the companions would implement these practices with such dedication that they treated every sunnah with the seriousness of a pillar. Sh. Ali Mashhour emphasizes that true change in the Muslim community comes not from social media or government action, but from genuine personal transformation and consistent implementation of the Prophet's practices within families and communities. He illustrates this with examples of how some sunnahs became so standardized across different Muslim groups that they remain unquestioned, while others like praying behind a sutra have been largely forgotten despite their importance.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -49841,5 +49884,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-11-17T23:11:23.334025+00:00"
+  "updated_at": "2026-11-18T14:33:43.056155+00:00"
 }
