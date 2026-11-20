@@ -39283,6 +39283,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "yAS8Dz4xzDQ",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20261120",
+      "published_at": "2026-11-20T13:33:36Z",
+      "actual_at": "2026-11-20T13:12:15Z",
+      "duration_seconds": 944,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=yAS8Dz4xzDQ",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Friday",
+      "time_slot": "Friday-Fajr",
+      "post_time": "2026-11-20T06:12:15",
+      "post_date": "2026-11-20",
+      "month": "November",
+      "month_num": 11,
+      "year": 2026,
+      "month_year": "November 2026",
+      "content_type": "General",
+      "hadith_book": null,
+      "hadith_chapter": null,
+      "topic_tags": [
+        "salah",
+        "prayer methodology",
+        "imam",
+        "qiyam",
+        "sunnah practice",
+        "moments of silence",
+        "islamic jurisprudence",
+        "prayer etiquette"
+      ],
+      "suggested_title": "Understanding the Three Silences in Prayer: Proper Timing and Purpose According to Sunnah",
+      "catchy_title": "Why Does Your Imam Pause During Prayer?",
+      "summary": "Sh. Ali Mashhour continues his detailed explanation of the Prophet Muhammad's prayer methodology, focusing on the three moments of silence during the standing position (qiyam) in prayer. He explains the purpose of each silence: the first is for opening supplications, the second distinguishes between Surah Al-Fatihah and subsequent surahs, and the third allows the imam to catch their breath before going into ruku (bowing). Sh. Ali Mashhour emphasizes that these silences should be brief, lasting only a few seconds at most, and discusses the common mistakes of making them excessively long or omitting them entirely.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -49970,5 +50013,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-11-19T22:46:36.183552+00:00"
+  "updated_at": "2026-11-20T14:21:51.606977+00:00"
 }
