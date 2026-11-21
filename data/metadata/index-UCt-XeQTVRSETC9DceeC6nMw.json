@@ -34598,13 +34598,38 @@
       "title": "Muslim Community Center Of Tucson",
       "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
       "actual_at": "2026-11-20T20:01:06Z",
-      "duration_seconds": 2729,
+      "duration_seconds": 2732,
       "url": "https://www.youtube.com/watch?v=31UotBAehxk",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": false,
-      "has_clean_srt": false,
-      "has_clean_txt": false
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Zuhr",
+      "day_of_week": "Friday",
+      "time_slot": "Jumaa Khutba",
+      "post_time": "2026-11-20T13:01:06",
+      "post_date": "2026-11-20",
+      "month": "November",
+      "month_num": 11,
+      "year": 2026,
+      "month_year": "November 2026",
+      "content_type": "General",
+      "hadith_book": null,
+      "hadith_chapter": null,
+      "topic_tags": [
+        "intention",
+        "hereafter",
+        "priorities",
+        "heart",
+        "islamic ethics",
+        "dunya",
+        "commitment",
+        "spiritual development"
+      ],
+      "suggested_title": "The One Heart: Choosing Between This Life and the Hereafter",
+      "catchy_title": "One Heart, Two Lives: Which Will You Choose?",
+      "summary": "Sh. Ali Mashhour delivers a profound lecture on the Islamic principle that Allah has given each person only one heart, emphasizing the spiritual and practical implications of this reality. He explains that the heart is the seat of intention, morality, and true understanding—distinct from the brain's"
     },
     {
       "video_id": "0CuwslKAcNE",
@@ -34618,7 +34643,20 @@
       "has_transcript": false,
       "has_clean_srt": false,
       "has_clean_txt": false
+    },
+    {
+      "video_id": "stqlHsO6Xhc",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "actual_at": "2026-11-21T13:29:10Z",
+      "duration_seconds": 0,
+      "url": "https://www.youtube.com/watch?v=stqlHsO6Xhc",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": false,
+      "has_clean_srt": false,
+      "has_clean_txt": false
     }
   ],
-  "updated_at": "2026-11-21T08:46:24.014664+00:00"
+  "updated_at": "2026-11-21T13:43:07.232897+00:00"
 }
