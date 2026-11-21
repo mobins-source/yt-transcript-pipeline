@@ -34636,20 +34636,45 @@
       "title": "Muslim Community Center Of Tucson",
       "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
       "actual_at": "2026-11-21T02:45:52Z",
-      "duration_seconds": 1994,
+      "duration_seconds": 2001,
       "url": "https://www.youtube.com/watch?v=0CuwslKAcNE",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": false,
-      "has_clean_srt": false,
-      "has_clean_txt": false
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Isha",
+      "day_of_week": "Friday",
+      "time_slot": "Friday-Isha",
+      "post_time": "2026-11-20T19:45:52",
+      "post_date": "2026-11-20",
+      "month": "November",
+      "month_num": 11,
+      "year": 2026,
+      "month_year": "November 2026",
+      "content_type": "General",
+      "hadith_book": null,
+      "hadith_chapter": null,
+      "topic_tags": [
+        "salah",
+        "prayer requirements",
+        "Islamic clothing",
+        "awrah",
+        "Islamic law",
+        "children education",
+        "fiqh",
+        "modesty"
+      ],
+      "suggested_title": "The Clothing Requirements and Conditions for Valid Prayer (Salah)",
+      "catchy_title": "What Must You Wear to Pray?",
+      "summary": "Sh. Ali Mashhour delivers an interactive Islamic educational session to children at the Muslim Community Center of Tucson, focusing on the conditions and requirements for valid prayer (Salah). He covers the fundamental clothing requirements for both boys and girls during prayer, emphasizing that gar"
     },
     {
       "video_id": "stqlHsO6Xhc",
       "title": "Muslim Community Center Of Tucson",
       "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
       "actual_at": "2026-11-21T13:29:10Z",
-      "duration_seconds": 0,
+      "duration_seconds": 3943,
       "url": "https://www.youtube.com/watch?v=stqlHsO6Xhc",
       "playlist_id": "",
       "playlist_title": "",
@@ -34658,5 +34683,5 @@
       "has_clean_txt": false
     }
   ],
-  "updated_at": "2026-11-21T13:43:07.232897+00:00"
+  "updated_at": "2026-11-21T21:13:22.469466+00:00"
 }
