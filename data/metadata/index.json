@@ -39459,16 +39459,42 @@
       "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
       "channel_name": "Muslim Comminity Center of Tucson",
       "upload_date": "20261122",
-      "published_at": "2026-11-22T13:29:38Z",
+      "published_at": "2026-11-22T13:50:52Z",
       "actual_at": "2026-11-22T13:29:38Z",
-      "duration_seconds": 0,
+      "duration_seconds": 987,
       "view_count": null,
       "url": "https://www.youtube.com/watch?v=sVa8aM3gB0Y",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": false,
-      "has_clean_srt": false,
-      "has_clean_txt": false
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Sunday",
+      "time_slot": "Sunday-Fajr",
+      "post_time": "2026-11-22T06:29:38",
+      "post_date": "2026-11-22",
+      "month": "November",
+      "month_num": 11,
+      "year": 2026,
+      "month_year": "November 2026",
+      "content_type": "General",
+      "hadith_book": null,
+      "hadith_chapter": null,
+      "topic_tags": [
+        "salah",
+        "prayer positions",
+        "ruku",
+        "imam",
+        "sunnah",
+        "takbir",
+        "community education",
+        "prayer etiquette"
+      ],
+      "suggested_title": "The Proper Form of Ruku and Following the Imam in Prayer",
+      "catchy_title": "Why Going Ahead of Your Imam Breaks Your Prayer",
+      "summary": "Sh. Ali Mashhour continues his detailed discussion on the proper positions and movements during Islamic prayer (salah). He explains the takbir (saying 'Allahu Akbar') during transitions between prayer positions, emphasizing it must occur during movement and not while standing or bowing. Sh. Ali Mashhour addresses the serious issue of followers going ahead of the imam in prayer, clarifying that this invalidates one's prayer and requires genuine understanding of this obligation. He discusses how the Sunnah spreads through community education, with each person teaching their family and those around them about proper prayer etiquette. The lecture then provides detailed descriptions of the proper form during ruku (bowing), including hand placement on knees, arm positioning, back straightness, foot placement, and eye direction, noting how certain practices were abrogated over time.",
+      "srt_status": "pending"
     },
     {
       "video_id": "yc1saIkvnSA",
@@ -50201,5 +50227,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-11-22T13:37:21.525844+00:00"
+  "updated_at": "2026-11-22T21:19:07.661421+00:00"
 }
