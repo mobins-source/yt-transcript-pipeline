@@ -39626,6 +39626,49 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "OdmHhAXqBZc",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20261124",
+      "published_at": "2026-11-24T13:49:50Z",
+      "actual_at": "2026-11-24T13:28:52Z",
+      "duration_seconds": 802,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=OdmHhAXqBZc",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Tuesday",
+      "time_slot": "Tuesday-Fajr",
+      "post_time": "2026-11-24T06:28:52",
+      "post_date": "2026-11-24",
+      "month": "November",
+      "month_num": 11,
+      "year": 2026,
+      "month_year": "November 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Sahih Bukhari",
+      "hadith_chapter": null,
+      "topic_tags": [
+        "salah",
+        "ruku",
+        "tahmeen",
+        "hand raising",
+        "sunnah",
+        "prayer etiquette",
+        "innovation in worship",
+        "traditional practice"
+      ],
+      "suggested_title": "The Proper Way to Rise from Ruku' and Common Prayer Mistakes",
+      "catchy_title": "How Did the Sunnah Get Distorted?",
+      "summary": "Sh. Ali Mashhour provides detailed instruction on the proper execution of movements and recitations during salah, specifically focusing on the transition from ruku' (bowing) to the standing position. He emphasizes the correct timing and placement of 'Allahumma rabbana wa laka al-hamd' (the tahmeen), explaining that it should be recited during the rising from ruku', not while standing, and that raising hands should occur upon reaching the standing position. Sh. Ali Mashhour addresses common misconceptions where these practices have become distorted over generations through well-intentioned but unauthorized innovations, using examples of how small deviations can compound over time.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -50313,5 +50356,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-11-24T02:36:21.671359+00:00"
+  "updated_at": "2026-11-24T16:25:15.631410+00:00"
 }
