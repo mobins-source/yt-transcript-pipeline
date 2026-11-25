@@ -39669,6 +39669,48 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "FgRROjDd_7Q",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20261125",
+      "published_at": "2026-11-25T13:47:49Z",
+      "actual_at": "2026-11-25T13:28:23Z",
+      "duration_seconds": 686,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=FgRROjDd_7Q",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Wednesday",
+      "time_slot": "Wednesday-Fajr",
+      "post_time": "2026-11-25T06:28:23",
+      "post_date": "2026-11-25",
+      "month": "November",
+      "month_num": 11,
+      "year": 2026,
+      "month_year": "November 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Al-Wajeez",
+      "hadith_chapter": "Prayer movements and positions",
+      "topic_tags": [
+        "prayer",
+        "salah",
+        "prostration",
+        "bowing",
+        "fiqh",
+        "sunnah",
+        "supplications"
+      ],
+      "suggested_title": "The Proper Form of Rising from Bowing and Entering Prostration in Prayer",
+      "catchy_title": "Seven Bones of Prostration: What Does the Sunnah Say?",
+      "summary": "Sh. Ali Mashhour provides a detailed fiqh analysis of the proper form and movements during the standing position after bowing (ruku') in Islamic prayer, based on Al-Wajiz fi Fiqh al-Sunnah wal-Kitab al-Aziz. He explains the prescribed supplications including 'Sami'a Allahu liman hamidah' and 'Rabbana wa lakal-hamd,' clarifying which portions are mandatory and which are recommended, with variations all authenticated in the Sahih collections. Sh. Ali Mashhour then addresses the proper technique for entering prostration, discussing the scholarly disagreement on whether hands or knees should touch the ground first, while emphasizing that descent should always be composed and dignified, never like a camel's descent. He concludes with the hadith regarding the seven bones upon which prostration should be performed: the forehead, nose, hands, knees, and tips of the toes.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -50356,5 +50398,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-11-25T00:09:03.204765+00:00"
+  "updated_at": "2026-11-25T16:04:27.262647+00:00"
 }
