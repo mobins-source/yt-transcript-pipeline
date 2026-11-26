@@ -39711,6 +39711,66 @@
       "srt_status": "pending"
     },
     {
+      "video_id": "t23_OEXwpOc",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20261126",
+      "published_at": "2026-11-26T13:43:27Z",
+      "actual_at": "2026-11-26T13:28:32Z",
+      "duration_seconds": 576,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=t23_OEXwpOc",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": false,
+      "has_clean_srt": false,
+      "has_clean_txt": false
+    },
+    {
+      "video_id": "iSUVukvsFNM",
+      "title": "Muslim Community Center Of Tucson",
+      "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
+      "channel_name": "Muslim Comminity Center of Tucson",
+      "upload_date": "20261126",
+      "published_at": "2026-11-26T02:56:00Z",
+      "actual_at": "2026-11-26T02:43:36Z",
+      "duration_seconds": 420,
+      "view_count": null,
+      "url": "https://www.youtube.com/watch?v=iSUVukvsFNM",
+      "playlist_id": "",
+      "playlist_title": "",
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Isha",
+      "day_of_week": "Wednesday",
+      "time_slot": "Wednesday-Isha",
+      "post_time": "2026-11-25T19:43:36",
+      "post_date": "2026-11-25",
+      "month": "November",
+      "month_num": 11,
+      "year": 2026,
+      "month_year": "November 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Other",
+      "hadith_chapter": null,
+      "topic_tags": [
+        "paradise",
+        "afterlife",
+        "beatific vision",
+        "seeing allah",
+        "hadith",
+        "islamic teachings",
+        "reward for believers",
+        "jannah"
+      ],
+      "suggested_title": "The Greatest Blessing of Paradise: The Vision of Allah",
+      "catchy_title": "What Makes Paradise Complete?",
+      "summary": "Sh. Ali Mashhour delivers a profound lecture on the final chapter of a text regarding what Allah has prepared for believers in paradise. He emphasizes that paradise is within reach for all Muslims regardless of past sins, as believers will be judged based on their current state when they meet Allah. The core of his message centers on the greatest reward of paradise: the vision of Allah (Beatific Vision). Sh. Ali Mashhour shares the hadith of Jarir ibn Abdullah describing how believers will see Allah in paradise just as clearly as one sees the full moon, and emphasizes through the Prophet's dialogue that nothing in paradise—no matter how wondrous—compares to the bliss of seeing Allah's face.",
+      "srt_status": "pending"
+    },
+    {
       "video_id": "-JCfAqCl2iw",
       "title": "Intro to Provisions for the Hereafter: What Will You Take With You When You Die?",
       "channel_id": "UCXQm5nWl_fhxQwgHnRsPZPg",
@@ -50398,5 +50458,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-11-25T23:48:40.942795+00:00"
+  "updated_at": "2026-11-26T15:47:21.433292+00:00"
 }
