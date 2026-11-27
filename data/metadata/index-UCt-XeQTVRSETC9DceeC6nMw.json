@@ -34942,9 +34942,33 @@
       "url": "https://www.youtube.com/watch?v=t23_OEXwpOc",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": false,
-      "has_clean_srt": false,
-      "has_clean_txt": false
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Fajr",
+      "day_of_week": "Thursday",
+      "time_slot": "Thursday-Fajr",
+      "post_time": "2026-11-26T06:28:32",
+      "post_date": "2026-11-26",
+      "month": "November",
+      "month_num": 11,
+      "year": 2026,
+      "month_year": "November 2026",
+      "content_type": "Hadith",
+      "hadith_book": "Other",
+      "hadith_chapter": null,
+      "topic_tags": [
+        "prostration",
+        "sujud",
+        "prayer technique",
+        "Qiblah",
+        "Islamic practice",
+        "humility",
+        "face in sujud"
+      ],
+      "suggested_title": "The Proper Technique of Prostration in Prayer",
+      "catchy_title": "How Should Your Face Touch the Ground in Sujud?",
+      "summary": "Sh. Ali Mashhour provides detailed guidance on the proper technique of prostration (sujud) in Islamic prayer. He explains that during prostration, the worshipper should lean on the palms with fingers spread and directed toward the Qiblah, place the hands level with either the shoulders or ears, and "
     },
     {
       "video_id": "iSUVukvsFNM",
@@ -34985,5 +35009,5 @@
       "summary": "Sh. Ali Mashhour delivers a profound lecture on the final chapter of a text regarding what Allah has prepared for believers in paradise. He emphasizes that paradise is within reach for all Muslims regardless of past sins, as believers will be judged based on their current state when they meet Allah."
     }
   ],
-  "updated_at": "2026-11-26T15:47:20.719669+00:00"
+  "updated_at": "2026-11-27T00:04:18.857297+00:00"
 }
