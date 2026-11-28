@@ -35089,14 +35089,39 @@
       "title": "Muslim Community Center Of Tucson",
       "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
       "actual_at": "2026-11-27T20:01:25Z",
-      "duration_seconds": 2413,
+      "duration_seconds": 2417,
       "url": "https://www.youtube.com/watch?v=t7irO9prujE",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": false,
-      "has_clean_srt": false,
-      "has_clean_txt": false
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Zuhr",
+      "day_of_week": "Friday",
+      "time_slot": "Jumaa Khutba",
+      "post_time": "2026-11-27T13:01:25",
+      "post_date": "2026-11-27",
+      "month": "November",
+      "month_num": 11,
+      "year": 2026,
+      "month_year": "November 2026",
+      "content_type": "Quran",
+      "hadith_book": "Sahih Bukhari",
+      "hadith_chapter": null,
+      "topic_tags": [
+        "surah ali imran",
+        "following the sunnah",
+        "allah's love",
+        "bid'ah innovation",
+        "prophetic traditions",
+        "religious obedience",
+        "battle of uhud",
+        "najran delegation"
+      ],
+      "suggested_title": "Following the Sunnah: The Path to Allah's Love and Protection from Innovation",
+      "catchy_title": "How Do We Earn Allah's Love?",
+      "summary": "Sh. Ali Mashhour delivers a sermon analyzing Surah Ali Imran, specifically verse 31 which states: 'Say, if you love Allah, then follow me and Allah will love you and forgive you your sins.' Sh. Ali Mashhour contextualizes this verse within two major historical events: the delegation of Christians fr"
     }
   ],
-  "updated_at": "2026-11-27T23:46:09.403601+00:00"
+  "updated_at": "2026-11-28T09:27:48.095176+00:00"
 }

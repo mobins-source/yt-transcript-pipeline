@@ -39886,17 +39886,43 @@
       "title": "Muslim Community Center Of Tucson",
       "channel_id": "UCt-XeQTVRSETC9DceeC6nMw",
       "channel_name": "Muslim Comminity Center of Tucson",
-      "upload_date": "20261127",
-      "published_at": "2026-11-27T20:41:38Z",
+      "upload_date": "20261128",
+      "published_at": "2026-11-28T09:11:24Z",
       "actual_at": "2026-11-27T20:01:25Z",
-      "duration_seconds": 2413,
+      "duration_seconds": 2417,
       "view_count": null,
       "url": "https://www.youtube.com/watch?v=t7irO9prujE",
       "playlist_id": "",
       "playlist_title": "",
-      "has_transcript": false,
-      "has_clean_srt": false,
-      "has_clean_txt": false
+      "has_transcript": true,
+      "has_clean_srt": true,
+      "has_clean_txt": true,
+      "time_of_day": "Zuhr",
+      "day_of_week": "Friday",
+      "time_slot": "Jumaa Khutba",
+      "post_time": "2026-11-27T13:01:25",
+      "post_date": "2026-11-27",
+      "month": "November",
+      "month_num": 11,
+      "year": 2026,
+      "month_year": "November 2026",
+      "content_type": "Quran",
+      "hadith_book": "Sahih Bukhari",
+      "hadith_chapter": null,
+      "topic_tags": [
+        "surah ali imran",
+        "following the sunnah",
+        "allah's love",
+        "bid'ah innovation",
+        "prophetic traditions",
+        "religious obedience",
+        "battle of uhud",
+        "najran delegation"
+      ],
+      "suggested_title": "Following the Sunnah: The Path to Allah's Love and Protection from Innovation",
+      "catchy_title": "How Do We Earn Allah's Love?",
+      "summary": "Sh. Ali Mashhour delivers a sermon analyzing Surah Ali Imran, specifically verse 31 which states: 'Say, if you love Allah, then follow me and Allah will love you and forgive you your sins.' Sh. Ali Mashhour contextualizes this verse within two major historical events: the delegation of Christians from Najran who came to debate the Prophet, and the Battle of Uhud where Muslim disobedience led to defeat. He emphasizes that following the Sunnah of Prophet Muhammad is the path to achieving Allah's love and forgiveness, and warns extensively against religious innovations (bid'ah). Sh. Ali Mashhour illustrates how small changes accumulated over time have distorted other religions, making the preservation of Islamic teachings without alteration a critical obligation.",
+      "srt_status": "pending"
     },
     {
       "video_id": "-JCfAqCl2iw",
@@ -50586,5 +50612,5 @@
       "srt_status": "pending"
     }
   ],
-  "updated_at": "2026-11-27T23:46:10.425298+00:00"
+  "updated_at": "2026-11-28T09:27:48.886135+00:00"
 }
